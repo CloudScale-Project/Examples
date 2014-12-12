@@ -1,0 +1,1 @@
+StaticSpotter examples
