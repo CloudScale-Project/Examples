@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usagemodel:UsageModel xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:usagemodel="http://sdq.ipd.uka.de/PalladioComponentModel/UsageModel/5.0">
+  <usageScenario_UsageModel id="_1kc80CwxEeS54tgpuWlHKQ" entityName="defaultUsageScenario">
+    <scenarioBehaviour_UsageScenario id="_1kc80SwxEeS54tgpuWlHKQ" entityName="defaultUsageScenarioBehaviour">
+      <actions_ScenarioBehaviour xsi:type="usagemodel:Start" id="_1kc80iwxEeS54tgpuWlHKQ" successor="_VGeCACxGEeS54tgpuWlHKQ"/>
+      <actions_ScenarioBehaviour xsi:type="usagemodel:Stop" id="_1kc80ywxEeS54tgpuWlHKQ" predecessor="_VGeCACxGEeS54tgpuWlHKQ"/>
+      <actions_ScenarioBehaviour xsi:type="usagemodel:EntryLevelSystemCall" id="_VGeCACxGEeS54tgpuWlHKQ" successor="_1kc80ywxEeS54tgpuWlHKQ" predecessor="_1kc80iwxEeS54tgpuWlHKQ">
+        <providedRole_EntryLevelSystemCall href="default.system#_mFLNsDPKEeKpJ5Vk750Z4Q"/>
+        <operationSignature__EntryLevelSystemCall href="default.repository#_ycwyQDPGEeKpJ5Vk750Z4Q"/>
+      </actions_ScenarioBehaviour>
+    </scenarioBehaviour_UsageScenario>
+    <workload_UsageScenario xsi:type="usagemodel:ClosedWorkload" population="1">
+      <thinkTime_ClosedWorkload specification="10.0"/>
+    </workload_UsageScenario>
+  </usageScenario_UsageModel>
+</usagemodel:UsageModel>

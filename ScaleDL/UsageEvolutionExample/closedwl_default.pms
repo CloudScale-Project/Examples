@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pms:PMSModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:pcmmeasuringpoint="http://palladiosimulator.org/PCM/MeasuringPoint/1.0" xmlns:pms="http://simulizar.palladiosimulator.org/PalladioMonitoringSpecification/1.0" guid="_sRK5wC6FEeSOjNzUFmpFjw">
+  <performanceMeasurements guid="_s4A3UC6FEeSOjNzUFmpFjw" measuringPoint="pcmmeasuringpoint:UsageScenarioMeasuringPoint closedwl_usage_scenario_default.pcmmeasuringpoint#/">
+    <measurementSpecification guid="_wesDEC6FEeSOjNzUFmpFjw" performanceMetric="ResponseTime" statisticalCharacterization="ArithmeticMean">
+      <temporalRestriction xsi:type="pms:Intervall" guid="_6z_qAC6FEeSOjNzUFmpFjw" intervall="10.0"/>
+    </measurementSpecification>
+  </performanceMeasurements>
+</pms:PMSModel>

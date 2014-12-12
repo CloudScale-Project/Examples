@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usageevolution:UsageEvolution xmlns:identifier="http://sdq.ipd.uka.de/Identifier/2.1" xmlns:usageevolution="http://usageevolution/1.0" identifier:id="_5DN10CxJEeS54tgpuWlHKQ" entityName="Closed workload evolution">
+  <usages identifier:id="_7hLtECxJEeS54tgpuWlHKQ" entityName="Initial evolution" loadEvolution="closedwl_default.dlim#/" scenario="default_closed.usagemodel#_1kc80CwxEeS54tgpuWlHKQ"/>
+</usageevolution:UsageEvolution>

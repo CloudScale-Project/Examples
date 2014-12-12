@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usagemodel:UsageModel xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:stoex="http://sdq.ipd.uka.de/StochasticExpressions/1.0" xmlns:usagemodel="http://sdq.ipd.uka.de/PalladioComponentModel/UsageModel/5.0">
+  <usageScenario_UsageModel id="_u5wzUDPLEeKpJ5Vk750Z4Q" entityName="defaultUsageScenario">
+    <scenarioBehaviour_UsageScenario id="_u5xaYDPLEeKpJ5Vk750Z4Q" entityName="defaultUsageScenarioBehaviour">
+      <actions_ScenarioBehaviour xsi:type="usagemodel:Start" id="_u5yBcDPLEeKpJ5Vk750Z4Q" successor="_3s7SEDPLEeKpJ5Vk750Z4Q"/>
+      <actions_ScenarioBehaviour xsi:type="usagemodel:Stop" id="_u5yogDPLEeKpJ5Vk750Z4Q" predecessor="_3s7SEDPLEeKpJ5Vk750Z4Q"/>
+      <actions_ScenarioBehaviour xsi:type="usagemodel:EntryLevelSystemCall" id="_3s7SEDPLEeKpJ5Vk750Z4Q" successor="_u5yogDPLEeKpJ5Vk750Z4Q" predecessor="_u5yBcDPLEeKpJ5Vk750Z4Q">
+        <providedRole_EntryLevelSystemCall href="default.system#_mFLNsDPKEeKpJ5Vk750Z4Q"/>
+        <operationSignature__EntryLevelSystemCall href="default.repository#_ycwyQDPGEeKpJ5Vk750Z4Q"/>
+        <inputParameterUsages_EntryLevelSystemCall>
+          <variableCharacterisation_VariableUsage type="BYTESIZE">
+            <specification_VariableCharacterisation specification="IntPMF[ (10;0.3) (100;0.2) (100000;0.5) ]"/>
+          </variableCharacterisation_VariableUsage>
+          <namedReference__VariableUsage xsi:type="stoex:VariableReference" referenceName="name"/>
+        </inputParameterUsages_EntryLevelSystemCall>
+      </actions_ScenarioBehaviour>
+      <actions_ScenarioBehaviour xsi:type="usagemodel:Branch" id="_NugFINTpEeKFz-1EPw5_7A"/>
+    </scenarioBehaviour_UsageScenario>
+    <workload_UsageScenario xsi:type="usagemodel:ClosedWorkload" population="3">
+      <thinkTime_ClosedWorkload specification="10"/>
+    </workload_UsageScenario>
+  </usageScenario_UsageModel>
+</usagemodel:UsageModel>

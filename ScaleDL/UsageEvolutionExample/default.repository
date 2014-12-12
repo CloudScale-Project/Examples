@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<repository:Repository xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:repository="http://sdq.ipd.uka.de/PalladioComponentModel/Repository/5.0" xmlns:seff="http://sdq.ipd.uka.de/PalladioComponentModel/SEFF/5.0" id="_ky8GkDPGEeKpJ5Vk750Z4Q" entityName="defaultRepository">
+  <components__Repository xsi:type="repository:BasicComponent" id="_n9BAcDPHEeKpJ5Vk750Z4Q" entityName="Web">
+    <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="_yN1I8DPHEeKpJ5Vk750Z4Q" entityName="Provided_IWeb_Web" providedInterface__OperationProvidedRole="_tot0cDPGEeKpJ5Vk750Z4Q"/>
+    <requiredRoles_InterfaceRequiringEntity xsi:type="repository:OperationRequiredRole" id="_4Y_qsDPHEeKpJ5Vk750Z4Q" entityName="Required_iDataBase_Web" requiredInterface__OperationRequiredRole="_QG7VEDPHEeKpJ5Vk750Z4Q"/>
+    <serviceEffectSpecifications__BasicComponent xsi:type="seff:ResourceDemandingSEFF" id="_yN1wADPHEeKpJ5Vk750Z4Q" describedService__SEFF="_ycwyQDPGEeKpJ5Vk750Z4Q">
+      <steps_Behaviour xsi:type="seff:StartAction" id="_yN2XEDPHEeKpJ5Vk750Z4Q" entityName="start" successor_AbstractAction="_kXrmkDPJEeKpJ5Vk750Z4Q"/>
+      <steps_Behaviour xsi:type="seff:StopAction" id="_yN2XETPHEeKpJ5Vk750Z4Q" entityName="stop" predecessor_AbstractAction="_kXrmkDPJEeKpJ5Vk750Z4Q"/>
+      <steps_Behaviour xsi:type="seff:ExternalCallAction" id="_kXrmkDPJEeKpJ5Vk750Z4Q" predecessor_AbstractAction="_yN2XEDPHEeKpJ5Vk750Z4Q" successor_AbstractAction="_yN2XETPHEeKpJ5Vk750Z4Q" calledService_ExternalService="_SRz4QDPHEeKpJ5Vk750Z4Q" role_ExternalService="_4Y_qsDPHEeKpJ5Vk750Z4Q"/>
+    </serviceEffectSpecifications__BasicComponent>
+  </components__Repository>
+  <components__Repository xsi:type="repository:BasicComponent" id="_pRs7cDPHEeKpJ5Vk750Z4Q" entityName="Database">
+    <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="_w0q9oDPHEeKpJ5Vk750Z4Q" entityName="Provided_iDataBase_Database" providedInterface__OperationProvidedRole="_QG7VEDPHEeKpJ5Vk750Z4Q"/>
+    <serviceEffectSpecifications__BasicComponent xsi:type="seff:ResourceDemandingSEFF" id="_w0uA8DPHEeKpJ5Vk750Z4Q" describedService__SEFF="_SRz4QDPHEeKpJ5Vk750Z4Q">
+      <steps_Behaviour xsi:type="seff:StartAction" id="_w0vPEDPHEeKpJ5Vk750Z4Q" entityName="start" successor_AbstractAction="_TcLkMDPIEeKpJ5Vk750Z4Q"/>
+      <steps_Behaviour xsi:type="seff:StopAction" id="_w0v2IDPHEeKpJ5Vk750Z4Q" entityName="stop" predecessor_AbstractAction="_TcLkMDPIEeKpJ5Vk750Z4Q"/>
+      <steps_Behaviour xsi:type="seff:InternalAction" id="_TcLkMDPIEeKpJ5Vk750Z4Q" entityName="storeInternally" predecessor_AbstractAction="_w0vPEDPHEeKpJ5Vk750Z4Q" successor_AbstractAction="_w0v2IDPHEeKpJ5Vk750Z4Q">
+        <resourceDemand_Action>
+          <specification_ParametericResourceDemand specification="DoublePMF[(10;0.3)(20;0.4)(30;0.3)]"/>
+          <requiredResource_ParametricResourceDemand href="pathmap://PCM_MODELS/Palladio.resourcetype#_oro4gG3fEdy4YaaT-RYrLQ"/>
+        </resourceDemand_Action>
+        <resourceDemand_Action>
+          <specification_ParametericResourceDemand specification="100"/>
+          <requiredResource_ParametricResourceDemand href="pathmap://PCM_MODELS/Palladio.resourcetype#_BIjHoQ3KEdyouMqirZIhzQ"/>
+        </resourceDemand_Action>
+      </steps_Behaviour>
+    </serviceEffectSpecifications__BasicComponent>
+  </components__Repository>
+  <interfaces__Repository xsi:type="repository:OperationInterface" id="_tot0cDPGEeKpJ5Vk750Z4Q" entityName="IWeb">
+    <signatures__OperationInterface id="_ycwyQDPGEeKpJ5Vk750Z4Q" entityName="submit">
+      <parameters__OperationSignature parameterName="name">
+        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="pathmap://PCM_MODELS/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
+      </parameters__OperationSignature>
+      <parameters__OperationSignature parameterName="forename">
+        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="pathmap://PCM_MODELS/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
+      </parameters__OperationSignature>
+    </signatures__OperationInterface>
+  </interfaces__Repository>
+  <interfaces__Repository xsi:type="repository:OperationInterface" id="_QG7VEDPHEeKpJ5Vk750Z4Q" entityName="iDataBase">
+    <signatures__OperationInterface id="_SRz4QDPHEeKpJ5Vk750Z4Q" entityName="store">
+      <parameters__OperationSignature parameterName="name">
+        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="pathmap://PCM_MODELS/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
+      </parameters__OperationSignature>
+      <parameters__OperationSignature parameterName="forname">
+        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="pathmap://PCM_MODELS/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
+      </parameters__OperationSignature>
+    </signatures__OperationInterface>
+  </interfaces__Repository>
+</repository:Repository>

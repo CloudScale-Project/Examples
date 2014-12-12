@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<system:System xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:composition="http://sdq.ipd.uka.de/PalladioComponentModel/Core/Composition/5.0" xmlns:repository="http://sdq.ipd.uka.de/PalladioComponentModel/Repository/5.0" xmlns:system="http://sdq.ipd.uka.de/PalladioComponentModel/System/5.0" id="_42DIMDPJEeKpJ5Vk750Z4Q" entityName="defaultSystem">
+  <assemblyContexts__ComposedStructure id="_8h2EgDPJEeKpJ5Vk750Z4Q" entityName="Assembly_Web &lt;Web>">
+    <encapsulatedComponent__AssemblyContext xsi:type="repository:BasicComponent" href="default.repository#_n9BAcDPHEeKpJ5Vk750Z4Q"/>
+  </assemblyContexts__ComposedStructure>
+  <assemblyContexts__ComposedStructure id="_MWtEYDPKEeKpJ5Vk750Z4Q" entityName="Assembly_Database &lt;Database>">
+    <encapsulatedComponent__AssemblyContext xsi:type="repository:BasicComponent" href="default.repository#_pRs7cDPHEeKpJ5Vk750Z4Q"/>
+  </assemblyContexts__ComposedStructure>
+  <connectors__ComposedStructure xsi:type="composition:AssemblyConnector" id="_YBxkYDPKEeKpJ5Vk750Z4Q" entityName="Connector Assembly_Web &lt;Web> -> Assembly_Database &lt;Database>" requiringAssemblyContext_AssemblyConnector="_8h2EgDPJEeKpJ5Vk750Z4Q" providingAssemblyContext_AssemblyConnector="_MWtEYDPKEeKpJ5Vk750Z4Q">
+    <providedRole_AssemblyConnector href="default.repository#_w0q9oDPHEeKpJ5Vk750Z4Q"/>
+    <requiredRole_AssemblyConnector href="default.repository#_4Y_qsDPHEeKpJ5Vk750Z4Q"/>
+  </connectors__ComposedStructure>
+  <connectors__ComposedStructure xsi:type="composition:ProvidedDelegationConnector" id="_sz2FIDPKEeKpJ5Vk750Z4Q" entityName="ProvDelegation Provided_IWeb -> Provided_IWeb_Web" outerProvidedRole_ProvidedDelegationConnector="_mFLNsDPKEeKpJ5Vk750Z4Q" assemblyContext_ProvidedDelegationConnector="_8h2EgDPJEeKpJ5Vk750Z4Q">
+    <innerProvidedRole_ProvidedDelegationConnector href="default.repository#_yN1I8DPHEeKpJ5Vk750Z4Q"/>
+  </connectors__ComposedStructure>
+  <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="_mFLNsDPKEeKpJ5Vk750Z4Q" entityName="Provided_IWeb">
+    <providedInterface__OperationProvidedRole href="default.repository#_tot0cDPGEeKpJ5Vk750Z4Q"/>
+  </providedRoles_InterfaceProvidingEntity>
+</system:System>
