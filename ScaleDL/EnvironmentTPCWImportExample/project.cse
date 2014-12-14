@@ -1,0 +1,15 @@
+#
+#Sun Dec 14 00:55:14 CET 2014
+scaledl-overview-model=ScaleDL models/tpcw.sdlo
+scaledl-folder=ScaleDL models
+configuration-folder=Configuration
+input-folder=\ Input
+generated-folder=Generated models
+extractor-folder=\ Extractor
+scaledl-overview-diagram=ScaleDL models/tpcw.sdlo_diagram
+project.method_new=method.workflow
+dynamicspotter-folder=\ Dynamic Spotter
+results-folder=Results
+staticspotter-folder=\ Static Spotter
+analyser-folder=\ Analyser
+scaledl-usageevolution-folder=Usage Evolution

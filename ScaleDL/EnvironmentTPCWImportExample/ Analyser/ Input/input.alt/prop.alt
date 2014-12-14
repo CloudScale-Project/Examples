@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment/>
+<entry key="path_usage">../../../../40_PCM_from_servlets_project/usagescenarios/BrowsingMix.usagemodel</entry>
+<entry key="name">tpcw-input</entry>
+<entry key="path_system">../../../../40_PCM_from_servlets_project/tpcw.system</entry>
+<entry key="path_repository">../../../../40_PCM_from_servlets_project/tpcw.repository</entry>
+<entry key="path_allocation">../../../../40_PCM_from_servlets_project/tpcw.allocation</entry>
+<entry key="path_resourceenvironment">../../../../40_PCM_from_servlets_project/tpcw.resourceenvironment</entry>
+</properties>

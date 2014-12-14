@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment/>
+<entry key="path_pms">analyser.pms</entry>
+<entry key="path_usageevolution_alt">../../../ScaleDL models/Usage Evolution/Alternative</entry>
+<entry key="path_slo">analyser.pms</entry>
+<entry key="alternative_type">eu.cloudscaleproject.env.analyser.alternatives.CapacityAlternative</entry>
+<entry key="path_analyser_alt">../../ Input/input.alt</entry>
+<entry key="path_pcmmeasuringpoint">analyser.measuringpoint</entry>
+<entry key="path_experiments">pcm.experiments</entry>
+</properties>
