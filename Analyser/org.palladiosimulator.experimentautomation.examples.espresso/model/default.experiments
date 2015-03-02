@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ExperimentAutomation.Experiments:ExperimentRepository xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ExperimentAutomation.Experiments="http://palladiosimulator.org/ExperimentAutomation/Experiments/1.0" xmlns:ExperimentAutomation.Experiments.AbstractSimulation="http://palladiosimulator.org/ExperimentAutomation/AbstractSimulation/1.0" xmlns:ExperimentAutomation.Variation="http://palladiosimulator.org/ExperimentAutomation/Variation/1.0" xmlns:simulizartooladapter="http://palladiosimulator.org/ExperimentAutomation/ToolAdapter/SimuLizar/1.0">
+  <experiments id="CloudScaleMetricCapacity" name="CloudScale Metric: Capacity" description="CloudScale Metric: Capacity" repetitions="1">
+    <variations type="ExperimentAutomation.Variation:ValueVariation pcm.variation#_zUZqID5zEeCEPJs72ZSOBg" maxValue="10" maxVariations="5" variedObjectId="_LPnI8CHdEd6lJo4DCALHMw" name="ClosedWorkload Population Variation">
+      <valueProvider xsi:type="ExperimentAutomation.Experiments:SetValueProvider" values="1,3,4,5"/>
+    </variations>
+    <toolConfiguration xsi:type="simulizartooladapter:SimuLizarConfiguration" name="Default EDP2 SimuLizar Configuration">
+      <stopConditions xsi:type="ExperimentAutomation.Experiments.AbstractSimulation:MeasurementCountStopCondition" measurementCount="1000"/>
+      <stopConditions xsi:type="ExperimentAutomation.Experiments.AbstractSimulation:SimTimeStopCondition" simulationTime="-1"/>
+    </toolConfiguration>
+    <stopConditions xsi:type="ExperimentAutomation.Experiments.AbstractSimulation:MeasurementCountStopCondition" measurementCount="100"/>
+    <stopConditions xsi:type="ExperimentAutomation.Experiments.AbstractSimulation:SimTimeStopCondition" simulationTime="-1"/>
+    <experimentDesign xsi:type="ExperimentAutomation.Experiments:FullFactorialDesign"/>
+    <responseMeasurement xsi:type="ExperimentAutomation.Experiments:SimulationDurationMeasurement"/>
+    <initialModel usageModel="default.usagemodel#/" allocation="default.allocation#_JiPBICHdEd6lJo4DCALHMw" middlewareRepository="pathmap://PCM_MODELS/Glassfish.repository#_yQk9oIX1EdyWta7nHuXiHQ" eventMiddleWareRepository="pathmap://PCM_MODELS/default_event_middleware.repository#_Onc7cMALEd-LKvNtxXAQbQ"/>
+  </experiments>
+</ExperimentAutomation.Experiments:ExperimentRepository>

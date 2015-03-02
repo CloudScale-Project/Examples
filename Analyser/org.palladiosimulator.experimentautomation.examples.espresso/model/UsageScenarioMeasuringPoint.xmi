@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="ASCII"?>
+<pcmmeasuringpoint:UsageScenarioMeasuringPoint xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:pcmmeasuringpoint="http://palladiosimulator.org/PCM/MeasuringPoint/1.0">
+  <usageScenario href="default.usagemodel#_LPnI8CHdEd6lJo4DCALHMw"/>
+</pcmmeasuringpoint:UsageScenarioMeasuringPoint>

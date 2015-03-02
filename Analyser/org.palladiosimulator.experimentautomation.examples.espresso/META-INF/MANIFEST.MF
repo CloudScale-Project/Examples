@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Experiment Automatio - Espresso Example
+Bundle-SymbolicName: org.palladiosimulator.experimentautomation.examples.espresso
+Bundle-Version: 1.0.0.qualifier
+Bundle-Vendor: palladiosimulator.org
