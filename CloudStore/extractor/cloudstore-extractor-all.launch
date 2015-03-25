@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.modisco.workflow.launchType">
+<listAttribute key="serializedWorkflow">
+<listEntry value="cloudstore-extractor-modisco"/>
+<listEntry value="0"/>
+<listEntry value="org.eclipse.modisco.infra.discovery.launchConfigurationType"/>
+<listEntry value="cloudstore-extractor-somox"/>
+<listEntry value="0"/>
+<listEntry value="org.somox.analyzer.simplemodelanalyzer.runconfig.LaunchSimpleModelAnalyzer"/>
+</listAttribute>
+</launchConfiguration>
