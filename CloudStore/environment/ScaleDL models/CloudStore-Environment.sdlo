@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overview:Overview xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:overview="http://org.scaledl.overview/ScaleDLOverviewComponentModel/1.0" xmlns:parametertype="http://org.scaledl.overview/ScaleDLOverviewComponentModel/DataType/1.0">
+  <architecture id="_PXJdkNLgEeSmFPc1k0Vn6Q"/>
+  <deployment id="_PXJdkdLgEeSmFPc1k0Vn6Q"/>
+  <definition/>
+  <dataTypes>
+    <types xsi:type="parametertype:PrimitiveParameter" id="_PXKrsNLgEeSmFPc1k0Vn6Q" name="INT" description="Default primitive data type"/>
+    <types xsi:type="parametertype:PrimitiveParameter" id="_PXKrsdLgEeSmFPc1k0Vn6Q" name="STRING" description="Default primitive data type" type="STRING"/>
+    <types xsi:type="parametertype:PrimitiveParameter" id="_PXKrstLgEeSmFPc1k0Vn6Q" name="BOOL" description="Default primitive data type" type="BOOL"/>
+    <types xsi:type="parametertype:PrimitiveParameter" id="_PXKrs9LgEeSmFPc1k0Vn6Q" name="DOUBLE" description="Default primitive data type" type="DOUBLE"/>
+  </dataTypes>
+</overview:Overview>

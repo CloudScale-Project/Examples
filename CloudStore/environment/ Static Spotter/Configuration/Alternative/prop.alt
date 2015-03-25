@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment/>
+<entry key="catalog">catalog.pcs</entry>
+<entry key="modified">1427282223807</entry>
+<entry key="name">CloudStore</entry>
+<entry key="engines_ecore">catalog.pcs.ecore</entry>
+<entry key="created">1427282223802</entry>
+</properties>
