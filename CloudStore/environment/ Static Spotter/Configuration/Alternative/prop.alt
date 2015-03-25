@@ -3,8 +3,9 @@
 <properties>
 <comment/>
 <entry key="catalog">catalog.pcs</entry>
-<entry key="modified">1427282223807</entry>
+<entry key="modified">1427282738580</entry>
 <entry key="name">CloudStore</entry>
+<entry key="extractor_result">CloudStore [12:25:06]</entry>
 <entry key="engines_ecore">catalog.pcs.ecore</entry>
 <entry key="created">1427282223802</entry>
 </properties>
