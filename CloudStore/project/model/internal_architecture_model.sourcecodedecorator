@@ -1,0 +1,615 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sourcecodedecorator:SourceCodeDecoratorRepository xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:java="http://www.eclipse.org/MoDisco/Java/0.2.incubation/java" xmlns:repository="http://sdq.ipd.uka.de/PalladioComponentModel/Repository/5.0" xmlns:sourcecodedecorator="http://somox.org/SourceCodeDecorator/2.0">
+  <fileLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_O322UNLcEeSqWO_QnsIeEw"/>
+    <file href="../../CloudStore-Extractor/result/cloudstore_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.1/@inventoryElement.1/@inventoryElement.25"/>
+  </fileLevelSourceCodeLink>
+  <fileLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_O322UNLcEeSqWO_QnsIeEw"/>
+    <file href="../../CloudStore-Extractor/result/cloudstore_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.1/@inventoryElement.1/@inventoryElement.7"/>
+  </fileLevelSourceCodeLink>
+  <fileLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_O322UNLcEeSqWO_QnsIeEw"/>
+    <file href="../../CloudStore-Extractor/result/cloudstore_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.1/@inventoryElement.1/@inventoryElement.19"/>
+  </fileLevelSourceCodeLink>
+  <fileLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_O322UNLcEeSqWO_QnsIeEw"/>
+    <file href="../../CloudStore-Extractor/result/cloudstore_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.1/@inventoryElement.1/@inventoryElement.10"/>
+  </fileLevelSourceCodeLink>
+  <fileLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_O322UNLcEeSqWO_QnsIeEw"/>
+    <file href="../../CloudStore-Extractor/result/cloudstore_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.1/@inventoryElement.1/@inventoryElement.3"/>
+  </fileLevelSourceCodeLink>
+  <fileLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_O322UNLcEeSqWO_QnsIeEw"/>
+    <file href="../../CloudStore-Extractor/result/cloudstore_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.1/@inventoryElement.1/@inventoryElement.26"/>
+  </fileLevelSourceCodeLink>
+  <fileLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_O322UNLcEeSqWO_QnsIeEw"/>
+    <file href="../../CloudStore-Extractor/result/cloudstore_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.1/@inventoryElement.1/@inventoryElement.22"/>
+  </fileLevelSourceCodeLink>
+  <fileLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_O322UNLcEeSqWO_QnsIeEw"/>
+    <file href="../../CloudStore-Extractor/result/cloudstore_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.1/@inventoryElement.1/@inventoryElement.16"/>
+  </fileLevelSourceCodeLink>
+  <fileLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_O322UNLcEeSqWO_QnsIeEw"/>
+    <file href="../../CloudStore-Extractor/result/cloudstore_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.1/@inventoryElement.1/@inventoryElement.13"/>
+  </fileLevelSourceCodeLink>
+  <fileLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_O322UNLcEeSqWO_QnsIeEw"/>
+    <file href="../../CloudStore-Extractor/result/cloudstore_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.1/@inventoryElement.1/@inventoryElement.1"/>
+  </fileLevelSourceCodeLink>
+  <fileLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_O322UNLcEeSqWO_QnsIeEw"/>
+    <file href="../../CloudStore-Extractor/result/cloudstore_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.1/@inventoryElement.1/@inventoryElement.0"/>
+  </fileLevelSourceCodeLink>
+  <fileLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_O322UNLcEeSqWO_QnsIeEw"/>
+    <file href="../../CloudStore-Extractor/result/cloudstore_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.1/@inventoryElement.1/@inventoryElement.6"/>
+  </fileLevelSourceCodeLink>
+  <fileLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_O322UNLcEeSqWO_QnsIeEw"/>
+    <file href="../../CloudStore-Extractor/result/cloudstore_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.1/@inventoryElement.1/@inventoryElement.24"/>
+  </fileLevelSourceCodeLink>
+  <fileLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_O322UNLcEeSqWO_QnsIeEw"/>
+    <file href="../../CloudStore-Extractor/result/cloudstore_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.1/@inventoryElement.1/@inventoryElement.2"/>
+  </fileLevelSourceCodeLink>
+  <fileLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_O322UNLcEeSqWO_QnsIeEw"/>
+    <file href="../../CloudStore-Extractor/result/cloudstore_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.1/@inventoryElement.1/@inventoryElement.4"/>
+  </fileLevelSourceCodeLink>
+  <fileLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_O322UNLcEeSqWO_QnsIeEw"/>
+    <file href="../../CloudStore-Extractor/result/cloudstore_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.1/@inventoryElement.1/@inventoryElement.12"/>
+  </fileLevelSourceCodeLink>
+  <fileLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_O322UNLcEeSqWO_QnsIeEw"/>
+    <file href="../../CloudStore-Extractor/result/cloudstore_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.1/@inventoryElement.1/@inventoryElement.21"/>
+  </fileLevelSourceCodeLink>
+  <fileLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_O322UNLcEeSqWO_QnsIeEw"/>
+    <file href="../../CloudStore-Extractor/result/cloudstore_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.1/@inventoryElement.1/@inventoryElement.9"/>
+  </fileLevelSourceCodeLink>
+  <fileLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_O322UNLcEeSqWO_QnsIeEw"/>
+    <file href="../../CloudStore-Extractor/result/cloudstore_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.1/@inventoryElement.1/@inventoryElement.17"/>
+  </fileLevelSourceCodeLink>
+  <methodLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_O322UNLcEeSqWO_QnsIeEw"/>
+    <file href="../../CloudStore-Extractor/result/cloudstore_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.1/@inventoryElement.1/@inventoryElement.25"/>
+    <operation xsi:type="repository:OperationSignature" href="internal_architecture_model.repository#_O0MeUNLcEeSqWO_QnsIeEw"/>
+    <function xsi:type="java:MethodDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.1"/>
+  </methodLevelSourceCodeLink>
+  <methodLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_O322UNLcEeSqWO_QnsIeEw"/>
+    <file href="../../CloudStore-Extractor/result/cloudstore_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.1/@inventoryElement.1/@inventoryElement.7"/>
+    <operation xsi:type="repository:OperationSignature" href="internal_architecture_model.repository#_O0TMAdLcEeSqWO_QnsIeEw"/>
+    <function xsi:type="java:MethodDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.1"/>
+  </methodLevelSourceCodeLink>
+  <methodLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_O322UNLcEeSqWO_QnsIeEw"/>
+    <file href="../../CloudStore-Extractor/result/cloudstore_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.1/@inventoryElement.1/@inventoryElement.19"/>
+    <operation xsi:type="repository:OperationSignature" href="internal_architecture_model.repository#_O0UaIdLcEeSqWO_QnsIeEw"/>
+    <function xsi:type="java:MethodDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.1"/>
+  </methodLevelSourceCodeLink>
+  <methodLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_O322UNLcEeSqWO_QnsIeEw"/>
+    <file href="../../CloudStore-Extractor/result/cloudstore_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.1/@inventoryElement.1/@inventoryElement.10"/>
+    <operation xsi:type="repository:OperationSignature" href="internal_architecture_model.repository#_O0VoQdLcEeSqWO_QnsIeEw"/>
+    <function xsi:type="java:MethodDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.3/@bodyDeclarations.1"/>
+  </methodLevelSourceCodeLink>
+  <methodLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_O322UNLcEeSqWO_QnsIeEw"/>
+    <file href="../../CloudStore-Extractor/result/cloudstore_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.1/@inventoryElement.1/@inventoryElement.10"/>
+    <operation xsi:type="repository:OperationSignature" href="internal_architecture_model.repository#_O0YrkNLcEeSqWO_QnsIeEw"/>
+    <function xsi:type="java:MethodDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.3/@bodyDeclarations.2"/>
+  </methodLevelSourceCodeLink>
+  <methodLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_O322UNLcEeSqWO_QnsIeEw"/>
+    <file href="../../CloudStore-Extractor/result/cloudstore_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.1/@inventoryElement.1/@inventoryElement.10"/>
+    <operation xsi:type="repository:OperationSignature" href="internal_architecture_model.repository#_O0YrkdLcEeSqWO_QnsIeEw"/>
+    <function xsi:type="java:MethodDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.3/@bodyDeclarations.3"/>
+  </methodLevelSourceCodeLink>
+  <methodLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_O322UNLcEeSqWO_QnsIeEw"/>
+    <file href="../../CloudStore-Extractor/result/cloudstore_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.1/@inventoryElement.1/@inventoryElement.10"/>
+    <operation xsi:type="repository:OperationSignature" href="internal_architecture_model.repository#_O0YrktLcEeSqWO_QnsIeEw"/>
+    <function xsi:type="java:MethodDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.3/@bodyDeclarations.5"/>
+  </methodLevelSourceCodeLink>
+  <methodLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_O322UNLcEeSqWO_QnsIeEw"/>
+    <file href="../../CloudStore-Extractor/result/cloudstore_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.1/@inventoryElement.1/@inventoryElement.3"/>
+    <operation xsi:type="repository:OperationSignature" href="internal_architecture_model.repository#_O0bH0dLcEeSqWO_QnsIeEw"/>
+    <function xsi:type="java:MethodDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.5/@bodyDeclarations.1"/>
+  </methodLevelSourceCodeLink>
+  <methodLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_O322UNLcEeSqWO_QnsIeEw"/>
+    <file href="../../CloudStore-Extractor/result/cloudstore_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.1/@inventoryElement.1/@inventoryElement.26"/>
+    <operation xsi:type="repository:OperationSignature" href="internal_architecture_model.repository#_O0cV8dLcEeSqWO_QnsIeEw"/>
+    <function xsi:type="java:MethodDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.6/@bodyDeclarations.1"/>
+  </methodLevelSourceCodeLink>
+  <methodLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_O322UNLcEeSqWO_QnsIeEw"/>
+    <file href="../../CloudStore-Extractor/result/cloudstore_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.1/@inventoryElement.1/@inventoryElement.22"/>
+    <operation xsi:type="repository:OperationSignature" href="internal_architecture_model.repository#_O0dkEdLcEeSqWO_QnsIeEw"/>
+    <function xsi:type="java:MethodDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.7/@bodyDeclarations.1"/>
+  </methodLevelSourceCodeLink>
+  <methodLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_O322UNLcEeSqWO_QnsIeEw"/>
+    <file href="../../CloudStore-Extractor/result/cloudstore_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.1/@inventoryElement.1/@inventoryElement.16"/>
+    <operation xsi:type="repository:OperationSignature" href="internal_architecture_model.repository#_O0eyMdLcEeSqWO_QnsIeEw"/>
+    <function xsi:type="java:MethodDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.8/@bodyDeclarations.1"/>
+  </methodLevelSourceCodeLink>
+  <methodLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_O322UNLcEeSqWO_QnsIeEw"/>
+    <file href="../../CloudStore-Extractor/result/cloudstore_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.1/@inventoryElement.1/@inventoryElement.13"/>
+    <operation xsi:type="repository:OperationSignature" href="internal_architecture_model.repository#_O0gnYdLcEeSqWO_QnsIeEw"/>
+    <function xsi:type="java:MethodDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.9/@bodyDeclarations.1"/>
+  </methodLevelSourceCodeLink>
+  <methodLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_O322UNLcEeSqWO_QnsIeEw"/>
+    <file href="../../CloudStore-Extractor/result/cloudstore_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.1/@inventoryElement.1/@inventoryElement.1"/>
+    <operation xsi:type="repository:OperationSignature" href="internal_architecture_model.repository#_O0h1gdLcEeSqWO_QnsIeEw"/>
+    <function xsi:type="java:MethodDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.13/@bodyDeclarations.1"/>
+  </methodLevelSourceCodeLink>
+  <methodLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_O322UNLcEeSqWO_QnsIeEw"/>
+    <file href="../../CloudStore-Extractor/result/cloudstore_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.1/@inventoryElement.1/@inventoryElement.0"/>
+    <operation xsi:type="repository:OperationSignature" href="internal_architecture_model.repository#_O0jDodLcEeSqWO_QnsIeEw"/>
+    <function xsi:type="java:MethodDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.17/@bodyDeclarations.1"/>
+  </methodLevelSourceCodeLink>
+  <methodLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_O322UNLcEeSqWO_QnsIeEw"/>
+    <file href="../../CloudStore-Extractor/result/cloudstore_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.1/@inventoryElement.1/@inventoryElement.6"/>
+    <operation xsi:type="repository:OperationSignature" href="internal_architecture_model.repository#_O0kRwdLcEeSqWO_QnsIeEw"/>
+    <function xsi:type="java:MethodDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.18/@bodyDeclarations.1"/>
+  </methodLevelSourceCodeLink>
+  <methodLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_O322UNLcEeSqWO_QnsIeEw"/>
+    <file href="../../CloudStore-Extractor/result/cloudstore_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.1/@inventoryElement.1/@inventoryElement.24"/>
+    <operation xsi:type="repository:OperationSignature" href="internal_architecture_model.repository#_O0k40dLcEeSqWO_QnsIeEw"/>
+    <function xsi:type="java:MethodDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.21/@bodyDeclarations.0"/>
+  </methodLevelSourceCodeLink>
+  <methodLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_O322UNLcEeSqWO_QnsIeEw"/>
+    <file href="../../CloudStore-Extractor/result/cloudstore_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.1/@inventoryElement.1/@inventoryElement.2"/>
+    <operation xsi:type="repository:OperationSignature" href="internal_architecture_model.repository#_O0lf4dLcEeSqWO_QnsIeEw"/>
+    <function xsi:type="java:MethodDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.22/@bodyDeclarations.7"/>
+  </methodLevelSourceCodeLink>
+  <methodLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_O322UNLcEeSqWO_QnsIeEw"/>
+    <file href="../../CloudStore-Extractor/result/cloudstore_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.1/@inventoryElement.1/@inventoryElement.2"/>
+    <operation xsi:type="repository:OperationSignature" href="internal_architecture_model.repository#_O0lf4tLcEeSqWO_QnsIeEw"/>
+    <function xsi:type="java:MethodDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.22/@bodyDeclarations.8"/>
+  </methodLevelSourceCodeLink>
+  <methodLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_O322UNLcEeSqWO_QnsIeEw"/>
+    <file href="../../CloudStore-Extractor/result/cloudstore_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.1/@inventoryElement.1/@inventoryElement.2"/>
+    <operation xsi:type="repository:OperationSignature" href="internal_architecture_model.repository#_O0mG8NLcEeSqWO_QnsIeEw"/>
+    <function xsi:type="java:MethodDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.22/@bodyDeclarations.9"/>
+  </methodLevelSourceCodeLink>
+  <methodLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_O322UNLcEeSqWO_QnsIeEw"/>
+    <file href="../../CloudStore-Extractor/result/cloudstore_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.1/@inventoryElement.1/@inventoryElement.2"/>
+    <operation xsi:type="repository:OperationSignature" href="internal_architecture_model.repository#_O0mG8dLcEeSqWO_QnsIeEw"/>
+    <function xsi:type="java:MethodDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.22/@bodyDeclarations.10"/>
+  </methodLevelSourceCodeLink>
+  <methodLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_O322UNLcEeSqWO_QnsIeEw"/>
+    <file href="../../CloudStore-Extractor/result/cloudstore_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.1/@inventoryElement.1/@inventoryElement.2"/>
+    <operation xsi:type="repository:OperationSignature" href="internal_architecture_model.repository#_O0muANLcEeSqWO_QnsIeEw"/>
+    <function xsi:type="java:MethodDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.22/@bodyDeclarations.11"/>
+  </methodLevelSourceCodeLink>
+  <methodLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_O322UNLcEeSqWO_QnsIeEw"/>
+    <file href="../../CloudStore-Extractor/result/cloudstore_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.1/@inventoryElement.1/@inventoryElement.4"/>
+    <operation xsi:type="repository:OperationSignature" href="internal_architecture_model.repository#_O1KHodLcEeSqWO_QnsIeEw"/>
+    <function xsi:type="java:MethodDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.23/@bodyDeclarations.1"/>
+  </methodLevelSourceCodeLink>
+  <methodLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_O322UNLcEeSqWO_QnsIeEw"/>
+    <file href="../../CloudStore-Extractor/result/cloudstore_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.1/@inventoryElement.1/@inventoryElement.12"/>
+    <operation xsi:type="repository:OperationSignature" href="internal_architecture_model.repository#_O1LVwtLcEeSqWO_QnsIeEw"/>
+    <function xsi:type="java:MethodDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.24/@bodyDeclarations.0"/>
+  </methodLevelSourceCodeLink>
+  <methodLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_O322UNLcEeSqWO_QnsIeEw"/>
+    <file href="../../CloudStore-Extractor/result/cloudstore_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.1/@inventoryElement.1/@inventoryElement.21"/>
+    <operation xsi:type="repository:OperationSignature" href="internal_architecture_model.repository#_O1OZEdLcEeSqWO_QnsIeEw"/>
+    <function xsi:type="java:MethodDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.25/@bodyDeclarations.1"/>
+  </methodLevelSourceCodeLink>
+  <methodLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_O322UNLcEeSqWO_QnsIeEw"/>
+    <file href="../../CloudStore-Extractor/result/cloudstore_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.1/@inventoryElement.1/@inventoryElement.9"/>
+    <operation xsi:type="repository:OperationSignature" href="internal_architecture_model.repository#_O1e3wdLcEeSqWO_QnsIeEw"/>
+    <function xsi:type="java:MethodDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.26/@bodyDeclarations.12"/>
+  </methodLevelSourceCodeLink>
+  <methodLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_O322UNLcEeSqWO_QnsIeEw"/>
+    <file href="../../CloudStore-Extractor/result/cloudstore_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.1/@inventoryElement.1/@inventoryElement.9"/>
+    <operation xsi:type="repository:OperationSignature" href="internal_architecture_model.repository#_O1hUANLcEeSqWO_QnsIeEw"/>
+    <function xsi:type="java:MethodDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.26/@bodyDeclarations.13"/>
+  </methodLevelSourceCodeLink>
+  <methodLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_O322UNLcEeSqWO_QnsIeEw"/>
+    <file href="../../CloudStore-Extractor/result/cloudstore_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.1/@inventoryElement.1/@inventoryElement.9"/>
+    <operation xsi:type="repository:OperationSignature" href="internal_architecture_model.repository#_O1jJMdLcEeSqWO_QnsIeEw"/>
+    <function xsi:type="java:MethodDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.26/@bodyDeclarations.14"/>
+  </methodLevelSourceCodeLink>
+  <methodLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_O322UNLcEeSqWO_QnsIeEw"/>
+    <file href="../../CloudStore-Extractor/result/cloudstore_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.1/@inventoryElement.1/@inventoryElement.9"/>
+    <operation xsi:type="repository:OperationSignature" href="internal_architecture_model.repository#_O1jwQdLcEeSqWO_QnsIeEw"/>
+    <function xsi:type="java:MethodDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.26/@bodyDeclarations.15"/>
+  </methodLevelSourceCodeLink>
+  <methodLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_O322UNLcEeSqWO_QnsIeEw"/>
+    <file href="../../CloudStore-Extractor/result/cloudstore_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.1/@inventoryElement.1/@inventoryElement.9"/>
+    <operation xsi:type="repository:OperationSignature" href="internal_architecture_model.repository#_O1kXUtLcEeSqWO_QnsIeEw"/>
+    <function xsi:type="java:MethodDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.26/@bodyDeclarations.16"/>
+  </methodLevelSourceCodeLink>
+  <methodLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_O322UNLcEeSqWO_QnsIeEw"/>
+    <file href="../../CloudStore-Extractor/result/cloudstore_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.1/@inventoryElement.1/@inventoryElement.9"/>
+    <operation xsi:type="repository:OperationSignature" href="internal_architecture_model.repository#_O1k-YNLcEeSqWO_QnsIeEw"/>
+    <function xsi:type="java:MethodDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.26/@bodyDeclarations.17"/>
+  </methodLevelSourceCodeLink>
+  <methodLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_O322UNLcEeSqWO_QnsIeEw"/>
+    <file href="../../CloudStore-Extractor/result/cloudstore_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.1/@inventoryElement.1/@inventoryElement.9"/>
+    <operation xsi:type="repository:OperationSignature" href="internal_architecture_model.repository#_O1llcNLcEeSqWO_QnsIeEw"/>
+    <function xsi:type="java:MethodDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.26/@bodyDeclarations.18"/>
+  </methodLevelSourceCodeLink>
+  <methodLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_O322UNLcEeSqWO_QnsIeEw"/>
+    <file href="../../CloudStore-Extractor/result/cloudstore_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.1/@inventoryElement.1/@inventoryElement.9"/>
+    <operation xsi:type="repository:OperationSignature" href="internal_architecture_model.repository#_O1mzkNLcEeSqWO_QnsIeEw"/>
+    <function xsi:type="java:MethodDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.26/@bodyDeclarations.19"/>
+  </methodLevelSourceCodeLink>
+  <methodLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_O322UNLcEeSqWO_QnsIeEw"/>
+    <file href="../../CloudStore-Extractor/result/cloudstore_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.1/@inventoryElement.1/@inventoryElement.9"/>
+    <operation xsi:type="repository:OperationSignature" href="internal_architecture_model.repository#_O1naoNLcEeSqWO_QnsIeEw"/>
+    <function xsi:type="java:MethodDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.26/@bodyDeclarations.20"/>
+  </methodLevelSourceCodeLink>
+  <methodLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_O322UNLcEeSqWO_QnsIeEw"/>
+    <file href="../../CloudStore-Extractor/result/cloudstore_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.1/@inventoryElement.1/@inventoryElement.9"/>
+    <operation xsi:type="repository:OperationSignature" href="internal_architecture_model.repository#_O1oowtLcEeSqWO_QnsIeEw"/>
+    <function xsi:type="java:MethodDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.26/@bodyDeclarations.21"/>
+  </methodLevelSourceCodeLink>
+  <methodLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_O322UNLcEeSqWO_QnsIeEw"/>
+    <file href="../../CloudStore-Extractor/result/cloudstore_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.1/@inventoryElement.1/@inventoryElement.9"/>
+    <operation xsi:type="repository:OperationSignature" href="internal_architecture_model.repository#_O1p24NLcEeSqWO_QnsIeEw"/>
+    <function xsi:type="java:MethodDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.26/@bodyDeclarations.22"/>
+  </methodLevelSourceCodeLink>
+  <methodLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_O322UNLcEeSqWO_QnsIeEw"/>
+    <file href="../../CloudStore-Extractor/result/cloudstore_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.1/@inventoryElement.1/@inventoryElement.9"/>
+    <operation xsi:type="repository:OperationSignature" href="internal_architecture_model.repository#_O1sTINLcEeSqWO_QnsIeEw"/>
+    <function xsi:type="java:MethodDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.26/@bodyDeclarations.23"/>
+  </methodLevelSourceCodeLink>
+  <methodLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_O322UNLcEeSqWO_QnsIeEw"/>
+    <file href="../../CloudStore-Extractor/result/cloudstore_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.1/@inventoryElement.1/@inventoryElement.9"/>
+    <operation xsi:type="repository:OperationSignature" href="internal_architecture_model.repository#_O1s6MNLcEeSqWO_QnsIeEw"/>
+    <function xsi:type="java:MethodDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.26/@bodyDeclarations.25"/>
+  </methodLevelSourceCodeLink>
+  <methodLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_O322UNLcEeSqWO_QnsIeEw"/>
+    <file href="../../CloudStore-Extractor/result/cloudstore_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.1/@inventoryElement.1/@inventoryElement.9"/>
+    <operation xsi:type="repository:OperationSignature" href="internal_architecture_model.repository#_O1uIUdLcEeSqWO_QnsIeEw"/>
+    <function xsi:type="java:MethodDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.26/@bodyDeclarations.26"/>
+  </methodLevelSourceCodeLink>
+  <methodLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_O322UNLcEeSqWO_QnsIeEw"/>
+    <file href="../../CloudStore-Extractor/result/cloudstore_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.1/@inventoryElement.1/@inventoryElement.9"/>
+    <operation xsi:type="repository:OperationSignature" href="internal_architecture_model.repository#_O1v9gNLcEeSqWO_QnsIeEw"/>
+    <function xsi:type="java:MethodDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.26/@bodyDeclarations.27"/>
+  </methodLevelSourceCodeLink>
+  <methodLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_O322UNLcEeSqWO_QnsIeEw"/>
+    <file href="../../CloudStore-Extractor/result/cloudstore_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.1/@inventoryElement.1/@inventoryElement.9"/>
+    <operation xsi:type="repository:OperationSignature" href="internal_architecture_model.repository#_O1xLotLcEeSqWO_QnsIeEw"/>
+    <function xsi:type="java:MethodDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.26/@bodyDeclarations.32"/>
+  </methodLevelSourceCodeLink>
+  <methodLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_O322UNLcEeSqWO_QnsIeEw"/>
+    <file href="../../CloudStore-Extractor/result/cloudstore_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.1/@inventoryElement.1/@inventoryElement.9"/>
+    <operation xsi:type="repository:OperationSignature" href="internal_architecture_model.repository#_O1zn4NLcEeSqWO_QnsIeEw"/>
+    <function xsi:type="java:MethodDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.26/@bodyDeclarations.34"/>
+  </methodLevelSourceCodeLink>
+  <methodLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_O322UNLcEeSqWO_QnsIeEw"/>
+    <file href="../../CloudStore-Extractor/result/cloudstore_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.1/@inventoryElement.1/@inventoryElement.9"/>
+    <operation xsi:type="repository:OperationSignature" href="internal_architecture_model.repository#_O102ANLcEeSqWO_QnsIeEw"/>
+    <function xsi:type="java:MethodDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.26/@bodyDeclarations.35"/>
+  </methodLevelSourceCodeLink>
+  <methodLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_O322UNLcEeSqWO_QnsIeEw"/>
+    <file href="../../CloudStore-Extractor/result/cloudstore_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.1/@inventoryElement.1/@inventoryElement.9"/>
+    <operation xsi:type="repository:OperationSignature" href="internal_architecture_model.repository#_O102AdLcEeSqWO_QnsIeEw"/>
+    <function xsi:type="java:MethodDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.26/@bodyDeclarations.36"/>
+  </methodLevelSourceCodeLink>
+  <methodLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_O322UNLcEeSqWO_QnsIeEw"/>
+    <file href="../../CloudStore-Extractor/result/cloudstore_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.1/@inventoryElement.1/@inventoryElement.9"/>
+    <operation xsi:type="repository:OperationSignature" href="internal_architecture_model.repository#_O13SQdLcEeSqWO_QnsIeEw"/>
+    <function xsi:type="java:MethodDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.26/@bodyDeclarations.37"/>
+  </methodLevelSourceCodeLink>
+  <methodLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_O322UNLcEeSqWO_QnsIeEw"/>
+    <file href="../../CloudStore-Extractor/result/cloudstore_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.1/@inventoryElement.1/@inventoryElement.17"/>
+    <operation xsi:type="repository:OperationSignature" href="internal_architecture_model.repository#_O15ugtLcEeSqWO_QnsIeEw"/>
+    <function xsi:type="java:MethodDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.27/@bodyDeclarations.1"/>
+  </methodLevelSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_O0L3QNLcEeSqWO_QnsIeEw"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.0"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_O0TMANLcEeSqWO_QnsIeEw"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.1"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_O0UaINLcEeSqWO_QnsIeEw"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.2"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_O0VoQNLcEeSqWO_QnsIeEw"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.3"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_O0bH0NLcEeSqWO_QnsIeEw"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.5"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_O0cV8NLcEeSqWO_QnsIeEw"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.6"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_O0dkENLcEeSqWO_QnsIeEw"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.7"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_O0eyMNLcEeSqWO_QnsIeEw"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.8"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_O0gnYNLcEeSqWO_QnsIeEw"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.9"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_O0h1gNLcEeSqWO_QnsIeEw"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.13"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_O0jDoNLcEeSqWO_QnsIeEw"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.17"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_O0kRwNLcEeSqWO_QnsIeEw"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.18"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_O0k40NLcEeSqWO_QnsIeEw"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.21"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_O0lf4NLcEeSqWO_QnsIeEw"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.22"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_O0k40NLcEeSqWO_QnsIeEw"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.21"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_O1KHoNLcEeSqWO_QnsIeEw"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.23"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_O0VoQNLcEeSqWO_QnsIeEw"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.3"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_O1LVwdLcEeSqWO_QnsIeEw"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.24"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_O1OZENLcEeSqWO_QnsIeEw"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.25"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_O0lf4NLcEeSqWO_QnsIeEw"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.22"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_O0VoQNLcEeSqWO_QnsIeEw"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.3"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_O1e3wNLcEeSqWO_QnsIeEw"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.26"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_O1LVwdLcEeSqWO_QnsIeEw"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.24"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_O15ugdLcEeSqWO_QnsIeEw"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.27"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_O0L3QNLcEeSqWO_QnsIeEw"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.0"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_O0TMANLcEeSqWO_QnsIeEw"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.1"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_O0UaINLcEeSqWO_QnsIeEw"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.2"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_O0VoQNLcEeSqWO_QnsIeEw"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.3"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_O0bH0NLcEeSqWO_QnsIeEw"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.5"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_O0cV8NLcEeSqWO_QnsIeEw"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.6"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_O0dkENLcEeSqWO_QnsIeEw"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.7"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_O0eyMNLcEeSqWO_QnsIeEw"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.8"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_O0gnYNLcEeSqWO_QnsIeEw"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.9"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_O0h1gNLcEeSqWO_QnsIeEw"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.13"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_O0jDoNLcEeSqWO_QnsIeEw"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.17"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_O0kRwNLcEeSqWO_QnsIeEw"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.18"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_O0k40NLcEeSqWO_QnsIeEw"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.21"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_O0lf4NLcEeSqWO_QnsIeEw"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.22"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_O1KHoNLcEeSqWO_QnsIeEw"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.23"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_O1LVwdLcEeSqWO_QnsIeEw"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.24"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_O1OZENLcEeSqWO_QnsIeEw"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.25"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_O1e3wNLcEeSqWO_QnsIeEw"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.26"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_O15ugdLcEeSqWO_QnsIeEw"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.27"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_O1LVwdLcEeSqWO_QnsIeEw"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.24"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_O1e3wNLcEeSqWO_QnsIeEw"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.26"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_O1e3wNLcEeSqWO_QnsIeEw"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.26"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_O1LVwdLcEeSqWO_QnsIeEw"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.24"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_O1e3wNLcEeSqWO_QnsIeEw"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.26"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_O1e3wNLcEeSqWO_QnsIeEw"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.26"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_O1LVwdLcEeSqWO_QnsIeEw"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.24"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_O1e3wNLcEeSqWO_QnsIeEw"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.26"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_O1LVwdLcEeSqWO_QnsIeEw"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.24"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_O1e3wNLcEeSqWO_QnsIeEw"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.26"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_O1e3wNLcEeSqWO_QnsIeEw"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.26"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_O1e3wNLcEeSqWO_QnsIeEw"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.26"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_O1e3wNLcEeSqWO_QnsIeEw"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.26"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_O1e3wNLcEeSqWO_QnsIeEw"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.26"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_O1e3wNLcEeSqWO_QnsIeEw"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.26"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_O1e3wNLcEeSqWO_QnsIeEw"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.26"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_O1LVwdLcEeSqWO_QnsIeEw"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.24"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_O1e3wNLcEeSqWO_QnsIeEw"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.26"/>
+  </interfaceSourceCodeLink>
+  <componentImplementingClassesLink providedInterfaces="//@interfaceSourceCodeLink.24 //@interfaceSourceCodeLink.25 //@interfaceSourceCodeLink.26 //@interfaceSourceCodeLink.27 //@interfaceSourceCodeLink.28 //@interfaceSourceCodeLink.29 //@interfaceSourceCodeLink.30 //@interfaceSourceCodeLink.31 //@interfaceSourceCodeLink.32 //@interfaceSourceCodeLink.33 //@interfaceSourceCodeLink.34 //@interfaceSourceCodeLink.35 //@interfaceSourceCodeLink.36 //@interfaceSourceCodeLink.37 //@interfaceSourceCodeLink.38 //@interfaceSourceCodeLink.39 //@interfaceSourceCodeLink.40 //@interfaceSourceCodeLink.41 //@interfaceSourceCodeLink.42">
+    <component xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_O322UNLcEeSqWO_QnsIeEw"/>
+    <implementingClasses xsi:type="java:ClassDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.0"/>
+    <implementingClasses xsi:type="java:ClassDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.1"/>
+    <implementingClasses xsi:type="java:ClassDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.2"/>
+    <implementingClasses xsi:type="java:ClassDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.3"/>
+    <implementingClasses xsi:type="java:ClassDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.5"/>
+    <implementingClasses xsi:type="java:ClassDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.6"/>
+    <implementingClasses xsi:type="java:ClassDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.7"/>
+    <implementingClasses xsi:type="java:ClassDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.8"/>
+    <implementingClasses xsi:type="java:ClassDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.9"/>
+    <implementingClasses xsi:type="java:ClassDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.13"/>
+    <implementingClasses xsi:type="java:ClassDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.17"/>
+    <implementingClasses xsi:type="java:ClassDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.18"/>
+    <implementingClasses xsi:type="java:ClassDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.21"/>
+    <implementingClasses xsi:type="java:ClassDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.22"/>
+    <implementingClasses xsi:type="java:ClassDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.23"/>
+    <implementingClasses xsi:type="java:ClassDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.24"/>
+    <implementingClasses xsi:type="java:ClassDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.25"/>
+    <implementingClasses xsi:type="java:ClassDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.26"/>
+    <implementingClasses xsi:type="java:ClassDeclaration" href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.27"/>
+  </componentImplementingClassesLink>
+</sourcecodedecorator:SourceCodeDecoratorRepository>

@@ -1,0 +1,522 @@
+<?xml version="1.0" encoding="ASCII"?>
+<repository:Repository xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:repository="http://sdq.ipd.uka.de/PalladioComponentModel/Repository/5.0" xmlns:seff="http://sdq.ipd.uka.de/PalladioComponentModel/SEFF/5.0" id="_KL-GY9FlEeSCQO1jnrE1pQ">
+  <components__Repository xsi:type="repository:BasicComponent" id="_KUHVwNFlEeSCQO1jnrE1pQ" entityName=" &lt;PC No. 19 tpcw.TPCW_Util tpcw.TPCW_home_interaction tpcw.TPCW_execute_search tpcw.TPCW_promotional_processing tpcw.TPCW_Database tpcw.TPCW_customer_registration_servlet tpcw.TPCW_say_hello tpcw.TPCW_new_products_servlet tpcw.TPCW_search_request_servlet tpcw.DatabaseProperties tpcw.TPCW_order_inquiry_servlet tpcw.TPCW_best_sellers_servlet tpcw.TPCW_shopping_cart_interaction tpcw.TPCW_product_detail_servlet tpcw.TPCW_buy_request_servlet tpcw.TPCW_admin_request_servlet tpcw.TPCW_buy_confirm_servlet tpcw.TPCW_order_display_servlet tpcw.TPCW_admin_response_servlet>">
+    <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="_KZgMENFlEeSCQO1jnrE1pQ" entityName="TPCW_Util 19 (prov)" providedInterface__OperationProvidedRole="_KOGNUNFlEeSCQO1jnrE1pQ"/>
+    <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="_KZgMFdFlEeSCQO1jnrE1pQ" entityName="TPCW_home_interaction 20 (prov)" providedInterface__OperationProvidedRole="_KOMT8NFlEeSCQO1jnrE1pQ"/>
+    <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="_KZgMF9FlEeSCQO1jnrE1pQ" entityName="TPCW_execute_search 21 (prov)" providedInterface__OperationProvidedRole="_KOP-UNFlEeSCQO1jnrE1pQ"/>
+    <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="_KZgMGdFlEeSCQO1jnrE1pQ" entityName="TPCW_promotional_processing 22 (prov)" providedInterface__OperationProvidedRole="_KORMcdFlEeSCQO1jnrE1pQ"/>
+    <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="_KZgMG9FlEeSCQO1jnrE1pQ" entityName="TPCW_Database 23 (prov)" providedInterface__OperationProvidedRole="_KQTMwNFlEeSCQO1jnrE1pQ"/>
+    <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="_KZgzINFlEeSCQO1jnrE1pQ" entityName="TPCW_customer_registration_servlet 24 (prov)" providedInterface__OperationProvidedRole="_KQh2QNFlEeSCQO1jnrE1pQ"/>
+    <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="_KZgzItFlEeSCQO1jnrE1pQ" entityName="TPCW_say_hello 25 (prov)" providedInterface__OperationProvidedRole="_KQidUdFlEeSCQO1jnrE1pQ"/>
+    <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="_KZgzJNFlEeSCQO1jnrE1pQ" entityName="TPCW_new_products_servlet 26 (prov)" providedInterface__OperationProvidedRole="_KQjrctFlEeSCQO1jnrE1pQ"/>
+    <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="_KZgzJtFlEeSCQO1jnrE1pQ" entityName="TPCW_search_request_servlet 27 (prov)" providedInterface__OperationProvidedRole="_KRVHgdFlEeSCQO1jnrE1pQ"/>
+    <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="_KZgzKNFlEeSCQO1jnrE1pQ" entityName="DatabaseProperties 28 (prov)" providedInterface__OperationProvidedRole="_KRWVoNFlEeSCQO1jnrE1pQ"/>
+    <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="_KZgzLtFlEeSCQO1jnrE1pQ" entityName="TPCW_order_inquiry_servlet 29 (prov)" providedInterface__OperationProvidedRole="_KRYK0NFlEeSCQO1jnrE1pQ"/>
+    <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="_KZgzMNFlEeSCQO1jnrE1pQ" entityName="TPCW_best_sellers_servlet 30 (prov)" providedInterface__OperationProvidedRole="_KRZY8tFlEeSCQO1jnrE1pQ"/>
+    <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="_KZgzMtFlEeSCQO1jnrE1pQ" entityName="TPCW_shopping_cart_interaction 31 (prov)" providedInterface__OperationProvidedRole="_KRbOItFlEeSCQO1jnrE1pQ"/>
+    <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="_KZgzNNFlEeSCQO1jnrE1pQ" entityName="TPCW_product_detail_servlet 32 (prov)" providedInterface__OperationProvidedRole="_KRccQdFlEeSCQO1jnrE1pQ"/>
+    <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="_KZgzNtFlEeSCQO1jnrE1pQ" entityName="TPCW_buy_request_servlet 33 (prov)" providedInterface__OperationProvidedRole="_KSflINFlEeSCQO1jnrE1pQ"/>
+    <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="_KZgzONFlEeSCQO1jnrE1pQ" entityName="TPCW_admin_request_servlet 34 (prov)" providedInterface__OperationProvidedRole="_KShaUdFlEeSCQO1jnrE1pQ"/>
+    <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="_KZgzOtFlEeSCQO1jnrE1pQ" entityName="TPCW_buy_confirm_servlet 35 (prov)" providedInterface__OperationProvidedRole="_KSj2kdFlEeSCQO1jnrE1pQ"/>
+    <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="_KZgzPNFlEeSCQO1jnrE1pQ" entityName="TPCW_order_display_servlet 36 (prov)" providedInterface__OperationProvidedRole="_KThf4dFlEeSCQO1jnrE1pQ"/>
+    <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="_KZgzPtFlEeSCQO1jnrE1pQ" entityName="TPCW_admin_response_servlet 37 (prov)" providedInterface__OperationProvidedRole="_KTj8IdFlEeSCQO1jnrE1pQ"/>
+    <serviceEffectSpecifications__BasicComponent xsi:type="seff:ResourceDemandingSEFF" id="_KZgMEdFlEeSCQO1jnrE1pQ" describedService__SEFF="_KOGNUdFlEeSCQO1jnrE1pQ"/>
+    <serviceEffectSpecifications__BasicComponent xsi:type="seff:ResourceDemandingSEFF" id="_KZgMEtFlEeSCQO1jnrE1pQ" describedService__SEFF="_KOGNUtFlEeSCQO1jnrE1pQ"/>
+    <serviceEffectSpecifications__BasicComponent xsi:type="seff:ResourceDemandingSEFF" id="_KZgME9FlEeSCQO1jnrE1pQ" describedService__SEFF="_KOGNU9FlEeSCQO1jnrE1pQ"/>
+    <serviceEffectSpecifications__BasicComponent xsi:type="seff:ResourceDemandingSEFF" id="_KZgMFNFlEeSCQO1jnrE1pQ" describedService__SEFF="_KOG0YNFlEeSCQO1jnrE1pQ"/>
+    <serviceEffectSpecifications__BasicComponent xsi:type="seff:ResourceDemandingSEFF" id="_KZgMFtFlEeSCQO1jnrE1pQ" describedService__SEFF="_KOMT8dFlEeSCQO1jnrE1pQ"/>
+    <serviceEffectSpecifications__BasicComponent xsi:type="seff:ResourceDemandingSEFF" id="_KZgMGNFlEeSCQO1jnrE1pQ" describedService__SEFF="_KOP-UdFlEeSCQO1jnrE1pQ"/>
+    <serviceEffectSpecifications__BasicComponent xsi:type="seff:ResourceDemandingSEFF" id="_KZgMGtFlEeSCQO1jnrE1pQ" describedService__SEFF="_KORMctFlEeSCQO1jnrE1pQ"/>
+    <serviceEffectSpecifications__BasicComponent xsi:type="seff:ResourceDemandingSEFF" id="_KZgMHNFlEeSCQO1jnrE1pQ" describedService__SEFF="_KQTMwdFlEeSCQO1jnrE1pQ"/>
+    <serviceEffectSpecifications__BasicComponent xsi:type="seff:ResourceDemandingSEFF" id="_KZgMHdFlEeSCQO1jnrE1pQ" describedService__SEFF="_KQUa4dFlEeSCQO1jnrE1pQ"/>
+    <serviceEffectSpecifications__BasicComponent xsi:type="seff:ResourceDemandingSEFF" id="_KZgMHtFlEeSCQO1jnrE1pQ" describedService__SEFF="_KQVB89FlEeSCQO1jnrE1pQ"/>
+    <serviceEffectSpecifications__BasicComponent xsi:type="seff:ResourceDemandingSEFF" id="_KZgMH9FlEeSCQO1jnrE1pQ" describedService__SEFF="_KQVpAdFlEeSCQO1jnrE1pQ"/>
+    <serviceEffectSpecifications__BasicComponent xsi:type="seff:ResourceDemandingSEFF" id="_KZgMINFlEeSCQO1jnrE1pQ" describedService__SEFF="_KQWQEtFlEeSCQO1jnrE1pQ"/>
+    <serviceEffectSpecifications__BasicComponent xsi:type="seff:ResourceDemandingSEFF" id="_KZgMIdFlEeSCQO1jnrE1pQ" describedService__SEFF="_KQW3INFlEeSCQO1jnrE1pQ"/>
+    <serviceEffectSpecifications__BasicComponent xsi:type="seff:ResourceDemandingSEFF" id="_KZgMItFlEeSCQO1jnrE1pQ" describedService__SEFF="_KQW3IdFlEeSCQO1jnrE1pQ"/>
+    <serviceEffectSpecifications__BasicComponent xsi:type="seff:ResourceDemandingSEFF" id="_KZgMI9FlEeSCQO1jnrE1pQ" describedService__SEFF="_KQXeMtFlEeSCQO1jnrE1pQ"/>
+    <serviceEffectSpecifications__BasicComponent xsi:type="seff:ResourceDemandingSEFF" id="_KZgMJNFlEeSCQO1jnrE1pQ" describedService__SEFF="_KQYFQNFlEeSCQO1jnrE1pQ"/>
+    <serviceEffectSpecifications__BasicComponent xsi:type="seff:ResourceDemandingSEFF" id="_KZgMJdFlEeSCQO1jnrE1pQ" describedService__SEFF="_KQYsUtFlEeSCQO1jnrE1pQ"/>
+    <serviceEffectSpecifications__BasicComponent xsi:type="seff:ResourceDemandingSEFF" id="_KZgMJtFlEeSCQO1jnrE1pQ" describedService__SEFF="_KQZTYNFlEeSCQO1jnrE1pQ"/>
+    <serviceEffectSpecifications__BasicComponent xsi:type="seff:ResourceDemandingSEFF" id="_KZgMJ9FlEeSCQO1jnrE1pQ" describedService__SEFF="_KQZ6cNFlEeSCQO1jnrE1pQ"/>
+    <serviceEffectSpecifications__BasicComponent xsi:type="seff:ResourceDemandingSEFF" id="_KZgMKNFlEeSCQO1jnrE1pQ" describedService__SEFF="_KQahgNFlEeSCQO1jnrE1pQ"/>
+    <serviceEffectSpecifications__BasicComponent xsi:type="seff:ResourceDemandingSEFF" id="_KZgMKdFlEeSCQO1jnrE1pQ" describedService__SEFF="_KQbIkNFlEeSCQO1jnrE1pQ"/>
+    <serviceEffectSpecifications__BasicComponent xsi:type="seff:ResourceDemandingSEFF" id="_KZgMKtFlEeSCQO1jnrE1pQ" describedService__SEFF="_KQbIkdFlEeSCQO1jnrE1pQ"/>
+    <serviceEffectSpecifications__BasicComponent xsi:type="seff:ResourceDemandingSEFF" id="_KZgMK9FlEeSCQO1jnrE1pQ" describedService__SEFF="_KQcWs9FlEeSCQO1jnrE1pQ"/>
+    <serviceEffectSpecifications__BasicComponent xsi:type="seff:ResourceDemandingSEFF" id="_KZgMLNFlEeSCQO1jnrE1pQ" describedService__SEFF="_KQcWtNFlEeSCQO1jnrE1pQ"/>
+    <serviceEffectSpecifications__BasicComponent xsi:type="seff:ResourceDemandingSEFF" id="_KZgMLdFlEeSCQO1jnrE1pQ" describedService__SEFF="_KQcWtdFlEeSCQO1jnrE1pQ"/>
+    <serviceEffectSpecifications__BasicComponent xsi:type="seff:ResourceDemandingSEFF" id="_KZgMLtFlEeSCQO1jnrE1pQ" describedService__SEFF="_KQcWttFlEeSCQO1jnrE1pQ"/>
+    <serviceEffectSpecifications__BasicComponent xsi:type="seff:ResourceDemandingSEFF" id="_KZgML9FlEeSCQO1jnrE1pQ" describedService__SEFF="_KQey8dFlEeSCQO1jnrE1pQ"/>
+    <serviceEffectSpecifications__BasicComponent xsi:type="seff:ResourceDemandingSEFF" id="_KZgzIdFlEeSCQO1jnrE1pQ" describedService__SEFF="_KQh2QdFlEeSCQO1jnrE1pQ"/>
+    <serviceEffectSpecifications__BasicComponent xsi:type="seff:ResourceDemandingSEFF" id="_KZgzI9FlEeSCQO1jnrE1pQ" describedService__SEFF="_KQidUtFlEeSCQO1jnrE1pQ"/>
+    <serviceEffectSpecifications__BasicComponent xsi:type="seff:ResourceDemandingSEFF" id="_KZgzJdFlEeSCQO1jnrE1pQ" describedService__SEFF="_KQjrc9FlEeSCQO1jnrE1pQ"/>
+    <serviceEffectSpecifications__BasicComponent xsi:type="seff:ResourceDemandingSEFF" id="_KZgzJ9FlEeSCQO1jnrE1pQ" describedService__SEFF="_KRVHgtFlEeSCQO1jnrE1pQ"/>
+    <serviceEffectSpecifications__BasicComponent xsi:type="seff:ResourceDemandingSEFF" id="_KZgzKdFlEeSCQO1jnrE1pQ" describedService__SEFF="_KRWVodFlEeSCQO1jnrE1pQ"/>
+    <serviceEffectSpecifications__BasicComponent xsi:type="seff:ResourceDemandingSEFF" id="_KZgzKtFlEeSCQO1jnrE1pQ" describedService__SEFF="_KRWVotFlEeSCQO1jnrE1pQ"/>
+    <serviceEffectSpecifications__BasicComponent xsi:type="seff:ResourceDemandingSEFF" id="_KZgzK9FlEeSCQO1jnrE1pQ" describedService__SEFF="_KRW8sNFlEeSCQO1jnrE1pQ"/>
+    <serviceEffectSpecifications__BasicComponent xsi:type="seff:ResourceDemandingSEFF" id="_KZgzLNFlEeSCQO1jnrE1pQ" describedService__SEFF="_KRW8sdFlEeSCQO1jnrE1pQ"/>
+    <serviceEffectSpecifications__BasicComponent xsi:type="seff:ResourceDemandingSEFF" id="_KZgzLdFlEeSCQO1jnrE1pQ" describedService__SEFF="_KRW8stFlEeSCQO1jnrE1pQ"/>
+    <serviceEffectSpecifications__BasicComponent xsi:type="seff:ResourceDemandingSEFF" id="_KZgzL9FlEeSCQO1jnrE1pQ" describedService__SEFF="_KRYK0dFlEeSCQO1jnrE1pQ"/>
+    <serviceEffectSpecifications__BasicComponent xsi:type="seff:ResourceDemandingSEFF" id="_KZgzMdFlEeSCQO1jnrE1pQ" describedService__SEFF="_KRZY89FlEeSCQO1jnrE1pQ"/>
+    <serviceEffectSpecifications__BasicComponent xsi:type="seff:ResourceDemandingSEFF" id="_KZgzM9FlEeSCQO1jnrE1pQ" describedService__SEFF="_KRbOI9FlEeSCQO1jnrE1pQ"/>
+    <serviceEffectSpecifications__BasicComponent xsi:type="seff:ResourceDemandingSEFF" id="_KZgzNdFlEeSCQO1jnrE1pQ" describedService__SEFF="_KRccQtFlEeSCQO1jnrE1pQ"/>
+    <serviceEffectSpecifications__BasicComponent xsi:type="seff:ResourceDemandingSEFF" id="_KZgzN9FlEeSCQO1jnrE1pQ" describedService__SEFF="_KSflIdFlEeSCQO1jnrE1pQ"/>
+    <serviceEffectSpecifications__BasicComponent xsi:type="seff:ResourceDemandingSEFF" id="_KZgzOdFlEeSCQO1jnrE1pQ" describedService__SEFF="_KShaUtFlEeSCQO1jnrE1pQ"/>
+    <serviceEffectSpecifications__BasicComponent xsi:type="seff:ResourceDemandingSEFF" id="_KZgzO9FlEeSCQO1jnrE1pQ" describedService__SEFF="_KSj2ktFlEeSCQO1jnrE1pQ"/>
+    <serviceEffectSpecifications__BasicComponent xsi:type="seff:ResourceDemandingSEFF" id="_KZgzPdFlEeSCQO1jnrE1pQ" describedService__SEFF="_KThf4tFlEeSCQO1jnrE1pQ"/>
+    <serviceEffectSpecifications__BasicComponent xsi:type="seff:ResourceDemandingSEFF" id="_KZgzP9FlEeSCQO1jnrE1pQ" describedService__SEFF="_KTj8ItFlEeSCQO1jnrE1pQ"/>
+  </components__Repository>
+  <components__Repository xsi:type="repository:BasicComponent" id="_Km_1kdFlEeSCQO1jnrE1pQ" entityName="SoMoX System-Level Dummy Component"/>
+  <interfaces__Repository xsi:type="repository:OperationInterface" id="_KOGNUNFlEeSCQO1jnrE1pQ" entityName="Itpcw.TPCW_Util">
+    <signatures__OperationInterface id="_KOGNUdFlEeSCQO1jnrE1pQ" entityName="getRandomI_ID">
+      <returnType__OperationSignature xsi:type="repository:PrimitiveDataType" href="../../../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.0"/>
+    </signatures__OperationInterface>
+    <signatures__OperationInterface id="_KOGNUtFlEeSCQO1jnrE1pQ" entityName="getRandom">
+      <parameters__OperationSignature parameterName="i">
+        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.0"/>
+      </parameters__OperationSignature>
+      <returnType__OperationSignature xsi:type="repository:PrimitiveDataType" href="../../../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.0"/>
+    </signatures__OperationInterface>
+    <signatures__OperationInterface id="_KOGNU9FlEeSCQO1jnrE1pQ" entityName="getRandomString">
+      <parameters__OperationSignature parameterName="min">
+        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.0"/>
+      </parameters__OperationSignature>
+      <parameters__OperationSignature parameterName="max">
+        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.0"/>
+      </parameters__OperationSignature>
+      <returnType__OperationSignature xsi:type="repository:PrimitiveDataType" href="../../../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
+    </signatures__OperationInterface>
+    <signatures__OperationInterface id="_KOG0YNFlEeSCQO1jnrE1pQ" entityName="DigSyl">
+      <parameters__OperationSignature parameterName="d">
+        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.0"/>
+      </parameters__OperationSignature>
+      <parameters__OperationSignature parameterName="n">
+        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.0"/>
+      </parameters__OperationSignature>
+      <returnType__OperationSignature xsi:type="repository:PrimitiveDataType" href="../../../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
+    </signatures__OperationInterface>
+  </interfaces__Repository>
+  <interfaces__Repository xsi:type="repository:OperationInterface" id="_KOMT8NFlEeSCQO1jnrE1pQ" entityName="Itpcw.TPCW_home_interaction">
+    <signatures__OperationInterface id="_KOMT8dFlEeSCQO1jnrE1pQ" entityName="doGet">
+      <parameters__OperationSignature dataType__Parameter="_KOMT8tFlEeSCQO1jnrE1pQ" parameterName="req"/>
+      <parameters__OperationSignature dataType__Parameter="_KONiENFlEeSCQO1jnrE1pQ" parameterName="res"/>
+    </signatures__OperationInterface>
+  </interfaces__Repository>
+  <interfaces__Repository xsi:type="repository:OperationInterface" id="_KOP-UNFlEeSCQO1jnrE1pQ" entityName="Itpcw.TPCW_execute_search">
+    <signatures__OperationInterface id="_KOP-UdFlEeSCQO1jnrE1pQ" entityName="doGet">
+      <parameters__OperationSignature dataType__Parameter="_KOMT8tFlEeSCQO1jnrE1pQ" parameterName="req"/>
+      <parameters__OperationSignature dataType__Parameter="_KONiENFlEeSCQO1jnrE1pQ" parameterName="res"/>
+    </signatures__OperationInterface>
+  </interfaces__Repository>
+  <interfaces__Repository xsi:type="repository:OperationInterface" id="_KORMcdFlEeSCQO1jnrE1pQ" entityName="Itpcw.TPCW_promotional_processing">
+    <signatures__OperationInterface id="_KORMctFlEeSCQO1jnrE1pQ" entityName="DisplayPromotions">
+      <parameters__OperationSignature dataType__Parameter="_KORMc9FlEeSCQO1jnrE1pQ" parameterName="out"/>
+      <parameters__OperationSignature dataType__Parameter="_KOMT8tFlEeSCQO1jnrE1pQ" parameterName="req"/>
+      <parameters__OperationSignature dataType__Parameter="_KONiENFlEeSCQO1jnrE1pQ" parameterName="res"/>
+      <parameters__OperationSignature parameterName="new_sid">
+        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.0"/>
+      </parameters__OperationSignature>
+    </signatures__OperationInterface>
+  </interfaces__Repository>
+  <interfaces__Repository xsi:type="repository:OperationInterface" id="_KQTMwNFlEeSCQO1jnrE1pQ" entityName="Itpcw.TPCW_Database">
+    <signatures__OperationInterface id="_KQTMwdFlEeSCQO1jnrE1pQ" entityName="getName" returnType__OperationSignature="_KQUa4NFlEeSCQO1jnrE1pQ">
+      <parameters__OperationSignature parameterName="c_id">
+        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.0"/>
+      </parameters__OperationSignature>
+    </signatures__OperationInterface>
+    <signatures__OperationInterface id="_KQUa4dFlEeSCQO1jnrE1pQ" entityName="getBook" returnType__OperationSignature="_KQUa4tFlEeSCQO1jnrE1pQ">
+      <parameters__OperationSignature parameterName="i_id">
+        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.0"/>
+      </parameters__OperationSignature>
+    </signatures__OperationInterface>
+    <signatures__OperationInterface id="_KQVB89FlEeSCQO1jnrE1pQ" entityName="getCustomer" returnType__OperationSignature="_KQVpANFlEeSCQO1jnrE1pQ">
+      <parameters__OperationSignature parameterName="UNAME">
+        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
+      </parameters__OperationSignature>
+    </signatures__OperationInterface>
+    <signatures__OperationInterface id="_KQVpAdFlEeSCQO1jnrE1pQ" entityName="doSubjectSearch" returnType__OperationSignature="_KQWQENFlEeSCQO1jnrE1pQ">
+      <parameters__OperationSignature parameterName="search_key">
+        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
+      </parameters__OperationSignature>
+    </signatures__OperationInterface>
+    <signatures__OperationInterface id="_KQWQEtFlEeSCQO1jnrE1pQ" entityName="doTitleSearch" returnType__OperationSignature="_KQWQENFlEeSCQO1jnrE1pQ">
+      <parameters__OperationSignature parameterName="search_key">
+        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
+      </parameters__OperationSignature>
+    </signatures__OperationInterface>
+    <signatures__OperationInterface id="_KQW3INFlEeSCQO1jnrE1pQ" entityName="doAuthorSearch" returnType__OperationSignature="_KQWQENFlEeSCQO1jnrE1pQ">
+      <parameters__OperationSignature parameterName="search_key">
+        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
+      </parameters__OperationSignature>
+    </signatures__OperationInterface>
+    <signatures__OperationInterface id="_KQW3IdFlEeSCQO1jnrE1pQ" entityName="getNewProducts" returnType__OperationSignature="_KQXeMNFlEeSCQO1jnrE1pQ">
+      <parameters__OperationSignature parameterName="subject">
+        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
+      </parameters__OperationSignature>
+    </signatures__OperationInterface>
+    <signatures__OperationInterface id="_KQXeMtFlEeSCQO1jnrE1pQ" entityName="getBestSellers" returnType__OperationSignature="_KQXeMNFlEeSCQO1jnrE1pQ">
+      <parameters__OperationSignature parameterName="subject">
+        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
+      </parameters__OperationSignature>
+    </signatures__OperationInterface>
+    <signatures__OperationInterface id="_KQYFQNFlEeSCQO1jnrE1pQ" entityName="getRelated">
+      <parameters__OperationSignature parameterName="i_id">
+        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.0"/>
+      </parameters__OperationSignature>
+      <parameters__OperationSignature dataType__Parameter="_KQYsUNFlEeSCQO1jnrE1pQ" parameterName="i_id_vec"/>
+      <parameters__OperationSignature dataType__Parameter="_KQYsUdFlEeSCQO1jnrE1pQ" parameterName="i_thumbnail_vec"/>
+    </signatures__OperationInterface>
+    <signatures__OperationInterface id="_KQYsUtFlEeSCQO1jnrE1pQ" entityName="adminUpdate">
+      <parameters__OperationSignature parameterName="i_id">
+        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.0"/>
+      </parameters__OperationSignature>
+      <parameters__OperationSignature parameterName="cost">
+        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.3"/>
+      </parameters__OperationSignature>
+      <parameters__OperationSignature parameterName="image">
+        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
+      </parameters__OperationSignature>
+      <parameters__OperationSignature parameterName="thumbnail">
+        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
+      </parameters__OperationSignature>
+    </signatures__OperationInterface>
+    <signatures__OperationInterface id="_KQZTYNFlEeSCQO1jnrE1pQ" entityName="getUserName">
+      <parameters__OperationSignature parameterName="C_ID">
+        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.0"/>
+      </parameters__OperationSignature>
+      <returnType__OperationSignature xsi:type="repository:PrimitiveDataType" href="../../../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
+    </signatures__OperationInterface>
+    <signatures__OperationInterface id="_KQZ6cNFlEeSCQO1jnrE1pQ" entityName="getPassword">
+      <parameters__OperationSignature parameterName="C_UNAME">
+        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
+      </parameters__OperationSignature>
+      <returnType__OperationSignature xsi:type="repository:PrimitiveDataType" href="../../../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
+    </signatures__OperationInterface>
+    <signatures__OperationInterface id="_KQahgNFlEeSCQO1jnrE1pQ" entityName="getMostRecentOrder" returnType__OperationSignature="_KQahg9FlEeSCQO1jnrE1pQ">
+      <parameters__OperationSignature parameterName="c_uname">
+        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
+      </parameters__OperationSignature>
+      <parameters__OperationSignature dataType__Parameter="_KQahgdFlEeSCQO1jnrE1pQ" parameterName="order_lines"/>
+    </signatures__OperationInterface>
+    <signatures__OperationInterface id="_KQbIkNFlEeSCQO1jnrE1pQ" entityName="createEmptyCart">
+      <returnType__OperationSignature xsi:type="repository:PrimitiveDataType" href="../../../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.0"/>
+    </signatures__OperationInterface>
+    <signatures__OperationInterface id="_KQbIkdFlEeSCQO1jnrE1pQ" entityName="doCart" returnType__OperationSignature="_KQbvoNFlEeSCQO1jnrE1pQ">
+      <parameters__OperationSignature parameterName="SHOPPING_ID">
+        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.0"/>
+      </parameters__OperationSignature>
+      <parameters__OperationSignature parameterName="I_ID">
+        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.0"/>
+      </parameters__OperationSignature>
+      <parameters__OperationSignature dataType__Parameter="_KQYsUNFlEeSCQO1jnrE1pQ" parameterName="ids"/>
+      <parameters__OperationSignature dataType__Parameter="_KQYsUNFlEeSCQO1jnrE1pQ" parameterName="quantities"/>
+    </signatures__OperationInterface>
+    <signatures__OperationInterface id="_KQcWs9FlEeSCQO1jnrE1pQ" entityName="getCart" returnType__OperationSignature="_KQbvoNFlEeSCQO1jnrE1pQ">
+      <parameters__OperationSignature parameterName="SHOPPING_ID">
+        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.0"/>
+      </parameters__OperationSignature>
+      <parameters__OperationSignature parameterName="c_discount">
+        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.3"/>
+      </parameters__OperationSignature>
+    </signatures__OperationInterface>
+    <signatures__OperationInterface id="_KQcWtNFlEeSCQO1jnrE1pQ" entityName="refreshSession">
+      <parameters__OperationSignature parameterName="C_ID">
+        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.0"/>
+      </parameters__OperationSignature>
+    </signatures__OperationInterface>
+    <signatures__OperationInterface id="_KQcWtdFlEeSCQO1jnrE1pQ" entityName="createNewCustomer" returnType__OperationSignature="_KQVpANFlEeSCQO1jnrE1pQ">
+      <parameters__OperationSignature dataType__Parameter="_KQVpANFlEeSCQO1jnrE1pQ" parameterName="cust"/>
+    </signatures__OperationInterface>
+    <signatures__OperationInterface id="_KQcWttFlEeSCQO1jnrE1pQ" entityName="doBuyConfirm" returnType__OperationSignature="_KQey8NFlEeSCQO1jnrE1pQ">
+      <parameters__OperationSignature parameterName="shopping_id">
+        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.0"/>
+      </parameters__OperationSignature>
+      <parameters__OperationSignature parameterName="customer_id">
+        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.0"/>
+      </parameters__OperationSignature>
+      <parameters__OperationSignature parameterName="cc_type">
+        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
+      </parameters__OperationSignature>
+      <parameters__OperationSignature parameterName="cc_number">
+        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.0"/>
+      </parameters__OperationSignature>
+      <parameters__OperationSignature parameterName="cc_name">
+        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
+      </parameters__OperationSignature>
+      <parameters__OperationSignature dataType__Parameter="_KQVB8NFlEeSCQO1jnrE1pQ" parameterName="cc_expiry"/>
+      <parameters__OperationSignature parameterName="shipping">
+        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
+      </parameters__OperationSignature>
+    </signatures__OperationInterface>
+    <signatures__OperationInterface id="_KQey8dFlEeSCQO1jnrE1pQ" entityName="doBuyConfirm_1" returnType__OperationSignature="_KQey8NFlEeSCQO1jnrE1pQ">
+      <parameters__OperationSignature parameterName="shopping_id">
+        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.0"/>
+      </parameters__OperationSignature>
+      <parameters__OperationSignature parameterName="customer_id">
+        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.0"/>
+      </parameters__OperationSignature>
+      <parameters__OperationSignature parameterName="cc_type">
+        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
+      </parameters__OperationSignature>
+      <parameters__OperationSignature parameterName="cc_number">
+        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.0"/>
+      </parameters__OperationSignature>
+      <parameters__OperationSignature parameterName="cc_name">
+        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
+      </parameters__OperationSignature>
+      <parameters__OperationSignature dataType__Parameter="_KQVB8NFlEeSCQO1jnrE1pQ" parameterName="cc_expiry"/>
+      <parameters__OperationSignature parameterName="shipping">
+        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
+      </parameters__OperationSignature>
+      <parameters__OperationSignature parameterName="street_1">
+        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
+      </parameters__OperationSignature>
+      <parameters__OperationSignature parameterName="street_2">
+        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
+      </parameters__OperationSignature>
+      <parameters__OperationSignature parameterName="city">
+        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
+      </parameters__OperationSignature>
+      <parameters__OperationSignature parameterName="state">
+        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
+      </parameters__OperationSignature>
+      <parameters__OperationSignature parameterName="zip">
+        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
+      </parameters__OperationSignature>
+      <parameters__OperationSignature parameterName="country">
+        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
+      </parameters__OperationSignature>
+    </signatures__OperationInterface>
+  </interfaces__Repository>
+  <interfaces__Repository xsi:type="repository:OperationInterface" id="_KQh2QNFlEeSCQO1jnrE1pQ" entityName="Itpcw.TPCW_customer_registration_servlet">
+    <signatures__OperationInterface id="_KQh2QdFlEeSCQO1jnrE1pQ" entityName="doGet">
+      <parameters__OperationSignature dataType__Parameter="_KOMT8tFlEeSCQO1jnrE1pQ" parameterName="req"/>
+      <parameters__OperationSignature dataType__Parameter="_KONiENFlEeSCQO1jnrE1pQ" parameterName="res"/>
+    </signatures__OperationInterface>
+  </interfaces__Repository>
+  <interfaces__Repository xsi:type="repository:OperationInterface" id="_KQidUdFlEeSCQO1jnrE1pQ" entityName="Itpcw.TPCW_say_hello">
+    <signatures__OperationInterface id="_KQidUtFlEeSCQO1jnrE1pQ" entityName="print_hello">
+      <parameters__OperationSignature dataType__Parameter="_KQidU9FlEeSCQO1jnrE1pQ" parameterName="session"/>
+      <parameters__OperationSignature dataType__Parameter="_KOMT8tFlEeSCQO1jnrE1pQ" parameterName="req"/>
+      <parameters__OperationSignature dataType__Parameter="_KORMc9FlEeSCQO1jnrE1pQ" parameterName="out"/>
+    </signatures__OperationInterface>
+  </interfaces__Repository>
+  <interfaces__Repository xsi:type="repository:OperationInterface" id="_KQjrctFlEeSCQO1jnrE1pQ" entityName="Itpcw.TPCW_new_products_servlet">
+    <signatures__OperationInterface id="_KQjrc9FlEeSCQO1jnrE1pQ" entityName="doGet">
+      <parameters__OperationSignature dataType__Parameter="_KOMT8tFlEeSCQO1jnrE1pQ" parameterName="req"/>
+      <parameters__OperationSignature dataType__Parameter="_KONiENFlEeSCQO1jnrE1pQ" parameterName="res"/>
+    </signatures__OperationInterface>
+  </interfaces__Repository>
+  <interfaces__Repository xsi:type="repository:OperationInterface" id="_KRVHgdFlEeSCQO1jnrE1pQ" entityName="Itpcw.TPCW_search_request_servlet">
+    <signatures__OperationInterface id="_KRVHgtFlEeSCQO1jnrE1pQ" entityName="doGet">
+      <parameters__OperationSignature dataType__Parameter="_KOMT8tFlEeSCQO1jnrE1pQ" parameterName="req"/>
+      <parameters__OperationSignature dataType__Parameter="_KONiENFlEeSCQO1jnrE1pQ" parameterName="res"/>
+    </signatures__OperationInterface>
+  </interfaces__Repository>
+  <interfaces__Repository xsi:type="repository:OperationInterface" id="_KRWVoNFlEeSCQO1jnrE1pQ" entityName="Itpcw.DatabaseProperties">
+    <signatures__OperationInterface id="_KRWVodFlEeSCQO1jnrE1pQ" entityName="checkPropertiesFile">
+      <returnType__OperationSignature xsi:type="repository:PrimitiveDataType" href="../../../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.2"/>
+    </signatures__OperationInterface>
+    <signatures__OperationInterface id="_KRWVotFlEeSCQO1jnrE1pQ" entityName="getDatabaseURL">
+      <returnType__OperationSignature xsi:type="repository:PrimitiveDataType" href="../../../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
+    </signatures__OperationInterface>
+    <signatures__OperationInterface id="_KRW8sNFlEeSCQO1jnrE1pQ" entityName="getDatabaseDriver">
+      <returnType__OperationSignature xsi:type="repository:PrimitiveDataType" href="../../../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
+    </signatures__OperationInterface>
+    <signatures__OperationInterface id="_KRW8sdFlEeSCQO1jnrE1pQ" entityName="getDatabaseUsername">
+      <returnType__OperationSignature xsi:type="repository:PrimitiveDataType" href="../../../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
+    </signatures__OperationInterface>
+    <signatures__OperationInterface id="_KRW8stFlEeSCQO1jnrE1pQ" entityName="getDatabasePassword">
+      <returnType__OperationSignature xsi:type="repository:PrimitiveDataType" href="../../../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
+    </signatures__OperationInterface>
+  </interfaces__Repository>
+  <interfaces__Repository xsi:type="repository:OperationInterface" id="_KRYK0NFlEeSCQO1jnrE1pQ" entityName="Itpcw.TPCW_order_inquiry_servlet">
+    <signatures__OperationInterface id="_KRYK0dFlEeSCQO1jnrE1pQ" entityName="doGet">
+      <parameters__OperationSignature dataType__Parameter="_KOMT8tFlEeSCQO1jnrE1pQ" parameterName="req"/>
+      <parameters__OperationSignature dataType__Parameter="_KONiENFlEeSCQO1jnrE1pQ" parameterName="res"/>
+    </signatures__OperationInterface>
+  </interfaces__Repository>
+  <interfaces__Repository xsi:type="repository:OperationInterface" id="_KRZY8tFlEeSCQO1jnrE1pQ" entityName="Itpcw.TPCW_best_sellers_servlet">
+    <signatures__OperationInterface id="_KRZY89FlEeSCQO1jnrE1pQ" entityName="doGet">
+      <parameters__OperationSignature dataType__Parameter="_KOMT8tFlEeSCQO1jnrE1pQ" parameterName="req"/>
+      <parameters__OperationSignature dataType__Parameter="_KONiENFlEeSCQO1jnrE1pQ" parameterName="res"/>
+    </signatures__OperationInterface>
+  </interfaces__Repository>
+  <interfaces__Repository xsi:type="repository:OperationInterface" id="_KRbOItFlEeSCQO1jnrE1pQ" entityName="Itpcw.TPCW_shopping_cart_interaction">
+    <signatures__OperationInterface id="_KRbOI9FlEeSCQO1jnrE1pQ" entityName="doGet">
+      <parameters__OperationSignature dataType__Parameter="_KOMT8tFlEeSCQO1jnrE1pQ" parameterName="req"/>
+      <parameters__OperationSignature dataType__Parameter="_KONiENFlEeSCQO1jnrE1pQ" parameterName="res"/>
+    </signatures__OperationInterface>
+  </interfaces__Repository>
+  <interfaces__Repository xsi:type="repository:OperationInterface" id="_KRccQdFlEeSCQO1jnrE1pQ" entityName="Itpcw.TPCW_product_detail_servlet">
+    <signatures__OperationInterface id="_KRccQtFlEeSCQO1jnrE1pQ" entityName="doGet">
+      <parameters__OperationSignature dataType__Parameter="_KOMT8tFlEeSCQO1jnrE1pQ" parameterName="req"/>
+      <parameters__OperationSignature dataType__Parameter="_KONiENFlEeSCQO1jnrE1pQ" parameterName="res"/>
+    </signatures__OperationInterface>
+  </interfaces__Repository>
+  <interfaces__Repository xsi:type="repository:OperationInterface" id="_KSflINFlEeSCQO1jnrE1pQ" entityName="Itpcw.TPCW_buy_request_servlet">
+    <signatures__OperationInterface id="_KSflIdFlEeSCQO1jnrE1pQ" entityName="doGet">
+      <parameters__OperationSignature dataType__Parameter="_KOMT8tFlEeSCQO1jnrE1pQ" parameterName="req"/>
+      <parameters__OperationSignature dataType__Parameter="_KONiENFlEeSCQO1jnrE1pQ" parameterName="res"/>
+    </signatures__OperationInterface>
+  </interfaces__Repository>
+  <interfaces__Repository xsi:type="repository:OperationInterface" id="_KShaUdFlEeSCQO1jnrE1pQ" entityName="Itpcw.TPCW_admin_request_servlet">
+    <signatures__OperationInterface id="_KShaUtFlEeSCQO1jnrE1pQ" entityName="doGet">
+      <parameters__OperationSignature dataType__Parameter="_KOMT8tFlEeSCQO1jnrE1pQ" parameterName="req"/>
+      <parameters__OperationSignature dataType__Parameter="_KONiENFlEeSCQO1jnrE1pQ" parameterName="res"/>
+    </signatures__OperationInterface>
+  </interfaces__Repository>
+  <interfaces__Repository xsi:type="repository:OperationInterface" id="_KSj2kdFlEeSCQO1jnrE1pQ" entityName="Itpcw.TPCW_buy_confirm_servlet">
+    <signatures__OperationInterface id="_KSj2ktFlEeSCQO1jnrE1pQ" entityName="doGet">
+      <parameters__OperationSignature dataType__Parameter="_KOMT8tFlEeSCQO1jnrE1pQ" parameterName="req"/>
+      <parameters__OperationSignature dataType__Parameter="_KONiENFlEeSCQO1jnrE1pQ" parameterName="res"/>
+    </signatures__OperationInterface>
+  </interfaces__Repository>
+  <interfaces__Repository xsi:type="repository:OperationInterface" id="_KThf4dFlEeSCQO1jnrE1pQ" entityName="Itpcw.TPCW_order_display_servlet">
+    <signatures__OperationInterface id="_KThf4tFlEeSCQO1jnrE1pQ" entityName="doGet">
+      <parameters__OperationSignature dataType__Parameter="_KOMT8tFlEeSCQO1jnrE1pQ" parameterName="req"/>
+      <parameters__OperationSignature dataType__Parameter="_KONiENFlEeSCQO1jnrE1pQ" parameterName="res"/>
+    </signatures__OperationInterface>
+  </interfaces__Repository>
+  <interfaces__Repository xsi:type="repository:OperationInterface" id="_KTj8IdFlEeSCQO1jnrE1pQ" entityName="Itpcw.TPCW_admin_response_servlet">
+    <signatures__OperationInterface id="_KTj8ItFlEeSCQO1jnrE1pQ" entityName="doGet">
+      <parameters__OperationSignature dataType__Parameter="_KOMT8tFlEeSCQO1jnrE1pQ" parameterName="req"/>
+      <parameters__OperationSignature dataType__Parameter="_KONiENFlEeSCQO1jnrE1pQ" parameterName="res"/>
+    </signatures__OperationInterface>
+  </interfaces__Repository>
+  <dataTypes__Repository xsi:type="repository:CompositeDataType" id="_KOMT8tFlEeSCQO1jnrE1pQ" entityName="HttpServletRequest"/>
+  <dataTypes__Repository xsi:type="repository:CompositeDataType" id="_KONiENFlEeSCQO1jnrE1pQ" entityName="HttpServletResponse"/>
+  <dataTypes__Repository xsi:type="repository:CompositeDataType" id="_KORMc9FlEeSCQO1jnrE1pQ" entityName="PrintWriter"/>
+  <dataTypes__Repository xsi:type="repository:CollectionDataType" id="_KQUa4NFlEeSCQO1jnrE1pQ" entityName="String[]">
+    <innerType_CollectionDataType xsi:type="repository:PrimitiveDataType" href="../../../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
+  </dataTypes__Repository>
+  <dataTypes__Repository xsi:type="repository:CompositeDataType" id="_KQUa4tFlEeSCQO1jnrE1pQ" entityName="Book">
+    <innerDeclaration_CompositeDataType entityName="Date" datatype_InnerDeclaration="_KQVB8NFlEeSCQO1jnrE1pQ"/>
+    <innerDeclaration_CompositeDataType entityName="double">
+      <datatype_InnerDeclaration xsi:type="repository:PrimitiveDataType" href="../../../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.3"/>
+    </innerDeclaration_CompositeDataType>
+    <innerDeclaration_CompositeDataType entityName="ResultSet" datatype_InnerDeclaration="_KQVB8dFlEeSCQO1jnrE1pQ"/>
+    <innerDeclaration_CompositeDataType entityName="String">
+      <datatype_InnerDeclaration xsi:type="repository:PrimitiveDataType" href="../../../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
+    </innerDeclaration_CompositeDataType>
+    <innerDeclaration_CompositeDataType entityName="Exception" datatype_InnerDeclaration="_KQVB8tFlEeSCQO1jnrE1pQ"/>
+    <innerDeclaration_CompositeDataType entityName="int">
+      <datatype_InnerDeclaration xsi:type="repository:PrimitiveDataType" href="../../../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.0"/>
+    </innerDeclaration_CompositeDataType>
+  </dataTypes__Repository>
+  <dataTypes__Repository xsi:type="repository:CompositeDataType" id="_KQVB8NFlEeSCQO1jnrE1pQ" entityName="Date"/>
+  <dataTypes__Repository xsi:type="repository:CompositeDataType" id="_KQVB8dFlEeSCQO1jnrE1pQ" entityName="ResultSet"/>
+  <dataTypes__Repository xsi:type="repository:CompositeDataType" id="_KQVB8tFlEeSCQO1jnrE1pQ" entityName="Exception"/>
+  <dataTypes__Repository xsi:type="repository:CompositeDataType" id="_KQVpANFlEeSCQO1jnrE1pQ" entityName="Customer">
+    <innerDeclaration_CompositeDataType entityName="Date" datatype_InnerDeclaration="_KQVB8NFlEeSCQO1jnrE1pQ"/>
+    <innerDeclaration_CompositeDataType entityName="ResultSet" datatype_InnerDeclaration="_KQVB8dFlEeSCQO1jnrE1pQ"/>
+    <innerDeclaration_CompositeDataType entityName="double">
+      <datatype_InnerDeclaration xsi:type="repository:PrimitiveDataType" href="../../../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.3"/>
+    </innerDeclaration_CompositeDataType>
+    <innerDeclaration_CompositeDataType entityName="String">
+      <datatype_InnerDeclaration xsi:type="repository:PrimitiveDataType" href="../../../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
+    </innerDeclaration_CompositeDataType>
+    <innerDeclaration_CompositeDataType entityName="Exception" datatype_InnerDeclaration="_KQVB8tFlEeSCQO1jnrE1pQ"/>
+    <innerDeclaration_CompositeDataType entityName="int">
+      <datatype_InnerDeclaration xsi:type="repository:PrimitiveDataType" href="../../../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.0"/>
+    </innerDeclaration_CompositeDataType>
+  </dataTypes__Repository>
+  <dataTypes__Repository xsi:type="repository:CompositeDataType" id="_KQWQENFlEeSCQO1jnrE1pQ" entityName="Vector&lt;Book>">
+    <innerDeclaration_CompositeDataType entityName="Vector" datatype_InnerDeclaration="_KQWQEdFlEeSCQO1jnrE1pQ"/>
+    <innerDeclaration_CompositeDataType entityName="Book" datatype_InnerDeclaration="_KQUa4tFlEeSCQO1jnrE1pQ"/>
+  </dataTypes__Repository>
+  <dataTypes__Repository xsi:type="repository:CompositeDataType" id="_KQWQEdFlEeSCQO1jnrE1pQ" entityName="Vector"/>
+  <dataTypes__Repository xsi:type="repository:CompositeDataType" id="_KQXeMNFlEeSCQO1jnrE1pQ" entityName="Vector&lt;ShortBook>">
+    <innerDeclaration_CompositeDataType entityName="ShortBook" datatype_InnerDeclaration="_KQXeMdFlEeSCQO1jnrE1pQ"/>
+    <innerDeclaration_CompositeDataType entityName="Vector" datatype_InnerDeclaration="_KQWQEdFlEeSCQO1jnrE1pQ"/>
+  </dataTypes__Repository>
+  <dataTypes__Repository xsi:type="repository:CompositeDataType" id="_KQXeMdFlEeSCQO1jnrE1pQ" entityName="ShortBook">
+    <innerDeclaration_CompositeDataType entityName="ResultSet" datatype_InnerDeclaration="_KQVB8dFlEeSCQO1jnrE1pQ"/>
+    <innerDeclaration_CompositeDataType entityName="String">
+      <datatype_InnerDeclaration xsi:type="repository:PrimitiveDataType" href="../../../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
+    </innerDeclaration_CompositeDataType>
+    <innerDeclaration_CompositeDataType entityName="Exception" datatype_InnerDeclaration="_KQVB8tFlEeSCQO1jnrE1pQ"/>
+    <innerDeclaration_CompositeDataType entityName="int">
+      <datatype_InnerDeclaration xsi:type="repository:PrimitiveDataType" href="../../../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.0"/>
+    </innerDeclaration_CompositeDataType>
+  </dataTypes__Repository>
+  <dataTypes__Repository xsi:type="repository:CompositeDataType" id="_KQYsUNFlEeSCQO1jnrE1pQ" entityName="Vector&lt;Integer>">
+    <innerDeclaration_CompositeDataType entityName="Vector" datatype_InnerDeclaration="_KQWQEdFlEeSCQO1jnrE1pQ"/>
+    <innerDeclaration_CompositeDataType entityName="Integer">
+      <datatype_InnerDeclaration xsi:type="repository:PrimitiveDataType" href="../../../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.0"/>
+    </innerDeclaration_CompositeDataType>
+  </dataTypes__Repository>
+  <dataTypes__Repository xsi:type="repository:CompositeDataType" id="_KQYsUdFlEeSCQO1jnrE1pQ" entityName="Vector&lt;String>">
+    <innerDeclaration_CompositeDataType entityName="String">
+      <datatype_InnerDeclaration xsi:type="repository:PrimitiveDataType" href="../../../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
+    </innerDeclaration_CompositeDataType>
+    <innerDeclaration_CompositeDataType entityName="Vector" datatype_InnerDeclaration="_KQWQEdFlEeSCQO1jnrE1pQ"/>
+  </dataTypes__Repository>
+  <dataTypes__Repository xsi:type="repository:CompositeDataType" id="_KQahgdFlEeSCQO1jnrE1pQ" entityName="Vector&lt;OrderLine>">
+    <innerDeclaration_CompositeDataType entityName="Vector" datatype_InnerDeclaration="_KQWQEdFlEeSCQO1jnrE1pQ"/>
+    <innerDeclaration_CompositeDataType entityName="OrderLine" datatype_InnerDeclaration="_KQahgtFlEeSCQO1jnrE1pQ"/>
+  </dataTypes__Repository>
+  <dataTypes__Repository xsi:type="repository:CompositeDataType" id="_KQahgtFlEeSCQO1jnrE1pQ" entityName="OrderLine">
+    <innerDeclaration_CompositeDataType entityName="double">
+      <datatype_InnerDeclaration xsi:type="repository:PrimitiveDataType" href="../../../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.3"/>
+    </innerDeclaration_CompositeDataType>
+    <innerDeclaration_CompositeDataType entityName="ResultSet" datatype_InnerDeclaration="_KQVB8dFlEeSCQO1jnrE1pQ"/>
+    <innerDeclaration_CompositeDataType entityName="String">
+      <datatype_InnerDeclaration xsi:type="repository:PrimitiveDataType" href="../../../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
+    </innerDeclaration_CompositeDataType>
+    <innerDeclaration_CompositeDataType entityName="Exception" datatype_InnerDeclaration="_KQVB8tFlEeSCQO1jnrE1pQ"/>
+    <innerDeclaration_CompositeDataType entityName="int">
+      <datatype_InnerDeclaration xsi:type="repository:PrimitiveDataType" href="../../../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.0"/>
+    </innerDeclaration_CompositeDataType>
+  </dataTypes__Repository>
+  <dataTypes__Repository xsi:type="repository:CompositeDataType" id="_KQahg9FlEeSCQO1jnrE1pQ" entityName="Order">
+    <innerDeclaration_CompositeDataType entityName="Date" datatype_InnerDeclaration="_KQVB8NFlEeSCQO1jnrE1pQ"/>
+    <innerDeclaration_CompositeDataType entityName="double">
+      <datatype_InnerDeclaration xsi:type="repository:PrimitiveDataType" href="../../../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.3"/>
+    </innerDeclaration_CompositeDataType>
+    <innerDeclaration_CompositeDataType entityName="ResultSet" datatype_InnerDeclaration="_KQVB8dFlEeSCQO1jnrE1pQ"/>
+    <innerDeclaration_CompositeDataType entityName="String">
+      <datatype_InnerDeclaration xsi:type="repository:PrimitiveDataType" href="../../../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
+    </innerDeclaration_CompositeDataType>
+    <innerDeclaration_CompositeDataType entityName="Exception" datatype_InnerDeclaration="_KQVB8tFlEeSCQO1jnrE1pQ"/>
+    <innerDeclaration_CompositeDataType entityName="int">
+      <datatype_InnerDeclaration xsi:type="repository:PrimitiveDataType" href="../../../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.0"/>
+    </innerDeclaration_CompositeDataType>
+  </dataTypes__Repository>
+  <dataTypes__Repository xsi:type="repository:CompositeDataType" id="_KQbvoNFlEeSCQO1jnrE1pQ" entityName="Cart">
+    <innerDeclaration_CompositeDataType entityName="CartLine" datatype_InnerDeclaration="_KQcWsNFlEeSCQO1jnrE1pQ"/>
+    <innerDeclaration_CompositeDataType entityName="Vector&lt;CartLine>" datatype_InnerDeclaration="_KQcWsdFlEeSCQO1jnrE1pQ"/>
+    <innerDeclaration_CompositeDataType entityName="ResultSet" datatype_InnerDeclaration="_KQVB8dFlEeSCQO1jnrE1pQ"/>
+    <innerDeclaration_CompositeDataType entityName="double">
+      <datatype_InnerDeclaration xsi:type="repository:PrimitiveDataType" href="../../../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.3"/>
+    </innerDeclaration_CompositeDataType>
+    <innerDeclaration_CompositeDataType entityName="Vector&lt;CartLine>" datatype_InnerDeclaration="_KQcWsdFlEeSCQO1jnrE1pQ"/>
+    <innerDeclaration_CompositeDataType entityName="SQLException" datatype_InnerDeclaration="_KQcWstFlEeSCQO1jnrE1pQ"/>
+    <innerDeclaration_CompositeDataType entityName="int">
+      <datatype_InnerDeclaration xsi:type="repository:PrimitiveDataType" href="../../../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.0"/>
+    </innerDeclaration_CompositeDataType>
+  </dataTypes__Repository>
+  <dataTypes__Repository xsi:type="repository:CompositeDataType" id="_KQcWsNFlEeSCQO1jnrE1pQ" entityName="CartLine">
+    <innerDeclaration_CompositeDataType entityName="double">
+      <datatype_InnerDeclaration xsi:type="repository:PrimitiveDataType" href="../../../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.3"/>
+    </innerDeclaration_CompositeDataType>
+    <innerDeclaration_CompositeDataType entityName="String">
+      <datatype_InnerDeclaration xsi:type="repository:PrimitiveDataType" href="../../../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
+    </innerDeclaration_CompositeDataType>
+    <innerDeclaration_CompositeDataType entityName="int">
+      <datatype_InnerDeclaration xsi:type="repository:PrimitiveDataType" href="../../../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.0"/>
+    </innerDeclaration_CompositeDataType>
+  </dataTypes__Repository>
+  <dataTypes__Repository xsi:type="repository:CompositeDataType" id="_KQcWsdFlEeSCQO1jnrE1pQ" entityName="Vector&lt;CartLine>">
+    <innerDeclaration_CompositeDataType entityName="CartLine" datatype_InnerDeclaration="_KQcWsNFlEeSCQO1jnrE1pQ"/>
+    <innerDeclaration_CompositeDataType entityName="Vector" datatype_InnerDeclaration="_KQWQEdFlEeSCQO1jnrE1pQ"/>
+  </dataTypes__Repository>
+  <dataTypes__Repository xsi:type="repository:CompositeDataType" id="_KQcWstFlEeSCQO1jnrE1pQ" entityName="SQLException"/>
+  <dataTypes__Repository xsi:type="repository:CompositeDataType" id="_KQey8NFlEeSCQO1jnrE1pQ" entityName="BuyConfirmResult">
+    <innerDeclaration_CompositeDataType entityName="Cart" datatype_InnerDeclaration="_KQbvoNFlEeSCQO1jnrE1pQ"/>
+    <innerDeclaration_CompositeDataType entityName="int">
+      <datatype_InnerDeclaration xsi:type="repository:PrimitiveDataType" href="../../../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.0"/>
+    </innerDeclaration_CompositeDataType>
+  </dataTypes__Repository>
+  <dataTypes__Repository xsi:type="repository:CompositeDataType" id="_KQidU9FlEeSCQO1jnrE1pQ" entityName="HttpSession"/>
+</repository:Repository>

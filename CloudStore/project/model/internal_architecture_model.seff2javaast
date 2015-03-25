@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="ASCII"?>
+<org.somox:SEFF2JavaAST xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.somox="http://www.somox.org/seff2method/1.0" xmlns:seff="http://sdq.ipd.uka.de/PalladioComponentModel/SEFF/5.0">
+  <seff2MethodMappings>
+    <blockstatement href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.1/@body"/>
+    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_O4gWkdLcEeSqWO_QnsIeEw"/>
+  </seff2MethodMappings>
+  <seff2MethodMappings>
+    <blockstatement href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.1/@body"/>
+    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_O4gWk9LcEeSqWO_QnsIeEw"/>
+  </seff2MethodMappings>
+  <seff2MethodMappings>
+    <blockstatement href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.1/@body"/>
+    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_O4gWldLcEeSqWO_QnsIeEw"/>
+  </seff2MethodMappings>
+  <seff2MethodMappings>
+    <blockstatement href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.3/@bodyDeclarations.1/@body"/>
+    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_O4g9oNLcEeSqWO_QnsIeEw"/>
+  </seff2MethodMappings>
+  <seff2MethodMappings>
+    <blockstatement href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.3/@bodyDeclarations.2/@body"/>
+    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_O4g9odLcEeSqWO_QnsIeEw"/>
+  </seff2MethodMappings>
+  <seff2MethodMappings>
+    <blockstatement href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.3/@bodyDeclarations.3/@body"/>
+    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_O4g9otLcEeSqWO_QnsIeEw"/>
+  </seff2MethodMappings>
+  <seff2MethodMappings>
+    <blockstatement href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.3/@bodyDeclarations.5/@body"/>
+    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_O4g9o9LcEeSqWO_QnsIeEw"/>
+  </seff2MethodMappings>
+  <seff2MethodMappings>
+    <blockstatement href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.1/@body"/>
+    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_O4g9pdLcEeSqWO_QnsIeEw"/>
+  </seff2MethodMappings>
+  <seff2MethodMappings>
+    <blockstatement href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.1/@body"/>
+    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_O4g9p9LcEeSqWO_QnsIeEw"/>
+  </seff2MethodMappings>
+  <seff2MethodMappings>
+    <blockstatement href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.1/@body"/>
+    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_O4g9qdLcEeSqWO_QnsIeEw"/>
+  </seff2MethodMappings>
+  <seff2MethodMappings>
+    <blockstatement href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.1/@body"/>
+    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_O4g9q9LcEeSqWO_QnsIeEw"/>
+  </seff2MethodMappings>
+  <seff2MethodMappings>
+    <blockstatement href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.1/@body"/>
+    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_O4g9rdLcEeSqWO_QnsIeEw"/>
+  </seff2MethodMappings>
+  <seff2MethodMappings>
+    <blockstatement href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.1/@body"/>
+    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_O4g9r9LcEeSqWO_QnsIeEw"/>
+  </seff2MethodMappings>
+  <seff2MethodMappings>
+    <blockstatement href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.1/@body"/>
+    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_O4g9sdLcEeSqWO_QnsIeEw"/>
+  </seff2MethodMappings>
+  <seff2MethodMappings>
+    <blockstatement href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.1/@body"/>
+    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_O4g9s9LcEeSqWO_QnsIeEw"/>
+  </seff2MethodMappings>
+  <seff2MethodMappings>
+    <blockstatement href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.21/@bodyDeclarations.0/@body"/>
+    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_O4g9tdLcEeSqWO_QnsIeEw"/>
+  </seff2MethodMappings>
+  <seff2MethodMappings>
+    <blockstatement href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.22/@bodyDeclarations.7/@body"/>
+    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_O4g9t9LcEeSqWO_QnsIeEw"/>
+  </seff2MethodMappings>
+  <seff2MethodMappings>
+    <blockstatement href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.22/@bodyDeclarations.8/@body"/>
+    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_O4g9uNLcEeSqWO_QnsIeEw"/>
+  </seff2MethodMappings>
+  <seff2MethodMappings>
+    <blockstatement href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.22/@bodyDeclarations.9/@body"/>
+    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_O4g9udLcEeSqWO_QnsIeEw"/>
+  </seff2MethodMappings>
+  <seff2MethodMappings>
+    <blockstatement href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.22/@bodyDeclarations.10/@body"/>
+    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_O4g9utLcEeSqWO_QnsIeEw"/>
+  </seff2MethodMappings>
+  <seff2MethodMappings>
+    <blockstatement href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.22/@bodyDeclarations.11/@body"/>
+    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_O4g9u9LcEeSqWO_QnsIeEw"/>
+  </seff2MethodMappings>
+  <seff2MethodMappings>
+    <blockstatement href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.1/@body"/>
+    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_O4g9vdLcEeSqWO_QnsIeEw"/>
+  </seff2MethodMappings>
+  <seff2MethodMappings>
+    <blockstatement href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.24/@bodyDeclarations.0/@body"/>
+    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_O4g9v9LcEeSqWO_QnsIeEw"/>
+  </seff2MethodMappings>
+  <seff2MethodMappings>
+    <blockstatement href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.1/@body"/>
+    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_O4hksdLcEeSqWO_QnsIeEw"/>
+  </seff2MethodMappings>
+  <seff2MethodMappings>
+    <blockstatement href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.26/@bodyDeclarations.12/@body"/>
+    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_O4hks9LcEeSqWO_QnsIeEw"/>
+  </seff2MethodMappings>
+  <seff2MethodMappings>
+    <blockstatement href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.26/@bodyDeclarations.13/@body"/>
+    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_O4hktNLcEeSqWO_QnsIeEw"/>
+  </seff2MethodMappings>
+  <seff2MethodMappings>
+    <blockstatement href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.26/@bodyDeclarations.14/@body"/>
+    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_O4hktdLcEeSqWO_QnsIeEw"/>
+  </seff2MethodMappings>
+  <seff2MethodMappings>
+    <blockstatement href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.26/@bodyDeclarations.15/@body"/>
+    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_O4hkttLcEeSqWO_QnsIeEw"/>
+  </seff2MethodMappings>
+  <seff2MethodMappings>
+    <blockstatement href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.26/@bodyDeclarations.16/@body"/>
+    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_O4hkt9LcEeSqWO_QnsIeEw"/>
+  </seff2MethodMappings>
+  <seff2MethodMappings>
+    <blockstatement href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.26/@bodyDeclarations.17/@body"/>
+    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_O4hkuNLcEeSqWO_QnsIeEw"/>
+  </seff2MethodMappings>
+  <seff2MethodMappings>
+    <blockstatement href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.26/@bodyDeclarations.18/@body"/>
+    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_O4hkudLcEeSqWO_QnsIeEw"/>
+  </seff2MethodMappings>
+  <seff2MethodMappings>
+    <blockstatement href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.26/@bodyDeclarations.19/@body"/>
+    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_O4hkutLcEeSqWO_QnsIeEw"/>
+  </seff2MethodMappings>
+  <seff2MethodMappings>
+    <blockstatement href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.26/@bodyDeclarations.20/@body"/>
+    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_O4hku9LcEeSqWO_QnsIeEw"/>
+  </seff2MethodMappings>
+  <seff2MethodMappings>
+    <blockstatement href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.26/@bodyDeclarations.21/@body"/>
+    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_O4hkvNLcEeSqWO_QnsIeEw"/>
+  </seff2MethodMappings>
+  <seff2MethodMappings>
+    <blockstatement href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.26/@bodyDeclarations.22/@body"/>
+    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_O4hkvdLcEeSqWO_QnsIeEw"/>
+  </seff2MethodMappings>
+  <seff2MethodMappings>
+    <blockstatement href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.26/@bodyDeclarations.23/@body"/>
+    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_O4hkvtLcEeSqWO_QnsIeEw"/>
+  </seff2MethodMappings>
+  <seff2MethodMappings>
+    <blockstatement href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.26/@bodyDeclarations.25/@body"/>
+    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_O4hkv9LcEeSqWO_QnsIeEw"/>
+  </seff2MethodMappings>
+  <seff2MethodMappings>
+    <blockstatement href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.26/@bodyDeclarations.26/@body"/>
+    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_O4iLwNLcEeSqWO_QnsIeEw"/>
+  </seff2MethodMappings>
+  <seff2MethodMappings>
+    <blockstatement href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.26/@bodyDeclarations.27/@body"/>
+    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_O4iLwdLcEeSqWO_QnsIeEw"/>
+  </seff2MethodMappings>
+  <seff2MethodMappings>
+    <blockstatement href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.26/@bodyDeclarations.32/@body"/>
+    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_O4iLwtLcEeSqWO_QnsIeEw"/>
+  </seff2MethodMappings>
+  <seff2MethodMappings>
+    <blockstatement href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.26/@bodyDeclarations.34/@body"/>
+    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_O4iLw9LcEeSqWO_QnsIeEw"/>
+  </seff2MethodMappings>
+  <seff2MethodMappings>
+    <blockstatement href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.26/@bodyDeclarations.35/@body"/>
+    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_O4iLxNLcEeSqWO_QnsIeEw"/>
+  </seff2MethodMappings>
+  <seff2MethodMappings>
+    <blockstatement href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.26/@bodyDeclarations.36/@body"/>
+    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_O4iLxdLcEeSqWO_QnsIeEw"/>
+  </seff2MethodMappings>
+  <seff2MethodMappings>
+    <blockstatement href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.26/@bodyDeclarations.37/@body"/>
+    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_O4iLxtLcEeSqWO_QnsIeEw"/>
+  </seff2MethodMappings>
+  <seff2MethodMappings>
+    <blockstatement href="../../CloudStore-Extractor/result/cloudstore_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.1/@body"/>
+    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_O4iLyNLcEeSqWO_QnsIeEw"/>
+  </seff2MethodMappings>
+</org.somox:SEFF2JavaAST>

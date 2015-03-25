@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="ASCII"?>
+<system:System xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:composition="http://sdq.ipd.uka.de/PalladioComponentModel/Core/Composition/5.0" xmlns:repository="http://sdq.ipd.uka.de/PalladioComponentModel/Repository/5.0" xmlns:system="http://sdq.ipd.uka.de/PalladioComponentModel/System/5.0" id="_OwNWMNLcEeSqWO_QnsIeEw" entityName="SoMoX Reverse Engineered System">
+  <assemblyContexts__ComposedStructure id="_O8T4gNLcEeSqWO_QnsIeEw" entityName=" &lt;PC No. 19 tpcw.TPCW_best_sellers_servlet tpcw.TPCW_admin_request_servlet tpcw.TPCW_new_products_servlet tpcw.TPCW_Util tpcw.TPCW_shopping_cart_interaction tpcw.TPCW_order_display_servlet tpcw.TPCW_execute_search tpcw.TPCW_buy_confirm_servlet tpcw.TPCW_buy_request_servlet tpcw.TPCW_customer_registration_servlet tpcw.TPCW_product_detail_servlet tpcw.TPCW_admin_response_servlet tpcw.TPCW_say_hello tpcw.DatabaseProperties tpcw.TPCW_home_interaction tpcw.TPCW_promotional_processing tpcw.TPCW_order_inquiry_servlet tpcw.TPCW_Database tpcw.TPCW_search_request_servlet>">
+    <encapsulatedComponent__AssemblyContext xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_O322UNLcEeSqWO_QnsIeEw"/>
+  </assemblyContexts__ComposedStructure>
+  <assemblyContexts__ComposedStructure id="_O8WUwdLcEeSqWO_QnsIeEw" entityName="SoMoX Dummy Component Instance">
+    <encapsulatedComponent__AssemblyContext xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_O8WUwNLcEeSqWO_QnsIeEw"/>
+  </assemblyContexts__ComposedStructure>
+  <connectors__ComposedStructure xsi:type="composition:ProvidedDelegationConnector" id="_O8VGoNLcEeSqWO_QnsIeEw" entityName="Itpcw.TPCW_best_sellers_servlet" outerProvidedRole_ProvidedDelegationConnector="_O8UfkdLcEeSqWO_QnsIeEw" assemblyContext_ProvidedDelegationConnector="_O8T4gNLcEeSqWO_QnsIeEw">
+    <innerProvidedRole_ProvidedDelegationConnector href="internal_architecture_model.repository#_O4gWkNLcEeSqWO_QnsIeEw"/>
+  </connectors__ComposedStructure>
+  <connectors__ComposedStructure xsi:type="composition:ProvidedDelegationConnector" id="_O8VtsdLcEeSqWO_QnsIeEw" entityName="Itpcw.TPCW_admin_request_servlet" outerProvidedRole_ProvidedDelegationConnector="_O8VtsNLcEeSqWO_QnsIeEw" assemblyContext_ProvidedDelegationConnector="_O8T4gNLcEeSqWO_QnsIeEw">
+    <innerProvidedRole_ProvidedDelegationConnector href="internal_architecture_model.repository#_O4gWktLcEeSqWO_QnsIeEw"/>
+  </connectors__ComposedStructure>
+  <connectors__ComposedStructure xsi:type="composition:ProvidedDelegationConnector" id="_O8Vts9LcEeSqWO_QnsIeEw" entityName="Itpcw.TPCW_new_products_servlet" outerProvidedRole_ProvidedDelegationConnector="_O8VtstLcEeSqWO_QnsIeEw" assemblyContext_ProvidedDelegationConnector="_O8T4gNLcEeSqWO_QnsIeEw">
+    <innerProvidedRole_ProvidedDelegationConnector href="internal_architecture_model.repository#_O4gWlNLcEeSqWO_QnsIeEw"/>
+  </connectors__ComposedStructure>
+  <connectors__ComposedStructure xsi:type="composition:ProvidedDelegationConnector" id="_O8VttdLcEeSqWO_QnsIeEw" entityName="Itpcw.TPCW_Util" outerProvidedRole_ProvidedDelegationConnector="_O8VttNLcEeSqWO_QnsIeEw" assemblyContext_ProvidedDelegationConnector="_O8T4gNLcEeSqWO_QnsIeEw">
+    <innerProvidedRole_ProvidedDelegationConnector href="internal_architecture_model.repository#_O4gWltLcEeSqWO_QnsIeEw"/>
+  </connectors__ComposedStructure>
+  <connectors__ComposedStructure xsi:type="composition:ProvidedDelegationConnector" id="_O8Vtt9LcEeSqWO_QnsIeEw" entityName="Itpcw.TPCW_shopping_cart_interaction" outerProvidedRole_ProvidedDelegationConnector="_O8VtttLcEeSqWO_QnsIeEw" assemblyContext_ProvidedDelegationConnector="_O8T4gNLcEeSqWO_QnsIeEw">
+    <innerProvidedRole_ProvidedDelegationConnector href="internal_architecture_model.repository#_O4g9pNLcEeSqWO_QnsIeEw"/>
+  </connectors__ComposedStructure>
+  <connectors__ComposedStructure xsi:type="composition:ProvidedDelegationConnector" id="_O8VtudLcEeSqWO_QnsIeEw" entityName="Itpcw.TPCW_order_display_servlet" outerProvidedRole_ProvidedDelegationConnector="_O8VtuNLcEeSqWO_QnsIeEw" assemblyContext_ProvidedDelegationConnector="_O8T4gNLcEeSqWO_QnsIeEw">
+    <innerProvidedRole_ProvidedDelegationConnector href="internal_architecture_model.repository#_O4g9ptLcEeSqWO_QnsIeEw"/>
+  </connectors__ComposedStructure>
+  <connectors__ComposedStructure xsi:type="composition:ProvidedDelegationConnector" id="_O8Vtu9LcEeSqWO_QnsIeEw" entityName="Itpcw.TPCW_execute_search" outerProvidedRole_ProvidedDelegationConnector="_O8VtutLcEeSqWO_QnsIeEw" assemblyContext_ProvidedDelegationConnector="_O8T4gNLcEeSqWO_QnsIeEw">
+    <innerProvidedRole_ProvidedDelegationConnector href="internal_architecture_model.repository#_O4g9qNLcEeSqWO_QnsIeEw"/>
+  </connectors__ComposedStructure>
+  <connectors__ComposedStructure xsi:type="composition:ProvidedDelegationConnector" id="_O8VtvdLcEeSqWO_QnsIeEw" entityName="Itpcw.TPCW_buy_confirm_servlet" outerProvidedRole_ProvidedDelegationConnector="_O8VtvNLcEeSqWO_QnsIeEw" assemblyContext_ProvidedDelegationConnector="_O8T4gNLcEeSqWO_QnsIeEw">
+    <innerProvidedRole_ProvidedDelegationConnector href="internal_architecture_model.repository#_O4g9qtLcEeSqWO_QnsIeEw"/>
+  </connectors__ComposedStructure>
+  <connectors__ComposedStructure xsi:type="composition:ProvidedDelegationConnector" id="_O8Vtv9LcEeSqWO_QnsIeEw" entityName="Itpcw.TPCW_buy_request_servlet" outerProvidedRole_ProvidedDelegationConnector="_O8VtvtLcEeSqWO_QnsIeEw" assemblyContext_ProvidedDelegationConnector="_O8T4gNLcEeSqWO_QnsIeEw">
+    <innerProvidedRole_ProvidedDelegationConnector href="internal_architecture_model.repository#_O4g9rNLcEeSqWO_QnsIeEw"/>
+  </connectors__ComposedStructure>
+  <connectors__ComposedStructure xsi:type="composition:ProvidedDelegationConnector" id="_O8VtwdLcEeSqWO_QnsIeEw" entityName="Itpcw.TPCW_customer_registration_servlet" outerProvidedRole_ProvidedDelegationConnector="_O8VtwNLcEeSqWO_QnsIeEw" assemblyContext_ProvidedDelegationConnector="_O8T4gNLcEeSqWO_QnsIeEw">
+    <innerProvidedRole_ProvidedDelegationConnector href="internal_architecture_model.repository#_O4g9rtLcEeSqWO_QnsIeEw"/>
+  </connectors__ComposedStructure>
+  <connectors__ComposedStructure xsi:type="composition:ProvidedDelegationConnector" id="_O8Vtw9LcEeSqWO_QnsIeEw" entityName="Itpcw.TPCW_product_detail_servlet" outerProvidedRole_ProvidedDelegationConnector="_O8VtwtLcEeSqWO_QnsIeEw" assemblyContext_ProvidedDelegationConnector="_O8T4gNLcEeSqWO_QnsIeEw">
+    <innerProvidedRole_ProvidedDelegationConnector href="internal_architecture_model.repository#_O4g9sNLcEeSqWO_QnsIeEw"/>
+  </connectors__ComposedStructure>
+  <connectors__ComposedStructure xsi:type="composition:ProvidedDelegationConnector" id="_O8VtxdLcEeSqWO_QnsIeEw" entityName="Itpcw.TPCW_admin_response_servlet" outerProvidedRole_ProvidedDelegationConnector="_O8VtxNLcEeSqWO_QnsIeEw" assemblyContext_ProvidedDelegationConnector="_O8T4gNLcEeSqWO_QnsIeEw">
+    <innerProvidedRole_ProvidedDelegationConnector href="internal_architecture_model.repository#_O4g9stLcEeSqWO_QnsIeEw"/>
+  </connectors__ComposedStructure>
+  <connectors__ComposedStructure xsi:type="composition:ProvidedDelegationConnector" id="_O8Vtx9LcEeSqWO_QnsIeEw" entityName="Itpcw.TPCW_say_hello" outerProvidedRole_ProvidedDelegationConnector="_O8VtxtLcEeSqWO_QnsIeEw" assemblyContext_ProvidedDelegationConnector="_O8T4gNLcEeSqWO_QnsIeEw">
+    <innerProvidedRole_ProvidedDelegationConnector href="internal_architecture_model.repository#_O4g9tNLcEeSqWO_QnsIeEw"/>
+  </connectors__ComposedStructure>
+  <connectors__ComposedStructure xsi:type="composition:ProvidedDelegationConnector" id="_O8VtydLcEeSqWO_QnsIeEw" entityName="Itpcw.DatabaseProperties" outerProvidedRole_ProvidedDelegationConnector="_O8VtyNLcEeSqWO_QnsIeEw" assemblyContext_ProvidedDelegationConnector="_O8T4gNLcEeSqWO_QnsIeEw">
+    <innerProvidedRole_ProvidedDelegationConnector href="internal_architecture_model.repository#_O4g9ttLcEeSqWO_QnsIeEw"/>
+  </connectors__ComposedStructure>
+  <connectors__ComposedStructure xsi:type="composition:ProvidedDelegationConnector" id="_O8Vty9LcEeSqWO_QnsIeEw" entityName="Itpcw.TPCW_home_interaction" outerProvidedRole_ProvidedDelegationConnector="_O8VtytLcEeSqWO_QnsIeEw" assemblyContext_ProvidedDelegationConnector="_O8T4gNLcEeSqWO_QnsIeEw">
+    <innerProvidedRole_ProvidedDelegationConnector href="internal_architecture_model.repository#_O4g9vNLcEeSqWO_QnsIeEw"/>
+  </connectors__ComposedStructure>
+  <connectors__ComposedStructure xsi:type="composition:ProvidedDelegationConnector" id="_O8VtzdLcEeSqWO_QnsIeEw" entityName="Itpcw.TPCW_promotional_processing" outerProvidedRole_ProvidedDelegationConnector="_O8VtzNLcEeSqWO_QnsIeEw" assemblyContext_ProvidedDelegationConnector="_O8T4gNLcEeSqWO_QnsIeEw">
+    <innerProvidedRole_ProvidedDelegationConnector href="internal_architecture_model.repository#_O4g9vtLcEeSqWO_QnsIeEw"/>
+  </connectors__ComposedStructure>
+  <connectors__ComposedStructure xsi:type="composition:ProvidedDelegationConnector" id="_O8Vtz9LcEeSqWO_QnsIeEw" entityName="Itpcw.TPCW_order_inquiry_servlet" outerProvidedRole_ProvidedDelegationConnector="_O8VtztLcEeSqWO_QnsIeEw" assemblyContext_ProvidedDelegationConnector="_O8T4gNLcEeSqWO_QnsIeEw">
+    <innerProvidedRole_ProvidedDelegationConnector href="internal_architecture_model.repository#_O4hksNLcEeSqWO_QnsIeEw"/>
+  </connectors__ComposedStructure>
+  <connectors__ComposedStructure xsi:type="composition:ProvidedDelegationConnector" id="_O8Vt0dLcEeSqWO_QnsIeEw" entityName="Itpcw.TPCW_Database" outerProvidedRole_ProvidedDelegationConnector="_O8Vt0NLcEeSqWO_QnsIeEw" assemblyContext_ProvidedDelegationConnector="_O8T4gNLcEeSqWO_QnsIeEw">
+    <innerProvidedRole_ProvidedDelegationConnector href="internal_architecture_model.repository#_O4hkstLcEeSqWO_QnsIeEw"/>
+  </connectors__ComposedStructure>
+  <connectors__ComposedStructure xsi:type="composition:ProvidedDelegationConnector" id="_O8Vt09LcEeSqWO_QnsIeEw" entityName="Itpcw.TPCW_search_request_servlet" outerProvidedRole_ProvidedDelegationConnector="_O8Vt0tLcEeSqWO_QnsIeEw" assemblyContext_ProvidedDelegationConnector="_O8T4gNLcEeSqWO_QnsIeEw">
+    <innerProvidedRole_ProvidedDelegationConnector href="internal_architecture_model.repository#_O4iLx9LcEeSqWO_QnsIeEw"/>
+  </connectors__ComposedStructure>
+  <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="_O8UfkdLcEeSqWO_QnsIeEw" entityName="TPCW_best_sellers_servlet 0 (prov)(sys)">
+    <providedInterface__OperationProvidedRole href="internal_architecture_model.repository#_O0L3QNLcEeSqWO_QnsIeEw"/>
+  </providedRoles_InterfaceProvidingEntity>
+  <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="_O8VtsNLcEeSqWO_QnsIeEw" entityName="TPCW_admin_request_servlet 1 (prov)(sys)">
+    <providedInterface__OperationProvidedRole href="internal_architecture_model.repository#_O0TMANLcEeSqWO_QnsIeEw"/>
+  </providedRoles_InterfaceProvidingEntity>
+  <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="_O8VtstLcEeSqWO_QnsIeEw" entityName="TPCW_new_products_servlet 2 (prov)(sys)">
+    <providedInterface__OperationProvidedRole href="internal_architecture_model.repository#_O0UaINLcEeSqWO_QnsIeEw"/>
+  </providedRoles_InterfaceProvidingEntity>
+  <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="_O8VttNLcEeSqWO_QnsIeEw" entityName="TPCW_Util 3 (prov)(sys)">
+    <providedInterface__OperationProvidedRole href="internal_architecture_model.repository#_O0VoQNLcEeSqWO_QnsIeEw"/>
+  </providedRoles_InterfaceProvidingEntity>
+  <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="_O8VtttLcEeSqWO_QnsIeEw" entityName="TPCW_shopping_cart_interaction 4 (prov)(sys)">
+    <providedInterface__OperationProvidedRole href="internal_architecture_model.repository#_O0bH0NLcEeSqWO_QnsIeEw"/>
+  </providedRoles_InterfaceProvidingEntity>
+  <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="_O8VtuNLcEeSqWO_QnsIeEw" entityName="TPCW_order_display_servlet 5 (prov)(sys)">
+    <providedInterface__OperationProvidedRole href="internal_architecture_model.repository#_O0cV8NLcEeSqWO_QnsIeEw"/>
+  </providedRoles_InterfaceProvidingEntity>
+  <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="_O8VtutLcEeSqWO_QnsIeEw" entityName="TPCW_execute_search 6 (prov)(sys)">
+    <providedInterface__OperationProvidedRole href="internal_architecture_model.repository#_O0dkENLcEeSqWO_QnsIeEw"/>
+  </providedRoles_InterfaceProvidingEntity>
+  <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="_O8VtvNLcEeSqWO_QnsIeEw" entityName="TPCW_buy_confirm_servlet 7 (prov)(sys)">
+    <providedInterface__OperationProvidedRole href="internal_architecture_model.repository#_O0eyMNLcEeSqWO_QnsIeEw"/>
+  </providedRoles_InterfaceProvidingEntity>
+  <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="_O8VtvtLcEeSqWO_QnsIeEw" entityName="TPCW_buy_request_servlet 8 (prov)(sys)">
+    <providedInterface__OperationProvidedRole href="internal_architecture_model.repository#_O0gnYNLcEeSqWO_QnsIeEw"/>
+  </providedRoles_InterfaceProvidingEntity>
+  <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="_O8VtwNLcEeSqWO_QnsIeEw" entityName="TPCW_customer_registration_servlet 9 (prov)(sys)">
+    <providedInterface__OperationProvidedRole href="internal_architecture_model.repository#_O0h1gNLcEeSqWO_QnsIeEw"/>
+  </providedRoles_InterfaceProvidingEntity>
+  <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="_O8VtwtLcEeSqWO_QnsIeEw" entityName="TPCW_product_detail_servlet 10 (prov)(sys)">
+    <providedInterface__OperationProvidedRole href="internal_architecture_model.repository#_O0jDoNLcEeSqWO_QnsIeEw"/>
+  </providedRoles_InterfaceProvidingEntity>
+  <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="_O8VtxNLcEeSqWO_QnsIeEw" entityName="TPCW_admin_response_servlet 11 (prov)(sys)">
+    <providedInterface__OperationProvidedRole href="internal_architecture_model.repository#_O0kRwNLcEeSqWO_QnsIeEw"/>
+  </providedRoles_InterfaceProvidingEntity>
+  <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="_O8VtxtLcEeSqWO_QnsIeEw" entityName="TPCW_say_hello 12 (prov)(sys)">
+    <providedInterface__OperationProvidedRole href="internal_architecture_model.repository#_O0k40NLcEeSqWO_QnsIeEw"/>
+  </providedRoles_InterfaceProvidingEntity>
+  <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="_O8VtyNLcEeSqWO_QnsIeEw" entityName="DatabaseProperties 13 (prov)(sys)">
+    <providedInterface__OperationProvidedRole href="internal_architecture_model.repository#_O0lf4NLcEeSqWO_QnsIeEw"/>
+  </providedRoles_InterfaceProvidingEntity>
+  <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="_O8VtytLcEeSqWO_QnsIeEw" entityName="TPCW_home_interaction 14 (prov)(sys)">
+    <providedInterface__OperationProvidedRole href="internal_architecture_model.repository#_O1KHoNLcEeSqWO_QnsIeEw"/>
+  </providedRoles_InterfaceProvidingEntity>
+  <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="_O8VtzNLcEeSqWO_QnsIeEw" entityName="TPCW_promotional_processing 15 (prov)(sys)">
+    <providedInterface__OperationProvidedRole href="internal_architecture_model.repository#_O1LVwdLcEeSqWO_QnsIeEw"/>
+  </providedRoles_InterfaceProvidingEntity>
+  <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="_O8VtztLcEeSqWO_QnsIeEw" entityName="TPCW_order_inquiry_servlet 16 (prov)(sys)">
+    <providedInterface__OperationProvidedRole href="internal_architecture_model.repository#_O1OZENLcEeSqWO_QnsIeEw"/>
+  </providedRoles_InterfaceProvidingEntity>
+  <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="_O8Vt0NLcEeSqWO_QnsIeEw" entityName="TPCW_Database 17 (prov)(sys)">
+    <providedInterface__OperationProvidedRole href="internal_architecture_model.repository#_O1e3wNLcEeSqWO_QnsIeEw"/>
+  </providedRoles_InterfaceProvidingEntity>
+  <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="_O8Vt0tLcEeSqWO_QnsIeEw" entityName="TPCW_search_request_servlet 18 (prov)(sys)">
+    <providedInterface__OperationProvidedRole href="internal_architecture_model.repository#_O15ugdLcEeSqWO_QnsIeEw"/>
+  </providedRoles_InterfaceProvidingEntity>
+</system:System>
