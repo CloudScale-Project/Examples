@@ -1,10 +1,9 @@
 #### CloudStore Example
 -------
 
-Contains legacy version of CloudStore and tools projects, 
-configured/prepared to work with this verison.
+This example shows how to use CloudScale Toolchain and Environment on legacy version of TPC-W (CloudStore).
 
-- **Environment** contains CloudScale Project configured to work with the **CloduStore project**.
+- **Environment** contains CloudScale Environment Project configured to work with the legacy **CloudStore project**.
 - **Analyser**
 - **Extractor**
 - **Static Spotter**
