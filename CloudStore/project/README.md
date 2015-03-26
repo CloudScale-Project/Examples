@@ -1,11 +1,5 @@
-Eclipse Java EE project based on the TPC-W sources from:
-http://jmob.ow2.org/tpcw.html
-
-Author: Sebastian Lehrig (sebastian.lehrig@upb.de)
-Date: 2013/03/19
-
-=================================================================
-=================================================================
+#### CloudStore Example - Extractor project
+------------------------------------------------------
 
 Contents:
 ---------

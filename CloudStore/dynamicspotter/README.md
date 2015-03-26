@@ -1,4 +1,4 @@
-#### CloudStore Example - Environment project
+#### CloudStore Example - DynamicSpotter project
 -------
 
 ##### About
