@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ExperimentAutomation.Experiments:ExperimentRepository xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ExperimentAutomation.Experiments="http://palladiosimulator.org/ExperimentAutomation/Experiments/1.0" xmlns:ExperimentAutomation.Experiments.AbstractSimulation="http://palladiosimulator.org/ExperimentAutomation/AbstractSimulation/1.0" xmlns:ExperimentAutomation.Variation="http://palladiosimulator.org/ExperimentAutomation/Variation/1.0" xmlns:simulizartooladapter="http://palladiosimulator.org/ExperimentAutomation/ToolAdapter/SimuLizar/1.0">
-  <experiments id="CloudStoreBrowsingMix:Scalability" name="CloudStore BrowsingMix: Scalability" description="Measures scalability metrics for CloudStore (for a setup with unlimited CPU resources)">
+  <experiments id="CloudStoreBrowsingMix:Scalability" name="CloudStore BrowsingMix: Scalability" description="Measures scalability metrics for CloudStore (for a setup with unlimited CPU resources)" repetitions="1">
     <variations minValue="1.0" maxValue="100.0" maxVariations="10" variedObjectId="_ieXlgKDrEeKjDcfkNgs1Gg" name="User Capacity">
       <type xsi:type="ExperimentAutomation.Variation:ValueVariation" href="pcm.variation#_zUZqID5zEeCEPJs72ZSOBg"/>
       <valueProvider xsi:type="ExperimentAutomation.Experiments:NestedIntervalsLongValueProvider" minValue="1" maxValue="100"/>
