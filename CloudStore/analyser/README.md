@@ -18,7 +18,7 @@ Sebastian Lehrig
 
 ##### Possible configurations 
 Different experiments come preconfigured, simply select the experiment run you are interested in:
-- Elasticity experiment: measures elasticity metrics of CloudStore (database scales horizontally)
+- Elasticity experiment: measures elasticity metrics of CloudStore (database scales vertically)
 - Capacity experiment: measures capacity metrics CloudStore (for a non-elastic setup)
 - Scalability experiment: measures scalability metrics for CloudStore (for a setup with unlimited CPU resources)
 
