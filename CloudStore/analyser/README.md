@@ -18,14 +18,16 @@ Sebastian Lehrig
 
 ##### Possible configurations 
 Different experiments come preconfigured, simply select the experiment run you are interested in:
-- Elasticity experiment: measures elasticity metrics of CloudStore (database scales vertically)
-- Capacity experiment: measures capacity metrics CloudStore (for a non-elastic setup)
-- Scalability experiment: measures scalability metrics for CloudStore (for a setup with unlimited CPU resources)
+- No Elasticity experiment: Measures elasticity metrics of CloudStore (but database does not scale vertically); simulations may take ~10 minutes.
+- Elasticity experiment: Measures elasticity metrics of CloudStore (database scales vertically); simulations may take ~10 minutes.
+- Capacity experiment: Measures capacity metrics CloudStore (for a non-elastic setup); simulations may take ~30 minutes.
+- Scalability experiment: Measures scalability metrics for CloudStore (for a setup with unlimited CPU resources); simulations may take ~30 minutes.
 
 ##### Results
-- Elasticity experiment: response times follow a step function for increasing load; if beyond a threshold, the next step starts again with low response times
-- Capacity experiment: CloudStore has a capacity limit of ~170 concurrent users, depending on random seed
-- Scalability experiment: CloudStore does not scale infinitely, due to passive resources (scalability range is ~500 concurrent users, depending on random seed)
+- No Elasticity experiment: Response times increase for increasing load.
+- Elasticity experiment: Response times follow a step function for increasing load; if beyond a threshold, the next step starts again with low response times.
+- Capacity experiment: CloudStore has a capacity limit of ~50 concurrent users, depending on random seed.
+- Scalability experiment: CloudStore scales until the upper bound of the pre-specified interval, i.e., to 100 concurrent users. Therefore, the scalability range is at least 100 and no scalability problem was detected for that interval.
 
 
 
