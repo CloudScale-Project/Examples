@@ -12,9 +12,9 @@ Sebastian Lehrig
 - Run configurations (in "Experiments" folder)
 
 ##### Run
-1) Open desired *.experiments from the "Experiments" folder in text editor
-2) Adapt datasource location (<datasource location="..." ...>) to your system; i.e., specify where measurements shall be stored
-3) Run the launch configuration corresponding to the experiment (available also in the "Experiments" folder)
+1. Open desired *.experiments from the "Experiments" folder in text editor
+2. Adapt datasource location (datasource location="...") to your system; i.e., specify where measurements shall be stored
+3. Run the launch configuration corresponding to the experiment (available also in the "Experiments" folder)
 
 ##### Possible configurations 
 Different experiments come preconfigured, simply select the experiment run you are interested in:
