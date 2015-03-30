@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.palladiosimulator.edp2.models:MeasuringPointRepository xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.palladiosimulator.edp2.models="http://palladiosimulator.org/EDP2/MeasuringPoint/0.9.1" xmlns:pcmmeasuringpoint="http://palladiosimulator.org/PCM/MeasuringPoint/1.0" id="_brmT4NYkEeSLYeOEPZiDBw">
+<org.palladiosimulator.edp2.models:MeasuringPointRepository xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.palladiosimulator.edp2.models="http://palladiosimulator.org/EDP2/MeasuringPoint/0.9.1" xmlns:pcmmeasuringpoint="http://palladiosimulator.org/PCM/MeasuringPoint/1.0" xmlns:repository="http://sdq.ipd.uka.de/PalladioComponentModel/Repository/5.0" id="_brmT4NYkEeSLYeOEPZiDBw">
   <measuringPoints xsi:type="pcmmeasuringpoint:UsageScenarioMeasuringPoint">
     <usageScenario href="UsageScenarios/BrowsingMix.usagemodel#_ieXlgKDrEeKjDcfkNgs1Gg"/>
   </measuringPoints>
@@ -11,5 +11,85 @@
   </measuringPoints>
   <measuringPoints xsi:type="pcmmeasuringpoint:UsageScenarioMeasuringPoint">
     <usageScenario href="UsageScenarios/ShoppingMix.usagemodel#_ieXlgKDrEeKjDcfkNgs1Gg"/>
+  </measuringPoints>
+  <measuringPoints xsi:type="pcmmeasuringpoint:SystemOperationMeasuringPoint">
+    <role xsi:type="repository:OperationProvidedRole" href="CloudStore.system#_UDLXAKDaEeKjDcfkNgs1Gg"/>
+    <operationSignature href="CloudStore.repository#_XUIKcKAWEeKjDcfkNgs1Gg"/>
+    <system href="CloudStore.system#_JxtuQKDaEeKjDcfkNgs1Gg"/>
+  </measuringPoints>
+  <measuringPoints xsi:type="pcmmeasuringpoint:SystemOperationMeasuringPoint">
+    <role xsi:type="repository:OperationProvidedRole" href="CloudStore.system#_VVLxcKDaEeKjDcfkNgs1Gg"/>
+    <operationSignature href="CloudStore.repository#_ZB9mQKALEeKjDcfkNgs1Gg"/>
+    <system href="CloudStore.system#_JxtuQKDaEeKjDcfkNgs1Gg"/>
+  </measuringPoints>
+  <measuringPoints xsi:type="pcmmeasuringpoint:SystemOperationMeasuringPoint">
+    <role xsi:type="repository:OperationProvidedRole" href="CloudStore.system#_VVLxcKDaEeKjDcfkNgs1Gg"/>
+    <operationSignature href="CloudStore.repository#_fVW28KALEeKjDcfkNgs1Gg"/>
+    <system href="CloudStore.system#_JxtuQKDaEeKjDcfkNgs1Gg"/>
+  </measuringPoints>
+  <measuringPoints xsi:type="pcmmeasuringpoint:SystemOperationMeasuringPoint">
+    <role xsi:type="repository:OperationProvidedRole" href="CloudStore.system#_VVLxcKDaEeKjDcfkNgs1Gg"/>
+    <operationSignature href="CloudStore.repository#_k8uIEKALEeKjDcfkNgs1Gg"/>
+    <system href="CloudStore.system#_JxtuQKDaEeKjDcfkNgs1Gg"/>
+  </measuringPoints>
+  <measuringPoints xsi:type="pcmmeasuringpoint:SystemOperationMeasuringPoint">
+    <role xsi:type="repository:OperationProvidedRole" href="CloudStore.system#_VVLxcKDaEeKjDcfkNgs1Gg"/>
+    <operationSignature href="CloudStore.repository#_EjR0MKAOEeKjDcfkNgs1Gg"/>
+    <system href="CloudStore.system#_JxtuQKDaEeKjDcfkNgs1Gg"/>
+  </measuringPoints>
+  <measuringPoints xsi:type="pcmmeasuringpoint:SystemOperationMeasuringPoint">
+    <role xsi:type="repository:OperationProvidedRole" href="CloudStore.system#_VVLxcKDaEeKjDcfkNgs1Gg"/>
+    <operationSignature href="CloudStore.repository#_Q8Fj8KAOEeKjDcfkNgs1Gg"/>
+    <system href="CloudStore.system#_JxtuQKDaEeKjDcfkNgs1Gg"/>
+  </measuringPoints>
+  <measuringPoints xsi:type="pcmmeasuringpoint:SystemOperationMeasuringPoint">
+    <role xsi:type="repository:OperationProvidedRole" href="CloudStore.system#_VVLxcKDaEeKjDcfkNgs1Gg"/>
+    <operationSignature href="CloudStore.repository#_vAVzAKAUEeKjDcfkNgs1Gg"/>
+    <system href="CloudStore.system#_JxtuQKDaEeKjDcfkNgs1Gg"/>
+  </measuringPoints>
+  <measuringPoints xsi:type="pcmmeasuringpoint:SystemOperationMeasuringPoint">
+    <role xsi:type="repository:OperationProvidedRole" href="CloudStore.system#_VVLxcKDaEeKjDcfkNgs1Gg"/>
+    <operationSignature href="CloudStore.repository#_CoeQMKAVEeKjDcfkNgs1Gg"/>
+    <system href="CloudStore.system#_JxtuQKDaEeKjDcfkNgs1Gg"/>
+  </measuringPoints>
+  <measuringPoints xsi:type="pcmmeasuringpoint:SystemOperationMeasuringPoint">
+    <role xsi:type="repository:OperationProvidedRole" href="CloudStore.system#_WV95AKDaEeKjDcfkNgs1Gg"/>
+    <operationSignature href="CloudStore.repository#_h3vVUKAlEeKjDcfkNgs1Gg"/>
+    <system href="CloudStore.system#_JxtuQKDaEeKjDcfkNgs1Gg"/>
+  </measuringPoints>
+  <measuringPoints xsi:type="pcmmeasuringpoint:SystemOperationMeasuringPoint">
+    <role xsi:type="repository:OperationProvidedRole" href="CloudStore.system#_WV95AKDaEeKjDcfkNgs1Gg"/>
+    <operationSignature href="CloudStore.repository#_U_NHMKAmEeKjDcfkNgs1Gg"/>
+    <system href="CloudStore.system#_JxtuQKDaEeKjDcfkNgs1Gg"/>
+  </measuringPoints>
+  <measuringPoints xsi:type="pcmmeasuringpoint:SystemOperationMeasuringPoint">
+    <role xsi:type="repository:OperationProvidedRole" href="CloudStore.system#_WV95AKDaEeKjDcfkNgs1Gg"/>
+    <operationSignature href="CloudStore.repository#_VAJF4KAnEeKjDcfkNgs1Gg"/>
+    <system href="CloudStore.system#_JxtuQKDaEeKjDcfkNgs1Gg"/>
+  </measuringPoints>
+  <measuringPoints xsi:type="pcmmeasuringpoint:SystemOperationMeasuringPoint">
+    <role xsi:type="repository:OperationProvidedRole" href="CloudStore.system#_WV95AKDaEeKjDcfkNgs1Gg"/>
+    <operationSignature href="CloudStore.repository#_nTuyAKAnEeKjDcfkNgs1Gg"/>
+    <system href="CloudStore.system#_JxtuQKDaEeKjDcfkNgs1Gg"/>
+  </measuringPoints>
+  <measuringPoints xsi:type="pcmmeasuringpoint:SystemOperationMeasuringPoint">
+    <role xsi:type="repository:OperationProvidedRole" href="CloudStore.system#_WV95AKDaEeKjDcfkNgs1Gg"/>
+    <operationSignature href="CloudStore.repository#_kXsXUKAqEeKjDcfkNgs1Gg"/>
+    <system href="CloudStore.system#_JxtuQKDaEeKjDcfkNgs1Gg"/>
+  </measuringPoints>
+  <measuringPoints xsi:type="pcmmeasuringpoint:SystemOperationMeasuringPoint">
+    <role xsi:type="repository:OperationProvidedRole" href="CloudStore.system#_WV95AKDaEeKjDcfkNgs1Gg"/>
+    <operationSignature href="CloudStore.repository#_QZAisKAnEeKjDcfkNgs1Gg"/>
+    <system href="CloudStore.system#_JxtuQKDaEeKjDcfkNgs1Gg"/>
+  </measuringPoints>
+  <measuringPoints xsi:type="pcmmeasuringpoint:SystemOperationMeasuringPoint">
+    <role xsi:type="repository:OperationProvidedRole" href="CloudStore.system#_YKJzcKDaEeKjDcfkNgs1Gg"/>
+    <operationSignature href="CloudStore.repository#_p8L0QKAiEeKjDcfkNgs1Gg"/>
+    <system href="CloudStore.system#_JxtuQKDaEeKjDcfkNgs1Gg"/>
+  </measuringPoints>
+  <measuringPoints xsi:type="pcmmeasuringpoint:SystemOperationMeasuringPoint">
+    <role xsi:type="repository:OperationProvidedRole" href="CloudStore.system#_YKJzcKDaEeKjDcfkNgs1Gg"/>
+    <operationSignature href="CloudStore.repository#_JHbvUKAjEeKjDcfkNgs1Gg"/>
+    <system href="CloudStore.system#_JxtuQKDaEeKjDcfkNgs1Gg"/>
   </measuringPoints>
 </org.palladiosimulator.edp2.models:MeasuringPointRepository>
