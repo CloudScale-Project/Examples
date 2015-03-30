@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<slo:ServiceLevelObjectiveRepository xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:metricspec="http://palladiosimulator.org/MetricSpec/1.0" xmlns:org.palladiosimulator.edp2.models="http://palladiosimulator.org/EDP2/MeasuringPoint/0.9.1" xmlns:slo="http://palladiosimulator.org/ServiceLevelObjective/1.0">
-  <servicelevelobjectives id="_OvQO4BfaEeSDdsjbnY5gHQ" name="90 Percentile Response Time SLO" description="90% Percentile Response Time SLO, e.g., 90% of all response times shall be below 5 seconds.">
-    <upperThreshold xsi:type="slo:HardThreshold" id="_4s64whfcEeShHsnvMLMcrg" thresholdLimit="rO0ABXNyABxqYXZheC5tZWFzdXJlLk1lYXN1cmUkRG91YmxlAAAAAAAAAAECAAJEAAZfdmFsdWVMAAVfdW5pdHQAGUxqYXZheC9tZWFzdXJlL3VuaXQvVW5pdDt4cgAVamF2YXgubWVhc3VyZS5NZWFzdXJlEuEfkoalqZoCAAB4cEAIAAAAAAAAc3IAG2phdmF4Lm1lYXN1cmUudW5pdC5CYXNlVW5pdAAAAAAAAAABAgABTAAHX3N5bWJvbHQAEkxqYXZhL2xhbmcvU3RyaW5nO3hyABdqYXZheC5tZWFzdXJlLnVuaXQuVW5pdM3I3hZ4zVJnAgAAeHB0AAFz"/>
-    <metricDescription xsi:type="metricspec:NumericalBaseMetricDescription" href="pathmap://METRIC_SPEC_MODELS/models/commonMetrics.metricspec#_6rYmYs7nEeOX_4BzImuHbA"/>
-    <measuringPoint xsi:type="org.palladiosimulator.edp2.models:ResourceURIMeasuringPoint" href="usage.measuringpoint#/"/>
-  </servicelevelobjectives>
-</slo:ServiceLevelObjectiveRepository>

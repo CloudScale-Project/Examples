@@ -27,7 +27,7 @@
           </children>
         </children>
         <element xmi:type="usagemodel:ScenarioBehaviour" href="default.usagemodel#_LPwS4CHdEd6lJo4DCALHMw"/>
-        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_cLhCUSpFEeK09YX3rD7vgg" x="28" y="31" width="303"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_cLhCUSpFEeK09YX3rD7vgg" x="28" y="31"/>
       </children>
       <children xmi:type="notation:Node" xmi:id="_cLhCUypFEeK09YX3rD7vgg" type="3015">
         <children xmi:type="notation:DecorationNode" xmi:id="_cLhCWCpFEeK09YX3rD7vgg" type="5013"/>
