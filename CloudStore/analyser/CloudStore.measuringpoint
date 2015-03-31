@@ -92,4 +92,16 @@
     <operationSignature href="CloudStore.repository#_JHbvUKAjEeKjDcfkNgs1Gg"/>
     <system href="CloudStore.system#_JxtuQKDaEeKjDcfkNgs1Gg"/>
   </measuringPoints>
+  <measuringPoints xsi:type="pcmmeasuringpoint:ExternalCallActionMeasuringPoint">
+    <externalCall href="CloudStore.repository#_VtnEgH6BEeOMPbPw2aYEHg"/>
+  </measuringPoints>
+  <measuringPoints xsi:type="pcmmeasuringpoint:ExternalCallActionMeasuringPoint">
+    <externalCall href="CloudStore.repository#_aRHE4H6BEeOMPbPw2aYEHg"/>
+  </measuringPoints>
+  <measuringPoints xsi:type="pcmmeasuringpoint:ExternalCallActionMeasuringPoint">
+    <externalCall href="CloudStore.repository#_RW5i8H6BEeOMPbPw2aYEHg"/>
+  </measuringPoints>
+  <measuringPoints xsi:type="pcmmeasuringpoint:ExternalCallActionMeasuringPoint">
+    <externalCall href="CloudStore.repository#_Oyj98H6BEeOMPbPw2aYEHg"/>
+  </measuringPoints>
 </org.palladiosimulator.edp2.models:MeasuringPointRepository>

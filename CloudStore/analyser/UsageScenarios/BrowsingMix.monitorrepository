@@ -103,4 +103,28 @@
     </measurementSpecifications>
     <measuringPoint xsi:type="pcmmeasuringpoint:SystemOperationMeasuringPoint" href="../CloudStore.measuringpoint#//@measuringPoints.12"/>
   </monitors>
+  <monitors id="_aA76ANeyEeSCar5v21JTeg" entityName="Response Times - Call: getShoppingCard -> createEmptyCard">
+    <measurementSpecifications id="_sDyeoNe2EeSCar5v21JTeg">
+      <metricDescription xsi:type="metricspec:NumericalBaseMetricDescription" href="pathmap://METRIC_SPEC_MODELS/models/commonMetrics.metricspec#_6rYmYs7nEeOX_4BzImuHbA"/>
+    </measurementSpecifications>
+    <measuringPoint xsi:type="pcmmeasuringpoint:ExternalCallActionMeasuringPoint" href="../CloudStore.measuringpoint#//@measuringPoints.20"/>
+  </monitors>
+  <monitors id="_cLY_YNeyEeSCar5v21JTeg" entityName="Response Times - Call: getShoppingCard -> doCart">
+    <measurementSpecifications id="_sx6v8Ne2EeSCar5v21JTeg">
+      <metricDescription xsi:type="metricspec:NumericalBaseMetricDescription" href="pathmap://METRIC_SPEC_MODELS/models/commonMetrics.metricspec#_6rYmYs7nEeOX_4BzImuHbA"/>
+    </measurementSpecifications>
+    <measuringPoint xsi:type="pcmmeasuringpoint:ExternalCallActionMeasuringPoint" href="../CloudStore.measuringpoint#//@measuringPoints.21"/>
+  </monitors>
+  <monitors id="_clWXgNeyEeSCar5v21JTeg" entityName="Response Times - Call: getShoppingCard -> displayPromotions">
+    <measurementSpecifications id="_tJuzANe2EeSCar5v21JTeg">
+      <metricDescription xsi:type="metricspec:NumericalBaseMetricDescription" href="pathmap://METRIC_SPEC_MODELS/models/commonMetrics.metricspec#_6rYmYs7nEeOX_4BzImuHbA"/>
+    </measurementSpecifications>
+    <measuringPoint xsi:type="pcmmeasuringpoint:ExternalCallActionMeasuringPoint" href="../CloudStore.measuringpoint#//@measuringPoints.22"/>
+  </monitors>
+  <monitors id="_c_vNcNeyEeSCar5v21JTeg" entityName="Response Times - Call: getShoppingCard -> loadPromotionalImages">
+    <measurementSpecifications id="_t3G2YNe2EeSCar5v21JTeg">
+      <metricDescription xsi:type="metricspec:NumericalBaseMetricDescription" href="pathmap://METRIC_SPEC_MODELS/models/commonMetrics.metricspec#_6rYmYs7nEeOX_4BzImuHbA"/>
+    </measurementSpecifications>
+    <measuringPoint xsi:type="pcmmeasuringpoint:ExternalCallActionMeasuringPoint" href="../CloudStore.measuringpoint#//@measuringPoints.23"/>
+  </monitors>
 </monitorrepository:MonitorRepository>
