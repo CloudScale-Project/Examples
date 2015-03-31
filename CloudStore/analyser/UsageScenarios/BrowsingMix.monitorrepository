@@ -127,4 +127,128 @@
     </measurementSpecifications>
     <measuringPoint xsi:type="pcmmeasuringpoint:ExternalCallActionMeasuringPoint" href="../CloudStore.measuringpoint#//@measuringPoints.23"/>
   </monitors>
+  <monitors id="_qlohwNe6EeSEDLDj04qQUg" entityName="Response Times - Call: createEmptyCard -> getShoppingCartCount">
+    <measurementSpecifications id="_8BtXENe6EeSEDLDj04qQUg">
+      <metricDescription xsi:type="metricspec:NumericalBaseMetricDescription" href="pathmap://METRIC_SPEC_MODELS/models/commonMetrics.metricspec#_6rYmYs7nEeOX_4BzImuHbA"/>
+    </measurementSpecifications>
+    <measuringPoint xsi:type="pcmmeasuringpoint:ExternalCallActionMeasuringPoint" href="../CloudStore.measuringpoint#//@measuringPoints.24"/>
+  </monitors>
+  <monitors id="_rFj_ANe6EeSEDLDj04qQUg" entityName="Response Times - Call: createEmptyCard -> createEmptyCard">
+    <measurementSpecifications id="_9YrKANe6EeSEDLDj04qQUg">
+      <metricDescription xsi:type="metricspec:NumericalBaseMetricDescription" href="pathmap://METRIC_SPEC_MODELS/models/commonMetrics.metricspec#_6rYmYs7nEeOX_4BzImuHbA"/>
+    </measurementSpecifications>
+    <measuringPoint xsi:type="pcmmeasuringpoint:ExternalCallActionMeasuringPoint" href="../CloudStore.measuringpoint#//@measuringPoints.25"/>
+  </monitors>
+  <monitors id="_63yykNfDEeSEDLDj04qQUg" entityName="State - Database Access Passive Resource: synchronizedCard">
+    <measurementSpecifications id="_CI6PwNfEEeSEDLDj04qQUg">
+      <temporalRestriction xsi:type="monitorrepository:Intervall" id="_WiXvUNfcEeSHZYoIlVYjJg" intervall="10.0"/>
+      <metricDescription xsi:type="metricspec:NumericalBaseMetricDescription" href="pathmap://METRIC_SPEC_MODELS/models/commonMetrics.metricspec#_x0-pks7rEeOX_4BzImuHbA"/>
+    </measurementSpecifications>
+    <measuringPoint xsi:type="pcmmeasuringpoint:AssemblyPassiveResourceMeasuringPoint" href="../CloudStore.measuringpoint#//@measuringPoints.26"/>
+  </monitors>
+  <monitors id="_7vMUoNfDEeSEDLDj04qQUg" entityName="Waiting Time - Database Access Passive Resource: synchronizedCard">
+    <measurementSpecifications id="_DlZb4NfEEeSEDLDj04qQUg">
+      <temporalRestriction xsi:type="monitorrepository:Intervall" id="_XLIYcNfcEeSHZYoIlVYjJg" intervall="10.0"/>
+      <metricDescription xsi:type="metricspec:NumericalBaseMetricDescription" href="pathmap://METRIC_SPEC_MODELS/models/commonMetrics.metricspec#_QWjAYs7qEeOX_4BzImuHbA"/>
+    </measurementSpecifications>
+    <measuringPoint xsi:type="pcmmeasuringpoint:AssemblyPassiveResourceMeasuringPoint" href="../CloudStore.measuringpoint#//@measuringPoints.26"/>
+  </monitors>
+  <monitors id="_PWj80NfEEeSEDLDj04qQUg" entityName="Holding Time - Database Access Passive Resource: synchronizedCard">
+    <measurementSpecifications id="_Q1v3oNfEEeSEDLDj04qQUg">
+      <temporalRestriction xsi:type="monitorrepository:Intervall" id="_XkIHQNfcEeSHZYoIlVYjJg" intervall="10.0"/>
+      <metricDescription xsi:type="metricspec:NumericalBaseMetricDescription" href="pathmap://METRIC_SPEC_MODELS/models/commonMetrics.metricspec#_zETOUs7pEeOX_4BzImuHbA"/>
+    </measurementSpecifications>
+    <measuringPoint xsi:type="pcmmeasuringpoint:AssemblyPassiveResourceMeasuringPoint" href="../CloudStore.measuringpoint#//@measuringPoints.26"/>
+  </monitors>
+  <monitors id="_8Q6hoNfDEeSEDLDj04qQUg" entityName="State - DB Connector Passive Resource: ConnPool">
+    <measurementSpecifications id="_DQ39YNfEEeSEDLDj04qQUg">
+      <temporalRestriction xsi:type="monitorrepository:Intervall" id="_YDQTQNfcEeSHZYoIlVYjJg" intervall="10.0"/>
+      <metricDescription xsi:type="metricspec:NumericalBaseMetricDescription" href="pathmap://METRIC_SPEC_MODELS/models/commonMetrics.metricspec#_x0-pks7rEeOX_4BzImuHbA"/>
+    </measurementSpecifications>
+    <measuringPoint xsi:type="pcmmeasuringpoint:AssemblyPassiveResourceMeasuringPoint" href="../CloudStore.measuringpoint#//@measuringPoints.27"/>
+  </monitors>
+  <monitors id="_801HANfDEeSEDLDj04qQUg" entityName="Waiting Time - DB Connector Passive Resource: ConnPool">
+    <measurementSpecifications id="_C3UN4NfEEeSEDLDj04qQUg">
+      <temporalRestriction xsi:type="monitorrepository:Intervall" id="_Y2H6oNfcEeSHZYoIlVYjJg" intervall="10.0"/>
+      <metricDescription xsi:type="metricspec:NumericalBaseMetricDescription" href="pathmap://METRIC_SPEC_MODELS/models/commonMetrics.metricspec#_QWjAYs7qEeOX_4BzImuHbA"/>
+    </measurementSpecifications>
+    <measuringPoint xsi:type="pcmmeasuringpoint:AssemblyPassiveResourceMeasuringPoint" href="../CloudStore.measuringpoint#//@measuringPoints.27"/>
+  </monitors>
+  <monitors id="_P4dwANfEEeSEDLDj04qQUg" entityName="Holding Time - DB Connector Passive Resource: ConnPool">
+    <measurementSpecifications id="_voYzgNfGEeSEDLDj04qQUg">
+      <temporalRestriction xsi:type="monitorrepository:Intervall" id="_ZR_-UNfcEeSHZYoIlVYjJg" intervall="10.0"/>
+      <metricDescription xsi:type="metricspec:NumericalBaseMetricDescription" href="pathmap://METRIC_SPEC_MODELS/models/commonMetrics.metricspec#_zETOUs7pEeOX_4BzImuHbA"/>
+    </measurementSpecifications>
+    <measuringPoint xsi:type="pcmmeasuringpoint:AssemblyPassiveResourceMeasuringPoint" href="../CloudStore.measuringpoint#//@measuringPoints.27"/>
+  </monitors>
+  <monitors id="_DNVAgNfMEeSoWbWDy3AT2Q" entityName="State - Application Server: CPU[0]">
+    <measurementSpecifications id="_Ic6DwNfMEeSoWbWDy3AT2Q">
+      <temporalRestriction xsi:type="monitorrepository:Intervall" id="_Zo9FwNfcEeSHZYoIlVYjJg" intervall="10.0"/>
+      <metricDescription xsi:type="metricspec:NumericalBaseMetricDescription" href="pathmap://METRIC_SPEC_MODELS/models/commonMetrics.metricspec#_paDhIs7qEeOX_4BzImuHbA"/>
+    </measurementSpecifications>
+    <measuringPoint xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" href="../CloudStore.measuringpoint#//@measuringPoints.28"/>
+  </monitors>
+  <monitors id="_EhZ3gNfMEeSoWbWDy3AT2Q" entityName="Waiting Time - Application Server: CPU[0]">
+    <measurementSpecifications id="_RPWw0NfMEeSoWbWDy3AT2Q">
+      <temporalRestriction xsi:type="monitorrepository:Intervall" id="_aGyRQNfcEeSHZYoIlVYjJg" intervall="10.0"/>
+      <metricDescription xsi:type="metricspec:NumericalBaseMetricDescription" href="pathmap://METRIC_SPEC_MODELS/models/commonMetrics.metricspec#_QWjAYs7qEeOX_4BzImuHbA"/>
+    </measurementSpecifications>
+    <measuringPoint xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" href="../CloudStore.measuringpoint#//@measuringPoints.28"/>
+  </monitors>
+  <monitors id="_QSPoUNfMEeSoWbWDy3AT2Q" entityName="Holding Time - Application Server: CPU[0]">
+    <measurementSpecifications id="_RqmiYNfMEeSoWbWDy3AT2Q">
+      <temporalRestriction xsi:type="monitorrepository:Intervall" id="_abZ2YNfcEeSHZYoIlVYjJg" intervall="10.0"/>
+      <metricDescription xsi:type="metricspec:NumericalBaseMetricDescription" href="pathmap://METRIC_SPEC_MODELS/models/commonMetrics.metricspec#_zETOUs7pEeOX_4BzImuHbA"/>
+    </measurementSpecifications>
+    <measuringPoint xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" href="../CloudStore.measuringpoint#//@measuringPoints.28"/>
+  </monitors>
+  <monitors id="_m2ISsNfREeSoiZj3FRJYlg" entityName="Utilization - Application Server: CPU[0]">
+    <measurementSpecifications id="_sI2wkNfREeSoiZj3FRJYlg">
+      <temporalRestriction xsi:type="monitorrepository:Intervall" id="_a4_KQNfcEeSHZYoIlVYjJg" intervall="10.0"/>
+      <metricDescription xsi:type="metricspec:NumericalBaseMetricDescription" href="pathmap://METRIC_SPEC_MODELS/models/commonMetrics.metricspec#_QIb6cikUEeSuf8LV7cHLgA"/>
+    </measurementSpecifications>
+    <measuringPoint xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" href="../CloudStore.measuringpoint#//@measuringPoints.28"/>
+  </monitors>
+  <monitors id="_je2AENfMEeSoWbWDy3AT2Q" entityName="State - Database Server: CPU[0]">
+    <measurementSpecifications id="_0yyNENfMEeSoWbWDy3AT2Q">
+      <temporalRestriction xsi:type="monitorrepository:Intervall" id="_bxI6QNfcEeSHZYoIlVYjJg" intervall="10.0"/>
+      <metricDescription xsi:type="metricspec:NumericalBaseMetricDescription" href="pathmap://METRIC_SPEC_MODELS/models/commonMetrics.metricspec#_paDhIs7qEeOX_4BzImuHbA"/>
+    </measurementSpecifications>
+    <measuringPoint xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" href="../CloudStore.measuringpoint#//@measuringPoints.30"/>
+  </monitors>
+  <monitors id="_kWgn4NfMEeSoWbWDy3AT2Q" entityName="Waiting Time - Database Server: CPU[0]">
+    <measurementSpecifications id="_1PVmMNfMEeSoWbWDy3AT2Q">
+      <temporalRestriction xsi:type="monitorrepository:Intervall" id="_cOSwUNfcEeSHZYoIlVYjJg" intervall="10.0"/>
+      <metricDescription xsi:type="metricspec:NumericalBaseMetricDescription" href="pathmap://METRIC_SPEC_MODELS/models/commonMetrics.metricspec#_QWjAYs7qEeOX_4BzImuHbA"/>
+    </measurementSpecifications>
+    <measuringPoint xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" href="../CloudStore.measuringpoint#//@measuringPoints.30"/>
+  </monitors>
+  <monitors id="_lEOCcNfMEeSoWbWDy3AT2Q" entityName="Holding Time - Database Server: CPU[0]">
+    <measurementSpecifications id="_1wZr4NfMEeSoWbWDy3AT2Q">
+      <temporalRestriction xsi:type="monitorrepository:Intervall" id="_ck8VwNfcEeSHZYoIlVYjJg" intervall="10.0"/>
+      <metricDescription xsi:type="metricspec:NumericalBaseMetricDescription" href="pathmap://METRIC_SPEC_MODELS/models/commonMetrics.metricspec#_zETOUs7pEeOX_4BzImuHbA"/>
+    </measurementSpecifications>
+    <measuringPoint xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" href="../CloudStore.measuringpoint#//@measuringPoints.30"/>
+  </monitors>
+  <monitors id="_ln-PwNfMEeSoWbWDy3AT2Q" entityName="State - Image Server: CPU[0]">
+    <measurementSpecifications id="_2YXq0NfMEeSoWbWDy3AT2Q">
+      <temporalRestriction xsi:type="monitorrepository:Intervall" id="_dU_SoNfcEeSHZYoIlVYjJg" intervall="10.0"/>
+      <metricDescription xsi:type="metricspec:NumericalBaseMetricDescription" href="pathmap://METRIC_SPEC_MODELS/models/commonMetrics.metricspec#_paDhIs7qEeOX_4BzImuHbA"/>
+    </measurementSpecifications>
+    <measuringPoint xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" href="../CloudStore.measuringpoint#//@measuringPoints.32"/>
+  </monitors>
+  <monitors id="_ma-aANfMEeSoWbWDy3AT2Q" entityName="Waiting Time - Image Server: CPU[0]">
+    <measurementSpecifications id="_3qcWsNfMEeSoWbWDy3AT2Q">
+      <temporalRestriction xsi:type="monitorrepository:Intervall" id="_dw-EANfcEeSHZYoIlVYjJg" intervall="10.0"/>
+      <metricDescription xsi:type="metricspec:NumericalBaseMetricDescription" href="pathmap://METRIC_SPEC_MODELS/models/commonMetrics.metricspec#_QWjAYs7qEeOX_4BzImuHbA"/>
+    </measurementSpecifications>
+    <measuringPoint xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" href="../CloudStore.measuringpoint#//@measuringPoints.32"/>
+  </monitors>
+  <monitors id="_m5Kx4NfMEeSoWbWDy3AT2Q" entityName="Holding Time - Image Server: CPU[0]">
+    <measurementSpecifications id="_3GjmgNfMEeSoWbWDy3AT2Q">
+      <temporalRestriction xsi:type="monitorrepository:Intervall" id="_eUK3sNfcEeSHZYoIlVYjJg" intervall="10.0"/>
+      <metricDescription xsi:type="metricspec:NumericalBaseMetricDescription" href="pathmap://METRIC_SPEC_MODELS/models/commonMetrics.metricspec#_zETOUs7pEeOX_4BzImuHbA"/>
+    </measurementSpecifications>
+    <measuringPoint xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" href="../CloudStore.measuringpoint#//@measuringPoints.32"/>
+  </monitors>
 </monitorrepository:MonitorRepository>

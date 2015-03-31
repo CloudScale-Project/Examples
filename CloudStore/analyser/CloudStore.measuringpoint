@@ -104,4 +104,36 @@
   <measuringPoints xsi:type="pcmmeasuringpoint:ExternalCallActionMeasuringPoint">
     <externalCall href="CloudStore.repository#_Oyj98H6BEeOMPbPw2aYEHg"/>
   </measuringPoints>
+  <measuringPoints xsi:type="pcmmeasuringpoint:ExternalCallActionMeasuringPoint">
+    <externalCall href="CloudStore.repository#_4X0dIH6qEeOMPbPw2aYEHg"/>
+  </measuringPoints>
+  <measuringPoints xsi:type="pcmmeasuringpoint:ExternalCallActionMeasuringPoint">
+    <externalCall href="CloudStore.repository#_ELHsEH6rEeOMPbPw2aYEHg"/>
+  </measuringPoints>
+  <measuringPoints xsi:type="pcmmeasuringpoint:AssemblyPassiveResourceMeasuringPoint">
+    <assembly href="CloudStore.system#_-c7K0KDaEeKjDcfkNgs1Gg"/>
+    <passiveResource href="CloudStore.repository#_ZD3O0H6mEeOMPbPw2aYEHg"/>
+  </measuringPoints>
+  <measuringPoints xsi:type="pcmmeasuringpoint:AssemblyPassiveResourceMeasuringPoint">
+    <assembly href="CloudStore.system#_YyTA4GPPEeOoburSBwQF3A"/>
+    <passiveResource href="CloudStore.repository#_kTYRsKBvEeKjDcfkNgs1Gg"/>
+  </measuringPoints>
+  <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint">
+    <activeResource href="ResourceEnvironments/On-Premises.resourceenvironment#_CSl3AKDqEeKjDcfkNgs1Gg"/>
+  </measuringPoints>
+  <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" replicaID="1">
+    <activeResource href="ResourceEnvironments/On-Premises.resourceenvironment#_CSl3AKDqEeKjDcfkNgs1Gg"/>
+  </measuringPoints>
+  <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint">
+    <activeResource href="ResourceEnvironments/On-Premises.resourceenvironment#_-OfvcKDpEeKjDcfkNgs1Gg"/>
+  </measuringPoints>
+  <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" replicaID="1">
+    <activeResource href="ResourceEnvironments/On-Premises.resourceenvironment#_-OfvcKDpEeKjDcfkNgs1Gg"/>
+  </measuringPoints>
+  <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint">
+    <activeResource href="ResourceEnvironments/On-Premises.resourceenvironment#_rieCQKD2EeKjDcfkNgs1Gg"/>
+  </measuringPoints>
+  <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" replicaID="1">
+    <activeResource href="ResourceEnvironments/On-Premises.resourceenvironment#_rieCQKD2EeKjDcfkNgs1Gg"/>
+  </measuringPoints>
 </org.palladiosimulator.edp2.models:MeasuringPointRepository>
