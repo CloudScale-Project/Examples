@@ -202,13 +202,6 @@
     </measurementSpecifications>
     <measuringPoint xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" href="../CloudStore.measuringpoint#//@measuringPoints.28"/>
   </monitors>
-  <monitors id="_m2ISsNfREeSoiZj3FRJYlg" entityName="Utilization - Application Server: CPU[0]">
-    <measurementSpecifications id="_sI2wkNfREeSoiZj3FRJYlg">
-      <temporalRestriction xsi:type="monitorrepository:Intervall" id="_a4_KQNfcEeSHZYoIlVYjJg" intervall="10.0"/>
-      <metricDescription xsi:type="metricspec:NumericalBaseMetricDescription" href="pathmap://METRIC_SPEC_MODELS/models/commonMetrics.metricspec#_QIb6cikUEeSuf8LV7cHLgA"/>
-    </measurementSpecifications>
-    <measuringPoint xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" href="../CloudStore.measuringpoint#//@measuringPoints.28"/>
-  </monitors>
   <monitors id="_je2AENfMEeSoWbWDy3AT2Q" entityName="State - Database Server: CPU[0]">
     <measurementSpecifications id="_0yyNENfMEeSoWbWDy3AT2Q">
       <temporalRestriction xsi:type="monitorrepository:Intervall" id="_bxI6QNfcEeSHZYoIlVYjJg" intervall="10.0"/>
