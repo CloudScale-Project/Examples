@@ -1,15 +1,15 @@
-#### CloudStore Example - StaticSpotter project
+CloudStore Example - StaticSpotter project
 -------
 
-##### About
+#### About
 
-##### Project contents 
+#### Project contents 
 
-##### Run
+#### Run
 
-##### Possible configurations 
+#### Possible configurations 
 
-##### Results
+#### Results
 
 
 

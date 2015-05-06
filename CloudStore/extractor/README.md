@@ -1,15 +1,15 @@
-#### CloudStore Example - Extractor project
+CloudStore Example - Extractor project
 -------
 
-##### About
+#### About
 
-##### Project contents 
+#### Project contents 
 
-##### Run
+#### Run
 
-##### Possible configurations 
+#### Possible configurations 
 
-##### Results
+#### Results
 
 
 

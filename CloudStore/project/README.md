@@ -1,17 +1,8 @@
-#### CloudStore Example - Extractor project
+CloudStore Example - Source project
 ------------------------------------------------------
 
-Contents:
----------
-1. Installation & Operation
-2. Main Differences to original Version
-3. Main Differences to SAP version
+#### 1. Installation & Operation
 
-=================================================================
-=================================================================
-
-1. Installation & Operation
----------------------------
 1) Install Tomcat, MySQL
    (I used XAMPP 1.8.1; Apache Tomcat/7.0.30; MySQL 5.5.27)
    
@@ -28,8 +19,8 @@ Contents:
 6) Run the project via "Run on Server" in Eclipse
 
 
-2. Main Differences to original Version
----------------------------------------
+#### 2. Main Differences to original Version
+
 1) General
 - only included folders "images", "servlets", and "build" from original sources
   (i.e., RBE, database population, and image generation are not included - only the TCP-W system itself)
@@ -51,8 +42,8 @@ Contents:
 
 6) Specified generic Vector types
 
-3. Main Differences to SAP version
-----------------------------------
+#### Main Differences to SAP version
+
 1) General
 - different URLs for images
 

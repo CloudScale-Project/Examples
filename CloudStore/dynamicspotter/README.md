@@ -1,15 +1,15 @@
-#### CloudStore Example - DynamicSpotter project
+CloudStore Example - DynamicSpotter project
 -------
 
-##### About
+#### About
 
-##### Project contents 
+#### Project contents 
 
-##### Run
+#### Run
 
-##### Possible configurations 
+#### Possible configurations 
 
-##### Results
+#### Results
 
 
 
