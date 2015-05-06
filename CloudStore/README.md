@@ -1,4 +1,4 @@
-<h2>#### CloudStore Example</h2>
+<h2>CloudStore Example</h2>
 
 <p>This example shows how to use CloudScale Toolchain and Environment on legacy version of TPC-W (CloudStore).</p>
 
