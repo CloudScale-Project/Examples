@@ -16,7 +16,7 @@
       <steps_Behaviour xsi:type="seff:StopAction" id="_w0v2IDPHEeKpJ5Vk750Z4Q" entityName="stop" predecessor_AbstractAction="_TcLkMDPIEeKpJ5Vk750Z4Q"/>
       <steps_Behaviour xsi:type="seff:InternalAction" id="_TcLkMDPIEeKpJ5Vk750Z4Q" entityName="storeInternally" predecessor_AbstractAction="_w0vPEDPHEeKpJ5Vk750Z4Q" successor_AbstractAction="_w0v2IDPHEeKpJ5Vk750Z4Q">
         <resourceDemand_Action>
-          <specification_ParametericResourceDemand specification="DoublePMF[(10;0.3)(20;0.4)(30;0.3)]"/>
+          <specification_ParametericResourceDemand specification="DoublePMF [ ( 10.0 ; 0.3 ) ( 20.0 ; 0.4 ) ( 30.0 ; 0.3 ) ]"/>
           <requiredResource_ParametricResourceDemand href="pathmap://PCM_MODELS/Palladio.resourcetype#_oro4gG3fEdy4YaaT-RYrLQ"/>
         </resourceDemand_Action>
         <resourceDemand_Action>

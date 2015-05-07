@@ -24,6 +24,7 @@
 <stringAttribute key="maximum" value=""/>
 <stringAttribute key="maximumMeasurementCount" value="-1"/>
 <stringAttribute key="minimum" value=""/>
+<stringAttribute key="monitorRepositoryFile" value=""/>
 <stringAttribute key="outpath" value="org.palladiosimulator.temporary"/>
 <stringAttribute key="persistenceFramework" value="Experiment Data Persistency &amp; Presentation (EDP2)"/>
 <stringAttribute key="pmsFile" value="platform:/resource/UsageEvolutionExample/default.pms"/>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <launchConfiguration type="de.upb.pcm.interpreter.SimuLizarLaunching">
-<stringAttribute key="EDP2RepositoryID" value="_vBNhQEP2EeSTaKvnU47-CQ"/>
+<stringAttribute key="EDP2RepositoryID" value="_u8ynkPP7EeSKEJfHAsBIUA"/>
 <stringAttribute key="accuracyQualityAnnotationFile" value=""/>
 <stringAttribute key="allocationFile" value="platform:/resource/UsageEvolutionExample/default.allocation"/>
 <booleanAttribute key="clear" value="true"/>
@@ -24,6 +24,7 @@
 <stringAttribute key="maximum" value=""/>
 <stringAttribute key="maximumMeasurementCount" value="-1"/>
 <stringAttribute key="minimum" value=""/>
+<stringAttribute key="monitorRepositoryFile" value="platform:/resource/UsageEvolutionExample/My.monitorrepository"/>
 <stringAttribute key="outpath" value="org.palladiosimulator.temporary"/>
 <stringAttribute key="persistenceFramework" value="Experiment Data Persistency &amp; Presentation (EDP2)"/>
 <stringAttribute key="pmsFile" value="platform:/resource/UsageEvolutionExample/closedwl_default.pms"/>
