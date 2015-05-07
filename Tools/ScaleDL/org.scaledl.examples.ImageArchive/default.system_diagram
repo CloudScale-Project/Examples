@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" type="CompositeModel" measurementUnit="Pixel">
+  <children xsi:type="notation:Shape" type="2002" fontName="Segoe UI">
+    <children xsi:type="notation:DecorationNode" type="5012"/>
+    <children xsi:type="notation:DecorationNode" type="7002">
+      <children xsi:type="notation:Shape" type="3006" fontName="Segoe UI">
+        <children xsi:type="notation:DecorationNode" type="5009"/>
+        <children xsi:type="notation:Shape" type="3007" fontName="Segoe UI">
+          <children xsi:type="notation:DecorationNode" type="5007">
+            <layoutConstraint xsi:type="notation:Location" x="56" y="-38"/>
+          </children>
+          <element href="default.repository#_qZKs0CHbEd62GabW1zGSBw"/>
+          <layoutConstraint xsi:type="notation:Bounds" x="-29" y="20"/>
+        </children>
+        <children xsi:type="notation:Shape" type="3008" fontName="Lucida Grande">
+          <children xsi:type="notation:DecorationNode" type="5008">
+            <layoutConstraint xsi:type="notation:Location" y="5"/>
+          </children>
+          <element href="default.repository#_ik6NEPPIEeSvLK8q3Y9PwQ"/>
+          <layoutConstraint xsi:type="notation:Bounds"/>
+        </children>
+        <element href="default.system#_9c3KwCHcEd6lJo4DCALHMw"/>
+        <layoutConstraint xsi:type="notation:Bounds" x="188" y="196" width="191" height="76"/>
+      </children>
+      <children xsi:type="notation:Shape" type="3006" fontName="Lucida Grande">
+        <children xsi:type="notation:DecorationNode" type="5009"/>
+        <children xsi:type="notation:Shape" type="3007" fontName="Lucida Grande">
+          <children xsi:type="notation:DecorationNode" type="5007">
+            <layoutConstraint xsi:type="notation:Location" y="5"/>
+          </children>
+          <element href="default.repository#_f9CL4PPIEeSvLK8q3Y9PwQ"/>
+          <layoutConstraint xsi:type="notation:Bounds"/>
+        </children>
+        <element href="default.system#_f47gQPPOEeSvLK8q3Y9PwQ"/>
+        <layoutConstraint xsi:type="notation:Bounds" x="422" y="25" width="265"/>
+      </children>
+    </children>
+    <children xsi:type="notation:Shape" type="3011" fontName="Segoe UI">
+      <children xsi:type="notation:DecorationNode" type="5013">
+        <layoutConstraint xsi:type="notation:Location" x="135" y="58"/>
+      </children>
+      <element href="default.system#_-r1fUCHcEd6lJo4DCALHMw"/>
+      <layoutConstraint xsi:type="notation:Bounds" x="-59" y="235"/>
+    </children>
+    <element href="default.system#_84D0kCHcEd6lJo4DCALHMw"/>
+    <layoutConstraint xsi:type="notation:Bounds" x="95" y="60" width="788" height="386"/>
+  </children>
+  <styles xsi:type="notation:DiagramStyle"/>
+  <element href="default.system#_84D0kCHcEd6lJo4DCALHMw"/>
+  <edges xsi:type="notation:Connector" type="4006" source="//@children.0/@children.2" target="//@children.0/@children.1/@children.0/@children.1">
+    <styles xsi:type="notation:FontStyle" fontName="Segoe UI"/>
+    <element href="default.system#__VHF0CHcEd6lJo4DCALHMw"/>
+    <bendpoints xsi:type="notation:RelativeBendpoints" points="[30, 0, -111, 130]$[129, -125, -12, 5]"/>
+  </edges>
+  <edges xsi:type="notation:Connector" type="4004" source="//@children.0/@children.1/@children.0/@children.2" target="//@children.0/@children.1/@children.1/@children.1">
+    <styles xsi:type="notation:FontStyle" fontName="Lucida Grande"/>
+    <element href="default.system#_8JdWoPPOEeSvLK8q3Y9PwQ"/>
+    <bendpoints xsi:type="notation:RelativeBendpoints" points="[7, 0, 175, 160]$[-171, -160, -3, 0]"/>
+    <sourceAnchor xsi:type="notation:IdentityAnchor" id="(1.0,0.0)"/>
+    <targetAnchor xsi:type="notation:IdentityAnchor" id="(0.1,0.5)"/>
+  </edges>
+</notation:Diagram>

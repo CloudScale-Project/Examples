@@ -21,6 +21,7 @@
 <stringAttribute key="fixedSeed3" value="3"/>
 <stringAttribute key="fixedSeed4" value="4"/>
 <stringAttribute key="fixedSeed5" value="5"/>
+<stringAttribute key="infrastructureModelFile" value=""/>
 <stringAttribute key="maximum" value=""/>
 <stringAttribute key="maximumMeasurementCount" value="-1"/>
 <stringAttribute key="minimum" value=""/>

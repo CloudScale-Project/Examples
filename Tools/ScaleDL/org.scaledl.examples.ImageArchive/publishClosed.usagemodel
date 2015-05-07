@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usagemodel:UsageModel xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:stoex="http://sdq.ipd.uka.de/StochasticExpressions/2.2" xmlns:usagemodel="http://sdq.ipd.uka.de/PalladioComponentModel/UsageModel/5.0">
+  <usageScenario_UsageModel id="_21uZ4PPTEeSvLK8q3Y9PwQ" entityName="publishImageClosedWorkloadScenario">
+    <scenarioBehaviour_UsageScenario id="_21uZ4fPTEeSvLK8q3Y9PwQ" entityName="defaultUsageScenarioBehaviour">
+      <actions_ScenarioBehaviour xsi:type="usagemodel:Start" id="_21uZ4vPTEeSvLK8q3Y9PwQ" successor="_ti9CcPPdEeSvLK8q3Y9PwQ"/>
+      <actions_ScenarioBehaviour xsi:type="usagemodel:Stop" id="_21uZ4_PTEeSvLK8q3Y9PwQ" predecessor="_ti9CcPPdEeSvLK8q3Y9PwQ"/>
+      <actions_ScenarioBehaviour xsi:type="usagemodel:EntryLevelSystemCall" id="_ti9CcPPdEeSvLK8q3Y9PwQ" successor="_21uZ4_PTEeSvLK8q3Y9PwQ" predecessor="_21uZ4vPTEeSvLK8q3Y9PwQ">
+        <providedRole_EntryLevelSystemCall href="default.system#_-r1fUCHcEd6lJo4DCALHMw"/>
+        <operationSignature__EntryLevelSystemCall href="default.repository#_KjhikgzkEeCFg86gxKwVPw"/>
+        <inputParameterUsages_EntryLevelSystemCall>
+          <variableCharacterisation_VariableUsage type="BYTESIZE">
+            <specification_VariableCharacterisation specification="4"/>
+          </variableCharacterisation_VariableUsage>
+          <namedReference__VariableUsage xsi:type="stoex:VariableReference" referenceName="image"/>
+        </inputParameterUsages_EntryLevelSystemCall>
+      </actions_ScenarioBehaviour>
+    </scenarioBehaviour_UsageScenario>
+    <workload_UsageScenario xsi:type="usagemodel:ClosedWorkload" population="1">
+      <thinkTime_ClosedWorkload specification="10.0"/>
+    </workload_UsageScenario>
+  </usageScenario_UsageModel>
+</usagemodel:UsageModel>

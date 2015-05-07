@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<repository:Repository xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:repository="http://sdq.ipd.uka.de/PalladioComponentModel/Repository/5.0" xmlns:seff="http://sdq.ipd.uka.de/PalladioComponentModel/SEFF/5.0" xmlns:stoex="http://sdq.ipd.uka.de/StochasticExpressions/2.2" id="_dqFLECHbEd6tG9VclJz3cw" entityName="defaultRepository">
+  <components__Repository xsi:type="repository:BasicComponent" id="_os1t4CHbEd62GabW1zGSBw" entityName="ImageArchiveWeb">
+    <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="_qZKs0CHbEd62GabW1zGSBw" entityName="Provided_ImageArchive_ImageArchiveWebComponent" providedInterface__OperationProvidedRole="_n7g-oCHbEd62GabW1zGSBw"/>
+    <requiredRoles_InterfaceRequiringEntity xsi:type="repository:OperationRequiredRole" id="_ik6NEPPIEeSvLK8q3Y9PwQ" entityName="Required_ImageDatabaseInterface_ImageArchiveWeb" requiredInterface__OperationRequiredRole="_Gae-sPPIEeSvLK8q3Y9PwQ"/>
+    <serviceEffectSpecifications__BasicComponent xsi:type="seff:ResourceDemandingSEFF" id="12345" describedService__SEFF="_KjhikgzkEeCFg86gxKwVPw">
+      <steps_Behaviour xsi:type="seff:StartAction" id="_qZUd0CHbEd62GabW1zGSBw" successor_AbstractAction="_tqkS4PPIEeSvLK8q3Y9PwQ"/>
+      <steps_Behaviour xsi:type="seff:StopAction" id="_qZUd0SHbEd62GabW1zGSBw" predecessor_AbstractAction="_tqkS4PPIEeSvLK8q3Y9PwQ"/>
+      <steps_Behaviour xsi:type="seff:ExternalCallAction" id="_tqkS4PPIEeSvLK8q3Y9PwQ" predecessor_AbstractAction="_qZUd0CHbEd62GabW1zGSBw" successor_AbstractAction="_qZUd0SHbEd62GabW1zGSBw" calledService_ExternalService="_I2SSwPPIEeSvLK8q3Y9PwQ" role_ExternalService="_ik6NEPPIEeSvLK8q3Y9PwQ">
+        <inputVariableUsages__CallAction>
+          <variableCharacterisation_VariableUsage type="BYTESIZE">
+            <specification_VariableCharacterisation specification="image.BYTESIZE"/>
+          </variableCharacterisation_VariableUsage>
+          <namedReference__VariableUsage xsi:type="stoex:VariableReference" referenceName="image"/>
+        </inputVariableUsages__CallAction>
+      </steps_Behaviour>
+    </serviceEffectSpecifications__BasicComponent>
+    <serviceEffectSpecifications__BasicComponent xsi:type="seff:ResourceDemandingSEFF" id="_rtDA0PPJEeSvLK8q3Y9PwQ" describedService__SEFF="_GeKIUPPJEeSvLK8q3Y9PwQ">
+      <steps_Behaviour xsi:type="seff:StartAction" id="_sNyWYPPJEeSvLK8q3Y9PwQ" entityName="start" successor_AbstractAction="_QraKAPPKEeSvLK8q3Y9PwQ"/>
+      <steps_Behaviour xsi:type="seff:StopAction" id="_sNyWYfPJEeSvLK8q3Y9PwQ" entityName="stop" predecessor_AbstractAction="_Qzn_4PSQEeSg4da2P1xILw"/>
+      <steps_Behaviour xsi:type="seff:ExternalCallAction" id="_QraKAPPKEeSvLK8q3Y9PwQ" predecessor_AbstractAction="_sNyWYPPJEeSvLK8q3Y9PwQ" successor_AbstractAction="_Qzn_4PSQEeSg4da2P1xILw" calledService_ExternalService="_tfG0UPPJEeSvLK8q3Y9PwQ" role_ExternalService="_ik6NEPPIEeSvLK8q3Y9PwQ">
+        <returnVariableUsage__CallReturnAction>
+          <variableCharacterisation_VariableUsage type="NUMBER_OF_ELEMENTS">
+            <specification_VariableCharacterisation specification="RETURN.NUMBER_OF_ELEMENTS"/>
+          </variableCharacterisation_VariableUsage>
+          <variableCharacterisation_VariableUsage type="BYTESIZE">
+            <specification_VariableCharacterisation specification="RETURN.BYTESIZE"/>
+          </variableCharacterisation_VariableUsage>
+          <namedReference__VariableUsage xsi:type="stoex:VariableReference" referenceName="images"/>
+        </returnVariableUsage__CallReturnAction>
+      </steps_Behaviour>
+      <steps_Behaviour xsi:type="seff:InternalAction" id="_Qzn_4PSQEeSg4da2P1xILw" entityName="processImages" predecessor_AbstractAction="_QraKAPPKEeSvLK8q3Y9PwQ" successor_AbstractAction="_sNyWYfPJEeSvLK8q3Y9PwQ">
+        <resourceDemand_Action>
+          <specification_ParametericResourceDemand specification="images.NUMBER_OF_ELEMENTS * images.BYTESIZE"/>
+          <requiredResource_ParametricResourceDemand href="pathmap://PCM_MODELS/Palladio.resourcetype#_oro4gG3fEdy4YaaT-RYrLQ"/>
+        </resourceDemand_Action>
+      </steps_Behaviour>
+    </serviceEffectSpecifications__BasicComponent>
+  </components__Repository>
+  <components__Repository xsi:type="repository:BasicComponent" id="_YC18gPPIEeSvLK8q3Y9PwQ" entityName="ImageDatabase">
+    <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="_f9CL4PPIEeSvLK8q3Y9PwQ" entityName="Provided_ImageDatabaseInterface_ImageDatabase" providedInterface__OperationProvidedRole="_Gae-sPPIEeSvLK8q3Y9PwQ"/>
+    <serviceEffectSpecifications__BasicComponent xsi:type="seff:ResourceDemandingSEFF" id="_f9HrcPPIEeSvLK8q3Y9PwQ" describedService__SEFF="_I2SSwPPIEeSvLK8q3Y9PwQ">
+      <steps_Behaviour xsi:type="seff:StartAction" id="_f9I5kPPIEeSvLK8q3Y9PwQ" entityName="start" successor_AbstractAction="_FXn2sPPMEeSvLK8q3Y9PwQ"/>
+      <steps_Behaviour xsi:type="seff:StopAction" id="_f9I5kfPIEeSvLK8q3Y9PwQ" entityName="stop" predecessor_AbstractAction="_FXn2sPPMEeSvLK8q3Y9PwQ"/>
+      <steps_Behaviour xsi:type="seff:InternalAction" id="_FXn2sPPMEeSvLK8q3Y9PwQ" entityName="storeImageInt" predecessor_AbstractAction="_f9I5kPPIEeSvLK8q3Y9PwQ" successor_AbstractAction="_f9I5kfPIEeSvLK8q3Y9PwQ">
+        <resourceDemand_Action>
+          <specification_ParametericResourceDemand specification="DoublePMF [ ( 1.0 ; 0.3 ) ( 1.5 ; 0.4 ) ( 3.0 ; 0.3 ) ] * image.BYTESIZE"/>
+          <requiredResource_ParametricResourceDemand href="pathmap://PCM_MODELS/Palladio.resourcetype#_oro4gG3fEdy4YaaT-RYrLQ"/>
+        </resourceDemand_Action>
+        <resourceDemand_Action>
+          <specification_ParametericResourceDemand specification="image.BYTESIZE * 10"/>
+          <requiredResource_ParametricResourceDemand href="pathmap://PCM_MODELS/Palladio.resourcetype#_BIjHoQ3KEdyouMqirZIhzQ"/>
+        </resourceDemand_Action>
+      </steps_Behaviour>
+    </serviceEffectSpecifications__BasicComponent>
+    <serviceEffectSpecifications__BasicComponent xsi:type="seff:ResourceDemandingSEFF" id="__xoJcPPJEeSvLK8q3Y9PwQ" describedService__SEFF="_tfG0UPPJEeSvLK8q3Y9PwQ">
+      <steps_Behaviour xsi:type="seff:StartAction" id="_AMJiQPPKEeSvLK8q3Y9PwQ" entityName="start" successor_AbstractAction="_rY114PSOEeSg4da2P1xILw"/>
+      <steps_Behaviour xsi:type="seff:StopAction" id="_AMJiQfPKEeSvLK8q3Y9PwQ" entityName="stop" predecessor_AbstractAction="_rY114PSOEeSg4da2P1xILw"/>
+      <steps_Behaviour xsi:type="seff:SetVariableAction" id="_rY114PSOEeSg4da2P1xILw" entityName="imagesReturned" predecessor_AbstractAction="_AMJiQPPKEeSvLK8q3Y9PwQ" successor_AbstractAction="_AMJiQfPKEeSvLK8q3Y9PwQ">
+        <localVariableUsages_SetVariableAction>
+          <variableCharacterisation_VariableUsage type="NUMBER_OF_ELEMENTS">
+            <specification_VariableCharacterisation specification="5"/>
+          </variableCharacterisation_VariableUsage>
+          <variableCharacterisation_VariableUsage type="BYTESIZE">
+            <specification_VariableCharacterisation specification="10"/>
+          </variableCharacterisation_VariableUsage>
+          <namedReference__VariableUsage xsi:type="stoex:VariableReference" referenceName="RETURN"/>
+        </localVariableUsages_SetVariableAction>
+      </steps_Behaviour>
+    </serviceEffectSpecifications__BasicComponent>
+  </components__Repository>
+  <interfaces__Repository xsi:type="repository:OperationInterface" id="_n7g-oCHbEd62GabW1zGSBw" entityName="ImageArchiveInterface">
+    <signatures__OperationInterface id="_KjhikgzkEeCFg86gxKwVPw" entityName="publishImage">
+      <parameters__OperationSignature parameterName="image">
+        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="pathmap://PCM_MODELS/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
+      </parameters__OperationSignature>
+      <parameters__OperationSignature parameterName="tags">
+        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="pathmap://PCM_MODELS/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
+      </parameters__OperationSignature>
+    </signatures__OperationInterface>
+    <signatures__OperationInterface id="_GeKIUPPJEeSvLK8q3Y9PwQ" entityName="retrieveImages">
+      <parameters__OperationSignature parameterName="tags">
+        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="pathmap://PCM_MODELS/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
+      </parameters__OperationSignature>
+      <returnType__OperationSignature xsi:type="repository:PrimitiveDataType" href="pathmap://PCM_MODELS/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
+    </signatures__OperationInterface>
+  </interfaces__Repository>
+  <interfaces__Repository xsi:type="repository:OperationInterface" id="_Gae-sPPIEeSvLK8q3Y9PwQ" entityName="ImageDatabaseInterface">
+    <signatures__OperationInterface id="_I2SSwPPIEeSvLK8q3Y9PwQ" entityName="storeImage">
+      <parameters__OperationSignature parameterName="image">
+        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="pathmap://PCM_MODELS/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
+      </parameters__OperationSignature>
+      <parameters__OperationSignature parameterName="tags">
+        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="pathmap://PCM_MODELS/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
+      </parameters__OperationSignature>
+    </signatures__OperationInterface>
+    <signatures__OperationInterface id="_tfG0UPPJEeSvLK8q3Y9PwQ" entityName="getImages">
+      <parameters__OperationSignature parameterName="tags">
+        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="pathmap://PCM_MODELS/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
+      </parameters__OperationSignature>
+      <returnType__OperationSignature xsi:type="repository:PrimitiveDataType" href="pathmap://PCM_MODELS/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
+    </signatures__OperationInterface>
+  </interfaces__Repository>
+</repository:Repository>
