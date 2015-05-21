@@ -29,7 +29,8 @@
 <stringAttribute key="outpath" value="org.palladiosimulator.temporary"/>
 <stringAttribute key="persistenceFramework" value="Experiment Data Persistency &amp; Presentation (EDP2)"/>
 <stringAttribute key="reconfigurationRulesFolder" value=""/>
-<stringAttribute key="simTime" value="1200"/>
+<stringAttribute key="serviceLevelObjectiveRepositoryFile" value=""/>
+<stringAttribute key="simTime" value="15000"/>
 <booleanAttribute key="simulateAccuracy" value="false"/>
 <booleanAttribute key="simulateFailures" value="false"/>
 <booleanAttribute key="simulateLinkingResources" value="false"/>
