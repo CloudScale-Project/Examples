@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="ASCII"?>
+<ExperimentAutomation.Experiments:ExperimentRepository xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ExperimentAutomation.Experiments="http://palladiosimulator.org/ExperimentAutomation/Experiments/1.0" xmlns:ExperimentAutomation.Experiments.AbstractSimulation="http://palladiosimulator.org/ExperimentAutomation/AbstractSimulation/1.0">
+  <experiments repetitions="1">
+    <stopConditions xsi:type="ExperimentAutomation.Experiments.AbstractSimulation:MeasurementCountStopCondition" measurementCount="100"/>
+    <stopConditions xsi:type="ExperimentAutomation.Experiments.AbstractSimulation:SimTimeStopCondition" simulationTime="-1"/>
+    <initialModel>
+      <usageModel href="../../%20Input/Alternative_2015-05-20_01-48-42/BrowsingMix.usagemodel#/"/>
+      <allocation href="../../%20Input/Alternative_2015-05-20_01-48-42/On-Premises.allocation#_ZOoU8KDqEeKjDcfkNgs1Gg"/>
+      <middlewareRepository href="pathmap://PCM_MODELS/Glassfish.repository#_yQk9oIX1EdyWta7nHuXiHQ"/>
+      <eventMiddleWareRepository href="pathmap://PCM_MODELS/default_event_middleware.repository#_Onc7cMALEd-LKvNtxXAQbQ"/>
+      <monitorRepository href="analyser.monitorrepository#_RanaEf7mEeSbiL7_xJf9tg"/>
+      <serviceLevelObjectives href="analyser.slo#/"/>
+      <usageEvolution href="analyser.usageevolution#_RaxLEf7mEeSbiL7_xJf9tg"/>
+    </initialModel>
+  </experiments>
+</ExperimentAutomation.Experiments:ExperimentRepository>
