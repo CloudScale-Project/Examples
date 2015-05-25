@@ -1,4 +1,2 @@
 <?xml version="1.0" encoding="ASCII"?>
-<slo:ServiceLevelObjectiveRepository xmlns:slo="http://palladiosimulator.org/ServiceLevelObjective/1.0">
-  <servicelevelobjectives id="_RaxLEP7mEeSbiL7_xJf9tg" name="Usage response time SLO"/>
-</slo:ServiceLevelObjectiveRepository>
+<slo:ServiceLevelObjectiveRepository xmlns:slo="http://palladiosimulator.org/ServiceLevelObjective/1.0"/>

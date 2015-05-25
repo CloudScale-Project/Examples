@@ -1,7 +1,2 @@
 <?xml version="1.0" encoding="ASCII"?>
-<usageevolution:UsageEvolution xmlns:usageevolution="http://usageevolution/1.0" id="_RaxLEf7mEeSbiL7_xJf9tg" entityName="Initial usage evolution">
-  <usages id="_RaxLEv7mEeSbiL7_xJf9tg" entityName="Initial usage evolution">
-    <loadEvolution href="../../../ScaleDL%20models/Usage%20Evolution/Alternative_2015-05-14_06-05-10/pcm.dlim#/"/>
-    <scenario href="../../%20Input/Alternative_2015-05-20_01-48-42/BrowsingMix.usagemodel#_ieXlgKDrEeKjDcfkNgs1Gg"/>
-  </usages>
-</usageevolution:UsageEvolution>
+<usageevolution:UsageEvolution xmlns:usageevolution="http://usageevolution/1.0" id="_RaxLEf7mEeSbiL7_xJf9tg" entityName="Initial usage evolution"/>

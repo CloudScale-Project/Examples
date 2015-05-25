@@ -2,18 +2,16 @@
 <ExperimentAutomation.Experiments:ExperimentRepository xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ExperimentAutomation.Experiments="http://palladiosimulator.org/ExperimentAutomation/Experiments/1.0" xmlns:ExperimentAutomation.Experiments.AbstractSimulation="http://palladiosimulator.org/ExperimentAutomation/AbstractSimulation/1.0" xmlns:simulizartooladapter="http://palladiosimulator.org/ExperimentAutomation/ToolAdapter/SimuLizar/1.0">
   <experiments repetitions="1">
     <toolConfiguration xsi:type="simulizartooladapter:SimuLizarConfiguration">
-      <datasource xsi:type="ExperimentAutomation.Experiments.AbstractSimulation:FileDatasource" location="/home/vito/github/Cloudscale/Examples/CloudStore/environment/ Analyser/Results/Result_2015-05-22_09-53-10"/>
+      <datasource xsi:type="ExperimentAutomation.Experiments.AbstractSimulation:FileDatasource" location="/home/vito/github/Cloudscale/Examples/CloudStore/environment/ Analyser/Results/Result_2015-05-25_06-55-25"/>
     </toolConfiguration>
-    <stopConditions xsi:type="ExperimentAutomation.Experiments.AbstractSimulation:MeasurementCountStopCondition" measurementCount="100"/>
-    <stopConditions xsi:type="ExperimentAutomation.Experiments.AbstractSimulation:SimTimeStopCondition" simulationTime="-1"/>
+    <stopConditions xsi:type="ExperimentAutomation.Experiments.AbstractSimulation:MeasurementCountStopCondition" measurementCount="-1"/>
+    <stopConditions xsi:type="ExperimentAutomation.Experiments.AbstractSimulation:SimTimeStopCondition" simulationTime="400"/>
     <initialModel>
       <usageModel href="../../%20Input/Alternative_2015-05-14_05-35-16/pcm.usagemodel#/"/>
       <allocation href="../../%20Input/Alternative_2015-05-14_05-35-16/pcm.allocation#CSMGen_"/>
       <middlewareRepository href="pathmap://PCM_MODELS/Glassfish.repository#_yQk9oIX1EdyWta7nHuXiHQ"/>
       <eventMiddleWareRepository href="pathmap://PCM_MODELS/default_event_middleware.repository#_Onc7cMALEd-LKvNtxXAQbQ"/>
       <monitorRepository href="analyser.monitorrepository#_FYykwP7XEeSGlvXu9VqThw"/>
-      <serviceLevelObjectives href="analyser.slo#/"/>
-      <usageEvolution href="analyser.usageevolution#_FWfesP7XEeSGlvXu9VqThw"/>
     </initialModel>
   </experiments>
 </ExperimentAutomation.Experiments:ExperimentRepository>

@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="ASCII"?>
-<ExperimentAutomation.Experiments:ExperimentRepository xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ExperimentAutomation.Experiments="http://palladiosimulator.org/ExperimentAutomation/Experiments/1.0" xmlns:ExperimentAutomation.Experiments.AbstractSimulation="http://palladiosimulator.org/ExperimentAutomation/AbstractSimulation/1.0" xmlns:ExperimentAutomation.Variation="http://palladiosimulator.org/ExperimentAutomation/Variation/1.0" xmlns:simulizartooladapter="http://palladiosimulator.org/ExperimentAutomation/ToolAdapter/SimuLizar/1.0">
+<ExperimentAutomation.Experiments:ExperimentRepository xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ExperimentAutomation.Experiments="http://palladiosimulator.org/ExperimentAutomation/Experiments/1.0" xmlns:ExperimentAutomation.Experiments.AbstractSimulation="http://palladiosimulator.org/ExperimentAutomation/AbstractSimulation/1.0" xmlns:simulizartooladapter="http://palladiosimulator.org/ExperimentAutomation/ToolAdapter/SimuLizar/1.0">
   <experiments name="Scalability measurement" repetitions="1">
-    <variations minValue="1.0" maxValue="100.0" maxVariations="10" variedObjectId="_ieXlgKDrEeKjDcfkNgs1Gg">
-      <type xsi:type="ExperimentAutomation.Variation:ValueVariation" href="pathmap://ENVIRONMENT_ANALYSER/pcm.variation#_zUZqID5zEeCEPJs72ZSOBg"/>
+    <variations minValue="1.0" maxValue="100.0" maxVariations="10">
       <valueProvider xsi:type="ExperimentAutomation.Experiments:NestedIntervalsLongValueProvider" minValue="1" maxValue="100"/>
     </variations>
+    <modifications xsi:type="ExperimentAutomation.Experiments:SchedulingPolicy2DelayModification"/>
     <modifications xsi:type="ExperimentAutomation.Experiments:SchedulingPolicy2DelayModification"/>
     <toolConfiguration xsi:type="simulizartooladapter:SimuLizarConfiguration">
       <stopConditions xsi:type="ExperimentAutomation.Experiments.AbstractSimulation:MeasurementCountStopCondition" measurementCount="100"/>
       <stopConditions xsi:type="ExperimentAutomation.Experiments.AbstractSimulation:SimTimeStopCondition" simulationTime="-1"/>
       <datasource xsi:type="ExperimentAutomation.Experiments.AbstractSimulation:FileDatasource" location="/home/vito/github/Cloudscale/Examples/CloudStore/environment/ Analyser/Results/Result_2015-05-22_04-50-50"/>
     </toolConfiguration>
+    <stopConditions xsi:type="ExperimentAutomation.Experiments.AbstractSimulation:MeasurementCountStopCondition" measurementCount="100"/>
+    <stopConditions xsi:type="ExperimentAutomation.Experiments.AbstractSimulation:SimTimeStopCondition" simulationTime="-1"/>
     <stopConditions xsi:type="ExperimentAutomation.Experiments.AbstractSimulation:MeasurementCountStopCondition" measurementCount="100"/>
     <stopConditions xsi:type="ExperimentAutomation.Experiments.AbstractSimulation:SimTimeStopCondition" simulationTime="-1"/>
     <initialModel>
