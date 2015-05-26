@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?>
+<usageevolution:UsageEvolution xmlns:usageevolution="http://usageevolution/1.0" id="_uqVzsAO0EeWmXrCx8zqRdA" entityName="Evolution">
+  <usages id="_uqVzsQO0EeWmXrCx8zqRdA" entityName="Initial">
+    <loadEvolution href="publishLoad.dlim#/"/>
+    <workEvolutions>
+      <evolution href="ImageSizeEvolution.dlim#/"/>
+      <variableCharacterisation href="default.repository#//@components__Repository.1/@serviceEffectSpecifications__BasicComponent.1/@steps_Behaviour.2/@localVariableUsages_SetVariableAction.0/@variableCharacterisation_VariableUsage.1"/>
+    </workEvolutions>
+    <scenario href="retreiveClosed.usagemodel#_9wcbMPPREeSvLK8q3Y9PwQ"/>
+  </usages>
+</usageevolution:UsageEvolution>
