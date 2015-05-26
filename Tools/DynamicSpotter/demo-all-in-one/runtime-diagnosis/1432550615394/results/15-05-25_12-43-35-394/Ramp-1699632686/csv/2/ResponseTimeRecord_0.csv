@@ -1,0 +1,16 @@
+callId;operation;processId;responseTime;timeStamp;step
+Long;String;String;Long;Long;Integer
+1535;org.spotter.demo.app.DummyApp.testOLB();12071@kitt;100;45;2
+1536;org.spotter.demo.app.DummyApp.testNoProblem();12071@kitt;0;325;2
+1537;org.spotter.demo.app.DummyApp.testOLB();12071@kitt;100;522;2
+1538;org.spotter.demo.app.DummyApp.testNoProblem();12071@kitt;0;807;2
+1539;org.spotter.demo.app.DummyApp.testOLB();12071@kitt;101;932;2
+1540;org.spotter.demo.app.DummyApp.testNoProblem();12071@kitt;0;1165;2
+1541;org.spotter.demo.app.DummyApp.testOLB();12071@kitt;100;1333;2
+1542;org.spotter.demo.app.DummyApp.testNoProblem();12071@kitt;0;1604;2
+1543;org.spotter.demo.app.DummyApp.testOLB();12071@kitt;100;1731;2
+1544;org.spotter.demo.app.DummyApp.testNoProblem();12071@kitt;0;1947;2
+1545;org.spotter.demo.app.DummyApp.testOLB();12071@kitt;100;2114;2
+1546;org.spotter.demo.app.DummyApp.testNoProblem();12071@kitt;0;2321;2
+1547;org.spotter.demo.app.DummyApp.testOLB();12071@kitt;100;2514;2
+1548;org.spotter.demo.app.DummyApp.testNoProblem();12071@kitt;0;2797;2

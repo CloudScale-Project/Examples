@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root xmlns="http://www.sopeco.org/PerformanceProblemHierarchySchema">
+    <problem>
+        <extensionName>OLB</extensionName>
+        <uniqueId>e16210ff-f35a-43e1-a9ab-24ee373a282f</uniqueId>
+        <config key="org.spotter.detection.detectable" value="true"/>
+    </problem>
+</root>
