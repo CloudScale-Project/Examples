@@ -5,13 +5,15 @@
       <type xsi:type="ExperimentAutomation.Variation:ValueVariation" href="pcm.variation#_zUZqID5zEeCEPJs72ZSOBg"/>
       <valueProvider xsi:type="ExperimentAutomation.Experiments:NestedIntervalsLongValueProvider" minValue="1" maxValue="100"/>
     </variations>
-    <toolConfiguration xsi:type="simulizartooladapter:SimuLizarConfiguration">
-      <stopConditions xsi:type="ExperimentAutomation.Experiments.AbstractSimulation:MeasurementCountStopCondition" measurementCount="100"/>
-      <stopConditions xsi:type="ExperimentAutomation.Experiments.AbstractSimulation:SimTimeStopCondition" simulationTime="-1"/>
-      <datasource xsi:type="ExperimentAutomation.Experiments.AbstractSimulation:FileDatasource" location="MinExampleCapacityResult"/>
+     <toolConfiguration xsi:type="simulizartooladapter:SimuLizarConfiguration" name="EDP2 SimuLizar Configuration">
+      <stopConditions xsi:type="ExperimentAutomation.Experiments.AbstractSimulation:MeasurementCountStopCondition" measurementCount="-1"/>
+      <stopConditions xsi:type="ExperimentAutomation.Experiments.AbstractSimulation:SimTimeStopCondition" simulationTime="190"/>
+      <datasource xsi:type="ExperimentAutomation.Experiments.AbstractSimulation:FileDatasource" location="results"/>
     </toolConfiguration>
     <stopConditions xsi:type="ExperimentAutomation.Experiments.AbstractSimulation:MeasurementCountStopCondition" measurementCount="100"/>
     <stopConditions xsi:type="ExperimentAutomation.Experiments.AbstractSimulation:SimTimeStopCondition" simulationTime="-1"/>
+    <experimentDesign xsi:type="ExperimentAutomation.Experiments:FullFactorialDesign"/>
+    <responseMeasurement xsi:type="ExperimentAutomation.Experiments:SimulationDurationMeasurement"/>
     <initialModel>
       <usageModel href="../input/pcm.usagemodel#/"/>
       <allocation href="../input/pcm.allocation#CSMGen_"/>
