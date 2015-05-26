@@ -8,5 +8,6 @@
 	</buildSpec>
 	<natures>
 		<nature>eu.cloudscaleproject.env.projectnature</nature>
+		<nature>eu.cloudscaleproject.env.exampleprojectnature</nature>
 	</natures>
 </projectDescription>
