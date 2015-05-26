@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<measurementEnvironment xmlns="org.spotter.shared.environment.model">
+    <instrumentationController>
+        <extensionName>instrumentation.satellite.adapter.default</extensionName>
+        <config key="org.spotter.satellite.port" value="8888"/>
+        <config key="org.spotter.satellite.adapter.name" value="Default Instrumentation Satellite Adapter"/>
+        <config key="org.spotter.satellite.host" value="localhost"/>
+    </instrumentationController>
+    <measurementController>
+        <extensionName>measurement.satellite.adapter.instrumentation</extensionName>
+        <config key="org.spotter.satellite.port" value="8888"/>
+        <config key="org.spotter.satellite.adapter.name" value="Instrumentation Measurement Satellite Adapter"/>
+        <config key="org.spotter.satellite.host" value="localhost"/>
+    </measurementController>
+</measurementEnvironment>

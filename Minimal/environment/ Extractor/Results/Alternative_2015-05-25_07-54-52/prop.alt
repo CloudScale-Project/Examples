@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment/>
+<entry key="name">alternative [07:54:52]</entry>
+<entry key="file_system_diagram">somox/internal_architecture_model.system_diagram</entry>
+<entry key="file_repositroy_diagram">somox/internal_architecture_model.repository_diagram</entry>
+<entry key="file_modisco_java2kdm">modisco/Minimal-Project_java2kdm.xmi</entry>
+<entry key="created">1432576492330</entry>
+<entry key="folder_somox">somox</entry>
+<entry key="file_modisco_kdm">modisco/Minimal-Project_kdm.xmi</entry>
+<entry key="path_sourcedecorator">somox/internal_architecture_model.sourcecodedecorator</entry>
+<entry key="folder_modisco">modisco</entry>
+<entry key="eu.cloudscaleproject.env.toolchain.ToolchainUtils.path_repository">somox/internal_architecture_model.repository</entry>
+<entry key="eu.cloudscaleproject.env.toolchain.ToolchainUtils.path_system">somox/internal_architecture_model.system</entry>
+<entry key="modified">1432576493782</entry>
+<entry key="file_modisco_java">modisco/Minimal-Project_java.xmi</entry>
+</properties>

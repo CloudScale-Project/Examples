@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="ASCII"?>
+<system:System xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:repository="http://sdq.ipd.uka.de/PalladioComponentModel/Repository/5.0" xmlns:system="http://sdq.ipd.uka.de/PalladioComponentModel/System/5.0" id="CSMGen_">
+  <assemblyContexts__ComposedStructure id="CSMGen__PmnlkAMHEeWPHdom6qQ8Nw_opInterfaceContainer2assemblyContext" entityName="Ass-SoMoX Reverse Engineered System">
+    <encapsulatedComponent__AssemblyContext xsi:type="repository:CompositeComponent" href="pcm.repository#CSMGen__PmnlkAMHEeWPHdom6qQ8Nw_opInterfaceContainer2CompositeComponent"/>
+  </assemblyContexts__ComposedStructure>
+</system:System>

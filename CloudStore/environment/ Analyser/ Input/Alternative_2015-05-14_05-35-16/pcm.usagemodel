@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ASCII"?>
+<usagemodel:UsageModel xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:usagemodel="http://sdq.ipd.uka.de/PalladioComponentModel/UsageModel/5.0">
+  <usageScenario_UsageModel id="CSMGen__PXJdkNLgEeSmFPc1k0Vn6QclosedWorkload_csm2usage" entityName="DefaultUsageScenario">
+    <scenarioBehaviour_UsageScenario id="CSMGen__PXJdkNLgEeSmFPc1k0Vn6QusageScenario_csm2usage" entityName="DefaultUsageBehaviour">
+      <actions_ScenarioBehaviour xsi:type="usagemodel:Start" id="CSMGen__PXJdkNLgEeSmFPc1k0Vn6Qstart_csm2usage" entityName="Start usage action" successor="CSMGen__PXJdkNLgEeSmFPc1k0Vn6QsystemCall_csm2usage"/>
+      <actions_ScenarioBehaviour xsi:type="usagemodel:Branch" id="CSMGen__PXJdkNLgEeSmFPc1k0Vn6QsystemCall_csm2usage" entityName="Default entry level system call" successor="CSMGen__PXJdkNLgEeSmFPc1k0Vn6Qstop_csm2usage" predecessor="CSMGen__PXJdkNLgEeSmFPc1k0Vn6Qstart_csm2usage">
+        <branchTransitions_Branch branchProbability="1.0">
+          <branchedBehaviour_BranchTransition id="CSMGen__6AzbYPpNEeS41OB809zr1g_operation2branchTransition">
+            <actions_ScenarioBehaviour xsi:type="usagemodel:Start" id="CSMGen__6AzbYPpNEeS41OB809zr1gstart_opInterface2branchTransition" entityName="Start usage action" successor="CSMGen__6AzbYPpNEeS41OB809zr1g_operation2entryLevelSystemCall"/>
+            <actions_ScenarioBehaviour xsi:type="usagemodel:EntryLevelSystemCall" id="CSMGen__6AzbYPpNEeS41OB809zr1g_operation2entryLevelSystemCall" entityName="Default entry level system call" successor="CSMGen__6AzbYPpNEeS41OB809zr1gstop_opInterface2branchTransition" predecessor="CSMGen__6AzbYPpNEeS41OB809zr1gstart_opInterface2branchTransition">
+              <providedRole_EntryLevelSystemCall href="pcm.system#CSMGen_System_xOXVYPpNEeS41OB809zr1g_OpIntrface2ProvidedRole"/>
+              <operationSignature__EntryLevelSystemCall href="pcm.repository#CSMGen__6AzbYPpNEeS41OB809zr1g_operation2operationSignature"/>
+            </actions_ScenarioBehaviour>
+            <actions_ScenarioBehaviour xsi:type="usagemodel:Stop" id="CSMGen__6AzbYPpNEeS41OB809zr1gstop_opInterface2branchTransition" entityName="Stop usage action" predecessor="CSMGen__6AzbYPpNEeS41OB809zr1g_operation2entryLevelSystemCall"/>
+          </branchedBehaviour_BranchTransition>
+        </branchTransitions_Branch>
+      </actions_ScenarioBehaviour>
+      <actions_ScenarioBehaviour xsi:type="usagemodel:Stop" id="CSMGen__PXJdkNLgEeSmFPc1k0Vn6Qstop_csm2usage" entityName="Stop usage action" predecessor="CSMGen__PXJdkNLgEeSmFPc1k0Vn6QsystemCall_csm2usage"/>
+    </scenarioBehaviour_UsageScenario>
+    <workload_UsageScenario xsi:type="usagemodel:ClosedWorkload" population="100">
+      <thinkTime_ClosedWorkload specification="10"/>
+    </workload_UsageScenario>
+  </usageScenario_UsageModel>
+</usagemodel:UsageModel>
