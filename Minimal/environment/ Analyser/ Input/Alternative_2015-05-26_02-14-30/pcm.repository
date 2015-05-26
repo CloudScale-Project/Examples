@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ASCII"?>
+<repository:Repository xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:composition="http://sdq.ipd.uka.de/PalladioComponentModel/Core/Composition/5.0" xmlns:repository="http://sdq.ipd.uka.de/PalladioComponentModel/Repository/5.0" id="CSMGen_">
+  <components__Repository xsi:type="repository:CompositeComponent" id="CSMGen__PmnlkAMHEeWPHdom6qQ8Nw_opInterfaceContainer2CompositeComponent" entityName="SoMoX Reverse Engineered System">
+    <assemblyContexts__ComposedStructure id="CSMGen__Ja8GcAMHEeWPHdom6qQ8Nw_opInterfaceContainer2CompositeComponent" entityName=" &lt;PC No. 0 tpcw.BookConverterServlet>">
+      <encapsulatedComponent__AssemblyContext xsi:type="repository:BasicComponent" href="../../../ScaleDL%20models/Import/SoMoX%20Reverse%20Engineered%20System/internal_architecture_model.repository#_JaZT4AMHEeWPHdom6qQ8Nw"/>
+    </assemblyContexts__ComposedStructure>
+    <connectors__ComposedStructure xsi:type="composition:ProvidedDelegationConnector" id="_Ja8GcwMHEeWPHdom6qQ8Nw" entityName="Itpcw.BookConverterServlet" outerProvidedRole_ProvidedDelegationConnector="_HDrGLwOhEeWPdqAStajnEA" assemblyContext_ProvidedDelegationConnector="CSMGen__Ja8GcAMHEeWPHdom6qQ8Nw_opInterfaceContainer2CompositeComponent">
+      <innerProvidedRole_ProvidedDelegationConnector href="../../../ScaleDL%20models/Import/SoMoX%20Reverse%20Engineered%20System/internal_architecture_model.repository#_JaqZogMHEeWPHdom6qQ8Nw"/>
+    </connectors__ComposedStructure>
+    <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="_HDrGLwOhEeWPdqAStajnEA">
+      <providedInterface__OperationProvidedRole href="../../../ScaleDL%20models/Import/SoMoX%20Reverse%20Engineered%20System/internal_architecture_model.repository#_JapykAMHEeWPHdom6qQ8Nw"/>
+    </providedRoles_InterfaceProvidingEntity>
+  </components__Repository>
+  <dataTypes__Repository xsi:type="repository:PrimitiveDataType"/>
+  <dataTypes__Repository xsi:type="repository:PrimitiveDataType" type="STRING"/>
+  <dataTypes__Repository xsi:type="repository:PrimitiveDataType" type="BOOL"/>
+  <dataTypes__Repository xsi:type="repository:PrimitiveDataType" type="DOUBLE"/>
+  <dataTypes__Repository xsi:type="repository:PrimitiveDataType"/>
+  <dataTypes__Repository xsi:type="repository:PrimitiveDataType" type="STRING"/>
+  <dataTypes__Repository xsi:type="repository:PrimitiveDataType" type="BOOL"/>
+  <dataTypes__Repository xsi:type="repository:PrimitiveDataType" type="DOUBLE"/>
+  <dataTypes__Repository xsi:type="repository:CompositeDataType" id="_v7iF4AOgEeWPdqAStajnEA" entityName="HttpServletRequest"/>
+  <dataTypes__Repository xsi:type="repository:CompositeDataType" id="_v7is8AOgEeWPdqAStajnEA" entityName="HttpServletResponse"/>
+</repository:Repository>

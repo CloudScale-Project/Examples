@@ -1,0 +1,14 @@
+#
+#Mon May 25 19:24:19 CEST 2015
+scaledl-overview-model=ScaleDL models/Minimal-Environment.sdlo
+scaledl-folder=ScaleDL models
+configuration-folder=Configuration
+input-folder=\ Input
+generated-folder=Generated models
+extractor-folder=\ Extractor
+scaledl-overview-diagram=ScaleDL models/Minimal-Environment.sdlo_diagram
+dynamicspotter-folder=\ Dynamic Spotter
+results-folder=Results
+staticspotter-folder=\ Static Spotter
+scaledl-usageevolution-folder=Usage Evolution
+analyser-folder=\ Analyser
