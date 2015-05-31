@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="ASCII"?>
+<monitorrepository:MonitorRepository xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:metricspec="http://palladiosimulator.org/MetricSpec/1.0" xmlns:monitorrepository="http://palladiosimulator.org/MonitorRepository/1.0" xmlns:pcmmeasuringpoint="http://palladiosimulator.org/PCM/MeasuringPoint/1.0" id="_FYykwP7XEeSGlvXu9VqThw">
+  <monitors id="_n4CPEP72EeSEC9KrPROcrg" entityName="User response time">
+    <measurementSpecifications id="_n4CPEf72EeSEC9KrPROcrg" statisticalCharacterization="Median">
+      <temporalRestriction xsi:type="monitorrepository:Intervall" id="_oAiq0P72EeSEC9KrPROcrg" intervall="1.0"/>
+      <metricDescription xsi:type="metricspec:NumericalBaseMetricDescription" href="pathmap://METRIC_SPEC_MODELS/models/commonMetrics.metricspec#_6rYmYs7nEeOX_4BzImuHbA"/>
+    </measurementSpecifications>
+    <measuringPoint xsi:type="pcmmeasuringpoint:UsageScenarioMeasuringPoint" href="analyser.measuringpoint#//@measuringPoints.0"/>
+  </monitors>
+</monitorrepository:MonitorRepository>

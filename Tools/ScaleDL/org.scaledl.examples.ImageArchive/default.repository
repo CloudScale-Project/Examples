@@ -48,7 +48,7 @@
           <requiredResource_ParametricResourceDemand href="pathmap://PCM_MODELS/Palladio.resourcetype#_oro4gG3fEdy4YaaT-RYrLQ"/>
         </resourceDemand_Action>
         <resourceDemand_Action>
-          <specification_ParametericResourceDemand specification="image.BYTESIZE * 10"/>
+          <specification_ParametericResourceDemand specification="image.BYTESIZE * 10.0"/>
           <requiredResource_ParametricResourceDemand href="pathmap://PCM_MODELS/Palladio.resourcetype#_BIjHoQ3KEdyouMqirZIhzQ"/>
         </resourceDemand_Action>
       </steps_Behaviour>

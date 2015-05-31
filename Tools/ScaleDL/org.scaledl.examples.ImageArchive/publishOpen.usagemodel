@@ -9,7 +9,7 @@
         <operationSignature__EntryLevelSystemCall href="default.repository#_KjhikgzkEeCFg86gxKwVPw"/>
         <inputParameterUsages_EntryLevelSystemCall>
           <variableCharacterisation_VariableUsage type="BYTESIZE">
-            <specification_VariableCharacterisation specification="4"/>
+            <specification_VariableCharacterisation specification="6"/>
           </variableCharacterisation_VariableUsage>
           <namedReference__VariableUsage xsi:type="stoex:VariableReference" referenceName="image"/>
         </inputParameterUsages_EntryLevelSystemCall>

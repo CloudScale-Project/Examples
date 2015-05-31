@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools.descartes.dlim:Sequence xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tools.descartes.dlim="http://descartes.tools/dlim/0.1" name="publishLoad" terminateAfterLoops="1" firstIterationEnd="24.0" loopDuration="24.0" finalDuration="24.0">
+  <sequenceFunctionContainers name="seasonal0" duration="6.0" firstIterationEnd="3.0">
+    <function xsi:type="tools.descartes.dlim:LinearTrend" functionOutputAtStart="0.1" functionOutputAtEnd="0.15"/>
+  </sequenceFunctionContainers>
+  <sequenceFunctionContainers name="seasonal1" duration="6.0" firstIterationStart="3.0" firstIterationEnd="22.0">
+    <function xsi:type="tools.descartes.dlim:LinearTrend" functionOutputAtStart="0.15" functionOutputAtEnd="0.15"/>
+  </sequenceFunctionContainers>
+  <sequenceFunctionContainers name="seasonal2" duration="6.0" firstIterationStart="22.0" firstIterationEnd="23.0">
+    <function xsi:type="tools.descartes.dlim:SinTrend" functionOutputAtStart="0.15" functionOutputAtEnd="0.18"/>
+  </sequenceFunctionContainers>
+  <sequenceFunctionContainers name="seasonal4" duration="6.0" firstIterationStart="23.0" firstIterationEnd="24.0">
+    <function xsi:type="tools.descartes.dlim:LinearTrend" functionOutputAtStart="0.18" functionOutputAtEnd="0.15"/>
+  </sequenceFunctionContainers>
+</tools.descartes.dlim:Sequence>

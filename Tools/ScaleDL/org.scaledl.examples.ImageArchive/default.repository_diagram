@@ -220,7 +220,7 @@
         <styles xmi:type="notation:FilteringStyle" xmi:id="_FXxArPPMEeSvLK8q3Y9PwQ"/>
       </children>
       <element xmi:type="seff:InternalAction" href="default.repository#_FXn2sPPMEeSvLK8q3Y9PwQ"/>
-      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_FXvygfPMEeSvLK8q3Y9PwQ" x="36" y="90"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_FXvygfPMEeSvLK8q3Y9PwQ" x="36" y="90" width="406" height="145"/>
     </children>
     <styles xmi:type="notation:DiagramStyle" xmi:id="_kldvkfPIEeSvLK8q3Y9PwQ"/>
     <element xmi:type="seff:ResourceDemandingSEFF" href="default.repository#_f9HrcPPIEeSvLK8q3Y9PwQ"/>

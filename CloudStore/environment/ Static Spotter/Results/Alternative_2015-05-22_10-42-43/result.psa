@@ -1,0 +1,555 @@
+<?xml version="1.0" encoding="ASCII"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.reclipse.structure.inference="http://org.reclipse.structure.inference.annotations">
+  <org.reclipse.structure.inference:ASGAnnotation annotationRanking="100.0">
+    <annotatedElements key="methods">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.22/@bodyDeclarations.9"/>
+    </annotatedElements>
+    <boundObjects key="methodLevelSourceCodeLink">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/internal_architecture_model.sourcecodedecorator#//@methodLevelSourceCodeLink.18"/>
+    </boundObjects>
+    <boundObjects key="methodDeclaration">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.22/@bodyDeclarations.9"/>
+    </boundObjects>
+    <pattern href="../../Configuration/Alternative/catalog.pcs#_cY9jIPbbEeOeYJP9coicjQ"/>
+  </org.reclipse.structure.inference:ASGAnnotation>
+  <org.reclipse.structure.inference:ASGAnnotation annotationRanking="100.0">
+    <annotatedElements key="methods">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.18/@bodyDeclarations.1"/>
+    </annotatedElements>
+    <boundObjects key="methodDeclaration">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.18/@bodyDeclarations.1"/>
+    </boundObjects>
+    <boundObjects key="methodLevelSourceCodeLink">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/internal_architecture_model.sourcecodedecorator#//@methodLevelSourceCodeLink.14"/>
+    </boundObjects>
+    <pattern href="../../Configuration/Alternative/catalog.pcs#_cY9jIPbbEeOeYJP9coicjQ"/>
+  </org.reclipse.structure.inference:ASGAnnotation>
+  <org.reclipse.structure.inference:ASGAnnotation annotationRanking="100.0">
+    <annotatedElements key="methods">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.26/@bodyDeclarations.25"/>
+    </annotatedElements>
+    <boundObjects key="methodLevelSourceCodeLink">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/internal_architecture_model.sourcecodedecorator#//@methodLevelSourceCodeLink.36"/>
+    </boundObjects>
+    <boundObjects key="methodDeclaration">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.26/@bodyDeclarations.25"/>
+    </boundObjects>
+    <pattern href="../../Configuration/Alternative/catalog.pcs#_cY9jIPbbEeOeYJP9coicjQ"/>
+  </org.reclipse.structure.inference:ASGAnnotation>
+  <org.reclipse.structure.inference:ASGAnnotation annotationRanking="100.0">
+    <annotatedElements key="methods">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.22/@bodyDeclarations.8"/>
+    </annotatedElements>
+    <boundObjects key="methodDeclaration">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.22/@bodyDeclarations.8"/>
+    </boundObjects>
+    <boundObjects key="methodLevelSourceCodeLink">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/internal_architecture_model.sourcecodedecorator#//@methodLevelSourceCodeLink.17"/>
+    </boundObjects>
+    <pattern href="../../Configuration/Alternative/catalog.pcs#_cY9jIPbbEeOeYJP9coicjQ"/>
+  </org.reclipse.structure.inference:ASGAnnotation>
+  <org.reclipse.structure.inference:ASGAnnotation annotationRanking="100.0">
+    <annotatedElements key="methods">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.6/@bodyDeclarations.1"/>
+    </annotatedElements>
+    <boundObjects key="methodDeclaration">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.6/@bodyDeclarations.1"/>
+    </boundObjects>
+    <boundObjects key="methodLevelSourceCodeLink">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/internal_architecture_model.sourcecodedecorator#//@methodLevelSourceCodeLink.8"/>
+    </boundObjects>
+    <pattern href="../../Configuration/Alternative/catalog.pcs#_cY9jIPbbEeOeYJP9coicjQ"/>
+  </org.reclipse.structure.inference:ASGAnnotation>
+  <org.reclipse.structure.inference:ASGAnnotation annotationRanking="100.0">
+    <annotatedElements key="methods">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.3/@bodyDeclarations.1"/>
+    </annotatedElements>
+    <boundObjects key="methodDeclaration">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.3/@bodyDeclarations.1"/>
+    </boundObjects>
+    <boundObjects key="methodLevelSourceCodeLink">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/internal_architecture_model.sourcecodedecorator#//@methodLevelSourceCodeLink.3"/>
+    </boundObjects>
+    <pattern href="../../Configuration/Alternative/catalog.pcs#_cY9jIPbbEeOeYJP9coicjQ"/>
+  </org.reclipse.structure.inference:ASGAnnotation>
+  <org.reclipse.structure.inference:ASGAnnotation annotationRanking="100.0">
+    <annotatedElements key="methods">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.22/@bodyDeclarations.11"/>
+    </annotatedElements>
+    <boundObjects key="methodLevelSourceCodeLink">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/internal_architecture_model.sourcecodedecorator#//@methodLevelSourceCodeLink.20"/>
+    </boundObjects>
+    <boundObjects key="methodDeclaration">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.22/@bodyDeclarations.11"/>
+    </boundObjects>
+    <pattern href="../../Configuration/Alternative/catalog.pcs#_cY9jIPbbEeOeYJP9coicjQ"/>
+  </org.reclipse.structure.inference:ASGAnnotation>
+  <org.reclipse.structure.inference:ASGAnnotation annotationRanking="100.0">
+    <annotatedElements key="methods">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.3/@bodyDeclarations.5"/>
+    </annotatedElements>
+    <boundObjects key="methodLevelSourceCodeLink">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/internal_architecture_model.sourcecodedecorator#//@methodLevelSourceCodeLink.6"/>
+    </boundObjects>
+    <boundObjects key="methodDeclaration">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.3/@bodyDeclarations.5"/>
+    </boundObjects>
+    <pattern href="../../Configuration/Alternative/catalog.pcs#_cY9jIPbbEeOeYJP9coicjQ"/>
+  </org.reclipse.structure.inference:ASGAnnotation>
+  <org.reclipse.structure.inference:ASGAnnotation annotationRanking="100.0">
+    <annotatedElements key="methods">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.26/@bodyDeclarations.35"/>
+    </annotatedElements>
+    <boundObjects key="methodLevelSourceCodeLink">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/internal_architecture_model.sourcecodedecorator#//@methodLevelSourceCodeLink.41"/>
+    </boundObjects>
+    <boundObjects key="methodDeclaration">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.26/@bodyDeclarations.35"/>
+    </boundObjects>
+    <pattern href="../../Configuration/Alternative/catalog.pcs#_cY9jIPbbEeOeYJP9coicjQ"/>
+  </org.reclipse.structure.inference:ASGAnnotation>
+  <org.reclipse.structure.inference:ASGAnnotation annotationRanking="100.0">
+    <annotatedElements key="methods">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.26/@bodyDeclarations.16"/>
+    </annotatedElements>
+    <boundObjects key="methodDeclaration">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.26/@bodyDeclarations.16"/>
+    </boundObjects>
+    <boundObjects key="methodLevelSourceCodeLink">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/internal_architecture_model.sourcecodedecorator#//@methodLevelSourceCodeLink.28"/>
+    </boundObjects>
+    <pattern href="../../Configuration/Alternative/catalog.pcs#_cY9jIPbbEeOeYJP9coicjQ"/>
+  </org.reclipse.structure.inference:ASGAnnotation>
+  <org.reclipse.structure.inference:ASGAnnotation annotationRanking="100.0">
+    <annotatedElements key="methods">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.26/@bodyDeclarations.34"/>
+    </annotatedElements>
+    <boundObjects key="methodLevelSourceCodeLink">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/internal_architecture_model.sourcecodedecorator#//@methodLevelSourceCodeLink.40"/>
+    </boundObjects>
+    <boundObjects key="methodDeclaration">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.26/@bodyDeclarations.34"/>
+    </boundObjects>
+    <pattern href="../../Configuration/Alternative/catalog.pcs#_cY9jIPbbEeOeYJP9coicjQ"/>
+  </org.reclipse.structure.inference:ASGAnnotation>
+  <org.reclipse.structure.inference:ASGAnnotation annotationRanking="100.0">
+    <annotatedElements key="methods">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.26/@bodyDeclarations.17"/>
+    </annotatedElements>
+    <boundObjects key="methodDeclaration">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.26/@bodyDeclarations.17"/>
+    </boundObjects>
+    <boundObjects key="methodLevelSourceCodeLink">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/internal_architecture_model.sourcecodedecorator#//@methodLevelSourceCodeLink.29"/>
+    </boundObjects>
+    <pattern href="../../Configuration/Alternative/catalog.pcs#_cY9jIPbbEeOeYJP9coicjQ"/>
+  </org.reclipse.structure.inference:ASGAnnotation>
+  <org.reclipse.structure.inference:ASGAnnotation annotationRanking="100.0">
+    <annotatedElements key="methods">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.26/@bodyDeclarations.22"/>
+    </annotatedElements>
+    <boundObjects key="methodLevelSourceCodeLink">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/internal_architecture_model.sourcecodedecorator#//@methodLevelSourceCodeLink.34"/>
+    </boundObjects>
+    <boundObjects key="methodDeclaration">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.26/@bodyDeclarations.22"/>
+    </boundObjects>
+    <pattern href="../../Configuration/Alternative/catalog.pcs#_cY9jIPbbEeOeYJP9coicjQ"/>
+  </org.reclipse.structure.inference:ASGAnnotation>
+  <org.reclipse.structure.inference:ASGAnnotation annotationRanking="100.0">
+    <annotatedElements key="methods">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.22/@bodyDeclarations.7"/>
+    </annotatedElements>
+    <boundObjects key="methodLevelSourceCodeLink">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/internal_architecture_model.sourcecodedecorator#//@methodLevelSourceCodeLink.16"/>
+    </boundObjects>
+    <boundObjects key="methodDeclaration">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.22/@bodyDeclarations.7"/>
+    </boundObjects>
+    <pattern href="../../Configuration/Alternative/catalog.pcs#_cY9jIPbbEeOeYJP9coicjQ"/>
+  </org.reclipse.structure.inference:ASGAnnotation>
+  <org.reclipse.structure.inference:ASGAnnotation annotationRanking="100.0">
+    <annotatedElements key="methods">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.26/@bodyDeclarations.37"/>
+    </annotatedElements>
+    <boundObjects key="methodLevelSourceCodeLink">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/internal_architecture_model.sourcecodedecorator#//@methodLevelSourceCodeLink.43"/>
+    </boundObjects>
+    <boundObjects key="methodDeclaration">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.26/@bodyDeclarations.37"/>
+    </boundObjects>
+    <pattern href="../../Configuration/Alternative/catalog.pcs#_cY9jIPbbEeOeYJP9coicjQ"/>
+  </org.reclipse.structure.inference:ASGAnnotation>
+  <org.reclipse.structure.inference:ASGAnnotation annotationRanking="100.0">
+    <annotatedElements key="methods">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.8/@bodyDeclarations.1"/>
+    </annotatedElements>
+    <boundObjects key="methodLevelSourceCodeLink">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/internal_architecture_model.sourcecodedecorator#//@methodLevelSourceCodeLink.10"/>
+    </boundObjects>
+    <boundObjects key="methodDeclaration">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.8/@bodyDeclarations.1"/>
+    </boundObjects>
+    <pattern href="../../Configuration/Alternative/catalog.pcs#_cY9jIPbbEeOeYJP9coicjQ"/>
+  </org.reclipse.structure.inference:ASGAnnotation>
+  <org.reclipse.structure.inference:ASGAnnotation annotationRanking="100.0">
+    <annotatedElements key="methods">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.26/@bodyDeclarations.21"/>
+    </annotatedElements>
+    <boundObjects key="methodLevelSourceCodeLink">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/internal_architecture_model.sourcecodedecorator#//@methodLevelSourceCodeLink.33"/>
+    </boundObjects>
+    <boundObjects key="methodDeclaration">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.26/@bodyDeclarations.21"/>
+    </boundObjects>
+    <pattern href="../../Configuration/Alternative/catalog.pcs#_cY9jIPbbEeOeYJP9coicjQ"/>
+  </org.reclipse.structure.inference:ASGAnnotation>
+  <org.reclipse.structure.inference:ASGAnnotation annotationRanking="100.0">
+    <annotatedElements key="methods">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.26/@bodyDeclarations.12"/>
+    </annotatedElements>
+    <boundObjects key="methodDeclaration">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.26/@bodyDeclarations.12"/>
+    </boundObjects>
+    <boundObjects key="methodLevelSourceCodeLink">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/internal_architecture_model.sourcecodedecorator#//@methodLevelSourceCodeLink.24"/>
+    </boundObjects>
+    <pattern href="../../Configuration/Alternative/catalog.pcs#_cY9jIPbbEeOeYJP9coicjQ"/>
+  </org.reclipse.structure.inference:ASGAnnotation>
+  <org.reclipse.structure.inference:ASGAnnotation annotationRanking="100.0">
+    <annotatedElements key="methods">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.26/@bodyDeclarations.32"/>
+    </annotatedElements>
+    <boundObjects key="methodLevelSourceCodeLink">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/internal_architecture_model.sourcecodedecorator#//@methodLevelSourceCodeLink.39"/>
+    </boundObjects>
+    <boundObjects key="methodDeclaration">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.26/@bodyDeclarations.32"/>
+    </boundObjects>
+    <pattern href="../../Configuration/Alternative/catalog.pcs#_cY9jIPbbEeOeYJP9coicjQ"/>
+  </org.reclipse.structure.inference:ASGAnnotation>
+  <org.reclipse.structure.inference:ASGAnnotation annotationRanking="100.0">
+    <annotatedElements key="methods">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.3/@bodyDeclarations.3"/>
+    </annotatedElements>
+    <boundObjects key="methodLevelSourceCodeLink">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/internal_architecture_model.sourcecodedecorator#//@methodLevelSourceCodeLink.5"/>
+    </boundObjects>
+    <boundObjects key="methodDeclaration">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.3/@bodyDeclarations.3"/>
+    </boundObjects>
+    <pattern href="../../Configuration/Alternative/catalog.pcs#_cY9jIPbbEeOeYJP9coicjQ"/>
+  </org.reclipse.structure.inference:ASGAnnotation>
+  <org.reclipse.structure.inference:ASGAnnotation annotationRanking="100.0">
+    <annotatedElements key="methods">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.1"/>
+    </annotatedElements>
+    <boundObjects key="methodDeclaration">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.1"/>
+    </boundObjects>
+    <boundObjects key="methodLevelSourceCodeLink">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/internal_architecture_model.sourcecodedecorator#//@methodLevelSourceCodeLink.1"/>
+    </boundObjects>
+    <pattern href="../../Configuration/Alternative/catalog.pcs#_cY9jIPbbEeOeYJP9coicjQ"/>
+  </org.reclipse.structure.inference:ASGAnnotation>
+  <org.reclipse.structure.inference:ASGAnnotation annotationRanking="100.0">
+    <annotatedElements key="methods">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.23/@bodyDeclarations.1"/>
+    </annotatedElements>
+    <boundObjects key="methodLevelSourceCodeLink">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/internal_architecture_model.sourcecodedecorator#//@methodLevelSourceCodeLink.21"/>
+    </boundObjects>
+    <boundObjects key="methodDeclaration">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.23/@bodyDeclarations.1"/>
+    </boundObjects>
+    <pattern href="../../Configuration/Alternative/catalog.pcs#_cY9jIPbbEeOeYJP9coicjQ"/>
+  </org.reclipse.structure.inference:ASGAnnotation>
+  <org.reclipse.structure.inference:ASGAnnotation annotationRanking="100.0">
+    <annotatedElements key="methods">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.1"/>
+    </annotatedElements>
+    <boundObjects key="methodLevelSourceCodeLink">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/internal_architecture_model.sourcecodedecorator#//@methodLevelSourceCodeLink.2"/>
+    </boundObjects>
+    <boundObjects key="methodDeclaration">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.1"/>
+    </boundObjects>
+    <pattern href="../../Configuration/Alternative/catalog.pcs#_cY9jIPbbEeOeYJP9coicjQ"/>
+  </org.reclipse.structure.inference:ASGAnnotation>
+  <org.reclipse.structure.inference:ASGAnnotation annotationRanking="100.0">
+    <annotatedElements key="methods">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.26/@bodyDeclarations.36"/>
+    </annotatedElements>
+    <boundObjects key="methodLevelSourceCodeLink">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/internal_architecture_model.sourcecodedecorator#//@methodLevelSourceCodeLink.42"/>
+    </boundObjects>
+    <boundObjects key="methodDeclaration">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.26/@bodyDeclarations.36"/>
+    </boundObjects>
+    <pattern href="../../Configuration/Alternative/catalog.pcs#_cY9jIPbbEeOeYJP9coicjQ"/>
+  </org.reclipse.structure.inference:ASGAnnotation>
+  <org.reclipse.structure.inference:ASGAnnotation annotationRanking="100.0">
+    <annotatedElements key="methods">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.24/@bodyDeclarations.0"/>
+    </annotatedElements>
+    <boundObjects key="methodDeclaration">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.24/@bodyDeclarations.0"/>
+    </boundObjects>
+    <boundObjects key="methodLevelSourceCodeLink">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/internal_architecture_model.sourcecodedecorator#//@methodLevelSourceCodeLink.22"/>
+    </boundObjects>
+    <pattern href="../../Configuration/Alternative/catalog.pcs#_cY9jIPbbEeOeYJP9coicjQ"/>
+  </org.reclipse.structure.inference:ASGAnnotation>
+  <org.reclipse.structure.inference:ASGAnnotation annotationRanking="100.0">
+    <annotatedElements key="methods">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.17/@bodyDeclarations.1"/>
+    </annotatedElements>
+    <boundObjects key="methodLevelSourceCodeLink">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/internal_architecture_model.sourcecodedecorator#//@methodLevelSourceCodeLink.13"/>
+    </boundObjects>
+    <boundObjects key="methodDeclaration">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.17/@bodyDeclarations.1"/>
+    </boundObjects>
+    <pattern href="../../Configuration/Alternative/catalog.pcs#_cY9jIPbbEeOeYJP9coicjQ"/>
+  </org.reclipse.structure.inference:ASGAnnotation>
+  <org.reclipse.structure.inference:ASGAnnotation annotationRanking="100.0">
+    <annotatedElements key="methods">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.13/@bodyDeclarations.1"/>
+    </annotatedElements>
+    <boundObjects key="methodLevelSourceCodeLink">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/internal_architecture_model.sourcecodedecorator#//@methodLevelSourceCodeLink.12"/>
+    </boundObjects>
+    <boundObjects key="methodDeclaration">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.13/@bodyDeclarations.1"/>
+    </boundObjects>
+    <pattern href="../../Configuration/Alternative/catalog.pcs#_cY9jIPbbEeOeYJP9coicjQ"/>
+  </org.reclipse.structure.inference:ASGAnnotation>
+  <org.reclipse.structure.inference:ASGAnnotation annotationRanking="100.0">
+    <annotatedElements key="methods">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.26/@bodyDeclarations.18"/>
+    </annotatedElements>
+    <boundObjects key="methodLevelSourceCodeLink">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/internal_architecture_model.sourcecodedecorator#//@methodLevelSourceCodeLink.30"/>
+    </boundObjects>
+    <boundObjects key="methodDeclaration">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.26/@bodyDeclarations.18"/>
+    </boundObjects>
+    <pattern href="../../Configuration/Alternative/catalog.pcs#_cY9jIPbbEeOeYJP9coicjQ"/>
+  </org.reclipse.structure.inference:ASGAnnotation>
+  <org.reclipse.structure.inference:ASGAnnotation annotationRanking="100.0">
+    <annotatedElements key="methods">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.26/@bodyDeclarations.19"/>
+    </annotatedElements>
+    <boundObjects key="methodLevelSourceCodeLink">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/internal_architecture_model.sourcecodedecorator#//@methodLevelSourceCodeLink.31"/>
+    </boundObjects>
+    <boundObjects key="methodDeclaration">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.26/@bodyDeclarations.19"/>
+    </boundObjects>
+    <pattern href="../../Configuration/Alternative/catalog.pcs#_cY9jIPbbEeOeYJP9coicjQ"/>
+  </org.reclipse.structure.inference:ASGAnnotation>
+  <org.reclipse.structure.inference:ASGAnnotation annotationRanking="100.0">
+    <annotatedElements key="methods">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.26/@bodyDeclarations.15"/>
+    </annotatedElements>
+    <boundObjects key="methodDeclaration">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.26/@bodyDeclarations.15"/>
+    </boundObjects>
+    <boundObjects key="methodLevelSourceCodeLink">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/internal_architecture_model.sourcecodedecorator#//@methodLevelSourceCodeLink.27"/>
+    </boundObjects>
+    <pattern href="../../Configuration/Alternative/catalog.pcs#_cY9jIPbbEeOeYJP9coicjQ"/>
+  </org.reclipse.structure.inference:ASGAnnotation>
+  <org.reclipse.structure.inference:ASGAnnotation annotationRanking="100.0">
+    <annotatedElements key="methods">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.3/@bodyDeclarations.2"/>
+    </annotatedElements>
+    <boundObjects key="methodDeclaration">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.3/@bodyDeclarations.2"/>
+    </boundObjects>
+    <boundObjects key="methodLevelSourceCodeLink">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/internal_architecture_model.sourcecodedecorator#//@methodLevelSourceCodeLink.4"/>
+    </boundObjects>
+    <pattern href="../../Configuration/Alternative/catalog.pcs#_cY9jIPbbEeOeYJP9coicjQ"/>
+  </org.reclipse.structure.inference:ASGAnnotation>
+  <org.reclipse.structure.inference:ASGAnnotation annotationRanking="100.0">
+    <annotatedElements key="methods">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.26/@bodyDeclarations.13"/>
+    </annotatedElements>
+    <boundObjects key="methodLevelSourceCodeLink">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/internal_architecture_model.sourcecodedecorator#//@methodLevelSourceCodeLink.25"/>
+    </boundObjects>
+    <boundObjects key="methodDeclaration">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.26/@bodyDeclarations.13"/>
+    </boundObjects>
+    <pattern href="../../Configuration/Alternative/catalog.pcs#_cY9jIPbbEeOeYJP9coicjQ"/>
+  </org.reclipse.structure.inference:ASGAnnotation>
+  <org.reclipse.structure.inference:ASGAnnotation annotationRanking="100.0">
+    <annotatedElements key="methods">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.27/@bodyDeclarations.1"/>
+    </annotatedElements>
+    <boundObjects key="methodDeclaration">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.27/@bodyDeclarations.1"/>
+    </boundObjects>
+    <boundObjects key="methodLevelSourceCodeLink">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/internal_architecture_model.sourcecodedecorator#//@methodLevelSourceCodeLink.44"/>
+    </boundObjects>
+    <pattern href="../../Configuration/Alternative/catalog.pcs#_cY9jIPbbEeOeYJP9coicjQ"/>
+  </org.reclipse.structure.inference:ASGAnnotation>
+  <org.reclipse.structure.inference:ASGAnnotation annotationRanking="100.0">
+    <annotatedElements key="methods">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.1"/>
+    </annotatedElements>
+    <boundObjects key="methodLevelSourceCodeLink">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/internal_architecture_model.sourcecodedecorator#//@methodLevelSourceCodeLink.0"/>
+    </boundObjects>
+    <boundObjects key="methodDeclaration">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.1"/>
+    </boundObjects>
+    <pattern href="../../Configuration/Alternative/catalog.pcs#_cY9jIPbbEeOeYJP9coicjQ"/>
+  </org.reclipse.structure.inference:ASGAnnotation>
+  <org.reclipse.structure.inference:ASGAnnotation annotationRanking="100.0">
+    <annotatedElements key="methods">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.9/@bodyDeclarations.1"/>
+    </annotatedElements>
+    <boundObjects key="methodLevelSourceCodeLink">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/internal_architecture_model.sourcecodedecorator#//@methodLevelSourceCodeLink.11"/>
+    </boundObjects>
+    <boundObjects key="methodDeclaration">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.9/@bodyDeclarations.1"/>
+    </boundObjects>
+    <pattern href="../../Configuration/Alternative/catalog.pcs#_cY9jIPbbEeOeYJP9coicjQ"/>
+  </org.reclipse.structure.inference:ASGAnnotation>
+  <org.reclipse.structure.inference:ASGAnnotation annotationRanking="100.0">
+    <annotatedElements key="methods">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.5/@bodyDeclarations.1"/>
+    </annotatedElements>
+    <boundObjects key="methodDeclaration">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.5/@bodyDeclarations.1"/>
+    </boundObjects>
+    <boundObjects key="methodLevelSourceCodeLink">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/internal_architecture_model.sourcecodedecorator#//@methodLevelSourceCodeLink.7"/>
+    </boundObjects>
+    <pattern href="../../Configuration/Alternative/catalog.pcs#_cY9jIPbbEeOeYJP9coicjQ"/>
+  </org.reclipse.structure.inference:ASGAnnotation>
+  <org.reclipse.structure.inference:ASGAnnotation annotationRanking="100.0">
+    <annotatedElements key="methods">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.26/@bodyDeclarations.14"/>
+    </annotatedElements>
+    <boundObjects key="methodLevelSourceCodeLink">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/internal_architecture_model.sourcecodedecorator#//@methodLevelSourceCodeLink.26"/>
+    </boundObjects>
+    <boundObjects key="methodDeclaration">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.26/@bodyDeclarations.14"/>
+    </boundObjects>
+    <pattern href="../../Configuration/Alternative/catalog.pcs#_cY9jIPbbEeOeYJP9coicjQ"/>
+  </org.reclipse.structure.inference:ASGAnnotation>
+  <org.reclipse.structure.inference:ASGAnnotation annotationRanking="100.0">
+    <annotatedElements key="methods">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.26/@bodyDeclarations.23"/>
+    </annotatedElements>
+    <boundObjects key="methodDeclaration">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.26/@bodyDeclarations.23"/>
+    </boundObjects>
+    <boundObjects key="methodLevelSourceCodeLink">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/internal_architecture_model.sourcecodedecorator#//@methodLevelSourceCodeLink.35"/>
+    </boundObjects>
+    <pattern href="../../Configuration/Alternative/catalog.pcs#_cY9jIPbbEeOeYJP9coicjQ"/>
+  </org.reclipse.structure.inference:ASGAnnotation>
+  <org.reclipse.structure.inference:ASGAnnotation annotationRanking="100.0">
+    <annotatedElements key="methods">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.26/@bodyDeclarations.27"/>
+    </annotatedElements>
+    <boundObjects key="methodDeclaration">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.26/@bodyDeclarations.27"/>
+    </boundObjects>
+    <boundObjects key="methodLevelSourceCodeLink">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/internal_architecture_model.sourcecodedecorator#//@methodLevelSourceCodeLink.38"/>
+    </boundObjects>
+    <pattern href="../../Configuration/Alternative/catalog.pcs#_cY9jIPbbEeOeYJP9coicjQ"/>
+  </org.reclipse.structure.inference:ASGAnnotation>
+  <org.reclipse.structure.inference:ASGAnnotation annotationRanking="100.0">
+    <annotatedElements key="methods">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.26/@bodyDeclarations.26"/>
+    </annotatedElements>
+    <boundObjects key="methodLevelSourceCodeLink">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/internal_architecture_model.sourcecodedecorator#//@methodLevelSourceCodeLink.37"/>
+    </boundObjects>
+    <boundObjects key="methodDeclaration">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.26/@bodyDeclarations.26"/>
+    </boundObjects>
+    <pattern href="../../Configuration/Alternative/catalog.pcs#_cY9jIPbbEeOeYJP9coicjQ"/>
+  </org.reclipse.structure.inference:ASGAnnotation>
+  <org.reclipse.structure.inference:ASGAnnotation annotationRanking="100.0">
+    <annotatedElements key="methods">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.21/@bodyDeclarations.0"/>
+    </annotatedElements>
+    <boundObjects key="methodDeclaration">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.21/@bodyDeclarations.0"/>
+    </boundObjects>
+    <boundObjects key="methodLevelSourceCodeLink">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/internal_architecture_model.sourcecodedecorator#//@methodLevelSourceCodeLink.15"/>
+    </boundObjects>
+    <pattern href="../../Configuration/Alternative/catalog.pcs#_cY9jIPbbEeOeYJP9coicjQ"/>
+  </org.reclipse.structure.inference:ASGAnnotation>
+  <org.reclipse.structure.inference:ASGAnnotation annotationRanking="100.0">
+    <annotatedElements key="methods">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.26/@bodyDeclarations.20"/>
+    </annotatedElements>
+    <boundObjects key="methodDeclaration">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.26/@bodyDeclarations.20"/>
+    </boundObjects>
+    <boundObjects key="methodLevelSourceCodeLink">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/internal_architecture_model.sourcecodedecorator#//@methodLevelSourceCodeLink.32"/>
+    </boundObjects>
+    <pattern href="../../Configuration/Alternative/catalog.pcs#_cY9jIPbbEeOeYJP9coicjQ"/>
+  </org.reclipse.structure.inference:ASGAnnotation>
+  <org.reclipse.structure.inference:ASGAnnotation annotationRanking="100.0">
+    <annotatedElements key="methods">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.22/@bodyDeclarations.10"/>
+    </annotatedElements>
+    <boundObjects key="methodDeclaration">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.22/@bodyDeclarations.10"/>
+    </boundObjects>
+    <boundObjects key="methodLevelSourceCodeLink">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/internal_architecture_model.sourcecodedecorator#//@methodLevelSourceCodeLink.19"/>
+    </boundObjects>
+    <pattern href="../../Configuration/Alternative/catalog.pcs#_cY9jIPbbEeOeYJP9coicjQ"/>
+  </org.reclipse.structure.inference:ASGAnnotation>
+  <org.reclipse.structure.inference:ASGAnnotation annotationRanking="100.0">
+    <annotatedElements key="methods">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.7/@bodyDeclarations.1"/>
+    </annotatedElements>
+    <boundObjects key="methodDeclaration">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.7/@bodyDeclarations.1"/>
+    </boundObjects>
+    <boundObjects key="methodLevelSourceCodeLink">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/internal_architecture_model.sourcecodedecorator#//@methodLevelSourceCodeLink.9"/>
+    </boundObjects>
+    <pattern href="../../Configuration/Alternative/catalog.pcs#_cY9jIPbbEeOeYJP9coicjQ"/>
+  </org.reclipse.structure.inference:ASGAnnotation>
+  <org.reclipse.structure.inference:ASGAnnotation annotationRanking="100.0">
+    <annotatedElements key="methods">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.25/@bodyDeclarations.1"/>
+    </annotatedElements>
+    <boundObjects key="methodLevelSourceCodeLink">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/internal_architecture_model.sourcecodedecorator#//@methodLevelSourceCodeLink.23"/>
+    </boundObjects>
+    <boundObjects key="methodDeclaration">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.25/@bodyDeclarations.1"/>
+    </boundObjects>
+    <pattern href="../../Configuration/Alternative/catalog.pcs#_cY9jIPbbEeOeYJP9coicjQ"/>
+  </org.reclipse.structure.inference:ASGAnnotation>
+  <org.reclipse.structure.inference:ASGAnnotation annotationRanking="100.0">
+    <annotatedElements key="primitiveComponent">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/internal_architecture_model.repository#_9ZkF0ADCEeWLsvM9L_MS5A"/>
+    </annotatedElements>
+    <boundObjects key="primitiveComponent">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/internal_architecture_model.repository#_9ZkF0ADCEeWLsvM9L_MS5A"/>
+    </boundObjects>
+    <boundObjects key="componentImplementingClassesLink">
+      <value href="../../%20Input/Alternative_2015-05-22_10-42-30/internal_architecture_model.sourcecodedecorator#//@componentImplementingClassesLink.0"/>
+    </boundObjects>
+    <pattern href="../../Configuration/Alternative/catalog.pcs#_7E0R8PVmEeO8apkjJxxSYA"/>
+  </org.reclipse.structure.inference:ASGAnnotation>
+</xmi:XMI>
