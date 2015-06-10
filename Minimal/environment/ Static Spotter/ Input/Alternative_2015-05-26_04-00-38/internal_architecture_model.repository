@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<repository:Repository xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:repository="http://sdq.ipd.uka.de/PalladioComponentModel/Repository/5.0" xmlns:seff="http://sdq.ipd.uka.de/PalladioComponentModel/SEFF/5.0" id="_JaNGogMHEeWPHdom6qQ8Nw">
+  <components__Repository xsi:type="repository:BasicComponent" id="_JaZT4AMHEeWPHdom6qQ8Nw" entityName=" &lt;PC No. 0 tpcw.BookConverterServlet>">
+    <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="_JaqZogMHEeWPHdom6qQ8Nw" entityName="BookConverterServlet 0 (prov)" providedInterface__OperationProvidedRole="_JapykAMHEeWPHdom6qQ8Nw"/>
+    <serviceEffectSpecifications__BasicComponent xsi:type="seff:ResourceDemandingSEFF" id="_JarAsAMHEeWPHdom6qQ8Nw" describedService__SEFF="_JapykQMHEeWPHdom6qQ8Nw">
+      <steps_Behaviour xsi:type="seff:StartAction" id="_kwzrYAMHEeWPHdom6qQ8Nw" successor_AbstractAction="_mboOcAMHEeWPHdom6qQ8Nw"/>
+      <steps_Behaviour xsi:type="seff:StopAction" id="_k88C4AMHEeWPHdom6qQ8Nw" predecessor_AbstractAction="_mboOcAMHEeWPHdom6qQ8Nw"/>
+      <steps_Behaviour xsi:type="seff:InternalAction" id="_mboOcAMHEeWPHdom6qQ8Nw" predecessor_AbstractAction="_kwzrYAMHEeWPHdom6qQ8Nw" successor_AbstractAction="_k88C4AMHEeWPHdom6qQ8Nw">
+        <resourceDemand_Action>
+          <specification_ParametericResourceDemand specification="10"/>
+          <requiredResource_ParametricResourceDemand href="pathmap://PCM_MODELS/Palladio.resourcetype#_oro4gG3fEdy4YaaT-RYrLQ"/>
+        </resourceDemand_Action>
+      </steps_Behaviour>
+    </serviceEffectSpecifications__BasicComponent>
+  </components__Repository>
+  <components__Repository xsi:type="repository:BasicComponent" id="_Ja9UkAMHEeWPHdom6qQ8Nw" entityName="SoMoX System-Level Dummy Component"/>
+  <interfaces__Repository xsi:type="repository:OperationInterface" id="_JapykAMHEeWPHdom6qQ8Nw" entityName="Itpcw.BookConverterServlet">
+    <signatures__OperationInterface id="_JapykQMHEeWPHdom6qQ8Nw" entityName="doGet">
+      <parameters__OperationSignature dataType__Parameter="_JaqZoAMHEeWPHdom6qQ8Nw" parameterName="req"/>
+      <parameters__OperationSignature dataType__Parameter="_JaqZoQMHEeWPHdom6qQ8Nw" parameterName="res"/>
+    </signatures__OperationInterface>
+  </interfaces__Repository>
+  <dataTypes__Repository xsi:type="repository:CompositeDataType" id="_JaqZoAMHEeWPHdom6qQ8Nw" entityName="HttpServletRequest"/>
+  <dataTypes__Repository xsi:type="repository:CompositeDataType" id="_JaqZoQMHEeWPHdom6qQ8Nw" entityName="HttpServletResponse"/>
+</repository:Repository>

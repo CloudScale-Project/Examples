@@ -3,7 +3,7 @@
   <monitors id="_FLVYQPP6EeSjg9ejwvekcw">
     <measurementSpecifications id="_FcqY0PP6EeSjg9ejwvekcw" statisticalCharacterization="ArithmeticMean">
       <temporalRestriction xsi:type="monitorrepository:Intervall" id="_FxMeYPP6EeSjg9ejwvekcw" intervall="10.0"/>
-      <metricDescription xsi:type="metricspec:NumericalBaseMetricDescription" href="commonMetrics.metricspec#_6rYmYs7nEeOX_4BzImuHbA"/>
+      <metricDescription xsi:type="metricspec:NumericalBaseMetricDescription" href="pathmap://METRIC_SPEC_MODELS/models/commonMetrics.metricspec#_6rYmYs7nEeOX_4BzImuHbA"/>
     </measurementSpecifications>
     <measuringPoint xsi:type="pcmmeasuringpoint:UsageScenarioMeasuringPoint" href="default.measuringpoint#//@measuringPoints.0"/>
   </monitors>

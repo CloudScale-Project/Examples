@@ -1,0 +1,1 @@
+java -jar ds-cl-runner.jar demo-config/spotter.conf

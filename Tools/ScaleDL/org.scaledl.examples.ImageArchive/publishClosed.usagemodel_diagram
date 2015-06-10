@@ -61,7 +61,7 @@
     <styles xmi:type="notation:FontStyle" xmi:id="_22eAwvPTEeSvLK8q3Y9PwQ" fontName="Lucida Grande"/>
     <styles xmi:type="notation:FillStyle" xmi:id="_22eAw_PTEeSvLK8q3Y9PwQ"/>
     <element xmi:type="usagemodel:UsageScenario" href="publishClosed.usagemodel#_21uZ4PPTEeSvLK8q3Y9PwQ"/>
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_22eAxPPTEeSvLK8q3Y9PwQ" x="108" y="36" width="514" height="469"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_22eAxPPTEeSvLK8q3Y9PwQ" x="108" y="36" width="703" height="469"/>
   </children>
   <styles xmi:type="notation:DiagramStyle" xmi:id="_21uZ5fPTEeSvLK8q3Y9PwQ"/>
   <element xmi:type="usagemodel:UsageModel" href="publishClosed.usagemodel#/"/>

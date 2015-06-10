@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<repository:Repository xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:repository="http://sdq.ipd.uka.de/PalladioComponentModel/Repository/5.0" xmlns:seff="http://sdq.ipd.uka.de/PalladioComponentModel/SEFF/5.0" id="CSMGen_">
+  <components__Repository xsi:type="repository:BasicComponent" id="CSMGen__xOWuUPpNEeS41OB809zr1g_opInterfaceContainer2basicComponent" entityName="WebServer">
+    <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="CSMGen_SystemInner_xOXVYPpNEeS41OB809zr1g_OpIntrface2ProvidedRole" entityName="I_WebServer" providedInterface__OperationProvidedRole="CSMGen__xOXVYPpNEeS41OB809zr1g_OpInterface2OpInterface"/>
+    <serviceEffectSpecifications__BasicComponent xsi:type="seff:ResourceDemandingSEFF" id="CSMGen__6AzbYPpNEeS41OB809zr1g_operation2seff" describedService__SEFF="CSMGen__6AzbYPpNEeS41OB809zr1g_operation2operationSignature">
+      <steps_Behaviour xsi:type="seff:StartAction" id="CSMGen__6AzbYPpNEeS41OB809zr1gStartAction_operation2seff" entityName="Start action" successor_AbstractAction="_PK_rwPpPEeS41OB809zr1g"/>
+      <steps_Behaviour xsi:type="seff:StopAction" id="CSMGen__6AzbYPpNEeS41OB809zr1gStopAction_operation2seff" entityName="Stop action" predecessor_AbstractAction="_PK_rwPpPEeS41OB809zr1g"/>
+      <steps_Behaviour xsi:type="seff:InternalAction" id="_PK_rwPpPEeS41OB809zr1g" entityName="GetIndex" predecessor_AbstractAction="CSMGen__6AzbYPpNEeS41OB809zr1gStartAction_operation2seff" successor_AbstractAction="CSMGen__6AzbYPpNEeS41OB809zr1gStopAction_operation2seff">
+        <resourceDemand_Action>
+          <specification_ParametericResourceDemand specification="10"/>
+          <requiredResource_ParametricResourceDemand href="pathmap://PCM_MODELS/Palladio.resourcetype#_oro4gG3fEdy4YaaT-RYrLQ"/>
+        </resourceDemand_Action>
+      </steps_Behaviour>
+    </serviceEffectSpecifications__BasicComponent>
+  </components__Repository>
+  <interfaces__Repository xsi:type="repository:OperationInterface" id="CSMGen__xOXVYPpNEeS41OB809zr1g_OpInterface2OpInterface" entityName="Interface_I_WebServer">
+    <signatures__OperationInterface id="CSMGen__6AzbYPpNEeS41OB809zr1g_operation2operationSignature" entityName="getIndex" returnType__OperationSignature="//@dataTypes__Repository.1">
+      <parameters__OperationSignature dataType__Parameter="//@dataTypes__Repository.1" parameterName="STRING"/>
+    </signatures__OperationInterface>
+  </interfaces__Repository>
+  <dataTypes__Repository xsi:type="repository:PrimitiveDataType"/>
+  <dataTypes__Repository xsi:type="repository:PrimitiveDataType" type="STRING"/>
+  <dataTypes__Repository xsi:type="repository:PrimitiveDataType" type="BOOL"/>
+  <dataTypes__Repository xsi:type="repository:PrimitiveDataType" type="DOUBLE"/>
+</repository:Repository>

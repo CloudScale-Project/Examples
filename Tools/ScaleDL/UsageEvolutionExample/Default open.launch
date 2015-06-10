@@ -30,6 +30,7 @@
 <stringAttribute key="persistenceFramework" value="Experiment Data Persistency &amp; Presentation (EDP2)"/>
 <stringAttribute key="pmsFile" value="platform:/resource/UsageEvolutionExample/default.pms"/>
 <stringAttribute key="reconfigurationRulesFolder" value=""/>
+<stringAttribute key="serviceLevelObjectiveRepositoryFile" value=""/>
 <stringAttribute key="simTime" value="1200"/>
 <booleanAttribute key="simulateAccuracy" value="false"/>
 <booleanAttribute key="simulateFailures" value="false"/>

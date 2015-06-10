@@ -2,6 +2,10 @@
 <usageevolution:UsageEvolution xmlns:usageevolution="http://usageevolution/1.0" id="_fVfowPPeEeSvLK8q3Y9PwQ" entityName="Evolution">
   <usages id="_fVgP0PPeEeSvLK8q3Y9PwQ" entityName="Initial">
     <loadEvolution href="publishLoad.dlim#/"/>
+    <workEvolutions>
+      <evolution href="ImageSizeEvolution.dlim#/"/>
+      <variableCharacterisation href="publishClosed.usagemodel#//@usageScenario_UsageModel.0/@scenarioBehaviour_UsageScenario/@actions_ScenarioBehaviour.2/@inputParameterUsages_EntryLevelSystemCall.0/@variableCharacterisation_VariableUsage.0"/>
+    </workEvolutions>
     <scenario href="publishClosed.usagemodel#_21uZ4PPTEeSvLK8q3Y9PwQ"/>
   </usages>
 </usageevolution:UsageEvolution>

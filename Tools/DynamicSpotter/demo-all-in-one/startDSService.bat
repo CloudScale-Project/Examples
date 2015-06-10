@@ -1,0 +1,1 @@
+java -jar ds-server.jar start
