@@ -7,7 +7,7 @@
 <entry key="created">1432306189248</entry>
 <entry key="eu.cloudscaleproject.env.toolchain.ToolchainUtils.path_usageevolution">analyser.usageevolution</entry>
 <entry key="eu.cloudscaleproject.env.toolchain.ToolchainUtils.path_pcmmeasuringpoint">analyser.measuringpoint</entry>
-<entry key="path_analyser_alt">../../ Input/Alternative_2015-05-20_01-48-42</entry>
+<entry key="input_alternative">../../ Input/Alternative_2015-05-20_01-48-42</entry>
 <entry key="eu.cloudscaleproject.env.toolchain.ToolchainUtils.path_pms">analyser.monitorrepository</entry>
 <entry key="modified">1432566600939</entry>
 <entry key="last_result">../../Results/Result_2015-05-22_04-50-50</entry>

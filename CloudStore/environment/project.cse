@@ -1,15 +1,16 @@
 #
-#Wed Mar 25 12:15:27 CET 2015
+#Thu Jun 18 16:44:38 CEST 2015
 scaledl-overview-model=ScaleDL models/CloudStore-Environment.sdlo
 scaledl-folder=ScaleDL models
 configuration-folder=Configuration
 input-folder=\ Input
+overview-folder=Overview
 generated-folder=Generated models
 extractor-folder=\ Extractor
 scaledl-overview-diagram=ScaleDL models/CloudStore-Environment.sdlo_diagram
-dynamicspotter-folder=\ Dynamic Spotter
 project.method_new=method.workflow
+dynamicspotter-folder=\ Dynamic Spotter
 results-folder=Results
 staticspotter-folder=\ Static Spotter
-analyser-folder=\ Analyser
 scaledl-usageevolution-folder=Usage Evolution
+analyser-folder=\ Analyser
