@@ -87,31 +87,31 @@
   </interfaces__Repository>
   <interfaces__Repository xsi:type="repository:OperationInterface" id="_9RThsADCEeWLsvM9L_MS5A" entityName="Itpcw.TPCW_Util">
     <signatures__OperationInterface id="_9RThsQDCEeWLsvM9L_MS5A" entityName="getRandomI_ID">
-      <returnType__OperationSignature xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.0"/>
+      <returnType__OperationSignature xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/org.palladiosimulator.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.0"/>
     </signatures__OperationInterface>
     <signatures__OperationInterface id="_9RVW4ADCEeWLsvM9L_MS5A" entityName="getRandom">
       <parameters__OperationSignature parameterName="i">
-        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.0"/>
+        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/org.palladiosimulator.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.0"/>
       </parameters__OperationSignature>
-      <returnType__OperationSignature xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.0"/>
+      <returnType__OperationSignature xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/org.palladiosimulator.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.0"/>
     </signatures__OperationInterface>
     <signatures__OperationInterface id="_9RVW4QDCEeWLsvM9L_MS5A" entityName="getRandomString">
       <parameters__OperationSignature parameterName="min">
-        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.0"/>
+        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/org.palladiosimulator.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.0"/>
       </parameters__OperationSignature>
       <parameters__OperationSignature parameterName="max">
-        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.0"/>
+        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/org.palladiosimulator.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.0"/>
       </parameters__OperationSignature>
-      <returnType__OperationSignature xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
+      <returnType__OperationSignature xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/org.palladiosimulator.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
     </signatures__OperationInterface>
     <signatures__OperationInterface id="_9RV98ADCEeWLsvM9L_MS5A" entityName="DigSyl">
       <parameters__OperationSignature parameterName="d">
-        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.0"/>
+        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/org.palladiosimulator.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.0"/>
       </parameters__OperationSignature>
       <parameters__OperationSignature parameterName="n">
-        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.0"/>
+        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/org.palladiosimulator.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.0"/>
       </parameters__OperationSignature>
-      <returnType__OperationSignature xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
+      <returnType__OperationSignature xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/org.palladiosimulator.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
     </signatures__OperationInterface>
   </interfaces__Repository>
   <interfaces__Repository xsi:type="repository:OperationInterface" id="_9RkAYADCEeWLsvM9L_MS5A" entityName="Itpcw.TPCW_shopping_cart_interaction">
@@ -171,19 +171,19 @@
   </interfaces__Repository>
   <interfaces__Repository xsi:type="repository:OperationInterface" id="_9TIGoADCEeWLsvM9L_MS5A" entityName="Itpcw.DatabaseProperties">
     <signatures__OperationInterface id="_9TIGoQDCEeWLsvM9L_MS5A" entityName="checkPropertiesFile">
-      <returnType__OperationSignature xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.2"/>
+      <returnType__OperationSignature xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/org.palladiosimulator.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.2"/>
     </signatures__OperationInterface>
     <signatures__OperationInterface id="_9TItsADCEeWLsvM9L_MS5A" entityName="getDatabaseURL">
-      <returnType__OperationSignature xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
+      <returnType__OperationSignature xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/org.palladiosimulator.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
     </signatures__OperationInterface>
     <signatures__OperationInterface id="_9TJUwADCEeWLsvM9L_MS5A" entityName="getDatabaseDriver">
-      <returnType__OperationSignature xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
+      <returnType__OperationSignature xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/org.palladiosimulator.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
     </signatures__OperationInterface>
     <signatures__OperationInterface id="_9TJUwQDCEeWLsvM9L_MS5A" entityName="getDatabaseUsername">
-      <returnType__OperationSignature xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
+      <returnType__OperationSignature xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/org.palladiosimulator.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
     </signatures__OperationInterface>
     <signatures__OperationInterface id="_9TJ70ADCEeWLsvM9L_MS5A" entityName="getDatabasePassword">
-      <returnType__OperationSignature xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
+      <returnType__OperationSignature xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/org.palladiosimulator.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
     </signatures__OperationInterface>
   </interfaces__Repository>
   <interfaces__Repository xsi:type="repository:OperationInterface" id="_9TX-QQDCEeWLsvM9L_MS5A" entityName="Itpcw.TPCW_home_interaction">
@@ -198,7 +198,7 @@
       <parameters__OperationSignature dataType__Parameter="_9Q55EADCEeWLsvM9L_MS5A" parameterName="req"/>
       <parameters__OperationSignature dataType__Parameter="_9Q6gIADCEeWLsvM9L_MS5A" parameterName="res"/>
       <parameters__OperationSignature parameterName="new_sid">
-        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.0"/>
+        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/org.palladiosimulator.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.0"/>
       </parameters__OperationSignature>
     </signatures__OperationInterface>
   </interfaces__Repository>
@@ -211,107 +211,107 @@
   <interfaces__Repository xsi:type="repository:OperationInterface" id="_9WUkkADCEeWLsvM9L_MS5A" entityName="Itpcw.TPCW_Database">
     <signatures__OperationInterface id="_9WUkkQDCEeWLsvM9L_MS5A" entityName="getName" returnType__OperationSignature="_9WXA0ADCEeWLsvM9L_MS5A">
       <parameters__OperationSignature parameterName="c_id">
-        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.0"/>
+        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/org.palladiosimulator.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.0"/>
       </parameters__OperationSignature>
     </signatures__OperationInterface>
     <signatures__OperationInterface id="_9WXn4ADCEeWLsvM9L_MS5A" entityName="getBook" returnType__OperationSignature="_9WYO8ADCEeWLsvM9L_MS5A">
       <parameters__OperationSignature parameterName="i_id">
-        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.0"/>
+        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/org.palladiosimulator.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.0"/>
       </parameters__OperationSignature>
     </signatures__OperationInterface>
     <signatures__OperationInterface id="_9WZdEwDCEeWLsvM9L_MS5A" entityName="getCustomer" returnType__OperationSignature="_9WaEIADCEeWLsvM9L_MS5A">
       <parameters__OperationSignature parameterName="UNAME">
-        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
+        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/org.palladiosimulator.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
       </parameters__OperationSignature>
     </signatures__OperationInterface>
     <signatures__OperationInterface id="_9WbSQADCEeWLsvM9L_MS5A" entityName="doSubjectSearch" returnType__OperationSignature="_9Wb5UADCEeWLsvM9L_MS5A">
       <parameters__OperationSignature parameterName="search_key">
-        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
+        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/org.palladiosimulator.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
       </parameters__OperationSignature>
     </signatures__OperationInterface>
     <signatures__OperationInterface id="_9WcgYQDCEeWLsvM9L_MS5A" entityName="doTitleSearch" returnType__OperationSignature="_9Wb5UADCEeWLsvM9L_MS5A">
       <parameters__OperationSignature parameterName="search_key">
-        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
+        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/org.palladiosimulator.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
       </parameters__OperationSignature>
     </signatures__OperationInterface>
     <signatures__OperationInterface id="_9WdHcADCEeWLsvM9L_MS5A" entityName="doAuthorSearch" returnType__OperationSignature="_9Wb5UADCEeWLsvM9L_MS5A">
       <parameters__OperationSignature parameterName="search_key">
-        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
+        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/org.palladiosimulator.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
       </parameters__OperationSignature>
     </signatures__OperationInterface>
     <signatures__OperationInterface id="_9WdugADCEeWLsvM9L_MS5A" entityName="getNewProducts" returnType__OperationSignature="_9WeVkADCEeWLsvM9L_MS5A">
       <parameters__OperationSignature parameterName="subject">
-        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
+        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/org.palladiosimulator.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
       </parameters__OperationSignature>
     </signatures__OperationInterface>
     <signatures__OperationInterface id="_9We8oADCEeWLsvM9L_MS5A" entityName="getBestSellers" returnType__OperationSignature="_9WeVkADCEeWLsvM9L_MS5A">
       <parameters__OperationSignature parameterName="subject">
-        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
+        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/org.palladiosimulator.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
       </parameters__OperationSignature>
     </signatures__OperationInterface>
     <signatures__OperationInterface id="_9WfjsADCEeWLsvM9L_MS5A" entityName="getRelated">
       <parameters__OperationSignature parameterName="i_id">
-        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.0"/>
+        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/org.palladiosimulator.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.0"/>
       </parameters__OperationSignature>
       <parameters__OperationSignature dataType__Parameter="_9Wgx0ADCEeWLsvM9L_MS5A" parameterName="i_id_vec"/>
       <parameters__OperationSignature dataType__Parameter="_9Wgx0QDCEeWLsvM9L_MS5A" parameterName="i_thumbnail_vec"/>
     </signatures__OperationInterface>
     <signatures__OperationInterface id="_9Wgx0gDCEeWLsvM9L_MS5A" entityName="adminUpdate">
       <parameters__OperationSignature parameterName="i_id">
-        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.0"/>
+        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/org.palladiosimulator.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.0"/>
       </parameters__OperationSignature>
       <parameters__OperationSignature parameterName="cost">
-        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.3"/>
+        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/org.palladiosimulator.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.3"/>
       </parameters__OperationSignature>
       <parameters__OperationSignature parameterName="image">
-        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
+        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/org.palladiosimulator.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
       </parameters__OperationSignature>
       <parameters__OperationSignature parameterName="thumbnail">
-        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
+        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/org.palladiosimulator.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
       </parameters__OperationSignature>
     </signatures__OperationInterface>
     <signatures__OperationInterface id="_9WhY4ADCEeWLsvM9L_MS5A" entityName="getUserName">
       <parameters__OperationSignature parameterName="C_ID">
-        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.0"/>
+        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/org.palladiosimulator.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.0"/>
       </parameters__OperationSignature>
-      <returnType__OperationSignature xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
+      <returnType__OperationSignature xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/org.palladiosimulator.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
     </signatures__OperationInterface>
     <signatures__OperationInterface id="_9WjOEADCEeWLsvM9L_MS5A" entityName="getPassword">
       <parameters__OperationSignature parameterName="C_UNAME">
-        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
+        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/org.palladiosimulator.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
       </parameters__OperationSignature>
-      <returnType__OperationSignature xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
+      <returnType__OperationSignature xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/org.palladiosimulator.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
     </signatures__OperationInterface>
     <signatures__OperationInterface id="_9Wj1IADCEeWLsvM9L_MS5A" entityName="getMostRecentOrder" returnType__OperationSignature="_9WlDQgDCEeWLsvM9L_MS5A">
       <parameters__OperationSignature parameterName="c_uname">
-        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
+        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/org.palladiosimulator.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
       </parameters__OperationSignature>
       <parameters__OperationSignature dataType__Parameter="_9WlDQADCEeWLsvM9L_MS5A" parameterName="order_lines"/>
     </signatures__OperationInterface>
     <signatures__OperationInterface id="_9WmRYADCEeWLsvM9L_MS5A" entityName="createEmptyCart">
-      <returnType__OperationSignature xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.0"/>
+      <returnType__OperationSignature xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/org.palladiosimulator.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.0"/>
     </signatures__OperationInterface>
     <signatures__OperationInterface id="_9WoGkADCEeWLsvM9L_MS5A" entityName="doCart" returnType__OperationSignature="_9WotoADCEeWLsvM9L_MS5A">
       <parameters__OperationSignature parameterName="SHOPPING_ID">
-        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.0"/>
+        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/org.palladiosimulator.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.0"/>
       </parameters__OperationSignature>
       <parameters__OperationSignature parameterName="I_ID">
-        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.0"/>
+        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/org.palladiosimulator.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.0"/>
       </parameters__OperationSignature>
       <parameters__OperationSignature dataType__Parameter="_9Wgx0ADCEeWLsvM9L_MS5A" parameterName="ids"/>
       <parameters__OperationSignature dataType__Parameter="_9Wgx0ADCEeWLsvM9L_MS5A" parameterName="quantities"/>
     </signatures__OperationInterface>
     <signatures__OperationInterface id="_9Wp7wQDCEeWLsvM9L_MS5A" entityName="getCart" returnType__OperationSignature="_9WotoADCEeWLsvM9L_MS5A">
       <parameters__OperationSignature parameterName="SHOPPING_ID">
-        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.0"/>
+        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/org.palladiosimulator.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.0"/>
       </parameters__OperationSignature>
       <parameters__OperationSignature parameterName="c_discount">
-        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.3"/>
+        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/org.palladiosimulator.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.3"/>
       </parameters__OperationSignature>
     </signatures__OperationInterface>
     <signatures__OperationInterface id="_9Wrw8ADCEeWLsvM9L_MS5A" entityName="refreshSession">
       <parameters__OperationSignature parameterName="C_ID">
-        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.0"/>
+        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/org.palladiosimulator.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.0"/>
       </parameters__OperationSignature>
     </signatures__OperationInterface>
     <signatures__OperationInterface id="_9WsYAADCEeWLsvM9L_MS5A" entityName="createNewCustomer" returnType__OperationSignature="_9WaEIADCEeWLsvM9L_MS5A">
@@ -319,62 +319,62 @@
     </signatures__OperationInterface>
     <signatures__OperationInterface id="_9WsYAQDCEeWLsvM9L_MS5A" entityName="doBuyConfirm" returnType__OperationSignature="_9WuNMADCEeWLsvM9L_MS5A">
       <parameters__OperationSignature parameterName="shopping_id">
-        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.0"/>
+        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/org.palladiosimulator.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.0"/>
       </parameters__OperationSignature>
       <parameters__OperationSignature parameterName="customer_id">
-        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.0"/>
+        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/org.palladiosimulator.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.0"/>
       </parameters__OperationSignature>
       <parameters__OperationSignature parameterName="cc_type">
-        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
+        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/org.palladiosimulator.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
       </parameters__OperationSignature>
       <parameters__OperationSignature parameterName="cc_number">
-        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.0"/>
+        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/org.palladiosimulator.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.0"/>
       </parameters__OperationSignature>
       <parameters__OperationSignature parameterName="cc_name">
-        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
+        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/org.palladiosimulator.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
       </parameters__OperationSignature>
       <parameters__OperationSignature dataType__Parameter="_9WZdEADCEeWLsvM9L_MS5A" parameterName="cc_expiry"/>
       <parameters__OperationSignature parameterName="shipping">
-        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
+        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/org.palladiosimulator.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
       </parameters__OperationSignature>
     </signatures__OperationInterface>
     <signatures__OperationInterface id="_9WuNMQDCEeWLsvM9L_MS5A" entityName="doBuyConfirm_1" returnType__OperationSignature="_9WuNMADCEeWLsvM9L_MS5A">
       <parameters__OperationSignature parameterName="shopping_id">
-        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.0"/>
+        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/org.palladiosimulator.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.0"/>
       </parameters__OperationSignature>
       <parameters__OperationSignature parameterName="customer_id">
-        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.0"/>
+        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/org.palladiosimulator.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.0"/>
       </parameters__OperationSignature>
       <parameters__OperationSignature parameterName="cc_type">
-        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
+        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/org.palladiosimulator.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
       </parameters__OperationSignature>
       <parameters__OperationSignature parameterName="cc_number">
-        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.0"/>
+        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/org.palladiosimulator.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.0"/>
       </parameters__OperationSignature>
       <parameters__OperationSignature parameterName="cc_name">
-        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
+        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/org.palladiosimulator.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
       </parameters__OperationSignature>
       <parameters__OperationSignature dataType__Parameter="_9WZdEADCEeWLsvM9L_MS5A" parameterName="cc_expiry"/>
       <parameters__OperationSignature parameterName="shipping">
-        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
+        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/org.palladiosimulator.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
       </parameters__OperationSignature>
       <parameters__OperationSignature parameterName="street_1">
-        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
+        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/org.palladiosimulator.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
       </parameters__OperationSignature>
       <parameters__OperationSignature parameterName="street_2">
-        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
+        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/org.palladiosimulator.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
       </parameters__OperationSignature>
       <parameters__OperationSignature parameterName="city">
-        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
+        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/org.palladiosimulator.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
       </parameters__OperationSignature>
       <parameters__OperationSignature parameterName="state">
-        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
+        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/org.palladiosimulator.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
       </parameters__OperationSignature>
       <parameters__OperationSignature parameterName="zip">
-        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
+        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/org.palladiosimulator.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
       </parameters__OperationSignature>
       <parameters__OperationSignature parameterName="country">
-        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
+        <dataType__Parameter xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/org.palladiosimulator.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
       </parameters__OperationSignature>
     </signatures__OperationInterface>
   </interfaces__Repository>
@@ -389,20 +389,20 @@
   <dataTypes__Repository xsi:type="repository:CompositeDataType" id="_9TFDUgDCEeWLsvM9L_MS5A" entityName="HttpSession"/>
   <dataTypes__Repository xsi:type="repository:CompositeDataType" id="_9TFDUwDCEeWLsvM9L_MS5A" entityName="PrintWriter"/>
   <dataTypes__Repository xsi:type="repository:CollectionDataType" id="_9WXA0ADCEeWLsvM9L_MS5A" entityName="String[]">
-    <innerType_CollectionDataType xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
+    <innerType_CollectionDataType xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/org.palladiosimulator.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
   </dataTypes__Repository>
   <dataTypes__Repository xsi:type="repository:CompositeDataType" id="_9WYO8ADCEeWLsvM9L_MS5A" entityName="Book">
     <innerDeclaration_CompositeDataType entityName="int">
-      <datatype_InnerDeclaration xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.0"/>
+      <datatype_InnerDeclaration xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/org.palladiosimulator.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.0"/>
     </innerDeclaration_CompositeDataType>
     <innerDeclaration_CompositeDataType entityName="double">
-      <datatype_InnerDeclaration xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.3"/>
+      <datatype_InnerDeclaration xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/org.palladiosimulator.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.3"/>
     </innerDeclaration_CompositeDataType>
     <innerDeclaration_CompositeDataType entityName="Date" datatype_InnerDeclaration="_9WZdEADCEeWLsvM9L_MS5A"/>
     <innerDeclaration_CompositeDataType entityName="Exception" datatype_InnerDeclaration="_9WZdEQDCEeWLsvM9L_MS5A"/>
     <innerDeclaration_CompositeDataType entityName="ResultSet" datatype_InnerDeclaration="_9WZdEgDCEeWLsvM9L_MS5A"/>
     <innerDeclaration_CompositeDataType entityName="String">
-      <datatype_InnerDeclaration xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
+      <datatype_InnerDeclaration xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/org.palladiosimulator.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
     </innerDeclaration_CompositeDataType>
   </dataTypes__Repository>
   <dataTypes__Repository xsi:type="repository:CompositeDataType" id="_9WZdEADCEeWLsvM9L_MS5A" entityName="Date"/>
@@ -410,16 +410,16 @@
   <dataTypes__Repository xsi:type="repository:CompositeDataType" id="_9WZdEgDCEeWLsvM9L_MS5A" entityName="ResultSet"/>
   <dataTypes__Repository xsi:type="repository:CompositeDataType" id="_9WaEIADCEeWLsvM9L_MS5A" entityName="Customer">
     <innerDeclaration_CompositeDataType entityName="int">
-      <datatype_InnerDeclaration xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.0"/>
+      <datatype_InnerDeclaration xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/org.palladiosimulator.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.0"/>
     </innerDeclaration_CompositeDataType>
     <innerDeclaration_CompositeDataType entityName="Exception" datatype_InnerDeclaration="_9WZdEQDCEeWLsvM9L_MS5A"/>
     <innerDeclaration_CompositeDataType entityName="double">
-      <datatype_InnerDeclaration xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.3"/>
+      <datatype_InnerDeclaration xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/org.palladiosimulator.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.3"/>
     </innerDeclaration_CompositeDataType>
     <innerDeclaration_CompositeDataType entityName="Date" datatype_InnerDeclaration="_9WZdEADCEeWLsvM9L_MS5A"/>
     <innerDeclaration_CompositeDataType entityName="ResultSet" datatype_InnerDeclaration="_9WZdEgDCEeWLsvM9L_MS5A"/>
     <innerDeclaration_CompositeDataType entityName="String">
-      <datatype_InnerDeclaration xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
+      <datatype_InnerDeclaration xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/org.palladiosimulator.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
     </innerDeclaration_CompositeDataType>
   </dataTypes__Repository>
   <dataTypes__Repository xsi:type="repository:CompositeDataType" id="_9Wb5UADCEeWLsvM9L_MS5A" entityName="Vector&lt;Book>">
@@ -433,24 +433,24 @@
   </dataTypes__Repository>
   <dataTypes__Repository xsi:type="repository:CompositeDataType" id="_9WeVkQDCEeWLsvM9L_MS5A" entityName="ShortBook">
     <innerDeclaration_CompositeDataType entityName="int">
-      <datatype_InnerDeclaration xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.0"/>
+      <datatype_InnerDeclaration xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/org.palladiosimulator.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.0"/>
     </innerDeclaration_CompositeDataType>
     <innerDeclaration_CompositeDataType entityName="Exception" datatype_InnerDeclaration="_9WZdEQDCEeWLsvM9L_MS5A"/>
     <innerDeclaration_CompositeDataType entityName="ResultSet" datatype_InnerDeclaration="_9WZdEgDCEeWLsvM9L_MS5A"/>
     <innerDeclaration_CompositeDataType entityName="String">
-      <datatype_InnerDeclaration xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
+      <datatype_InnerDeclaration xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/org.palladiosimulator.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
     </innerDeclaration_CompositeDataType>
   </dataTypes__Repository>
   <dataTypes__Repository xsi:type="repository:CompositeDataType" id="_9Wgx0ADCEeWLsvM9L_MS5A" entityName="Vector&lt;Integer>">
     <innerDeclaration_CompositeDataType entityName="Vector" datatype_InnerDeclaration="_9WcgYADCEeWLsvM9L_MS5A"/>
     <innerDeclaration_CompositeDataType entityName="Integer">
-      <datatype_InnerDeclaration xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.0"/>
+      <datatype_InnerDeclaration xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/org.palladiosimulator.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.0"/>
     </innerDeclaration_CompositeDataType>
   </dataTypes__Repository>
   <dataTypes__Repository xsi:type="repository:CompositeDataType" id="_9Wgx0QDCEeWLsvM9L_MS5A" entityName="Vector&lt;String>">
     <innerDeclaration_CompositeDataType entityName="Vector" datatype_InnerDeclaration="_9WcgYADCEeWLsvM9L_MS5A"/>
     <innerDeclaration_CompositeDataType entityName="String">
-      <datatype_InnerDeclaration xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
+      <datatype_InnerDeclaration xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/org.palladiosimulator.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
     </innerDeclaration_CompositeDataType>
   </dataTypes__Repository>
   <dataTypes__Repository xsi:type="repository:CompositeDataType" id="_9WlDQADCEeWLsvM9L_MS5A" entityName="Vector&lt;OrderLine>">
@@ -459,39 +459,39 @@
   </dataTypes__Repository>
   <dataTypes__Repository xsi:type="repository:CompositeDataType" id="_9WlDQQDCEeWLsvM9L_MS5A" entityName="OrderLine">
     <innerDeclaration_CompositeDataType entityName="int">
-      <datatype_InnerDeclaration xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.0"/>
+      <datatype_InnerDeclaration xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/org.palladiosimulator.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.0"/>
     </innerDeclaration_CompositeDataType>
     <innerDeclaration_CompositeDataType entityName="double">
-      <datatype_InnerDeclaration xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.3"/>
+      <datatype_InnerDeclaration xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/org.palladiosimulator.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.3"/>
     </innerDeclaration_CompositeDataType>
     <innerDeclaration_CompositeDataType entityName="Exception" datatype_InnerDeclaration="_9WZdEQDCEeWLsvM9L_MS5A"/>
     <innerDeclaration_CompositeDataType entityName="ResultSet" datatype_InnerDeclaration="_9WZdEgDCEeWLsvM9L_MS5A"/>
     <innerDeclaration_CompositeDataType entityName="String">
-      <datatype_InnerDeclaration xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
+      <datatype_InnerDeclaration xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/org.palladiosimulator.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
     </innerDeclaration_CompositeDataType>
   </dataTypes__Repository>
   <dataTypes__Repository xsi:type="repository:CompositeDataType" id="_9WlDQgDCEeWLsvM9L_MS5A" entityName="Order">
     <innerDeclaration_CompositeDataType entityName="int">
-      <datatype_InnerDeclaration xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.0"/>
+      <datatype_InnerDeclaration xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/org.palladiosimulator.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.0"/>
     </innerDeclaration_CompositeDataType>
     <innerDeclaration_CompositeDataType entityName="double">
-      <datatype_InnerDeclaration xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.3"/>
+      <datatype_InnerDeclaration xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/org.palladiosimulator.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.3"/>
     </innerDeclaration_CompositeDataType>
     <innerDeclaration_CompositeDataType entityName="Date" datatype_InnerDeclaration="_9WZdEADCEeWLsvM9L_MS5A"/>
     <innerDeclaration_CompositeDataType entityName="Exception" datatype_InnerDeclaration="_9WZdEQDCEeWLsvM9L_MS5A"/>
     <innerDeclaration_CompositeDataType entityName="ResultSet" datatype_InnerDeclaration="_9WZdEgDCEeWLsvM9L_MS5A"/>
     <innerDeclaration_CompositeDataType entityName="String">
-      <datatype_InnerDeclaration xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
+      <datatype_InnerDeclaration xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/org.palladiosimulator.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
     </innerDeclaration_CompositeDataType>
   </dataTypes__Repository>
   <dataTypes__Repository xsi:type="repository:CompositeDataType" id="_9WotoADCEeWLsvM9L_MS5A" entityName="Cart">
     <innerDeclaration_CompositeDataType entityName="SQLException" datatype_InnerDeclaration="_9WpUsADCEeWLsvM9L_MS5A"/>
     <innerDeclaration_CompositeDataType entityName="CartLine" datatype_InnerDeclaration="_9WpUsQDCEeWLsvM9L_MS5A"/>
     <innerDeclaration_CompositeDataType entityName="int">
-      <datatype_InnerDeclaration xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.0"/>
+      <datatype_InnerDeclaration xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/org.palladiosimulator.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.0"/>
     </innerDeclaration_CompositeDataType>
     <innerDeclaration_CompositeDataType entityName="double">
-      <datatype_InnerDeclaration xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.3"/>
+      <datatype_InnerDeclaration xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/org.palladiosimulator.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.3"/>
     </innerDeclaration_CompositeDataType>
     <innerDeclaration_CompositeDataType entityName="ResultSet" datatype_InnerDeclaration="_9WZdEgDCEeWLsvM9L_MS5A"/>
     <innerDeclaration_CompositeDataType entityName="Vector&lt;CartLine>" datatype_InnerDeclaration="_9Wp7wADCEeWLsvM9L_MS5A"/>
@@ -500,13 +500,13 @@
   <dataTypes__Repository xsi:type="repository:CompositeDataType" id="_9WpUsADCEeWLsvM9L_MS5A" entityName="SQLException"/>
   <dataTypes__Repository xsi:type="repository:CompositeDataType" id="_9WpUsQDCEeWLsvM9L_MS5A" entityName="CartLine">
     <innerDeclaration_CompositeDataType entityName="int">
-      <datatype_InnerDeclaration xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.0"/>
+      <datatype_InnerDeclaration xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/org.palladiosimulator.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.0"/>
     </innerDeclaration_CompositeDataType>
     <innerDeclaration_CompositeDataType entityName="double">
-      <datatype_InnerDeclaration xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.3"/>
+      <datatype_InnerDeclaration xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/org.palladiosimulator.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.3"/>
     </innerDeclaration_CompositeDataType>
     <innerDeclaration_CompositeDataType entityName="String">
-      <datatype_InnerDeclaration xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
+      <datatype_InnerDeclaration xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/org.palladiosimulator.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
     </innerDeclaration_CompositeDataType>
   </dataTypes__Repository>
   <dataTypes__Repository xsi:type="repository:CompositeDataType" id="_9Wp7wADCEeWLsvM9L_MS5A" entityName="Vector&lt;CartLine>">
@@ -516,7 +516,7 @@
   <dataTypes__Repository xsi:type="repository:CompositeDataType" id="_9WuNMADCEeWLsvM9L_MS5A" entityName="BuyConfirmResult">
     <innerDeclaration_CompositeDataType entityName="Cart" datatype_InnerDeclaration="_9WotoADCEeWLsvM9L_MS5A"/>
     <innerDeclaration_CompositeDataType entityName="int">
-      <datatype_InnerDeclaration xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.0"/>
+      <datatype_InnerDeclaration xsi:type="repository:PrimitiveDataType" href="../../../../../plugin/org.palladiosimulator.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.0"/>
     </innerDeclaration_CompositeDataType>
   </dataTypes__Repository>
 </repository:Repository>
