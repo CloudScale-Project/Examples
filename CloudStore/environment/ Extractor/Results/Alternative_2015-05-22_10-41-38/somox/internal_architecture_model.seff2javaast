@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ASCII"?>
-<org.somox:SEFF2JavaAST xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.somox="http://www.somox.org/seff2method/1.0" xmlns:seff="http://sdq.ipd.uka.de/PalladioComponentModel/SEFF/5.0">
+<org.somox:SEFF2JavaAST xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.somox="http://www.somox.org/seff2method/1.0" xmlns:seff="http://palladiosimulator.org/PalladioComponentModel/SEFF/5.0">
   <seff2MethodMappings>
     <blockstatement href="../../../../%20Extractor/Results/Alternative_2015-05-22_10-41-38/modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.1/@body"/>
     <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_9e21gQDCEeWLsvM9L_MS5A"/>
