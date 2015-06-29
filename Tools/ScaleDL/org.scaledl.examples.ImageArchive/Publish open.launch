@@ -14,7 +14,7 @@
 <booleanAttribute key="confidenceUseAutomaticBatches" value="true"/>
 <intAttribute key="datasourceID" value="-1"/>
 <intAttribute key="de.uka.ipd.sdq.workflowengine.debuglevel" value="2"/>
-<stringAttribute key="experimentRun" value="PublishClosedImageArchive"/>
+<stringAttribute key="experimentRun" value="PublishOpenImageArchive"/>
 <stringAttribute key="featureConfig" value="pathmap://PCM_MODELS/ConnectorConfig.featureconfig"/>
 <stringAttribute key="fixedSeed0" value="0"/>
 <stringAttribute key="fixedSeed1" value="1"/>
@@ -26,20 +26,20 @@
 <stringAttribute key="maximum" value=""/>
 <stringAttribute key="maximumMeasurementCount" value="-1"/>
 <stringAttribute key="minimum" value=""/>
-<stringAttribute key="monitorRepositoryFile" value="platform:/resource/org.scaledl.examples.ImageArchive/publishClosed.monitorrepository"/>
+<stringAttribute key="monitorRepositoryFile" value="platform:/resource/org.scaledl.examples.ImageArchive/publishOpen.monitorrepository"/>
 <stringAttribute key="outpath" value="org.palladiosimulator.temporary"/>
 <stringAttribute key="persistenceFramework" value="Experiment Data Persistency &amp; Presentation (EDP2)"/>
 <stringAttribute key="reconfigurationRulesFolder" value=""/>
 <booleanAttribute key="reliability.simulateFailures" value="true"/>
 <stringAttribute key="serviceLevelObjectiveRepositoryFile" value=""/>
-<stringAttribute key="simTime" value="15000"/>
+<stringAttribute key="simTime" value="1500"/>
 <booleanAttribute key="simulateAccuracy" value="false"/>
 <booleanAttribute key="simulateFailures" value="false"/>
 <booleanAttribute key="simulateLinkingResources" value="false"/>
 <stringAttribute key="simulatorId" value="de.uka.ipd.sdq.codegen.simucontroller.simucom"/>
 <stringAttribute key="stepwidth" value=""/>
-<stringAttribute key="usageEvolutionFile" value="platform:/resource/org.scaledl.examples.ImageArchive/publishClosed.usageevolution"/>
-<stringAttribute key="usageFile" value="platform:/resource/org.scaledl.examples.ImageArchive/publishClosed.usagemodel"/>
+<stringAttribute key="usageEvolutionFile" value="platform:/resource/org.scaledl.examples.ImageArchive/publishOpen.usageevolution"/>
+<stringAttribute key="usageFile" value="platform:/resource/org.scaledl.examples.ImageArchive/publishOpen.usagemodel"/>
 <booleanAttribute key="useConfidenceStopCondition" value="false"/>
 <booleanAttribute key="useFixedSeed" value="false"/>
 <stringAttribute key="variable" value=""/>

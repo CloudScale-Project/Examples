@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <launchConfiguration type="de.upb.pcm.interpreter.SimuLizarLaunching">
-<stringAttribute key="EDP2RepositoryID" value="_u8ynkPP7EeSKEJfHAsBIUA"/>
+<stringAttribute key="EDP2RepositoryID" value="_Xh3Z4B5bEeWNuKZ_oW2clg"/>
 <stringAttribute key="accuracyQualityAnnotationFile" value=""/>
+<stringAttribute key="actionModelFile" value="platform:/plugin/org.palladiosimulator.simulizar.action.repository/model/repository.actions"/>
 <stringAttribute key="allocationFile" value="platform:/resource/org.scaledl.examples.ImageArchive/default.allocation"/>
 <booleanAttribute key="clear" value="true"/>
 <stringAttribute key="confidenceBatchSize" value="200"/>
@@ -29,6 +30,7 @@
 <stringAttribute key="outpath" value="org.palladiosimulator.temporary"/>
 <stringAttribute key="persistenceFramework" value="Experiment Data Persistency &amp; Presentation (EDP2)"/>
 <stringAttribute key="reconfigurationRulesFolder" value=""/>
+<booleanAttribute key="reliability.simulateFailures" value="true"/>
 <stringAttribute key="serviceLevelObjectiveRepositoryFile" value=""/>
 <stringAttribute key="simTime" value="15000"/>
 <booleanAttribute key="simulateAccuracy" value="false"/>
