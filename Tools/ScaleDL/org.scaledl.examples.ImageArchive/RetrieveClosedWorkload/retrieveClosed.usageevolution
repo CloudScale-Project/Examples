@@ -4,7 +4,7 @@
     <loadEvolution href="publishLoad.dlim#/"/>
     <workEvolutions>
       <evolution href="ImageSizeEvolution.dlim#/"/>
-      <variableCharacterisation href="default.repository#//@components__Repository.1/@serviceEffectSpecifications__BasicComponent.1/@steps_Behaviour.2/@localVariableUsages_SetVariableAction.0/@variableCharacterisation_VariableUsage.1"/>
+      <variableCharacterisation href="../default.repository#//@components__Repository.1/@serviceEffectSpecifications__BasicComponent.1/@steps_Behaviour.2/@localVariableUsages_SetVariableAction.0/@variableCharacterisation_VariableUsage.1"/>
     </workEvolutions>
     <scenario href="retreiveClosed.usagemodel#_9wcbMPPREeSvLK8q3Y9PwQ"/>
   </usages>

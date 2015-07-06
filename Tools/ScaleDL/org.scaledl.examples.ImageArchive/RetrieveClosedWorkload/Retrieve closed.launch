@@ -26,7 +26,7 @@
 <stringAttribute key="maximum" value=""/>
 <stringAttribute key="maximumMeasurementCount" value="-1"/>
 <stringAttribute key="minimum" value=""/>
-<stringAttribute key="monitorRepositoryFile" value="platform:/resource/org.scaledl.examples.ImageArchive/retrieveClosed.monitorrepository"/>
+<stringAttribute key="monitorRepositoryFile" value="platform:/resource/org.scaledl.examples.ImageArchive/RetrieveClosedWorkload/retrieveClosed.monitorrepository"/>
 <stringAttribute key="outpath" value="org.palladiosimulator.temporary"/>
 <stringAttribute key="persistenceFramework" value="Experiment Data Persistency &amp; Presentation (EDP2)"/>
 <stringAttribute key="reconfigurationRulesFolder" value=""/>
@@ -38,8 +38,8 @@
 <booleanAttribute key="simulateLinkingResources" value="false"/>
 <stringAttribute key="simulatorId" value="de.uka.ipd.sdq.codegen.simucontroller.simucom"/>
 <stringAttribute key="stepwidth" value=""/>
-<stringAttribute key="usageEvolutionFile" value="platform:/resource/org.scaledl.examples.ImageArchive/retrieveClosed.usageevolution"/>
-<stringAttribute key="usageFile" value="platform:/resource/org.scaledl.examples.ImageArchive/retreiveClosed.usagemodel"/>
+<stringAttribute key="usageEvolutionFile" value="platform:/resource/org.scaledl.examples.ImageArchive/RetrieveClosedWorkload/retrieveClosed.usageevolution"/>
+<stringAttribute key="usageFile" value="platform:/resource/org.scaledl.examples.ImageArchive/RetrieveClosedWorkload/retreiveClosed.usagemodel"/>
 <booleanAttribute key="useConfidenceStopCondition" value="false"/>
 <booleanAttribute key="useFixedSeed" value="false"/>
 <stringAttribute key="variable" value=""/>
