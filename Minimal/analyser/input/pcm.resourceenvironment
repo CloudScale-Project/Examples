@@ -1,19 +1,12 @@
 <?xml version="1.0" encoding="ASCII"?>
-<resourceenvironment:ResourceEnvironment xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:resourceenvironment="http://sdq.ipd.uka.de/PalladioComponentModel/ResourceEnvironment/5.0">
-  <linkingResources__ResourceEnvironment id="CSMGen__WOqQkAMHEeWPHdom6qQ8Nw_createResourceContainerLink" entityName="" connectedResourceContainers_LinkingResource="CSMGen__SPzOUAMHEeWPHdom6qQ8Nw_service2resourceContainer">
-    <communicationLinkResourceSpecifications_LinkingResource id="CSMGen__WOqQkAMHEeWPHdom6qQ8Nw_createResSpec">
-      <communicationLinkResourceType_CommunicationLinkResourceSpecification href="pathmap://PCM_MODELS/Palladio.resourcetype#_o3sScH2AEdyH8uerKnHYug"/>
-      <latency_CommunicationLinkResourceSpecification specification="10"/>
-      <throughput_CommunicationLinkResourceSpecification specification="100"/>
-    </communicationLinkResourceSpecifications_LinkingResource>
-  </linkingResources__ResourceEnvironment>
-  <resourceContainer_ResourceEnvironment id="CSMGen__SPzOUAMHEeWPHdom6qQ8Nw_service2resourceContainer" entityName="Service Resource AWS EC2 Infrastructure">
-    <activeResourceSpecifications_ResourceContainer id="CSMGen__SPzOUAMHEeWPHdom6qQ8Nw_createCPU">
+<resourceenvironment:ResourceEnvironment xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:resourceenvironment="http://palladiosimulator.org/PalladioComponentModel/ResourceEnvironment/5.1" entityName="Resource model">
+  <resourceContainer_ResourceEnvironment id="CSMGen__1_wGICPhEeW6B8TL0HkbtA_service2resourceContainer" entityName="Service Resource AWS EC2 Infrastructure">
+    <activeResourceSpecifications_ResourceContainer id="CSMGen__1_wGICPhEeW6B8TL0HkbtA_createCPU">
       <schedulingPolicy href="pathmap://PCM_MODELS/Palladio.resourcetype#ProcessorSharing"/>
       <activeResourceType_ActiveResourceSpecification href="pathmap://PCM_MODELS/Palladio.resourcetype#_oro4gG3fEdy4YaaT-RYrLQ"/>
       <processingRate_ProcessingResourceSpecification specification="2500"/>
     </activeResourceSpecifications_ResourceContainer>
-    <activeResourceSpecifications_ResourceContainer id="CSMGen__SPzOUAMHEeWPHdom6qQ8Nw_createHDD">
+    <activeResourceSpecifications_ResourceContainer id="CSMGen__1_wGICPhEeW6B8TL0HkbtA_createHDD">
       <schedulingPolicy href="pathmap://PCM_MODELS/Palladio.resourcetype#FCFS"/>
       <activeResourceType_ActiveResourceSpecification href="pathmap://PCM_MODELS/Palladio.resourcetype#_BIjHoQ3KEdyouMqirZIhzQ"/>
       <processingRate_ProcessingResourceSpecification specification="100"/>

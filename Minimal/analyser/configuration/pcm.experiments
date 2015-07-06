@@ -1,26 +1,14 @@
 <?xml version="1.0" encoding="ASCII"?>
-<ExperimentAutomation.Experiments:ExperimentRepository xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ExperimentAutomation.Experiments="http://palladiosimulator.org/ExperimentAutomation/Experiments/1.0" xmlns:ExperimentAutomation.Experiments.AbstractSimulation="http://palladiosimulator.org/ExperimentAutomation/AbstractSimulation/1.0" xmlns:ExperimentAutomation.Variation="http://palladiosimulator.org/ExperimentAutomation/Variation/1.0" xmlns:simulizartooladapter="http://palladiosimulator.org/ExperimentAutomation/ToolAdapter/SimuLizar/1.0">
-  <experiments id="d3f4rfe4e4r4wrwfw478" name="Capacity measurement" description="CapacityMeasurement" repetitions="1">
-    <variations minValue="1.0" maxValue="100.0" maxVariations="10" variedObjectId="CSMGen__4G-oIAMCEeWPHdom6qQ8NwclosedWorkload_csm2usage" name="ClosedWokloadVariation">
-      <type xsi:type="ExperimentAutomation.Variation:ValueVariation" href="pcm.variation#_zUZqID5zEeCEPJs72ZSOBg"/>
-      <valueProvider xsi:type="ExperimentAutomation.Experiments:NestedIntervalsLongValueProvider" minValue="1" maxValue="100"/>
-    </variations>
-     <toolConfiguration xsi:type="simulizartooladapter:SimuLizarConfiguration" name="EDP2 SimuLizar Configuration">
-      <stopConditions xsi:type="ExperimentAutomation.Experiments.AbstractSimulation:MeasurementCountStopCondition" measurementCount="-1"/>
-      <stopConditions xsi:type="ExperimentAutomation.Experiments.AbstractSimulation:SimTimeStopCondition" simulationTime="190"/>
-      <datasource xsi:type="ExperimentAutomation.Experiments.AbstractSimulation:FileDatasource" location="results"/>
-    </toolConfiguration>
+<ExperimentAutomation.Experiments:ExperimentRepository xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ExperimentAutomation.Experiments="http://palladiosimulator.org/ExperimentAutomation/Experiments/1.0" xmlns:ExperimentAutomation.Experiments.AbstractSimulation="http://palladiosimulator.org/ExperimentAutomation/AbstractSimulation/1.0">
+  <experiments repetitions="1">
     <stopConditions xsi:type="ExperimentAutomation.Experiments.AbstractSimulation:MeasurementCountStopCondition" measurementCount="100"/>
     <stopConditions xsi:type="ExperimentAutomation.Experiments.AbstractSimulation:SimTimeStopCondition" simulationTime="-1"/>
-    <experimentDesign xsi:type="ExperimentAutomation.Experiments:FullFactorialDesign"/>
-    <responseMeasurement xsi:type="ExperimentAutomation.Experiments:SimulationDurationMeasurement"/>
     <initialModel>
       <usageModel href="../input/pcm.usagemodel#/"/>
       <allocation href="../input/pcm.allocation#CSMGen_"/>
       <middlewareRepository href="pathmap://PCM_MODELS/Glassfish.repository#_yQk9oIX1EdyWta7nHuXiHQ"/>
       <eventMiddleWareRepository href="pathmap://PCM_MODELS/default_event_middleware.repository#_Onc7cMALEd-LKvNtxXAQbQ"/>
-      <monitorRepository href="analyser.monitorrepository#_jfBP8QOiEeWPdqAStajnEA"/>
-      <serviceLevelObjectives href="analyser.slo#/"/>
+      <monitorRepository href="analyser.monitorrepository#_K4c94CPjEeW6B8TL0HkbtA"/>
     </initialModel>
   </experiments>
 </ExperimentAutomation.Experiments:ExperimentRepository>

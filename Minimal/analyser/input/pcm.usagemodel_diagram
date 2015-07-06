@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:usagemodel="http://palladiosimulator.org/PalladioComponentModel/UsageModel/5.1" xsi:schemaLocation="http://palladiosimulator.org/PalladioComponentModel/UsageModel/5.1 http://palladiosimulator.org/PalladioComponentModel/5.1#//usagemodel" xmi:id="_i6xVICPoEeWhccWCTeDCVg" type="PCM Usage Model" measurementUnit="Pixel">
+  <children xmi:type="notation:Node" xmi:id="_i9TrwCPoEeWhccWCTeDCVg" type="2004">
+    <children xmi:type="notation:DecorationNode" xmi:id="_i9US0CPoEeWhccWCTeDCVg" type="5017"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_i9US0SPoEeWhccWCTeDCVg" type="7012">
+      <children xmi:type="notation:Shape" xmi:id="_i9c1sCPoEeWhccWCTeDCVg" type="3014" fontName="Monospace">
+        <children xmi:type="notation:DecorationNode" xmi:id="_i9c1siPoEeWhccWCTeDCVg" type="7013">
+          <children xmi:type="notation:Node" xmi:id="_i9iVQCPoEeWhccWCTeDCVg" type="3001">
+            <styles xmi:type="notation:DescriptionStyle" xmi:id="_i9iVQSPoEeWhccWCTeDCVg"/>
+            <styles xmi:type="notation:FontStyle" xmi:id="_i9iVQiPoEeWhccWCTeDCVg" fontName="Monospace"/>
+            <styles xmi:type="notation:LineStyle" xmi:id="_i9iVQyPoEeWhccWCTeDCVg"/>
+            <element xmi:type="usagemodel:Start" href="pcm.usagemodel#CSMGen__2SIPkCPhEeW6B8TL0HkbtAstart_csm2usage"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_i9iVRCPoEeWhccWCTeDCVg"/>
+          </children>
+          <children xmi:type="notation:Shape" xmi:id="_i9iVRSPoEeWhccWCTeDCVg" type="3008" fontName="Monospace">
+            <children xmi:type="notation:DecorationNode" xmi:id="_i9iVRyPoEeWhccWCTeDCVg" type="7009">
+              <children xmi:type="notation:Shape" xmi:id="_i9qRECPoEeWhccWCTeDCVg" type="3009" fontName="Monospace">
+                <children xmi:type="notation:DecorationNode" xmi:id="_i9q4ICPoEeWhccWCTeDCVg" type="5007"/>
+                <children xmi:type="notation:Shape" xmi:id="_i9wXsCPoEeWhccWCTeDCVg" type="3010" fontName="Monospace">
+                  <children xmi:type="notation:DecorationNode" xmi:id="_i9wXsiPoEeWhccWCTeDCVg" type="7008">
+                    <children xmi:type="notation:Node" xmi:id="_i90CECPoEeWhccWCTeDCVg" type="3001">
+                      <styles xmi:type="notation:DescriptionStyle" xmi:id="_i90CESPoEeWhccWCTeDCVg"/>
+                      <styles xmi:type="notation:FontStyle" xmi:id="_i90CEiPoEeWhccWCTeDCVg" fontName="Monospace"/>
+                      <styles xmi:type="notation:LineStyle" xmi:id="_i90CEyPoEeWhccWCTeDCVg"/>
+                      <element xmi:type="usagemodel:Start" href="pcm.usagemodel#CSMGen_CSMGen__e8o-kCPbEeWfF6sEvWaW9w_operationSignature2operationstart_opInterface2branchTransition"/>
+                      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_i90CFCPoEeWhccWCTeDCVg"/>
+                    </children>
+                    <children xmi:type="notation:Shape" xmi:id="_i90CFSPoEeWhccWCTeDCVg" type="3003" fontName="Monospace">
+                      <children xmi:type="notation:DecorationNode" xmi:id="_i90pICPoEeWhccWCTeDCVg" type="5004"/>
+                      <children xmi:type="notation:DecorationNode" xmi:id="_i90pISPoEeWhccWCTeDCVg" type="7002">
+                        <styles xmi:type="notation:SortingStyle" xmi:id="_i90pIiPoEeWhccWCTeDCVg"/>
+                        <styles xmi:type="notation:FilteringStyle" xmi:id="_i90pIyPoEeWhccWCTeDCVg"/>
+                      </children>
+                      <element xmi:type="usagemodel:EntryLevelSystemCall" href="pcm.usagemodel#CSMGen_CSMGen__e8o-kCPbEeWfF6sEvWaW9w_operationSignature2operation_operation2entryLevelSystemCall"/>
+                      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_i90CFiPoEeWhccWCTeDCVg" x="86" y="6" height="131"/>
+                    </children>
+                    <children xmi:type="notation:Shape" xmi:id="_i90pJCPoEeWhccWCTeDCVg" type="3002" fontName="Monospace">
+                      <element xmi:type="usagemodel:Stop" href="pcm.usagemodel#CSMGen_CSMGen__e8o-kCPbEeWfF6sEvWaW9w_operationSignature2operationstop_opInterface2branchTransition"/>
+                      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_i90pJSPoEeWhccWCTeDCVg" x="450" y="136"/>
+                    </children>
+                  </children>
+                  <element xmi:type="usagemodel:ScenarioBehaviour" href="pcm.usagemodel#CSMGen_CSMGen__e8o-kCPbEeWfF6sEvWaW9w_operationSignature2operation_operation2branchTransition"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_i9wXsSPoEeWhccWCTeDCVg"/>
+                </children>
+                <element xmi:type="usagemodel:BranchTransition" href="pcm.usagemodel#//@usageScenario_UsageModel.0/@scenarioBehaviour_UsageScenario/@actions_ScenarioBehaviour.1/@branchTransitions_Branch.0"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_i9qRESPoEeWhccWCTeDCVg" x="8" width="508" height="223"/>
+              </children>
+            </children>
+            <element xmi:type="usagemodel:Branch" href="pcm.usagemodel#CSMGen__2SIPkCPhEeW6B8TL0HkbtAsystemCall_csm2usage"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_i9iVRiPoEeWhccWCTeDCVg" x="35" y="72" height="261"/>
+          </children>
+          <children xmi:type="notation:Shape" xmi:id="_i9i8UCPoEeWhccWCTeDCVg" type="3002" fontName="Monospace">
+            <element xmi:type="usagemodel:Stop" href="pcm.usagemodel#CSMGen__2SIPkCPhEeW6B8TL0HkbtAstop_csm2usage"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_i9i8USPoEeWhccWCTeDCVg" x="542" y="350"/>
+          </children>
+        </children>
+        <element xmi:type="usagemodel:ScenarioBehaviour" href="pcm.usagemodel#CSMGen__2SIPkCPhEeW6B8TL0HkbtAusageScenario_csm2usage"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_i9c1sSPoEeWhccWCTeDCVg" width="613" height="383"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_i9eD0CPoEeWhccWCTeDCVg" type="3015">
+        <children xmi:type="notation:DecorationNode" xmi:id="_i9eD1SPoEeWhccWCTeDCVg" type="5013"/>
+        <children xmi:type="notation:DecorationNode" xmi:id="_i9eD1iPoEeWhccWCTeDCVg" type="5014"/>
+        <children xmi:type="notation:DecorationNode" xmi:id="_i9eD1yPoEeWhccWCTeDCVg" type="5015"/>
+        <styles xmi:type="notation:DescriptionStyle" xmi:id="_i9eD0SPoEeWhccWCTeDCVg"/>
+        <styles xmi:type="notation:FontStyle" xmi:id="_i9eD0iPoEeWhccWCTeDCVg" fontName="Monospace"/>
+        <styles xmi:type="notation:LineStyle" xmi:id="_i9eD0yPoEeWhccWCTeDCVg"/>
+        <element xmi:type="usagemodel:ClosedWorkload" href="pcm.usagemodel#//@usageScenario_UsageModel.0/@workload_UsageScenario"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_i9eD1CPoEeWhccWCTeDCVg" x="417" y="5"/>
+      </children>
+    </children>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_i9TrwSPoEeWhccWCTeDCVg"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_i9TrwiPoEeWhccWCTeDCVg" fontName="Monospace"/>
+    <styles xmi:type="notation:FillStyle" xmi:id="_i9TrwyPoEeWhccWCTeDCVg"/>
+    <element xmi:type="usagemodel:UsageScenario" href="pcm.usagemodel#CSMGen__2SIPkCPhEeW6B8TL0HkbtAclosedWorkload_csm2usage"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_i9TrxCPoEeWhccWCTeDCVg" width="638" height="430"/>
+  </children>
+  <styles xmi:type="notation:DiagramStyle" xmi:id="_i6xVISPoEeWhccWCTeDCVg"/>
+  <element xmi:type="usagemodel:UsageModel" href="pcm.usagemodel#/"/>
+</notation:Diagram>

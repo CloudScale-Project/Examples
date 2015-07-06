@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:repository="http://palladiosimulator.org/PalladioComponentModel/Repository/5.1" xsi:schemaLocation="http://palladiosimulator.org/PalladioComponentModel/Repository/5.1 http://palladiosimulator.org/PalladioComponentModel/5.1#//repository" xmi:id="_Xt0UgCPoEeWhccWCTeDCVg" type="PCM Repository Model" measurementUnit="Pixel">
+  <children xmi:type="notation:Shape" xmi:id="_XwJ20CPoEeWhccWCTeDCVg" type="2103" fontName="Monospace">
+    <children xmi:type="notation:DecorationNode" xmi:id="_XwKd4CPoEeWhccWCTeDCVg" type="5103"/>
+    <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_XwJ20SPoEeWhccWCTeDCVg" hint="CompositeModel"/>
+    <element xmi:type="repository:CompositeComponent" href="pcm.repository#CSMGen__xwOxtyPhEeW6B8TL0HkbtA_opInterfaceContainer2CompositeComponent"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_XwJ20iPoEeWhccWCTeDCVg" x="143" y="91" width="313"/>
+  </children>
+  <styles xmi:type="notation:DiagramStyle" xmi:id="_Xt0UgSPoEeWhccWCTeDCVg"/>
+  <element xmi:type="repository:Repository" href="pcm.repository#CSMGen_"/>
+</notation:Diagram>
