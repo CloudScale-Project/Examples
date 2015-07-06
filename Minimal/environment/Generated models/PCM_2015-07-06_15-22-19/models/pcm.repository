@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<repository:Repository xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:composition="http://palladiosimulator.org/PalladioComponentModel/Core/Composition/5.1" xmlns:repository="http://palladiosimulator.org/PalladioComponentModel/Repository/5.1" id="CSMGen_" entityName="Repository model">
+  <components__Repository xsi:type="repository:CompositeComponent" id="CSMGen__xwOxtyPhEeW6B8TL0HkbtA_opInterfaceContainer2CompositeComponent" entityName="SoMoX Reverse Engineered System">
+    <assemblyContexts__ComposedStructure id="CSMGen__e9Se0CPbEeWfF6sEvWaW9w_opInterfaceContainer2CompositeComponent" entityName=" &lt;PC No. 0 fibonacci.FibonacciServlet>">
+      <encapsulatedComponent__AssemblyContext xsi:type="repository:BasicComponent" href="../../../%20Extractor/Results/Alternative_2015-07-06_02-35-26/somox/internal_architecture_model.repository#_e8Fk8CPbEeWfF6sEvWaW9w"/>
+    </assemblyContexts__ComposedStructure>
+    <connectors__ComposedStructure xsi:type="composition:ProvidedDelegationConnector" id="_e9UUACPbEeWfF6sEvWaW9w" entityName="Ifibonacci.FibonacciServlet" outerProvidedRole_ProvidedDelegationConnector="CSMGen_SystemInner_e8nJYCPbEeWfF6sEvWaW9w_providedRole2OpInterface_OpIntrface2ProvidedRole" assemblyContext_ProvidedDelegationConnector="CSMGen__e9Se0CPbEeWfF6sEvWaW9w_opInterfaceContainer2CompositeComponent">
+      <innerProvidedRole_ProvidedDelegationConnector href="../../../%20Extractor/Results/Alternative_2015-07-06_02-35-26/somox/internal_architecture_model.repository#_e8t3ECPbEeWfF6sEvWaW9w"/>
+    </connectors__ComposedStructure>
+    <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="CSMGen_SystemInner_e8nJYCPbEeWfF6sEvWaW9w_providedRole2OpInterface_OpIntrface2ProvidedRole" entityName="I_SoMoX Reverse Engineered System">
+      <providedInterface__OperationProvidedRole href="../../../%20Extractor/Results/Alternative_2015-07-06_02-35-26/somox/internal_architecture_model.repository#_e8nJYCPbEeWfF6sEvWaW9w"/>
+    </providedRoles_InterfaceProvidingEntity>
+  </components__Repository>
+  <dataTypes__Repository xsi:type="repository:PrimitiveDataType"/>
+  <dataTypes__Repository xsi:type="repository:PrimitiveDataType" type="STRING"/>
+  <dataTypes__Repository xsi:type="repository:PrimitiveDataType" type="BOOL"/>
+  <dataTypes__Repository xsi:type="repository:PrimitiveDataType" type="DOUBLE"/>
+  <dataTypes__Repository xsi:type="repository:PrimitiveDataType"/>
+  <dataTypes__Repository xsi:type="repository:PrimitiveDataType" type="STRING"/>
+  <dataTypes__Repository xsi:type="repository:PrimitiveDataType" type="BOOL"/>
+  <dataTypes__Repository xsi:type="repository:PrimitiveDataType" type="DOUBLE"/>
+  <dataTypes__Repository xsi:type="repository:CompositeDataType" id="_Gr1B4CPiEeW6B8TL0HkbtA" entityName="HttpServletRequest"/>
+  <dataTypes__Repository xsi:type="repository:CompositeDataType" id="_Gr1o8CPiEeW6B8TL0HkbtA" entityName="HttpServletResponse"/>
+</repository:Repository>

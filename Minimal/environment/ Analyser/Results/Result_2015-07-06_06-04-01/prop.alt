@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment/>
+<entry key="name">Fibonacci Scalability [06:04:01]</entry>
+<entry key="modified">1436198641846</entry>
+<entry key="resourceType">SCALABILITY</entry>
+<entry key="config_alternative">../../Configuration/Alternative_2015-07-06_03-31-06</entry>
+<entry key="created">1436198641392</entry>
+</properties>
