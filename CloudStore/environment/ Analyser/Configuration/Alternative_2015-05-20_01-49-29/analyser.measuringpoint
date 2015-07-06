@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ASCII"?>
-<org.palladiosimulator.edp2.models:MeasuringPointRepository xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.palladiosimulator.edp2.models="http://palladiosimulator.org/EDP2/MeasuringPoint/0.9.1" xmlns:pcmmeasuringpoint="http://palladiosimulator.org/PCM/MeasuringPoint/1.0" id="_RanaEP7mEeSbiL7_xJf9tg">
+<org.palladiosimulator.edp2.models:MeasuringPointRepository xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.palladiosimulator.edp2.models="http://palladiosimulator.org/EDP2/MeasuringPoint/1.0" xmlns:pcmmeasuringpoint="http://palladiosimulator.org/PCM/MeasuringPoint/1.0" id="_RanaEP7mEeSbiL7_xJf9tg">
   <measuringPoints xsi:type="pcmmeasuringpoint:UsageScenarioMeasuringPoint">
     <usageScenario href="../../%20Input/Alternative_2015-05-20_01-48-42/BrowsingMix.usagemodel#_ieXlgKDrEeKjDcfkNgs1Gg"/>
   </measuringPoints>

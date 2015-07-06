@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ASCII"?>
-<allocation:Allocation xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:allocation="http://palladiosimulator.org/PalladioComponentModel/Allocation/5.0" id="CSMGen_" entityName="Default">
+<allocation:Allocation xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:allocation="http://palladiosimulator.org/PalladioComponentModel/Allocation/5.1" id="CSMGen_" entityName="Default">
   <targetResourceEnvironment_Allocation href="pcm.resourceenvironment#/"/>
   <system_Allocation href="pcm.system#CSMGen_"/>
   <allocationContexts_Allocation id="CSMGen__xOWuUPpNEeS41OB809zr1g_opInterfaceContainer2allocationContext" entityName="Allocation WebServer">
