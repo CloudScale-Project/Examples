@@ -5,8 +5,8 @@
       <actions_ScenarioBehaviour xsi:type="usagemodel:Start" id="_9wcbMvPREeSvLK8q3Y9PwQ" successor="_DjA2wPPSEeSvLK8q3Y9PwQ"/>
       <actions_ScenarioBehaviour xsi:type="usagemodel:Stop" id="_9wcbM_PREeSvLK8q3Y9PwQ" predecessor="_DjA2wPPSEeSvLK8q3Y9PwQ"/>
       <actions_ScenarioBehaviour xsi:type="usagemodel:EntryLevelSystemCall" id="_DjA2wPPSEeSvLK8q3Y9PwQ" successor="_9wcbM_PREeSvLK8q3Y9PwQ" predecessor="_9wcbMvPREeSvLK8q3Y9PwQ">
-        <providedRole_EntryLevelSystemCall href="default.system#_-r1fUCHcEd6lJo4DCALHMw"/>
-        <operationSignature__EntryLevelSystemCall href="default.repository#_GeKIUPPJEeSvLK8q3Y9PwQ"/>
+        <providedRole_EntryLevelSystemCall href="../default.system#_-r1fUCHcEd6lJo4DCALHMw"/>
+        <operationSignature__EntryLevelSystemCall href="../default.repository#_GeKIUPPJEeSvLK8q3Y9PwQ"/>
       </actions_ScenarioBehaviour>
     </scenarioBehaviour_UsageScenario>
     <workload_UsageScenario xsi:type="usagemodel:ClosedWorkload" population="1">
