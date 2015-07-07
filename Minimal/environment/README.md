@@ -3,7 +3,7 @@ Minimal Example - Environment project
 
 #### About
 
-Minimal example project. 
+Minimal Cloudscale Environment example project. 
 It contains configurations and results for the tools (Extractor, Analyser, Static and Dynamic Spotter), together with the ScaleDL models.
 
 ##### Extractor:
