@@ -10,7 +10,7 @@ Author: Sebastian Lehrig
 #### Project contents 
 
 - Different ScaleDL models (in "input" and "configuration" folders)
-- Run configurations (in "configuration" folder)
+- Run configurations (in "launch" folder)
 
 #### Run
 1. Load the project into your workspace via the "New CloudScale Project" wizard; it provides an option to load this example directly
