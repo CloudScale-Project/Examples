@@ -1,4 +1,4 @@
-Minimal example model
+Minimal example 
 
 Author: Jinying Yu
 
