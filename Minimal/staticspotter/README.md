@@ -12,10 +12,10 @@ Author: Jinying Yu
 2. Go to the "Static Spotter/Run" tab in the CloudScale Dashboard and hit the "Run" button
 
 #### Possible configurations 
-Play around with options in the "Static Spotter/Run" tab in the CloudScale Dashboard. Standard configuration is to run a capacity analysis.
+Play around with options in the "Static Spotter/Run" tab in the CloudScale Dashboard. Standard configuration is to run detection of anti-patterns which are predefined in the pattern catalogue.
 
 #### Results
-In the "Static Spotter/Results" tab of the CloudScale Dashboar, you should get a "System capacity" of "100".
+In the "Static Spotter/Results" tab of the CloudScale Dashboar, you should get a list of annotations which are anti-pattern candidates.
 
 
 
