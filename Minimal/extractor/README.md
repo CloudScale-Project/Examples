@@ -12,7 +12,7 @@ Author: Jinying Yu
 2. Go to the "Extractor/Run" tab in the CloudScale Dashboard and hit the "Run" button
 
 #### Possible configurations 
-Play around with options in the "Extractor/Run" tab in the CloudScale Dashboard. Standard configuration is to run a capacity analysis.
+Play around with options in the "Extractor/Run" tab in the CloudScale Dashboard. Standard configuration is to extract models from the source code.
 
 #### Results
 In the "Extractor/Results" tab of the CloudScale Dashboar, you should get a bunch of models.
