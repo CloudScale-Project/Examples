@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="ASCII"?>
-<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" type="CompositeModel" name="SYSTEM" measurementUnit="Pixel">
-  <styles xsi:type="notation:DiagramStyle"/>
-  <element href="models/pcm.system#CSMGen_"/>
-</notation:Diagram>

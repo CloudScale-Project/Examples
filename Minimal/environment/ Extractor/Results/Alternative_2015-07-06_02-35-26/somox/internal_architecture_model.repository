@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<repository:Repository xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:repository="http://palladiosimulator.org/PalladioComponentModel/Repository/5.1" xmlns:seff="http://palladiosimulator.org/PalladioComponentModel/SEFF/5.1" id="_e7yqACPbEeWfF6sEvWaW9w">
+  <components__Repository xsi:type="repository:BasicComponent" id="_e8Fk8CPbEeWfF6sEvWaW9w" entityName=" &lt;PC No. 0 fibonacci.FibonacciServlet>">
+    <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="_e8t3ECPbEeWfF6sEvWaW9w" entityName="FibonacciServlet 0 (prov)" providedInterface__OperationProvidedRole="_e8nJYCPbEeWfF6sEvWaW9w"/>
+    <serviceEffectSpecifications__BasicComponent xsi:type="seff:ResourceDemandingSEFF" id="_e8w6YCPbEeWfF6sEvWaW9w" describedService__SEFF="_e8o-kCPbEeWfF6sEvWaW9w">
+      <steps_Behaviour xsi:type="seff:StartAction" id="_e9bowCPbEeWfF6sEvWaW9w" successor_AbstractAction="_e9fTICPbEeWfF6sEvWaW9w"/>
+      <steps_Behaviour xsi:type="seff:InternalAction" id="_e9fTICPbEeWfF6sEvWaW9w" entityName="IA position: fibonacci.FibonacciServlet.doGet() from 26 to 26" predecessor_AbstractAction="_e9bowCPbEeWfF6sEvWaW9w" successor_AbstractAction="_e9f6MCPbEeWfF6sEvWaW9w">
+        <resourceDemand_Action>
+          <specification_ParametericResourceDemand specification="1"/>
+          <requiredResource_ParametricResourceDemand href="pathmap://PCM_MODELS/Palladio.resourcetype#_oro4gG3fEdy4YaaT-RYrLQ"/>
+        </resourceDemand_Action>
+      </steps_Behaviour>
+      <steps_Behaviour xsi:type="seff:InternalAction" id="_e9f6MCPbEeWfF6sEvWaW9w" entityName="IA position: fibonacci.FibonacciServlet.doGet() from 28 to 28" predecessor_AbstractAction="_e9fTICPbEeWfF6sEvWaW9w" successor_AbstractAction="_e9ghQCPbEeWfF6sEvWaW9w">
+        <resourceDemand_Action>
+          <specification_ParametericResourceDemand specification="0"/>
+          <requiredResource_ParametricResourceDemand href="pathmap://PCM_MODELS/Palladio.resourcetype#_oro4gG3fEdy4YaaT-RYrLQ"/>
+        </resourceDemand_Action>
+      </steps_Behaviour>
+      <steps_Behaviour xsi:type="seff:InternalAction" id="_e9ghQCPbEeWfF6sEvWaW9w" entityName="IA position: fibonacci.FibonacciServlet.doGet() from 29 to 29" predecessor_AbstractAction="_e9f6MCPbEeWfF6sEvWaW9w" successor_AbstractAction="_e9ghQSPbEeWfF6sEvWaW9w">
+        <resourceDemand_Action>
+          <specification_ParametericResourceDemand specification="0"/>
+          <requiredResource_ParametricResourceDemand href="pathmap://PCM_MODELS/Palladio.resourcetype#_oro4gG3fEdy4YaaT-RYrLQ"/>
+        </resourceDemand_Action>
+      </steps_Behaviour>
+      <steps_Behaviour xsi:type="seff:InternalAction" id="_e9ghQSPbEeWfF6sEvWaW9w" entityName="IA position: fibonacci.FibonacciServlet.doGet() from 30 to 30" predecessor_AbstractAction="_e9ghQCPbEeWfF6sEvWaW9w" successor_AbstractAction="_e9ghQiPbEeWfF6sEvWaW9w">
+        <resourceDemand_Action>
+          <specification_ParametericResourceDemand specification="0"/>
+          <requiredResource_ParametricResourceDemand href="pathmap://PCM_MODELS/Palladio.resourcetype#_oro4gG3fEdy4YaaT-RYrLQ"/>
+        </resourceDemand_Action>
+      </steps_Behaviour>
+      <steps_Behaviour xsi:type="seff:InternalAction" id="_e9ghQiPbEeWfF6sEvWaW9w" entityName="IA position: fibonacci.FibonacciServlet.doGet() from 32 to 32" predecessor_AbstractAction="_e9ghQSPbEeWfF6sEvWaW9w" successor_AbstractAction="_e9hIUCPbEeWfF6sEvWaW9w">
+        <resourceDemand_Action>
+          <specification_ParametericResourceDemand specification="0"/>
+          <requiredResource_ParametricResourceDemand href="pathmap://PCM_MODELS/Palladio.resourcetype#_oro4gG3fEdy4YaaT-RYrLQ"/>
+        </resourceDemand_Action>
+      </steps_Behaviour>
+      <steps_Behaviour xsi:type="seff:InternalAction" id="_e9hIUCPbEeWfF6sEvWaW9w" entityName="IA position: fibonacci.FibonacciServlet.doGet() from 34 to 34" predecessor_AbstractAction="_e9ghQiPbEeWfF6sEvWaW9w" successor_AbstractAction="_e9hvYCPbEeWfF6sEvWaW9w">
+        <resourceDemand_Action>
+          <specification_ParametericResourceDemand specification="0"/>
+          <requiredResource_ParametricResourceDemand href="pathmap://PCM_MODELS/Palladio.resourcetype#_oro4gG3fEdy4YaaT-RYrLQ"/>
+        </resourceDemand_Action>
+      </steps_Behaviour>
+      <steps_Behaviour xsi:type="seff:InternalAction" id="_e9hvYCPbEeWfF6sEvWaW9w" entityName="IA position: fibonacci.FibonacciServlet.calcFibonacci() from 46 to 46" predecessor_AbstractAction="_e9hIUCPbEeWfF6sEvWaW9w" successor_AbstractAction="_e9i9gCPbEeWfF6sEvWaW9w">
+        <resourceDemand_Action>
+          <specification_ParametericResourceDemand specification="10"/>
+          <requiredResource_ParametricResourceDemand href="pathmap://PCM_MODELS/Palladio.resourcetype#_oro4gG3fEdy4YaaT-RYrLQ"/>
+        </resourceDemand_Action>
+      </steps_Behaviour>
+      <steps_Behaviour xsi:type="seff:InternalAction" id="_e9i9gCPbEeWfF6sEvWaW9w" entityName="IA position: fibonacci.FibonacciServlet.doGet() from 38 to 38" predecessor_AbstractAction="_e9hvYCPbEeWfF6sEvWaW9w" successor_AbstractAction="_e9jkkCPbEeWfF6sEvWaW9w">
+        <resourceDemand_Action>
+          <specification_ParametericResourceDemand specification="0"/>
+          <requiredResource_ParametricResourceDemand href="pathmap://PCM_MODELS/Palladio.resourcetype#_oro4gG3fEdy4YaaT-RYrLQ"/>
+        </resourceDemand_Action>
+      </steps_Behaviour>
+      <steps_Behaviour xsi:type="seff:InternalAction" id="_e9jkkCPbEeWfF6sEvWaW9w" entityName="IA position: fibonacci.FibonacciServlet.doGet() from 39 to 39" predecessor_AbstractAction="_e9i9gCPbEeWfF6sEvWaW9w" successor_AbstractAction="_e9jkkSPbEeWfF6sEvWaW9w">
+        <resourceDemand_Action>
+          <specification_ParametericResourceDemand specification="0"/>
+          <requiredResource_ParametricResourceDemand href="pathmap://PCM_MODELS/Palladio.resourcetype#_oro4gG3fEdy4YaaT-RYrLQ"/>
+        </resourceDemand_Action>
+      </steps_Behaviour>
+      <steps_Behaviour xsi:type="seff:InternalAction" id="_e9jkkSPbEeWfF6sEvWaW9w" entityName="IA position: fibonacci.FibonacciServlet.doGet() from 41 to 41" predecessor_AbstractAction="_e9jkkCPbEeWfF6sEvWaW9w" successor_AbstractAction="_e9cP0CPbEeWfF6sEvWaW9w">
+        <resourceDemand_Action>
+          <specification_ParametericResourceDemand specification="0"/>
+          <requiredResource_ParametricResourceDemand href="pathmap://PCM_MODELS/Palladio.resourcetype#_oro4gG3fEdy4YaaT-RYrLQ"/>
+        </resourceDemand_Action>
+      </steps_Behaviour>
+      <steps_Behaviour xsi:type="seff:StopAction" id="_e9cP0CPbEeWfF6sEvWaW9w" predecessor_AbstractAction="_e9jkkSPbEeWfF6sEvWaW9w"/>
+    </serviceEffectSpecifications__BasicComponent>
+  </components__Repository>
+  <interfaces__Repository xsi:type="repository:OperationInterface" id="_e8nJYCPbEeWfF6sEvWaW9w" entityName="Ifibonacci.FibonacciServlet">
+    <signatures__OperationInterface id="_e8o-kCPbEeWfF6sEvWaW9w" entityName="doGet">
+      <parameters__OperationSignature dataType__Parameter="_e8sB4CPbEeWfF6sEvWaW9w" parameterName="req"/>
+      <parameters__OperationSignature dataType__Parameter="_e8so8CPbEeWfF6sEvWaW9w" parameterName="res"/>
+    </signatures__OperationInterface>
+  </interfaces__Repository>
+  <dataTypes__Repository xsi:type="repository:CompositeDataType" id="_e8sB4CPbEeWfF6sEvWaW9w" entityName="HttpServletRequest"/>
+  <dataTypes__Repository xsi:type="repository:CompositeDataType" id="_e8so8CPbEeWfF6sEvWaW9w" entityName="HttpServletResponse"/>
+</repository:Repository>

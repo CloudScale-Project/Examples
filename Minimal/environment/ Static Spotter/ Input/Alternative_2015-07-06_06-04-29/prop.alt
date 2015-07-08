@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment/>
+<entry key="name">Fibonacci</entry>
+<entry key="modified">1436198670044</entry>
+<entry key="eu.cloudscaleproject.env.toolchain.ToolchainUtils.path_repository">internal_architecture_model.repository</entry>
+<entry key="eu.cloudscaleproject.env.toolchain.ToolchainUtils.path_system">internal_architecture_model.system</entry>
+<entry key="created">1436198669598</entry>
+<entry key="path_sourcedecorator">internal_architecture_model.sourcecodedecorator</entry>
+</properties>

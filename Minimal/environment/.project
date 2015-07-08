@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>Minimal-Environment</name>
+	<name>Minimal-Example</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -8,6 +8,5 @@
 	</buildSpec>
 	<natures>
 		<nature>eu.cloudscaleproject.env.projectnature</nature>
-		<nature>eu.cloudscaleproject.env.exampleprojectnature</nature>
 	</natures>
 </projectDescription>
