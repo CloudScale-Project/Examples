@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="ASCII"?>
+<ExperimentAutomation.Experiments:ExperimentRepository xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ExperimentAutomation.Experiments="http://palladiosimulator.org/ExperimentAutomation/Experiments/1.0" xmlns:ExperimentAutomation.Experiments.AbstractSimulation="http://palladiosimulator.org/ExperimentAutomation/AbstractSimulation/1.0" xmlns:simulizartooladapter="http://palladiosimulator.org/ExperimentAutomation/ToolAdapter/SimuLizar/1.0">
+  <experiments id="2a8c21f9-86a2-4fbb-8d5d-2774c14dfe31" name="CloudScale experiments model" description="Alternative experiment" repetitions="1">
+    <toolConfiguration xsi:type="simulizartooladapter:SimuLizarConfiguration" name="SimuLizar default configuration">
+      <datasource xsi:type="ExperimentAutomation.Experiments.AbstractSimulation:FileDatasource" location="/home/vito/github/Cloudscale/Examples/Minimal/environment/ Analyser/Results/Result_2015-07-14_06-06-41"/>
+    </toolConfiguration>
+    <stopConditions xsi:type="ExperimentAutomation.Experiments.AbstractSimulation:MeasurementCountStopCondition" measurementCount="100"/>
+    <stopConditions xsi:type="ExperimentAutomation.Experiments.AbstractSimulation:SimTimeStopCondition" simulationTime="-1"/>
+    <experimentDesign xsi:type="ExperimentAutomation.Experiments:FullFactorialDesign"/>
+    <responseMeasurement xsi:type="ExperimentAutomation.Experiments:SimulationDurationMeasurement"/>
+    <initialModel>
+      <usageModel href="../../%20Input/Alternative_2015-07-06_03-22-55/pcm.usagemodel#/"/>
+      <allocation href="../../%20Input/Alternative_2015-07-06_03-22-55/pcm.allocation#CSMGen_"/>
+      <middlewareRepository href="pathmap://PCM_MODELS/Glassfish.repository#_yQk9oIX1EdyWta7nHuXiHQ"/>
+      <eventMiddleWareRepository href="pathmap://PCM_MODELS/default_event_middleware.repository#_Onc7cMALEd-LKvNtxXAQbQ"/>
+      <monitorRepository href="analyser.monitorrepository#_dl-HcCo6EeWIKuO9Qnv9KQ"/>
+      <usageEvolution href="../../%20Input/Alternative_2015-07-06_03-22-55/models/pcm.usageevolution#_Dj2-gCo8EeWIKuO9Qnv9KQ"/>
+    </initialModel>
+  </experiments>
+</ExperimentAutomation.Experiments:ExperimentRepository>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<measurementEnvironment xmlns="org.spotter.shared.environment.model">
+    <workloadAdapter>
+        <extensionName>workload.satellite.adapter.customized</extensionName>
+        <config key="org.spotter.satellite.adapter.name" value="Customized Workload Satellite Adapter"/>
+        <config key="org.spotter.workload.simple.userScriptClassName" value=""/>
+        <config key="org.spotter.workload.simple.userScriptPath" value=""/>
+    </workloadAdapter>
+</measurementEnvironment>

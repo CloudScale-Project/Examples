@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="ASCII"?>
-<org.palladiosimulator.edp2.models:MeasuringPointRepository xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.palladiosimulator.edp2.models="http://palladiosimulator.org/EDP2/MeasuringPoint/1.0" xmlns:pcmmeasuringpoint="http://palladiosimulator.org/PCM/MeasuringPoint/1.0" id="_K4cW0CPjEeW6B8TL0HkbtA">
-  <measuringPoints xsi:type="pcmmeasuringpoint:UsageScenarioMeasuringPoint" stringRepresentation="Usage Scenario: DefaultUsageScenario" resourceURIRepresentation="platform:/resource/Minimal-Example/%20Analyser/%20Input/Alternative_2015-07-06_03-22-55/pcm.usagemodel#CSMGen__2SIPkCPhEeW6B8TL0HkbtAclosedWorkload_csm2usage">
-    <usageScenario href="../../%20Input/Alternative_2015-07-06_03-22-55/pcm.usagemodel#CSMGen__2SIPkCPhEeW6B8TL0HkbtAclosedWorkload_csm2usage"/>
-  </measuringPoints>
-</org.palladiosimulator.edp2.models:MeasuringPointRepository>
