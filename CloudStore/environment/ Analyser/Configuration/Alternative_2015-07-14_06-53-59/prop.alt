@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment/>
+<entry key="name">CloudStore Capacity</entry>
+<entry key="resourceType">CAPACITY</entry>
+<entry key="eu.cloudscaleproject.env.toolchain.ToolchainUtils.path_limbo_model">OneYearTrend.dlim</entry>
+<entry key="input_alternative">../../ Input/Alternative_2015-07-14_06-47-57</entry>
+<entry key="eu.cloudscaleproject.env.toolchain.ToolchainUtils.path_pcmmeasuringpoint">CloudStore.measuringpoint</entry>
+<entry key="eu.cloudscaleproject.env.toolchain.ToolchainUtils.path_pms">BrowsingMix.monitorrepository</entry>
+<entry key="modified">1436894595204</entry>
+<entry key="eu.cloudscaleproject.env.toolchain.ToolchainUtils.path_experiments">BrowsingMixCapacity.experiments</entry>
+<entry key="eu.cloudscaleproject.env.toolchain.ToolchainUtils.path_slo">BrowsingMix.slo</entry>
+</properties>

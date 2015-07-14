@@ -3,12 +3,13 @@
 <properties>
 <comment/>
 <entry key="name">CloudStore</entry>
+<entry key="input_alternative">../../ Input/Alternative_2015-05-22_10-42-30</entry>
 <entry key="created">1427282223802</entry>
 <entry key="catalog">catalog.pcs</entry>
 <entry key="extractor_result">CloudStore [12:25:06]</entry>
 <entry key="engines_ecore">catalog.pcs.ecore</entry>
 <entry key="input">../../ Input/Alternative_2015-05-22_10-42-30</entry>
-<entry key="modified">1432327364089</entry>
+<entry key="modified">1436893753115</entry>
 <entry key="last_result">../../Results/Alternative_2015-05-22_10-42-43</entry>
 <entry key="last_run">1432327364083</entry>
 </properties>
