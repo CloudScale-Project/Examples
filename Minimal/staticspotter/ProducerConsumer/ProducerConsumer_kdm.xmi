@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="ASCII"?>
+<kdm:Segment xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:kdm="http://www.eclipse.org/MoDisco/kdm/kdm" xmlns:source="http://www.eclipse.org/MoDisco/kdm/source">
+  <model xsi:type="source:InventoryModel" name="ProducerConsumer">
+    <inventoryElement xsi:type="source:Project" name="ProducerConsumer">
+      <inventoryElement xsi:type="source:Configuration" name=".classpath" path="/Users/Jinying/Downloads/ProducerConsumer/.classpath"/>
+      <inventoryElement xsi:type="source:SourceFile" name=".DS_Store" path="/Users/Jinying/Downloads/ProducerConsumer/.DS_Store"/>
+      <inventoryElement xsi:type="source:Configuration" name=".project" path="/Users/Jinying/Downloads/ProducerConsumer/.project"/>
+      <inventoryElement xsi:type="source:Directory" name=".settings" path="/Users/Jinying/Downloads/ProducerConsumer/.settings">
+        <inventoryElement xsi:type="source:Configuration" name="org.eclipse.jdt.core.prefs" path="/Users/Jinying/Downloads/ProducerConsumer/.settings/org.eclipse.jdt.core.prefs"/>
+      </inventoryElement>
+      <inventoryElement xsi:type="source:Directory" name="bin" path="/Users/Jinying/Downloads/ProducerConsumer/bin">
+        <inventoryElement xsi:type="source:BinaryFile" name="Consumer.class" path="/Users/Jinying/Downloads/ProducerConsumer/bin/Consumer.class"/>
+        <inventoryElement xsi:type="source:BinaryFile" name="IConsumer.class" path="/Users/Jinying/Downloads/ProducerConsumer/bin/IConsumer.class"/>
+        <inventoryElement xsi:type="source:BinaryFile" name="IProducer.class" path="/Users/Jinying/Downloads/ProducerConsumer/bin/IProducer.class"/>
+        <inventoryElement xsi:type="source:BinaryFile" name="Prod_Cons.class" path="/Users/Jinying/Downloads/ProducerConsumer/bin/Prod_Cons.class"/>
+        <inventoryElement xsi:type="source:BinaryFile" name="Producer.class" path="/Users/Jinying/Downloads/ProducerConsumer/bin/Producer.class"/>
+      </inventoryElement>
+      <inventoryElement xsi:type="source:SourceFile" name="ProducerConsumer_java.xmi" path="/Users/Jinying/Downloads/ProducerConsumer/ProducerConsumer_java.xmi"/>
+      <inventoryElement xsi:type="source:Directory" name="src" path="/Users/Jinying/Downloads/ProducerConsumer/src">
+        <inventoryElement xsi:type="source:SourceFile" name="Consumer.java" path="/Users/Jinying/Downloads/ProducerConsumer/src/Consumer.java"/>
+        <inventoryElement xsi:type="source:SourceFile" name="IConsumer.java" path="/Users/Jinying/Downloads/ProducerConsumer/src/IConsumer.java"/>
+        <inventoryElement xsi:type="source:SourceFile" name="IProducer.java" path="/Users/Jinying/Downloads/ProducerConsumer/src/IProducer.java"/>
+        <inventoryElement xsi:type="source:SourceFile" name="Prod_Cons.java" path="/Users/Jinying/Downloads/ProducerConsumer/src/Prod_Cons.java"/>
+        <inventoryElement xsi:type="source:SourceFile" name="Producer.java" path="/Users/Jinying/Downloads/ProducerConsumer/src/Producer.java"/>
+      </inventoryElement>
+    </inventoryElement>
+  </model>
+</kdm:Segment>
