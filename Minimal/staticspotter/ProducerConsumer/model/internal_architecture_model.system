@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="ASCII"?>
+<system:System xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:composition="http://sdq.ipd.uka.de/PalladioComponentModel/Core/Composition/5.0" xmlns:repository="http://sdq.ipd.uka.de/PalladioComponentModel/Repository/5.0" xmlns:system="http://sdq.ipd.uka.de/PalladioComponentModel/System/5.0" id="_oFxZcBvcEeWVAPkVxcn87g" entityName="SoMoX Reverse Engineered System">
+  <assemblyContexts__ComposedStructure id="_oF-NwBvcEeWVAPkVxcn87g" entityName=" &lt;PC No. 3 (default package).Consumer (default package).Prod_Cons (default package).Producer>">
+    <encapsulatedComponent__AssemblyContext xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_oF8YkBvcEeWVAPkVxcn87g"/>
+  </assemblyContexts__ComposedStructure>
+  <assemblyContexts__ComposedStructure id="_oF-NxxvcEeWVAPkVxcn87g" entityName="SoMoX Dummy Component Instance">
+    <encapsulatedComponent__AssemblyContext xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_oF-NxhvcEeWVAPkVxcn87g"/>
+  </assemblyContexts__ComposedStructure>
+  <connectors__ComposedStructure xsi:type="composition:ProvidedDelegationConnector" id="_oF-NwxvcEeWVAPkVxcn87g" entityName="(default package).IConsumer" outerProvidedRole_ProvidedDelegationConnector="_oF-NwhvcEeWVAPkVxcn87g" assemblyContext_ProvidedDelegationConnector="_oF-NwBvcEeWVAPkVxcn87g">
+    <innerProvidedRole_ProvidedDelegationConnector href="internal_architecture_model.repository#_oF8_oBvcEeWVAPkVxcn87g"/>
+  </connectors__ComposedStructure>
+  <connectors__ComposedStructure xsi:type="composition:ProvidedDelegationConnector" id="_oF-NxRvcEeWVAPkVxcn87g" entityName="(default package).IProducer" outerProvidedRole_ProvidedDelegationConnector="_oF-NxBvcEeWVAPkVxcn87g" assemblyContext_ProvidedDelegationConnector="_oF-NwBvcEeWVAPkVxcn87g">
+    <innerProvidedRole_ProvidedDelegationConnector href="internal_architecture_model.repository#_oF8_oxvcEeWVAPkVxcn87g"/>
+  </connectors__ComposedStructure>
+  <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="_oF-NwhvcEeWVAPkVxcn87g" entityName="IConsumer 0 (prov)(sys)">
+    <providedInterface__OperationProvidedRole href="internal_architecture_model.repository#_oFyAgBvcEeWVAPkVxcn87g"/>
+  </providedRoles_InterfaceProvidingEntity>
+  <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="_oF-NxBvcEeWVAPkVxcn87g" entityName="IProducer 1 (prov)(sys)">
+    <providedInterface__OperationProvidedRole href="internal_architecture_model.repository#_oFynkxvcEeWVAPkVxcn87g"/>
+  </providedRoles_InterfaceProvidingEntity>
+</system:System>
