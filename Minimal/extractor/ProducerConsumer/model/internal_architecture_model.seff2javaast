@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ASCII"?>
+<org.somox:SEFF2JavaAST xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.somox="http://www.somox.org/seff2method/1.0" xmlns:seff="http://sdq.ipd.uka.de/PalladioComponentModel/SEFF/5.0">
+  <seff2MethodMappings>
+    <blockstatement href="../ProducerConsumer_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.2/@body"/>
+    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_oF8_oRvcEeWVAPkVxcn87g"/>
+  </seff2MethodMappings>
+  <seff2MethodMappings>
+    <blockstatement href="../ProducerConsumer_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.3/@body"/>
+    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_oF8_ohvcEeWVAPkVxcn87g"/>
+  </seff2MethodMappings>
+  <seff2MethodMappings>
+    <blockstatement href="../ProducerConsumer_java.xmi#//@ownedElements.0/@ownedElements.3/@bodyDeclarations.2/@body"/>
+    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_oF8_pBvcEeWVAPkVxcn87g"/>
+  </seff2MethodMappings>
+  <seff2MethodMappings>
+    <blockstatement href="../ProducerConsumer_java.xmi#//@ownedElements.0/@ownedElements.3/@bodyDeclarations.3/@body"/>
+    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_oF8_pRvcEeWVAPkVxcn87g"/>
+  </seff2MethodMappings>
+</org.somox:SEFF2JavaAST>

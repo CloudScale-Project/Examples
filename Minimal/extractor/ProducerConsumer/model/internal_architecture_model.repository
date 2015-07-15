@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="ASCII"?>
+<repository:Repository xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:repository="http://sdq.ipd.uka.de/PalladioComponentModel/Repository/5.0" xmlns:seff="http://sdq.ipd.uka.de/PalladioComponentModel/SEFF/5.0" id="_oFxZchvcEeWVAPkVxcn87g">
+  <components__Repository xsi:type="repository:BasicComponent" id="_oF8YkBvcEeWVAPkVxcn87g" entityName=" &lt;PC No. 3 (default package).Consumer (default package).Prod_Cons (default package).Producer>">
+    <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="_oF8_oBvcEeWVAPkVxcn87g" entityName="IConsumer 3 (prov)" providedInterface__OperationProvidedRole="_oFyAgBvcEeWVAPkVxcn87g"/>
+    <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="_oF8_oxvcEeWVAPkVxcn87g" entityName="IProducer 4 (prov)" providedInterface__OperationProvidedRole="_oFynkxvcEeWVAPkVxcn87g"/>
+    <serviceEffectSpecifications__BasicComponent xsi:type="seff:ResourceDemandingSEFF" id="_oF8_oRvcEeWVAPkVxcn87g" describedService__SEFF="_oFyAgRvcEeWVAPkVxcn87g">
+      <steps_Behaviour xsi:type="seff:StartAction" id="_oF-00BvcEeWVAPkVxcn87g" successor_AbstractAction="_oF-00xvcEeWVAPkVxcn87g"/>
+      <steps_Behaviour xsi:type="seff:AcquireAction" id="_oF-00xvcEeWVAPkVxcn87g" entityName="position: (default package).Consumer.consumeItem() from 12 to 16" predecessor_AbstractAction="_oF-00BvcEeWVAPkVxcn87g" successor_AbstractAction="_oF-01BvcEeWVAPkVxcn87g" passiveresource_AcquireAction="_oF-00hvcEeWVAPkVxcn87g"/>
+      <steps_Behaviour xsi:type="seff:InternalAction" id="_oF-01BvcEeWVAPkVxcn87g" entityName="IA position: (default package).Consumer.consumeItem() from 13 to 15" predecessor_AbstractAction="_oF-00xvcEeWVAPkVxcn87g" successor_AbstractAction="_oF-01RvcEeWVAPkVxcn87g">
+        <resourceDemand_Action>
+          <specification_ParametericResourceDemand specification="0"/>
+          <requiredResource_ParametricResourceDemand href="../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/Palladio.resourcetype#_oro4gG3fEdy4YaaT-RYrLQ"/>
+        </resourceDemand_Action>
+      </steps_Behaviour>
+      <steps_Behaviour xsi:type="seff:ReleaseAction" id="_oF-01RvcEeWVAPkVxcn87g" entityName="position: (default package).Consumer.consumeItem() from 12 to 16" predecessor_AbstractAction="_oF-01BvcEeWVAPkVxcn87g" successor_AbstractAction="_oF-00RvcEeWVAPkVxcn87g" passiveResource_ReleaseAction="_oF-00hvcEeWVAPkVxcn87g"/>
+      <steps_Behaviour xsi:type="seff:StopAction" id="_oF-00RvcEeWVAPkVxcn87g" predecessor_AbstractAction="_oF-01RvcEeWVAPkVxcn87g"/>
+    </serviceEffectSpecifications__BasicComponent>
+    <serviceEffectSpecifications__BasicComponent xsi:type="seff:ResourceDemandingSEFF" id="_oF8_ohvcEeWVAPkVxcn87g" describedService__SEFF="_oFyAghvcEeWVAPkVxcn87g">
+      <steps_Behaviour xsi:type="seff:StartAction" id="_oF-01hvcEeWVAPkVxcn87g" successor_AbstractAction="_oF-02RvcEeWVAPkVxcn87g"/>
+      <steps_Behaviour xsi:type="seff:AcquireAction" id="_oF-02RvcEeWVAPkVxcn87g" entityName="position: (default package).Consumer.canConsume() from 21 to 26" predecessor_AbstractAction="_oF-01hvcEeWVAPkVxcn87g" successor_AbstractAction="_oF-02hvcEeWVAPkVxcn87g" passiveresource_AcquireAction="_oF-02BvcEeWVAPkVxcn87g"/>
+      <steps_Behaviour xsi:type="seff:InternalAction" id="_oF-02hvcEeWVAPkVxcn87g" entityName="IA position: (default package).Consumer.canConsume() from 22 to 24" predecessor_AbstractAction="_oF-02RvcEeWVAPkVxcn87g" successor_AbstractAction="_oF-02xvcEeWVAPkVxcn87g">
+        <resourceDemand_Action>
+          <specification_ParametericResourceDemand specification="0"/>
+          <requiredResource_ParametricResourceDemand href="../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/Palladio.resourcetype#_oro4gG3fEdy4YaaT-RYrLQ"/>
+        </resourceDemand_Action>
+      </steps_Behaviour>
+      <steps_Behaviour xsi:type="seff:ReleaseAction" id="_oF-02xvcEeWVAPkVxcn87g" entityName="position: (default package).Consumer.canConsume() from 21 to 26" predecessor_AbstractAction="_oF-02hvcEeWVAPkVxcn87g" successor_AbstractAction="_oF-01xvcEeWVAPkVxcn87g" passiveResource_ReleaseAction="_oF-02BvcEeWVAPkVxcn87g"/>
+      <steps_Behaviour xsi:type="seff:StopAction" id="_oF-01xvcEeWVAPkVxcn87g" predecessor_AbstractAction="_oF-02xvcEeWVAPkVxcn87g"/>
+    </serviceEffectSpecifications__BasicComponent>
+    <serviceEffectSpecifications__BasicComponent xsi:type="seff:ResourceDemandingSEFF" id="_oF8_pBvcEeWVAPkVxcn87g" describedService__SEFF="_oFynlBvcEeWVAPkVxcn87g">
+      <steps_Behaviour xsi:type="seff:StartAction" id="_oF_b4BvcEeWVAPkVxcn87g" successor_AbstractAction="_oF_b4xvcEeWVAPkVxcn87g"/>
+      <steps_Behaviour xsi:type="seff:AcquireAction" id="_oF_b4xvcEeWVAPkVxcn87g" entityName="position: (default package).Producer.produceItem() from 12 to 16" predecessor_AbstractAction="_oF_b4BvcEeWVAPkVxcn87g" successor_AbstractAction="_oF_b5BvcEeWVAPkVxcn87g" passiveresource_AcquireAction="_oF_b4hvcEeWVAPkVxcn87g"/>
+      <steps_Behaviour xsi:type="seff:InternalAction" id="_oF_b5BvcEeWVAPkVxcn87g" entityName="IA position: (default package).Producer.produceItem() from 13 to 15" predecessor_AbstractAction="_oF_b4xvcEeWVAPkVxcn87g" successor_AbstractAction="_oF_b5RvcEeWVAPkVxcn87g">
+        <resourceDemand_Action>
+          <specification_ParametericResourceDemand specification="0"/>
+          <requiredResource_ParametricResourceDemand href="../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/Palladio.resourcetype#_oro4gG3fEdy4YaaT-RYrLQ"/>
+        </resourceDemand_Action>
+      </steps_Behaviour>
+      <steps_Behaviour xsi:type="seff:ReleaseAction" id="_oF_b5RvcEeWVAPkVxcn87g" entityName="position: (default package).Producer.produceItem() from 12 to 16" predecessor_AbstractAction="_oF_b5BvcEeWVAPkVxcn87g" successor_AbstractAction="_oF_b4RvcEeWVAPkVxcn87g" passiveResource_ReleaseAction="_oF_b4hvcEeWVAPkVxcn87g"/>
+      <steps_Behaviour xsi:type="seff:StopAction" id="_oF_b4RvcEeWVAPkVxcn87g" predecessor_AbstractAction="_oF_b5RvcEeWVAPkVxcn87g"/>
+    </serviceEffectSpecifications__BasicComponent>
+    <serviceEffectSpecifications__BasicComponent xsi:type="seff:ResourceDemandingSEFF" id="_oF8_pRvcEeWVAPkVxcn87g" describedService__SEFF="_oFynlRvcEeWVAPkVxcn87g">
+      <steps_Behaviour xsi:type="seff:StartAction" id="_oF_b5hvcEeWVAPkVxcn87g" successor_AbstractAction="_oF_b6RvcEeWVAPkVxcn87g"/>
+      <steps_Behaviour xsi:type="seff:AcquireAction" id="_oF_b6RvcEeWVAPkVxcn87g" entityName="position: (default package).Producer.canProduce() from 21 to 26" predecessor_AbstractAction="_oF_b5hvcEeWVAPkVxcn87g" successor_AbstractAction="_oF_b6hvcEeWVAPkVxcn87g" passiveresource_AcquireAction="_oF_b6BvcEeWVAPkVxcn87g"/>
+      <steps_Behaviour xsi:type="seff:InternalAction" id="_oF_b6hvcEeWVAPkVxcn87g" entityName="IA position: (default package).Producer.canProduce() from 22 to 24" predecessor_AbstractAction="_oF_b6RvcEeWVAPkVxcn87g" successor_AbstractAction="_oF_b6xvcEeWVAPkVxcn87g">
+        <resourceDemand_Action>
+          <specification_ParametericResourceDemand specification="0"/>
+          <requiredResource_ParametricResourceDemand href="../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/Palladio.resourcetype#_oro4gG3fEdy4YaaT-RYrLQ"/>
+        </resourceDemand_Action>
+      </steps_Behaviour>
+      <steps_Behaviour xsi:type="seff:ReleaseAction" id="_oF_b6xvcEeWVAPkVxcn87g" entityName="position: (default package).Producer.canProduce() from 21 to 26" predecessor_AbstractAction="_oF_b6hvcEeWVAPkVxcn87g" successor_AbstractAction="_oF_b5xvcEeWVAPkVxcn87g" passiveResource_ReleaseAction="_oF_b6BvcEeWVAPkVxcn87g"/>
+      <steps_Behaviour xsi:type="seff:StopAction" id="_oF_b5xvcEeWVAPkVxcn87g" predecessor_AbstractAction="_oF_b6xvcEeWVAPkVxcn87g"/>
+    </serviceEffectSpecifications__BasicComponent>
+    <passiveResource_BasicComponent id="_oF-00hvcEeWVAPkVxcn87g" entityName="position: (default package).Consumer.consumeItem() from 12 to 16">
+      <capacity_PassiveResource specification="1"/>
+    </passiveResource_BasicComponent>
+    <passiveResource_BasicComponent id="_oF-02BvcEeWVAPkVxcn87g" entityName="position: (default package).Consumer.canConsume() from 21 to 26">
+      <capacity_PassiveResource specification="1"/>
+    </passiveResource_BasicComponent>
+    <passiveResource_BasicComponent id="_oF_b4hvcEeWVAPkVxcn87g" entityName="position: (default package).Producer.produceItem() from 12 to 16">
+      <capacity_PassiveResource specification="1"/>
+    </passiveResource_BasicComponent>
+    <passiveResource_BasicComponent id="_oF_b6BvcEeWVAPkVxcn87g" entityName="position: (default package).Producer.canProduce() from 21 to 26">
+      <capacity_PassiveResource specification="1"/>
+    </passiveResource_BasicComponent>
+  </components__Repository>
+  <components__Repository xsi:type="repository:BasicComponent" id="_oF-NxhvcEeWVAPkVxcn87g" entityName="SoMoX System-Level Dummy Component"/>
+  <interfaces__Repository xsi:type="repository:OperationInterface" id="_oFyAgBvcEeWVAPkVxcn87g" entityName="(default package).IConsumer">
+    <signatures__OperationInterface id="_oFyAgRvcEeWVAPkVxcn87g" entityName="consumeItem"/>
+    <signatures__OperationInterface id="_oFyAghvcEeWVAPkVxcn87g" entityName="canConsume">
+      <returnType__OperationSignature xsi:type="repository:PrimitiveDataType" href="../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.2"/>
+    </signatures__OperationInterface>
+  </interfaces__Repository>
+  <interfaces__Repository xsi:type="repository:OperationInterface" id="_oFyAhxvcEeWVAPkVxcn87g" entityName="I(default package).Prod_Cons">
+    <signatures__OperationInterface id="_oFyAiBvcEeWVAPkVxcn87g" entityName="main">
+      <parameters__OperationSignature dataType__Parameter="_oFyAiRvcEeWVAPkVxcn87g" parameterName="args"/>
+    </signatures__OperationInterface>
+  </interfaces__Repository>
+  <interfaces__Repository xsi:type="repository:OperationInterface" id="_oFynkxvcEeWVAPkVxcn87g" entityName="(default package).IProducer">
+    <signatures__OperationInterface id="_oFynlBvcEeWVAPkVxcn87g" entityName="produceItem"/>
+    <signatures__OperationInterface id="_oFynlRvcEeWVAPkVxcn87g" entityName="canProduce">
+      <returnType__OperationSignature xsi:type="repository:PrimitiveDataType" href="../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.2"/>
+    </signatures__OperationInterface>
+  </interfaces__Repository>
+  <dataTypes__Repository xsi:type="repository:CollectionDataType" id="_oFyAiRvcEeWVAPkVxcn87g" entityName="java.lang.String[]">
+    <innerType_CollectionDataType xsi:type="repository:PrimitiveDataType" href="../../../plugin/de.uka.ipd.sdq.pcm.resources/defaultModels/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
+  </dataTypes__Repository>
+</repository:Repository>
