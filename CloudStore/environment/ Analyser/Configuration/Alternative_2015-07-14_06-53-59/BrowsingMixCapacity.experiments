@@ -3,7 +3,7 @@
   <experiments id="CloudStoreBrowsingMix:NoElasticity" name="CloudStore BrowsingMix: No Elasticity" description="Measures elasticity metrics of CloudStore's BrowsingMix (but database does not scale vertically)" repetitions="1">
     <variations minValue="1.0" maxValue="100.0" maxVariations="10" variedObjectId="_ieXlgKDrEeKjDcfkNgs1Gg" name="User Capacity">
       <type xsi:type="ExperimentAutomation.Variation:ValueVariation" href="pcm.variation#_zUZqID5zEeCEPJs72ZSOBg"/>
-      <valueProvider xsi:type="ExperimentAutomation.Experiments:NestedIntervalsLongValueProvider" minValue="1" maxValue="100"/>
+      <valueProvider xsi:type="ExperimentAutomation.Experiments:NestedIntervalsLongValueProvider" minValue="10" maxValue="100"/>
     </variations>
     <toolConfiguration xsi:type="simulizartooladapter:SimuLizarConfiguration" name="SimuLizar default configuration">
       <stopConditions xsi:type="ExperimentAutomation.Experiments.AbstractSimulation:MeasurementCountStopCondition" measurementCount="-1"/>
