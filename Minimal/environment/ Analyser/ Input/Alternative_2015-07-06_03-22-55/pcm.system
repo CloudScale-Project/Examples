@@ -1,12 +1,17 @@
 <?xml version="1.0" encoding="ASCII"?>
-<system:System xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:composition="http://palladiosimulator.org/PalladioComponentModel/Core/Composition/5.1" xmlns:repository="http://palladiosimulator.org/PalladioComponentModel/Repository/5.1" xmlns:system="http://palladiosimulator.org/PalladioComponentModel/System/5.1" id="CSMGen_" entityName="System model">
-  <assemblyContexts__ComposedStructure id="CSMGen__xwOxtyPhEeW6B8TL0HkbtA_opInterfaceContainer2assemblyContext" entityName="Ass-SoMoX Reverse Engineered System">
-    <encapsulatedComponent__AssemblyContext xsi:type="repository:CompositeComponent" href="pcm.repository#CSMGen__xwOxtyPhEeW6B8TL0HkbtA_opInterfaceContainer2CompositeComponent"/>
-  </assemblyContexts__ComposedStructure>
-  <connectors__ComposedStructure xsi:type="composition:ProvidedDelegationConnector" id="CSMGen__e8nJYCPbEeWfF6sEvWaW9w_providedRole2OpInterface_OpInterface2systemProvidedDelegationConnector" outerProvidedRole_ProvidedDelegationConnector="CSMGen_System_e8nJYCPbEeWfF6sEvWaW9w_providedRole2OpInterface_OpIntrface2ProvidedRole" assemblyContext_ProvidedDelegationConnector="CSMGen__xwOxtyPhEeW6B8TL0HkbtA_opInterfaceContainer2assemblyContext">
-    <innerProvidedRole_ProvidedDelegationConnector href="pcm.repository#CSMGen_SystemInner_e8nJYCPbEeWfF6sEvWaW9w_providedRole2OpInterface_OpIntrface2ProvidedRole"/>
-  </connectors__ComposedStructure>
-  <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="CSMGen_System_e8nJYCPbEeWfF6sEvWaW9w_providedRole2OpInterface_OpIntrface2ProvidedRole" entityName="I_SoMoX Reverse Engineered System">
-    <providedInterface__OperationProvidedRole href="../../../%20Extractor/Results/Alternative_2015-07-06_02-35-26/somox/internal_architecture_model.repository#_e8nJYCPbEeWfF6sEvWaW9w"/>
-  </providedRoles_InterfaceProvidingEntity>
-</system:System>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:composition="http://palladiosimulator.org/PalladioComponentModel/Core/Composition/5.1" xmlns:emfprofileapplication="http://www.modelversioning.org/emfprofile/application/1.1" xmlns:repository="http://palladiosimulator.org/PalladioComponentModel/Repository/5.1" xmlns:system="http://palladiosimulator.org/PalladioComponentModel/System/5.1">
+  <system:System id="CSMGen_" entityName="System model">
+    <assemblyContexts__ComposedStructure id="CSMGen__xwOxtyPhEeW6B8TL0HkbtA_opInterfaceContainer2assemblyContext" entityName="Ass-SoMoX Reverse Engineered System">
+      <encapsulatedComponent__AssemblyContext xsi:type="repository:CompositeComponent" href="pcm.repository#CSMGen__xwOxtyPhEeW6B8TL0HkbtA_opInterfaceContainer2CompositeComponent"/>
+    </assemblyContexts__ComposedStructure>
+    <connectors__ComposedStructure xsi:type="composition:ProvidedDelegationConnector" id="CSMGen__e8nJYCPbEeWfF6sEvWaW9w_providedRole2OpInterface_OpInterface2systemProvidedDelegationConnector" outerProvidedRole_ProvidedDelegationConnector="CSMGen_System_e8nJYCPbEeWfF6sEvWaW9w_providedRole2OpInterface_OpIntrface2ProvidedRole" assemblyContext_ProvidedDelegationConnector="CSMGen__xwOxtyPhEeW6B8TL0HkbtA_opInterfaceContainer2assemblyContext">
+      <innerProvidedRole_ProvidedDelegationConnector href="pcm.repository#CSMGen_SystemInner_e8nJYCPbEeWfF6sEvWaW9w_providedRole2OpInterface_OpIntrface2ProvidedRole"/>
+    </connectors__ComposedStructure>
+    <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="CSMGen_System_e8nJYCPbEeWfF6sEvWaW9w_providedRole2OpInterface_OpIntrface2ProvidedRole" entityName="I_SoMoX Reverse Engineered System">
+      <providedInterface__OperationProvidedRole href="../../../%20Extractor/Results/Alternative_2015-07-06_02-35-26/somox/internal_architecture_model.repository#_e8nJYCPbEeWfF6sEvWaW9w"/>
+    </providedRoles_InterfaceProvidingEntity>
+  </system:System>
+  <emfprofileapplication:ProfileApplication>
+    <importedProfiles nsURI="ThreeLayerProfile" location="platform:/plugin/org.scaledl.architecturaltemplates.repositories.cloudscale/profiles/ThreeLayer.emfprofile_diagram"/>
+  </emfprofileapplication:ProfileApplication>
+</xmi:XMI>

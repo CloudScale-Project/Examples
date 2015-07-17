@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ASCII"?>
+<org.palladiosimulator.edp2.models:ExperimentGroup xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:metricspec="http://palladiosimulator.org/MetricSpec/1.0" xmlns:org.palladiosimulator.edp2.models="http://palladiosimulator.org/EDP2/ExperimentData/1.0" xmlns:org.palladiosimulator.edp2.models_1="http://palladiosimulator.org/EDP2/MeasuringPoint/1.0" xmlns:pcmmeasuringpoint="http://palladiosimulator.org/PCM/MeasuringPoint/1.0" id="_KDxoECyIEeWxPaWg5qrOyw" purpose="Capacity measurement [0c81adb0-0618-4a50-bb06-2f14c3771ae1]">
+  <experimentSettings id="_KDyPICyIEeWxPaWg5qrOyw" description="Variation [1] [SimuLizar default configuration]" measuringTypes="_KIvAkCyIEeWxPaWg5qrOyw">
+    <experimentRuns id="_KDyPISyIEeWxPaWg5qrOyw" duration="rO0ABXNyABpqYXZheC5tZWFzdXJlLk1lYXN1cmUkTG9uZwAAAAAAAAABAgACSgAGX3ZhbHVlTAAFX3VuaXR0ABlMamF2YXgvbWVhc3VyZS91bml0L1VuaXQ7eHIAFWphdmF4Lm1lYXN1cmUuTWVhc3VyZRLhH5KGpamaAgAAeHAAAAAAAAAGsXNyABtqYXZheC5tZWFzdXJlLnVuaXQuQmFzZVVuaXQAAAAAAAAAAQIAAUwAB19zeW1ib2x0ABJMamF2YS9sYW5nL1N0cmluZzt4cgAXamF2YXgubWVhc3VyZS51bml0LlVuaXTNyN4WeM1SZwIAAHhwdAABcw==" startTime="2015-07-17T15:31:40.690+0200">
+      <measurement id="_KIvAkSyIEeWxPaWg5qrOyw" measuringType="_KIvAkCyIEeWxPaWg5qrOyw">
+        <measurementRanges endTime="rO0ABXNyABpqYXZheC5tZWFzdXJlLk1lYXN1cmUkTG9uZwAAAAAAAAABAgACSgAGX3ZhbHVlTAAFX3VuaXR0ABlMamF2YXgvbWVhc3VyZS91bml0L1VuaXQ7eHIAFWphdmF4Lm1lYXN1cmUuTWVhc3VyZRLhH5KGpamaAgAAeHAAAAFOnDafw3NyABtqYXZheC5tZWFzdXJlLnVuaXQuQmFzZVVuaXQAAAAAAAAAAQIAAUwAB19zeW1ib2x0ABJMamF2YS9sYW5nL1N0cmluZzt4cgAXamF2YXgubWVhc3VyZS51bml0LlVuaXTNyN4WeM1SZwIAAHhwdAABcw==" startTime="rO0ABXNyABpqYXZheC5tZWFzdXJlLk1lYXN1cmUkTG9uZwAAAAAAAAABAgACSgAGX3ZhbHVlTAAFX3VuaXR0ABlMamF2YXgvbWVhc3VyZS91bml0L1VuaXQ7eHIAFWphdmF4Lm1lYXN1cmUuTWVhc3VyZRLhH5KGpamaAgAAeHAAAAFOnDaZEnNyABtqYXZheC5tZWFzdXJlLnVuaXQuQmFzZVVuaXQAAAAAAAAAAQIAAUwAB19zeW1ib2x0ABJMamF2YS9sYW5nL1N0cmluZzt4cgAXamF2YXgubWVhc3VyZS51bml0LlVuaXTNyN4WeM1SZwIAAHhwdAABcw==">
+          <rawMeasurements id="_KIvnoCyIEeWxPaWg5qrOyw">
+            <dataSeries xsi:type="org.palladiosimulator.edp2.models:DoubleBinaryMeasurements" valuesUuid="_KIwOsCyIEeWxPaWg5qrOyw" storageUnit="ACED00057372001B6A617661782E6D6561737572652E756E69742E42617365556E697400000000000000010200014C00075F73796D626F6C7400124C6A6176612F6C616E672F537472696E673B787200176A617661782E6D6561737572652E756E69742E556E6974CDC8DE1678CD5267020000787074000173"/>
+            <dataSeries xsi:type="org.palladiosimulator.edp2.models:DoubleBinaryMeasurements" valuesUuid="_KIw1wCyIEeWxPaWg5qrOyw" storageUnit="ACED00057372001B6A617661782E6D6561737572652E756E69742E42617365556E697400000000000000010200014C00075F73796D626F6C7400124C6A6176612F6C616E672F537472696E673B787200176A617661782E6D6561737572652E756E69742E556E6974CDC8DE1678CD5267020000787074000173"/>
+          </rawMeasurements>
+        </measurementRanges>
+      </measurement>
+    </experimentRuns>
+  </experimentSettings>
+  <experimentSettings id="_KUbTMCyIEeWxPaWg5qrOyw" description="Variation [100] [SimuLizar default configuration]">
+    <experimentRuns id="_KUbTMSyIEeWxPaWg5qrOyw" duration="rO0ABXNyABpqYXZheC5tZWFzdXJlLk1lYXN1cmUkTG9uZwAAAAAAAAABAgACSgAGX3ZhbHVlTAAFX3VuaXR0ABlMamF2YXgvbWVhc3VyZS91bml0L1VuaXQ7eHIAFWphdmF4Lm1lYXN1cmUuTWVhc3VyZRLhH5KGpamaAgAAeHAAAAAAAAAEQXNyABtqYXZheC5tZWFzdXJlLnVuaXQuQmFzZVVuaXQAAAAAAAAAAQIAAUwAB19zeW1ib2x0ABJMamF2YS9sYW5nL1N0cmluZzt4cgAXamF2YXgubWVhc3VyZS51bml0LlVuaXTNyN4WeM1SZwIAAHhwdAABcw==" startTime="2015-07-17T15:31:42.435+0200">
+      <measurement id="_KUrx4CyIEeWxPaWg5qrOyw" measuringType="_KIvAkCyIEeWxPaWg5qrOyw">
+        <measurementRanges endTime="rO0ABXNyABpqYXZheC5tZWFzdXJlLk1lYXN1cmUkTG9uZwAAAAAAAAABAgACSgAGX3ZhbHVlTAAFX3VuaXR0ABlMamF2YXgvbWVhc3VyZS91bml0L1VuaXQ7eHIAFWphdmF4Lm1lYXN1cmUuTWVhc3VyZRLhH5KGpamaAgAAeHAAAAFOnDakJHNyABtqYXZheC5tZWFzdXJlLnVuaXQuQmFzZVVuaXQAAAAAAAAAAQIAAUwAB19zeW1ib2x0ABJMamF2YS9sYW5nL1N0cmluZzt4cgAXamF2YXgubWVhc3VyZS51bml0LlVuaXTNyN4WeM1SZwIAAHhwdAABcw==" startTime="rO0ABXNyABpqYXZheC5tZWFzdXJlLk1lYXN1cmUkTG9uZwAAAAAAAAABAgACSgAGX3ZhbHVlTAAFX3VuaXR0ABlMamF2YXgvbWVhc3VyZS91bml0L1VuaXQ7eHIAFWphdmF4Lm1lYXN1cmUuTWVhc3VyZRLhH5KGpamaAgAAeHAAAAFOnDaf43NyABtqYXZheC5tZWFzdXJlLnVuaXQuQmFzZVVuaXQAAAAAAAAAAQIAAUwAB19zeW1ib2x0ABJMamF2YS9sYW5nL1N0cmluZzt4cgAXamF2YXgubWVhc3VyZS51bml0LlVuaXTNyN4WeM1SZwIAAHhwdAABcw==">
+          <rawMeasurements id="_KUrx4SyIEeWxPaWg5qrOyw">
+            <dataSeries xsi:type="org.palladiosimulator.edp2.models:DoubleBinaryMeasurements" valuesUuid="_KUrx4iyIEeWxPaWg5qrOyw" storageUnit="ACED00057372001B6A617661782E6D6561737572652E756E69742E42617365556E697400000000000000010200014C00075F73796D626F6C7400124C6A6176612F6C616E672F537472696E673B787200176A617661782E6D6561737572652E756E69742E556E6974CDC8DE1678CD5267020000787074000173"/>
+            <dataSeries xsi:type="org.palladiosimulator.edp2.models:DoubleBinaryMeasurements" valuesUuid="_KUrx4yyIEeWxPaWg5qrOyw" storageUnit="ACED00057372001B6A617661782E6D6561737572652E756E69742E42617365556E697400000000000000010200014C00075F73796D626F6C7400124C6A6176612F6C616E672F537472696E673B787200176A617661782E6D6561737572652E756E69742E556E6974CDC8DE1678CD5267020000787074000173"/>
+          </rawMeasurements>
+        </measurementRanges>
+      </measurement>
+    </experimentRuns>
+  </experimentSettings>
+  <measuringTypes id="_KIvAkCyIEeWxPaWg5qrOyw" experimentSettings="_KDyPICyIEeWxPaWg5qrOyw" measuringPoint="//@measuringPointRepositories.0/@measuringPoints.0">
+    <metric xsi:type="metricspec:MetricSetDescription" href="pathmap://METRIC_SPEC_MODELS/commonMetrics.metricspec#_mZb3MdoLEeO-WvSDaR6unQ"/>
+  </measuringTypes>
+  <measuringTypes id="_Ke8hISyIEeWxPaWg5qrOyw" measuringPoint="//@measuringPointRepositories.1/@measuringPoints.0">
+    <metric xsi:type="metricspec:MetricSetDescription" href="pathmap://METRIC_SPEC_MODELS/commonMetrics.metricspec#_gUGzAR-sEeS5JNmAl33L9g"/>
+  </measuringTypes>
+  <reports id="_Ke8hICyIEeWxPaWg5qrOyw" duration="rO0ABXNyABpqYXZheC5tZWFzdXJlLk1lYXN1cmUkTG9uZwAAAAAAAAABAgACSgAGX3ZhbHVlTAAFX3VuaXR0ABlMamF2YXgvbWVhc3VyZS91bml0L1VuaXQ7eHIAFWphdmF4Lm1lYXN1cmUuTWVhc3VyZRLhH5KGpamaAgAAeHAAAAAAAAAAAnNyABtqYXZheC5tZWFzdXJlLnVuaXQuQmFzZVVuaXQAAAAAAAAAAQIAAUwAB19zeW1ib2x0ABJMamF2YS9sYW5nL1N0cmluZzt4cgAXamF2YXgubWVhc3VyZS51bml0LlVuaXTNyN4WeM1SZwIAAHhwdAABcw==" startTime="2015-07-17T15:31:43.538+0200">
+    <measurement id="_Ke8hIiyIEeWxPaWg5qrOyw" measuringType="_Ke8hISyIEeWxPaWg5qrOyw">
+      <measurementRanges endTime="rO0ABXNyABpqYXZheC5tZWFzdXJlLk1lYXN1cmUkTG9uZwAAAAAAAAABAgACSgAGX3ZhbHVlTAAFX3VuaXR0ABlMamF2YXgvbWVhc3VyZS91bml0L1VuaXQ7eHIAFWphdmF4Lm1lYXN1cmUuTWVhc3VyZRLhH5KGpamaAgAAeHAAAAFOnDakNHNyABtqYXZheC5tZWFzdXJlLnVuaXQuQmFzZVVuaXQAAAAAAAAAAQIAAUwAB19zeW1ib2x0ABJMamF2YS9sYW5nL1N0cmluZzt4cgAXamF2YXgubWVhc3VyZS51bml0LlVuaXTNyN4WeM1SZwIAAHhwdAABcw==" startTime="rO0ABXNyABpqYXZheC5tZWFzdXJlLk1lYXN1cmUkTG9uZwAAAAAAAAABAgACSgAGX3ZhbHVlTAAFX3VuaXR0ABlMamF2YXgvbWVhc3VyZS91bml0L1VuaXQ7eHIAFWphdmF4Lm1lYXN1cmUuTWVhc3VyZRLhH5KGpamaAgAAeHAAAAFOnDakMnNyABtqYXZheC5tZWFzdXJlLnVuaXQuQmFzZVVuaXQAAAAAAAAAAQIAAUwAB19zeW1ib2x0ABJMamF2YS9sYW5nL1N0cmluZzt4cgAXamF2YXgubWVhc3VyZS51bml0LlVuaXTNyN4WeM1SZwIAAHhwdAABcw==">
+        <rawMeasurements id="_Ke9IMCyIEeWxPaWg5qrOyw">
+          <dataSeries xsi:type="org.palladiosimulator.edp2.models:DoubleBinaryMeasurements" valuesUuid="_Ke9IMSyIEeWxPaWg5qrOyw" storageUnit="ACED00057372001B6A617661782E6D6561737572652E756E69742E42617365556E697400000000000000010200014C00075F73796D626F6C7400124C6A6176612F6C616E672F537472696E673B787200176A617661782E6D6561737572652E756E69742E556E6974CDC8DE1678CD5267020000787074000173"/>
+          <dataSeries xsi:type="org.palladiosimulator.edp2.models:LongBinaryMeasurements" valuesUuid="_Ke9IMiyIEeWxPaWg5qrOyw" storageUnit="ACED00057372001E6A617661782E6D6561737572652E756E69742E50726F64756374556E697400000000000000010200024900095F68617368436F64655B00095F656C656D656E74737400295B4C6A617661782F6D6561737572652F756E69742F50726F64756374556E697424456C656D656E743B7872001E6A617661782E6D6561737572652E756E69742E44657269766564556E69749F6578D133D91866020000787200176A617661782E6D6561737572652E756E69742E556E6974CDC8DE1678CD5267020000787000000000757200295B4C6A617661782E6D6561737572652E756E69742E50726F64756374556E697424456C656D656E743B1C0C2BE72EF16818020000787000000000"/>
+        </rawMeasurements>
+      </measurementRanges>
+    </measurement>
+  </reports>
+  <measuringPointRepositories id="_gD3tQCo6EeWIKuO9Qnv9KQ">
+    <measuringPoints xsi:type="pcmmeasuringpoint:UsageScenarioMeasuringPoint" stringRepresentation="Usage Scenario: DefaultUsageScenario" resourceURIRepresentation="platform:/resource/Minimal-Example/%20Analyser/%20Input/Alternative_2015-07-06_03-22-55/pcm.usagemodel#CSMGen__2SIPkCPhEeW6B8TL0HkbtAclosedWorkload_csm2usage">
+      <usageScenario href="platform:/resource/Minimal-Example/%20Analyser/%20Input/Alternative_2015-07-06_03-22-55/pcm.usagemodel#CSMGen__2SIPkCPhEeW6B8TL0HkbtAclosedWorkload_csm2usage"/>
+    </measuringPoints>
+  </measuringPointRepositories>
+  <measuringPointRepositories id="_KEBfsCyIEeWxPaWg5qrOyw">
+    <measuringPoints xsi:type="org.palladiosimulator.edp2.models_1:StringMeasuringPoint" stringRepresentation="System Capacity" resourceURIRepresentation="Unkown Resource URI -- String Measuring Point only!" measuringPoint="System Capacity"/>
+  </measuringPointRepositories>
+</org.palladiosimulator.edp2.models:ExperimentGroup>

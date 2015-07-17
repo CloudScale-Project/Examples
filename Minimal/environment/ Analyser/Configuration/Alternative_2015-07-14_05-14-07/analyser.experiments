@@ -9,7 +9,7 @@
     <toolConfiguration xsi:type="simulizartooladapter:SimuLizarConfiguration" name="SimuLizar default configuration">
       <stopConditions xsi:type="ExperimentAutomation.Experiments.AbstractSimulation:MeasurementCountStopCondition" measurementCount="100"/>
       <stopConditions xsi:type="ExperimentAutomation.Experiments.AbstractSimulation:SimTimeStopCondition" simulationTime="-1"/>
-      <datasource xsi:type="ExperimentAutomation.Experiments.AbstractSimulation:FileDatasource" location="/home/vito/github/Cloudscale/Examples/Minimal/environment/ Analyser/Results/Result_2015-07-16_02-15-18"/>
+      <datasource xsi:type="ExperimentAutomation.Experiments.AbstractSimulation:FileDatasource" location="/home/vito/github/Cloudscale/Examples/Minimal/environment/ Analyser/Results/Result_2015-07-17_03-31-46"/>
     </toolConfiguration>
     <stopConditions xsi:type="ExperimentAutomation.Experiments.AbstractSimulation:MeasurementCountStopCondition" measurementCount="100"/>
     <stopConditions xsi:type="ExperimentAutomation.Experiments.AbstractSimulation:SimTimeStopCondition" simulationTime="-1"/>
