@@ -2,7 +2,7 @@ CloudStore Example - Analyser project
 -------
 
 #### About
-Complete CloudStore model, specified using ScaleDL. Analyzable via the Analyzer.
+Complete CloudStore model (i.e., TPC-W model that can be migrated to cloud computing environments). This model is directly analyzable. The "Documentation" folder contains all data we collected during our case study in creating and evaluating this model.
 
 Author: Sebastian Lehrig
 
