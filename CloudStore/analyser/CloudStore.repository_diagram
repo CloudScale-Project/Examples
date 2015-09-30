@@ -1551,7 +1551,7 @@
           <children xmi:type="notation:DecorationNode" xmi:id="_hensQn60EeOMPbPw2aYEHg" type="5057"/>
           <children xmi:type="notation:DecorationNode" xmi:id="_hensQ360EeOMPbPw2aYEHg" type="5058"/>
           <children xmi:type="notation:BasicCompartment" xmi:id="_hensRH60EeOMPbPw2aYEHg" type="7057"/>
-          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#//@components__Repository.5/@serviceEffectSpecifications__BasicComponent.14/@steps_Behaviour.2/@infrastructureCall__Action.0"/>
+          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#_iNZKICb7EeW6dfnD1kIEbw"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hensQX60EeOMPbPw2aYEHg"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_cV10nH60EeOMPbPw2aYEHg" showTitle="true"/>
@@ -1578,7 +1578,7 @@
           <children xmi:type="notation:DecorationNode" xmi:id="_gQRCwn60EeOMPbPw2aYEHg" type="5057"/>
           <children xmi:type="notation:DecorationNode" xmi:id="_gQRCw360EeOMPbPw2aYEHg" type="5058"/>
           <children xmi:type="notation:BasicCompartment" xmi:id="_gQRCxH60EeOMPbPw2aYEHg" type="7057"/>
-          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#//@components__Repository.5/@serviceEffectSpecifications__BasicComponent.14/@steps_Behaviour.3/@infrastructureCall__Action.0"/>
+          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#_iNZKIib7EeW6dfnD1kIEbw"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_gQRCwX60EeOMPbPw2aYEHg"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_eUR3PX60EeOMPbPw2aYEHg" showTitle="true"/>
@@ -1660,7 +1660,7 @@
           <children xmi:type="notation:DecorationNode" xmi:id="_Bl0nQn0KEeOe7Z1ThAVSxw" type="5057"/>
           <children xmi:type="notation:DecorationNode" xmi:id="_Bl0nQ30KEeOe7Z1ThAVSxw" type="5058"/>
           <children xmi:type="notation:BasicCompartment" xmi:id="_Bl0nRH0KEeOe7Z1ThAVSxw" type="7057"/>
-          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#//@components__Repository.3/@serviceEffectSpecifications__BasicComponent.3/@steps_Behaviour.2/@infrastructureCall__Action.0"/>
+          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#_iM4z1Cb7EeW6dfnD1kIEbw"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Bl0nQX0KEeOe7Z1ThAVSxw"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_a-LzLH0JEeOe7Z1ThAVSxw" showTitle="true"/>
@@ -1687,7 +1687,7 @@
           <children xmi:type="notation:DecorationNode" xmi:id="_DFsekn0KEeOe7Z1ThAVSxw" type="5057"/>
           <children xmi:type="notation:DecorationNode" xmi:id="_DFsek30KEeOe7Z1ThAVSxw" type="5058"/>
           <children xmi:type="notation:BasicCompartment" xmi:id="_DFselH0KEeOe7Z1ThAVSxw" type="7057"/>
-          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#//@components__Repository.3/@serviceEffectSpecifications__BasicComponent.3/@steps_Behaviour.3/@infrastructureCall__Action.0"/>
+          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#_iM4z1ib7EeW6dfnD1kIEbw"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_DFsekX0KEeOe7Z1ThAVSxw"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_bkeXHX0JEeOe7Z1ThAVSxw" showTitle="true"/>
@@ -2098,7 +2098,7 @@
           <children xmi:type="notation:DecorationNode" xmi:id="_Sutqknz5EeOe7Z1ThAVSxw" type="5057"/>
           <children xmi:type="notation:DecorationNode" xmi:id="_Sutqk3z5EeOe7Z1ThAVSxw" type="5058"/>
           <children xmi:type="notation:BasicCompartment" xmi:id="_SutqlHz5EeOe7Z1ThAVSxw" type="7057"/>
-          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#//@components__Repository.3/@serviceEffectSpecifications__BasicComponent.2/@steps_Behaviour.3/@infrastructureCall__Action.0"/>
+          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#_iM3lsib7EeW6dfnD1kIEbw"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_SutqkXz5EeOe7Z1ThAVSxw"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_IzLOjHz5EeOe7Z1ThAVSxw" showTitle="true"/>
@@ -2125,7 +2125,7 @@
           <children xmi:type="notation:DecorationNode" xmi:id="_Tod9Enz5EeOe7Z1ThAVSxw" type="5057"/>
           <children xmi:type="notation:DecorationNode" xmi:id="_Tod9E3z5EeOe7Z1ThAVSxw" type="5058"/>
           <children xmi:type="notation:BasicCompartment" xmi:id="_Tod9FHz5EeOe7Z1ThAVSxw" type="7057"/>
-          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#//@components__Repository.3/@serviceEffectSpecifications__BasicComponent.2/@steps_Behaviour.4/@infrastructureCall__Action.0"/>
+          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#_iM3ltCb7EeW6dfnD1kIEbw"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Tod9EXz5EeOe7Z1ThAVSxw"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_JaK9HXz5EeOe7Z1ThAVSxw" showTitle="true"/>
@@ -2727,7 +2727,7 @@
           <children xmi:type="notation:DecorationNode" xmi:id="_ko6wAn3uEeOB-pfvRdUJ9w" type="5057"/>
           <children xmi:type="notation:DecorationNode" xmi:id="_ko6wA33uEeOB-pfvRdUJ9w" type="5058"/>
           <children xmi:type="notation:BasicCompartment" xmi:id="_ko6wBH3uEeOB-pfvRdUJ9w" type="7057"/>
-          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#//@components__Repository.5/@serviceEffectSpecifications__BasicComponent.0/@steps_Behaviour.2/@infrastructureCall__Action.0"/>
+          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#_iNEaASb7EeW6dfnD1kIEbw"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ko6wAX3uEeOB-pfvRdUJ9w"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_ORYtVX3uEeOB-pfvRdUJ9w" showTitle="true"/>
@@ -2754,7 +2754,7 @@
           <children xmi:type="notation:DecorationNode" xmi:id="_mzdU8H3uEeOB-pfvRdUJ9w" type="5057"/>
           <children xmi:type="notation:DecorationNode" xmi:id="_mzdU8X3uEeOB-pfvRdUJ9w" type="5058"/>
           <children xmi:type="notation:BasicCompartment" xmi:id="_mzdU8n3uEeOB-pfvRdUJ9w" type="7057"/>
-          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#//@components__Repository.5/@serviceEffectSpecifications__BasicComponent.0/@steps_Behaviour.3/@infrastructureCall__Action.0"/>
+          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#_iNEaAyb7EeW6dfnD1kIEbw"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_mzct4X3uEeOB-pfvRdUJ9w"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_PeTzeX3uEeOB-pfvRdUJ9w" showTitle="true"/>
@@ -3415,7 +3415,7 @@
           <children xmi:type="notation:DecorationNode" xmi:id="_WYRCImDUEeOyBvpwll1J2w" type="5057"/>
           <children xmi:type="notation:DecorationNode" xmi:id="_WYRCI2DUEeOyBvpwll1J2w" type="5058"/>
           <children xmi:type="notation:BasicCompartment" xmi:id="_WYRCJGDUEeOyBvpwll1J2w" type="7057"/>
-          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#//@components__Repository.5/@serviceEffectSpecifications__BasicComponent.12/@steps_Behaviour.2/@infrastructureCall__Action.0"/>
+          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#_iNU4sSb7EeW6dfnD1kIEbw"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_WYRCIWDUEeOyBvpwll1J2w"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_PYeljGDUEeOyBvpwll1J2w" showTitle="true"/>
@@ -3442,7 +3442,7 @@
           <children xmi:type="notation:DecorationNode" xmi:id="_aJuhkmDUEeOyBvpwll1J2w" type="5057"/>
           <children xmi:type="notation:DecorationNode" xmi:id="_aJuhk2DUEeOyBvpwll1J2w" type="5058"/>
           <children xmi:type="notation:BasicCompartment" xmi:id="_aJuhlGDUEeOyBvpwll1J2w" type="7057"/>
-          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#//@components__Repository.5/@serviceEffectSpecifications__BasicComponent.12/@steps_Behaviour.3/@infrastructureCall__Action.0"/>
+          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#_iNVfwCb7EeW6dfnD1kIEbw"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_aJuhkWDUEeOyBvpwll1J2w"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_XvGSPWDUEeOyBvpwll1J2w" showTitle="true"/>
@@ -3542,7 +3542,7 @@
           <children xmi:type="notation:DecorationNode" xmi:id="_aaZ0QmG4EeO4lLVlB3_bAg" type="5057"/>
           <children xmi:type="notation:DecorationNode" xmi:id="_aaZ0Q2G4EeO4lLVlB3_bAg" type="5058"/>
           <children xmi:type="notation:BasicCompartment" xmi:id="_aaZ0RGG4EeO4lLVlB3_bAg" type="7057"/>
-          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#//@components__Repository.5/@serviceEffectSpecifications__BasicComponent.6/@steps_Behaviour.2/@infrastructureCall__Action.0"/>
+          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#_iNLuxCb7EeW6dfnD1kIEbw"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_aaZ0QWG4EeO4lLVlB3_bAg"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_OPWMqmG4EeO4lLVlB3_bAg" showTitle="true"/>
@@ -3584,7 +3584,7 @@
           <children xmi:type="notation:DecorationNode" xmi:id="_brBuomG4EeO4lLVlB3_bAg" type="5057"/>
           <children xmi:type="notation:DecorationNode" xmi:id="_brBuo2G4EeO4lLVlB3_bAg" type="5058"/>
           <children xmi:type="notation:BasicCompartment" xmi:id="_brBupGG4EeO4lLVlB3_bAg" type="7057"/>
-          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#//@components__Repository.5/@serviceEffectSpecifications__BasicComponent.6/@steps_Behaviour.4/@infrastructureCall__Action.0"/>
+          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#_iNM84Cb7EeW6dfnD1kIEbw"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_brBuoWG4EeO4lLVlB3_bAg"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_R7Ih7WG4EeO4lLVlB3_bAg" showTitle="true"/>
@@ -3651,7 +3651,7 @@
           <children xmi:type="notation:DecorationNode" xmi:id="_3jD-Un95EeOMPbPw2aYEHg" type="5057"/>
           <children xmi:type="notation:DecorationNode" xmi:id="_3jD-U395EeOMPbPw2aYEHg" type="5058"/>
           <children xmi:type="notation:BasicCompartment" xmi:id="_3jD-VH95EeOMPbPw2aYEHg" type="7057"/>
-          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#//@components__Repository.5/@serviceEffectSpecifications__BasicComponent.17/@steps_Behaviour.2/@infrastructureCall__Action.0"/>
+          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#_iNge4Cb7EeW6dfnD1kIEbw"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_3jD-UX95EeOMPbPw2aYEHg"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_yHxaXX95EeOMPbPw2aYEHg" showTitle="true"/>
@@ -3678,7 +3678,7 @@
           <children xmi:type="notation:DecorationNode" xmi:id="_2gMzIn95EeOMPbPw2aYEHg" type="5057"/>
           <children xmi:type="notation:DecorationNode" xmi:id="_2gMzI395EeOMPbPw2aYEHg" type="5058"/>
           <children xmi:type="notation:BasicCompartment" xmi:id="_2gMzJH95EeOMPbPw2aYEHg" type="7057"/>
-          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#//@components__Repository.5/@serviceEffectSpecifications__BasicComponent.17/@steps_Behaviour.3/@infrastructureCall__Action.0"/>
+          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#_iNge4ib7EeW6dfnD1kIEbw"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_2gMzIX95EeOMPbPw2aYEHg"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_y93U3X95EeOMPbPw2aYEHg" showTitle="true"/>
@@ -4189,7 +4189,7 @@
           <children xmi:type="notation:DecorationNode" xmi:id="_oYcyYmP7EeOyDZMLoSe7Cg" type="5057"/>
           <children xmi:type="notation:DecorationNode" xmi:id="_oYcyY2P7EeOyDZMLoSe7Cg" type="5058"/>
           <children xmi:type="notation:BasicCompartment" xmi:id="_oYcyZGP7EeOyDZMLoSe7Cg" type="7057"/>
-          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#//@components__Repository.3/@serviceEffectSpecifications__BasicComponent.0/@steps_Behaviour.5/@infrastructureCall__Action.0"/>
+          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#_iM1whCb7EeW6dfnD1kIEbw"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_oYcyYWP7EeOyDZMLoSe7Cg"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_k9dSPGP7EeOyDZMLoSe7Cg" showTitle="true"/>
@@ -4216,7 +4216,7 @@
           <children xmi:type="notation:DecorationNode" xmi:id="_u4uogGP7EeOyDZMLoSe7Cg" type="5057"/>
           <children xmi:type="notation:DecorationNode" xmi:id="_u4uogWP7EeOyDZMLoSe7Cg" type="5058"/>
           <children xmi:type="notation:BasicCompartment" xmi:id="_u4uogmP7EeOyDZMLoSe7Cg" type="7057"/>
-          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#//@components__Repository.3/@serviceEffectSpecifications__BasicComponent.0/@steps_Behaviour.6/@infrastructureCall__Action.0"/>
+          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#_iM1whib7EeW6dfnD1kIEbw"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_u4uBcWP7EeOyDZMLoSe7Cg"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_qQjjimP7EeOyDZMLoSe7Cg" showTitle="true"/>
@@ -4395,7 +4395,7 @@
           <children xmi:type="notation:DecorationNode" xmi:id="_77haMn32EeOB-pfvRdUJ9w" type="5057"/>
           <children xmi:type="notation:DecorationNode" xmi:id="_77haM332EeOB-pfvRdUJ9w" type="5058"/>
           <children xmi:type="notation:BasicCompartment" xmi:id="_77haNH32EeOB-pfvRdUJ9w" type="7057"/>
-          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#//@components__Repository.3/@serviceEffectSpecifications__BasicComponent.5/@steps_Behaviour.5/@infrastructureCall__Action.0"/>
+          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#_iM9FQSb7EeW6dfnD1kIEbw"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_77haMX32EeOB-pfvRdUJ9w"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_tDkHfH32EeOB-pfvRdUJ9w" showTitle="true"/>
@@ -4422,7 +4422,7 @@
           <children xmi:type="notation:DecorationNode" xmi:id="_9RRFIn32EeOB-pfvRdUJ9w" type="5057"/>
           <children xmi:type="notation:DecorationNode" xmi:id="_9RRFI332EeOB-pfvRdUJ9w" type="5058"/>
           <children xmi:type="notation:BasicCompartment" xmi:id="_9RRFJH32EeOB-pfvRdUJ9w" type="7057"/>
-          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#//@components__Repository.3/@serviceEffectSpecifications__BasicComponent.5/@steps_Behaviour.6/@infrastructureCall__Action.0"/>
+          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#_iM9sUSb7EeW6dfnD1kIEbw"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_9RRFIX32EeOB-pfvRdUJ9w"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_t5gQ-n32EeOB-pfvRdUJ9w" showTitle="true"/>
@@ -4566,7 +4566,7 @@
           <children xmi:type="notation:DecorationNode" xmi:id="_-9r0kn3_EeOB-pfvRdUJ9w" type="5057"/>
           <children xmi:type="notation:DecorationNode" xmi:id="_-9r0k33_EeOB-pfvRdUJ9w" type="5058"/>
           <children xmi:type="notation:BasicCompartment" xmi:id="_-9r0lH3_EeOB-pfvRdUJ9w" type="7057"/>
-          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#//@components__Repository.5/@serviceEffectSpecifications__BasicComponent.4/@steps_Behaviour.2/@infrastructureCall__Action.0"/>
+          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#_iNJSgCb7EeW6dfnD1kIEbw"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_-9r0kX3_EeOB-pfvRdUJ9w"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_3P1YGn3_EeOB-pfvRdUJ9w" showTitle="true"/>
@@ -4593,7 +4593,7 @@
           <children xmi:type="notation:DecorationNode" xmi:id="__7Oa4n3_EeOB-pfvRdUJ9w" type="5057"/>
           <children xmi:type="notation:DecorationNode" xmi:id="__7Oa433_EeOB-pfvRdUJ9w" type="5058"/>
           <children xmi:type="notation:BasicCompartment" xmi:id="__7Oa5H3_EeOB-pfvRdUJ9w" type="7057"/>
-          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#//@components__Repository.5/@serviceEffectSpecifications__BasicComponent.4/@steps_Behaviour.3/@infrastructureCall__Action.0"/>
+          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#_iNJSgib7EeW6dfnD1kIEbw"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="__7Oa4X3_EeOB-pfvRdUJ9w"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_4LDDKn3_EeOB-pfvRdUJ9w" showTitle="true"/>
@@ -4674,7 +4674,7 @@
           <children xmi:type="notation:DecorationNode" xmi:id="_PyosEn9LEeOMPbPw2aYEHg" type="5057"/>
           <children xmi:type="notation:DecorationNode" xmi:id="_PyosE39LEeOMPbPw2aYEHg" type="5058"/>
           <children xmi:type="notation:BasicCompartment" xmi:id="_PyosFH9LEeOMPbPw2aYEHg" type="7057"/>
-          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#//@components__Repository.5/@serviceEffectSpecifications__BasicComponent.8/@steps_Behaviour.2/@infrastructureCall__Action.0"/>
+          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#_iNOLBCb7EeW6dfnD1kIEbw"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_PyosEX9LEeOMPbPw2aYEHg"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_KrgaPH9LEeOMPbPw2aYEHg" showTitle="true"/>
@@ -4701,7 +4701,7 @@
           <children xmi:type="notation:DecorationNode" xmi:id="_Qkg08n9LEeOMPbPw2aYEHg" type="5057"/>
           <children xmi:type="notation:DecorationNode" xmi:id="_Qkg0839LEeOMPbPw2aYEHg" type="5058"/>
           <children xmi:type="notation:BasicCompartment" xmi:id="_Qkg09H9LEeOMPbPw2aYEHg" type="7057"/>
-          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#//@components__Repository.5/@serviceEffectSpecifications__BasicComponent.8/@steps_Behaviour.3/@infrastructureCall__Action.0"/>
+          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#_iNOyESb7EeW6dfnD1kIEbw"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Qkg08X9LEeOMPbPw2aYEHg"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_LcEUfX9LEeOMPbPw2aYEHg" showTitle="true"/>
@@ -4782,7 +4782,7 @@
           <children xmi:type="notation:DecorationNode" xmi:id="_fSAVsn3uEeOB-pfvRdUJ9w" type="5057"/>
           <children xmi:type="notation:DecorationNode" xmi:id="_fSAVs33uEeOB-pfvRdUJ9w" type="5058"/>
           <children xmi:type="notation:BasicCompartment" xmi:id="_fSAVtH3uEeOB-pfvRdUJ9w" type="7057"/>
-          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#//@components__Repository.5/@serviceEffectSpecifications__BasicComponent.1/@steps_Behaviour.2/@infrastructureCall__Action.0"/>
+          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#_iNFoISb7EeW6dfnD1kIEbw"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fSAVsX3uEeOB-pfvRdUJ9w"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_X1CN2n3uEeOB-pfvRdUJ9w" showTitle="true"/>
@@ -4809,7 +4809,7 @@
           <children xmi:type="notation:DecorationNode" xmi:id="_hS7Ekn3uEeOB-pfvRdUJ9w" type="5057"/>
           <children xmi:type="notation:DecorationNode" xmi:id="_hS7Ek33uEeOB-pfvRdUJ9w" type="5058"/>
           <children xmi:type="notation:BasicCompartment" xmi:id="_hS7ElH3uEeOB-pfvRdUJ9w" type="7057"/>
-          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#//@components__Repository.5/@serviceEffectSpecifications__BasicComponent.1/@steps_Behaviour.3/@infrastructureCall__Action.0"/>
+          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#_iNFoIyb7EeW6dfnD1kIEbw"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hS7EkX3uEeOB-pfvRdUJ9w"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_Y2RBXH3uEeOB-pfvRdUJ9w" showTitle="true"/>
@@ -4892,7 +4892,7 @@
           <children xmi:type="notation:DecorationNode" xmi:id="_zcPaYH3uEeOB-pfvRdUJ9w" type="5057"/>
           <children xmi:type="notation:DecorationNode" xmi:id="_zcPaYX3uEeOB-pfvRdUJ9w" type="5058"/>
           <children xmi:type="notation:BasicCompartment" xmi:id="_zcPaYn3uEeOB-pfvRdUJ9w" type="7057"/>
-          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#//@components__Repository.5/@serviceEffectSpecifications__BasicComponent.2/@steps_Behaviour.2/@infrastructureCall__Action.0"/>
+          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#_iNG2Qib7EeW6dfnD1kIEbw"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_zcOzUX3uEeOB-pfvRdUJ9w"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_uMFIXH3uEeOB-pfvRdUJ9w" showTitle="true"/>
@@ -4919,7 +4919,7 @@
           <children xmi:type="notation:DecorationNode" xmi:id="_0rjtMH3uEeOB-pfvRdUJ9w" type="5057"/>
           <children xmi:type="notation:DecorationNode" xmi:id="_0rjtMX3uEeOB-pfvRdUJ9w" type="5058"/>
           <children xmi:type="notation:BasicCompartment" xmi:id="_0rjtMn3uEeOB-pfvRdUJ9w" type="7057"/>
-          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#//@components__Repository.5/@serviceEffectSpecifications__BasicComponent.2/@steps_Behaviour.3/@infrastructureCall__Action.0"/>
+          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#_iNHdUCb7EeW6dfnD1kIEbw"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_0rjGIX3uEeOB-pfvRdUJ9w"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_u5PJTH3uEeOB-pfvRdUJ9w" showTitle="true"/>
@@ -5069,7 +5069,7 @@
           <children xmi:type="notation:DecorationNode" xmi:id="_QhppUH36EeOB-pfvRdUJ9w" type="5057"/>
           <children xmi:type="notation:DecorationNode" xmi:id="_QhppUX36EeOB-pfvRdUJ9w" type="5058"/>
           <children xmi:type="notation:BasicCompartment" xmi:id="_QhppUn36EeOB-pfvRdUJ9w" type="7057"/>
-          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#//@components__Repository.3/@serviceEffectSpecifications__BasicComponent.6/@steps_Behaviour.6/@infrastructureCall__Action.0"/>
+          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#_iM_hgCb7EeW6dfnD1kIEbw"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_QhpCQX36EeOB-pfvRdUJ9w"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_Np4K_H36EeOB-pfvRdUJ9w" showTitle="true"/>
@@ -5096,7 +5096,7 @@
           <children xmi:type="notation:DecorationNode" xmi:id="_TXpmEn36EeOB-pfvRdUJ9w" type="5057"/>
           <children xmi:type="notation:DecorationNode" xmi:id="_TXpmE336EeOB-pfvRdUJ9w" type="5058"/>
           <children xmi:type="notation:BasicCompartment" xmi:id="_TXpmFH36EeOB-pfvRdUJ9w" type="7057"/>
-          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#//@components__Repository.3/@serviceEffectSpecifications__BasicComponent.6/@steps_Behaviour.7/@infrastructureCall__Action.0"/>
+          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#_iM_hgib7EeW6dfnD1kIEbw"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_TXpmEX36EeOB-pfvRdUJ9w"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_OX8x7H36EeOB-pfvRdUJ9w" showTitle="true"/>
@@ -5316,7 +5316,7 @@
           <children xmi:type="notation:DecorationNode" xmi:id="_dVffAn9JEeOMPbPw2aYEHg" type="5057"/>
           <children xmi:type="notation:DecorationNode" xmi:id="_dVffA39JEeOMPbPw2aYEHg" type="5058"/>
           <children xmi:type="notation:BasicCompartment" xmi:id="_dVffBH9JEeOMPbPw2aYEHg" type="7057"/>
-          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#//@components__Repository.5/@serviceEffectSpecifications__BasicComponent.11/@steps_Behaviour.2/@infrastructureCall__Action.0"/>
+          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#_iNTqkCb7EeW6dfnD1kIEbw"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_dVffAX9JEeOMPbPw2aYEHg"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_ZDuu7X9JEeOMPbPw2aYEHg" showTitle="true"/>
@@ -5343,7 +5343,7 @@
           <children xmi:type="notation:DecorationNode" xmi:id="_cFQmMn9JEeOMPbPw2aYEHg" type="5057"/>
           <children xmi:type="notation:DecorationNode" xmi:id="_cFQmM39JEeOMPbPw2aYEHg" type="5058"/>
           <children xmi:type="notation:BasicCompartment" xmi:id="_cFQmNH9JEeOMPbPw2aYEHg" type="7057"/>
-          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#//@components__Repository.5/@serviceEffectSpecifications__BasicComponent.11/@steps_Behaviour.3/@infrastructureCall__Action.0"/>
+          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#_iNTqkib7EeW6dfnD1kIEbw"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_cFQmMX9JEeOMPbPw2aYEHg"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_Z2clTX9JEeOMPbPw2aYEHg" showTitle="true"/>
@@ -5490,7 +5490,7 @@
           <children xmi:type="notation:DecorationNode" xmi:id="_syJ_Un9fEeOMPbPw2aYEHg" type="5057"/>
           <children xmi:type="notation:DecorationNode" xmi:id="_syJ_U39fEeOMPbPw2aYEHg" type="5058"/>
           <children xmi:type="notation:BasicCompartment" xmi:id="_syJ_VH9fEeOMPbPw2aYEHg" type="7057"/>
-          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#//@components__Repository.5/@serviceEffectSpecifications__BasicComponent.9/@steps_Behaviour.4/@infrastructureCall__Action.0"/>
+          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#_iNQAMib7EeW6dfnD1kIEbw"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_syJ_UX9fEeOMPbPw2aYEHg"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_kXRdvX9fEeOMPbPw2aYEHg" showTitle="true"/>
@@ -5517,7 +5517,7 @@
           <children xmi:type="notation:DecorationNode" xmi:id="_vmDDQn9fEeOMPbPw2aYEHg" type="5057"/>
           <children xmi:type="notation:DecorationNode" xmi:id="_vmDDQ39fEeOMPbPw2aYEHg" type="5058"/>
           <children xmi:type="notation:BasicCompartment" xmi:id="_vmDDRH9fEeOMPbPw2aYEHg" type="7057"/>
-          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#//@components__Repository.5/@serviceEffectSpecifications__BasicComponent.9/@steps_Behaviour.5/@infrastructureCall__Action.0"/>
+          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#_iNQnQSb7EeW6dfnD1kIEbw"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_vmDDQX9fEeOMPbPw2aYEHg"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_mA34zH9fEeOMPbPw2aYEHg" showTitle="true"/>
@@ -5639,7 +5639,7 @@
           <children xmi:type="notation:DecorationNode" xmi:id="_mHZYsn95EeOMPbPw2aYEHg" type="5057"/>
           <children xmi:type="notation:DecorationNode" xmi:id="_mHZYs395EeOMPbPw2aYEHg" type="5058"/>
           <children xmi:type="notation:BasicCompartment" xmi:id="_mHZYtH95EeOMPbPw2aYEHg" type="7057"/>
-          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#//@components__Repository.5/@serviceEffectSpecifications__BasicComponent.16/@steps_Behaviour.4/@infrastructureCall__Action.0"/>
+          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#_iNc0gCb7EeW6dfnD1kIEbw"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_mHZYsX95EeOMPbPw2aYEHg"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_guLRTX95EeOMPbPw2aYEHg" showTitle="true"/>
@@ -5666,7 +5666,7 @@
           <children xmi:type="notation:DecorationNode" xmi:id="_kLGrIn95EeOMPbPw2aYEHg" type="5057"/>
           <children xmi:type="notation:DecorationNode" xmi:id="_kLGrI395EeOMPbPw2aYEHg" type="5058"/>
           <children xmi:type="notation:BasicCompartment" xmi:id="_kLGrJH95EeOMPbPw2aYEHg" type="7057"/>
-          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#//@components__Repository.5/@serviceEffectSpecifications__BasicComponent.16/@steps_Behaviour.5/@infrastructureCall__Action.0"/>
+          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#_iNc0gib7EeW6dfnD1kIEbw"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_kLGrIX95EeOMPbPw2aYEHg"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_halETH95EeOMPbPw2aYEHg" showTitle="true"/>
@@ -6019,7 +6019,7 @@
           <children xmi:type="notation:DecorationNode" xmi:id="_bKjOgHnEEeOvd_ODyyLVkg" type="5057"/>
           <children xmi:type="notation:DecorationNode" xmi:id="_bKjOgXnEEeOvd_ODyyLVkg" type="5058"/>
           <children xmi:type="notation:BasicCompartment" xmi:id="_bKjOgnnEEeOvd_ODyyLVkg" type="7057"/>
-          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#//@components__Repository.3/@serviceEffectSpecifications__BasicComponent.1/@steps_Behaviour.2/@infrastructureCall__Action.0"/>
+          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#_iM2Xlib7EeW6dfnD1kIEbw"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bKincXnEEeOvd_ODyyLVkg"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_XlWpdXnEEeOvd_ODyyLVkg" showTitle="true"/>
@@ -6046,7 +6046,7 @@
           <children xmi:type="notation:DecorationNode" xmi:id="_cjsywnnEEeOvd_ODyyLVkg" type="5057"/>
           <children xmi:type="notation:DecorationNode" xmi:id="_cjsyw3nEEeOvd_ODyyLVkg" type="5058"/>
           <children xmi:type="notation:BasicCompartment" xmi:id="_cjsyxHnEEeOvd_ODyyLVkg" type="7057"/>
-          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#//@components__Repository.3/@serviceEffectSpecifications__BasicComponent.1/@steps_Behaviour.3/@infrastructureCall__Action.0"/>
+          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#_iM2XmCb7EeW6dfnD1kIEbw"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_cjsywXnEEeOvd_ODyyLVkg"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_Y0L0HHnEEeOvd_ODyyLVkg" showTitle="true"/>
@@ -6248,7 +6248,7 @@
           <children xmi:type="notation:DecorationNode" xmi:id="_ZapuYn0KEeOe7Z1ThAVSxw" type="5057"/>
           <children xmi:type="notation:DecorationNode" xmi:id="_ZapuY30KEeOe7Z1ThAVSxw" type="5058"/>
           <children xmi:type="notation:BasicCompartment" xmi:id="_ZapuZH0KEeOe7Z1ThAVSxw" type="7057"/>
-          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#//@components__Repository.3/@serviceEffectSpecifications__BasicComponent.4/@steps_Behaviour.2/@infrastructureCall__Action.0"/>
+          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#_iM7QESb7EeW6dfnD1kIEbw"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ZapuYX0KEeOe7Z1ThAVSxw"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_T93VnX0KEeOe7Z1ThAVSxw" showTitle="true"/>
@@ -6275,7 +6275,7 @@
           <children xmi:type="notation:DecorationNode" xmi:id="_bJXS8n0KEeOe7Z1ThAVSxw" type="5057"/>
           <children xmi:type="notation:DecorationNode" xmi:id="_bJXS830KEeOe7Z1ThAVSxw" type="5058"/>
           <children xmi:type="notation:BasicCompartment" xmi:id="_bJXS9H0KEeOe7Z1ThAVSxw" type="7057"/>
-          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#//@components__Repository.3/@serviceEffectSpecifications__BasicComponent.4/@steps_Behaviour.3/@infrastructureCall__Action.0"/>
+          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#_iM7QEyb7EeW6dfnD1kIEbw"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bJXS8X0KEeOe7Z1ThAVSxw"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_UjGwrX0KEeOe7Z1ThAVSxw" showTitle="true"/>
@@ -6493,7 +6493,7 @@
           <children xmi:type="notation:DecorationNode" xmi:id="_Nz2XkH4AEeOB-pfvRdUJ9w" type="5057"/>
           <children xmi:type="notation:DecorationNode" xmi:id="_Nz2XkX4AEeOB-pfvRdUJ9w" type="5058"/>
           <children xmi:type="notation:BasicCompartment" xmi:id="_Nz2Xkn4AEeOB-pfvRdUJ9w" type="7057"/>
-          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#//@components__Repository.5/@serviceEffectSpecifications__BasicComponent.5/@steps_Behaviour.2/@infrastructureCall__Action.0"/>
+          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#_iNKgoib7EeW6dfnD1kIEbw"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Nz1wgX4AEeOB-pfvRdUJ9w"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_Iq0oTH4AEeOB-pfvRdUJ9w" showTitle="true"/>
@@ -6520,7 +6520,7 @@
           <children xmi:type="notation:DecorationNode" xmi:id="_Or-5cn4AEeOB-pfvRdUJ9w" type="5057"/>
           <children xmi:type="notation:DecorationNode" xmi:id="_Or-5c34AEeOB-pfvRdUJ9w" type="5058"/>
           <children xmi:type="notation:BasicCompartment" xmi:id="_Or-5dH4AEeOB-pfvRdUJ9w" type="7057"/>
-          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#//@components__Repository.5/@serviceEffectSpecifications__BasicComponent.5/@steps_Behaviour.3/@infrastructureCall__Action.0"/>
+          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#_iNLHsCb7EeW6dfnD1kIEbw"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Or-5cX4AEeOB-pfvRdUJ9w"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_JUoaTH4AEeOB-pfvRdUJ9w" showTitle="true"/>
@@ -6810,7 +6810,7 @@
           <children xmi:type="notation:DecorationNode" xmi:id="_Kx6L8n6BEeOMPbPw2aYEHg" type="5057"/>
           <children xmi:type="notation:DecorationNode" xmi:id="_Kx6L836BEeOMPbPw2aYEHg" type="5058"/>
           <children xmi:type="notation:BasicCompartment" xmi:id="_Kx6L9H6BEeOMPbPw2aYEHg" type="7057"/>
-          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#//@components__Repository.6/@serviceEffectSpecifications__BasicComponent.5/@steps_Behaviour.2/@infrastructureCall__Action.0"/>
+          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#_iOIJ8ib7EeW6dfnD1kIEbw"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Kx6L8X6BEeOMPbPw2aYEHg"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_HURAbH6BEeOMPbPw2aYEHg" showTitle="true"/>
@@ -6837,7 +6837,7 @@
           <children xmi:type="notation:DecorationNode" xmi:id="_Lw3ukn6BEeOMPbPw2aYEHg" type="5057"/>
           <children xmi:type="notation:DecorationNode" xmi:id="_Lw3uk36BEeOMPbPw2aYEHg" type="5058"/>
           <children xmi:type="notation:BasicCompartment" xmi:id="_Lw3ulH6BEeOMPbPw2aYEHg" type="7057"/>
-          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#//@components__Repository.6/@serviceEffectSpecifications__BasicComponent.5/@steps_Behaviour.3/@infrastructureCall__Action.0"/>
+          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#_iOIxASb7EeW6dfnD1kIEbw"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Lw3ukX6BEeOMPbPw2aYEHg"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_IDMi_X6BEeOMPbPw2aYEHg" showTitle="true"/>
@@ -7107,7 +7107,7 @@
           <children xmi:type="notation:DecorationNode" xmi:id="_Hjz9on6UEeOMPbPw2aYEHg" type="5057"/>
           <children xmi:type="notation:DecorationNode" xmi:id="_Hjz9o36UEeOMPbPw2aYEHg" type="5058"/>
           <children xmi:type="notation:BasicCompartment" xmi:id="_Hjz9pH6UEeOMPbPw2aYEHg" type="7057"/>
-          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#//@components__Repository.6/@serviceEffectSpecifications__BasicComponent.0/@steps_Behaviour.2/@infrastructureCall__Action.0"/>
+          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#_iN1PACb7EeW6dfnD1kIEbw"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Hjz9oX6UEeOMPbPw2aYEHg"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_FTtjTX6UEeOMPbPw2aYEHg" showTitle="true"/>
@@ -7134,7 +7134,7 @@
           <children xmi:type="notation:DecorationNode" xmi:id="_IYaDUH6UEeOMPbPw2aYEHg" type="5057"/>
           <children xmi:type="notation:DecorationNode" xmi:id="_IYaDUX6UEeOMPbPw2aYEHg" type="5058"/>
           <children xmi:type="notation:BasicCompartment" xmi:id="_IYaDUn6UEeOMPbPw2aYEHg" type="7057"/>
-          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#//@components__Repository.6/@serviceEffectSpecifications__BasicComponent.0/@steps_Behaviour.3/@infrastructureCall__Action.0"/>
+          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#_iN12ECb7EeW6dfnD1kIEbw"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_IYT8sX6UEeOMPbPw2aYEHg"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_F9gHLX6UEeOMPbPw2aYEHg" showTitle="true"/>
@@ -7458,7 +7458,7 @@
           <children xmi:type="notation:DecorationNode" xmi:id="_RrWMUn6qEeOMPbPw2aYEHg" type="5057"/>
           <children xmi:type="notation:DecorationNode" xmi:id="_RrWMU36qEeOMPbPw2aYEHg" type="5058"/>
           <children xmi:type="notation:BasicCompartment" xmi:id="_RrWMVH6qEeOMPbPw2aYEHg" type="7057"/>
-          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#//@components__Repository.5/@serviceEffectSpecifications__BasicComponent.19/@steps_Behaviour.2/@infrastructureCall__Action.0"/>
+          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#_iNmlgCb7EeW6dfnD1kIEbw"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_RrWMUX6qEeOMPbPw2aYEHg"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_Nr4GHX6qEeOMPbPw2aYEHg" showTitle="true"/>
@@ -7485,7 +7485,7 @@
           <children xmi:type="notation:DecorationNode" xmi:id="_SlNzkn6qEeOMPbPw2aYEHg" type="5057"/>
           <children xmi:type="notation:DecorationNode" xmi:id="_SlNzk36qEeOMPbPw2aYEHg" type="5058"/>
           <children xmi:type="notation:BasicCompartment" xmi:id="_SlNzlH6qEeOMPbPw2aYEHg" type="7057"/>
-          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#//@components__Repository.5/@serviceEffectSpecifications__BasicComponent.19/@steps_Behaviour.3/@infrastructureCall__Action.0"/>
+          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#_iNmlgib7EeW6dfnD1kIEbw"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_SlNzkX6qEeOMPbPw2aYEHg"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_O4vh3X6qEeOMPbPw2aYEHg" showTitle="true"/>
@@ -7567,7 +7567,7 @@
           <children xmi:type="notation:DecorationNode" xmi:id="_1BTNQn6qEeOMPbPw2aYEHg" type="5057"/>
           <children xmi:type="notation:DecorationNode" xmi:id="_1BTNQ36qEeOMPbPw2aYEHg" type="5058"/>
           <children xmi:type="notation:BasicCompartment" xmi:id="_1BTNRH6qEeOMPbPw2aYEHg" type="7057"/>
-          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#//@components__Repository.5/@serviceEffectSpecifications__BasicComponent.13/@steps_Behaviour.2/@infrastructureCall__Action.0"/>
+          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#_iNWt4Cb7EeW6dfnD1kIEbw"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_1BTNQX6qEeOMPbPw2aYEHg"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_xQAs_X6qEeOMPbPw2aYEHg" showTitle="true"/>
@@ -7594,7 +7594,7 @@
           <children xmi:type="notation:DecorationNode" xmi:id="_z_QhcH6qEeOMPbPw2aYEHg" type="5057"/>
           <children xmi:type="notation:DecorationNode" xmi:id="_z_QhcX6qEeOMPbPw2aYEHg" type="5058"/>
           <children xmi:type="notation:BasicCompartment" xmi:id="_z_Qhcn6qEeOMPbPw2aYEHg" type="7057"/>
-          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#//@components__Repository.5/@serviceEffectSpecifications__BasicComponent.13/@steps_Behaviour.3/@infrastructureCall__Action.0"/>
+          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#_iNWt4ib7EeW6dfnD1kIEbw"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_z_Ka0X6qEeOMPbPw2aYEHg"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_yEHDbX6qEeOMPbPw2aYEHg" showTitle="true"/>
@@ -7766,7 +7766,7 @@
           <children xmi:type="notation:DecorationNode" xmi:id="_ucaVMn6wEeOMPbPw2aYEHg" type="5057"/>
           <children xmi:type="notation:DecorationNode" xmi:id="_ucaVM36wEeOMPbPw2aYEHg" type="5058"/>
           <children xmi:type="notation:BasicCompartment" xmi:id="_ucaVNH6wEeOMPbPw2aYEHg" type="7057"/>
-          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#//@components__Repository.6/@serviceEffectSpecifications__BasicComponent.1/@steps_Behaviour.2/@infrastructureCall__Action.0"/>
+          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#_iN5gcCb7EeW6dfnD1kIEbw"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ucaVMX6wEeOMPbPw2aYEHg"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_rtxkvH6wEeOMPbPw2aYEHg" showTitle="true"/>
@@ -7793,7 +7793,7 @@
           <children xmi:type="notation:DecorationNode" xmi:id="_tq5_wn6wEeOMPbPw2aYEHg" type="5057"/>
           <children xmi:type="notation:DecorationNode" xmi:id="_tq5_w36wEeOMPbPw2aYEHg" type="5058"/>
           <children xmi:type="notation:BasicCompartment" xmi:id="_tq5_xH6wEeOMPbPw2aYEHg" type="7057"/>
-          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#//@components__Repository.6/@serviceEffectSpecifications__BasicComponent.1/@steps_Behaviour.3/@infrastructureCall__Action.0"/>
+          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#_iN6HgCb7EeW6dfnD1kIEbw"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_tq5_wX6wEeOMPbPw2aYEHg"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_saBmvX6wEeOMPbPw2aYEHg" showTitle="true"/>
@@ -7934,7 +7934,7 @@
           <children xmi:type="notation:DecorationNode" xmi:id="_alyD0n7CEeOMPbPw2aYEHg" type="5057"/>
           <children xmi:type="notation:DecorationNode" xmi:id="_alyD037CEeOMPbPw2aYEHg" type="5058"/>
           <children xmi:type="notation:BasicCompartment" xmi:id="_alyD1H7CEeOMPbPw2aYEHg" type="7057"/>
-          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#//@components__Repository.6/@serviceEffectSpecifications__BasicComponent.2/@steps_Behaviour.2/@infrastructureCall__Action.0"/>
+          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#_iN7VoSb7EeW6dfnD1kIEbw"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_alyD0X7CEeOMPbPw2aYEHg"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_WlI47X7CEeOMPbPw2aYEHg" showTitle="true"/>
@@ -7961,7 +7961,7 @@
           <children xmi:type="notation:DecorationNode" xmi:id="_ZlGC4n7CEeOMPbPw2aYEHg" type="5057"/>
           <children xmi:type="notation:DecorationNode" xmi:id="_ZlGC437CEeOMPbPw2aYEHg" type="5058"/>
           <children xmi:type="notation:BasicCompartment" xmi:id="_ZlGC5H7CEeOMPbPw2aYEHg" type="7057"/>
-          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#//@components__Repository.6/@serviceEffectSpecifications__BasicComponent.2/@steps_Behaviour.3/@infrastructureCall__Action.0"/>
+          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#_iN78sSb7EeW6dfnD1kIEbw"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ZlGC4X7CEeOMPbPw2aYEHg"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_XXdtvX7CEeOMPbPw2aYEHg" showTitle="true"/>
@@ -8149,7 +8149,7 @@
           <children xmi:type="notation:DecorationNode" xmi:id="_H5XWEn7EEeOMPbPw2aYEHg" type="5057"/>
           <children xmi:type="notation:DecorationNode" xmi:id="_H5XWE37EEeOMPbPw2aYEHg" type="5058"/>
           <children xmi:type="notation:BasicCompartment" xmi:id="_H5XWFH7EEeOMPbPw2aYEHg" type="7057"/>
-          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#//@components__Repository.6/@serviceEffectSpecifications__BasicComponent.3/@steps_Behaviour.2/@infrastructureCall__Action.0"/>
+          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#_iN_nEib7EeW6dfnD1kIEbw"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_H5XWEX7EEeOMPbPw2aYEHg"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_2OeBrX7DEeOMPbPw2aYEHg" showTitle="true"/>
@@ -8176,7 +8176,7 @@
           <children xmi:type="notation:DecorationNode" xmi:id="_JKUAkn7EEeOMPbPw2aYEHg" type="5057"/>
           <children xmi:type="notation:DecorationNode" xmi:id="_JKUAk37EEeOMPbPw2aYEHg" type="5058"/>
           <children xmi:type="notation:BasicCompartment" xmi:id="_JKUAlH7EEeOMPbPw2aYEHg" type="7057"/>
-          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#//@components__Repository.6/@serviceEffectSpecifications__BasicComponent.3/@steps_Behaviour.3/@infrastructureCall__Action.0"/>
+          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#_iOA1MCb7EeW6dfnD1kIEbw"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_JKUAkX7EEeOMPbPw2aYEHg"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_24EYSn7DEeOMPbPw2aYEHg" showTitle="true"/>
@@ -8342,7 +8342,7 @@
           <children xmi:type="notation:DecorationNode" xmi:id="_SNOIEn9fEeOMPbPw2aYEHg" type="5057"/>
           <children xmi:type="notation:DecorationNode" xmi:id="_SNOIE39fEeOMPbPw2aYEHg" type="5058"/>
           <children xmi:type="notation:BasicCompartment" xmi:id="_SNOIFH9fEeOMPbPw2aYEHg" type="7057"/>
-          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#//@components__Repository.5/@serviceEffectSpecifications__BasicComponent.20/@steps_Behaviour.2/@infrastructureCall__Action.0"/>
+          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#_iNnzoyb7EeW6dfnD1kIEbw"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_SNOIEX9fEeOMPbPw2aYEHg"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_NUdCXX9fEeOMPbPw2aYEHg" showTitle="true"/>
@@ -8369,7 +8369,7 @@
           <children xmi:type="notation:DecorationNode" xmi:id="_RWhwon9fEeOMPbPw2aYEHg" type="5057"/>
           <children xmi:type="notation:DecorationNode" xmi:id="_RWhwo39fEeOMPbPw2aYEHg" type="5058"/>
           <children xmi:type="notation:BasicCompartment" xmi:id="_RWhwpH9fEeOMPbPw2aYEHg" type="7057"/>
-          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#//@components__Repository.5/@serviceEffectSpecifications__BasicComponent.20/@steps_Behaviour.3/@infrastructureCall__Action.0"/>
+          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#_iNoasSb7EeW6dfnD1kIEbw"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_RWhwoX9fEeOMPbPw2aYEHg"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_OeUNbX9fEeOMPbPw2aYEHg" showTitle="true"/>
@@ -8609,7 +8609,7 @@
           <children xmi:type="notation:DecorationNode" xmi:id="_c1g_on9jEeOMPbPw2aYEHg" type="5057"/>
           <children xmi:type="notation:DecorationNode" xmi:id="_c1g_o39jEeOMPbPw2aYEHg" type="5058"/>
           <children xmi:type="notation:BasicCompartment" xmi:id="_c1g_pH9jEeOMPbPw2aYEHg" type="7057"/>
-          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#//@components__Repository.5/@serviceEffectSpecifications__BasicComponent.15/@steps_Behaviour.2/@infrastructureCall__Action.0"/>
+          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#_iNaYQib7EeW6dfnD1kIEbw"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_c1g_oX9jEeOMPbPw2aYEHg"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_Z_IobX9jEeOMPbPw2aYEHg" showTitle="true"/>
@@ -8636,7 +8636,7 @@
           <children xmi:type="notation:DecorationNode" xmi:id="_eR5eEn9jEeOMPbPw2aYEHg" type="5057"/>
           <children xmi:type="notation:DecorationNode" xmi:id="_eR5eE39jEeOMPbPw2aYEHg" type="5058"/>
           <children xmi:type="notation:BasicCompartment" xmi:id="_eR5eFH9jEeOMPbPw2aYEHg" type="7057"/>
-          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#//@components__Repository.5/@serviceEffectSpecifications__BasicComponent.15/@steps_Behaviour.3/@infrastructureCall__Action.0"/>
+          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#_iNa_UCb7EeW6dfnD1kIEbw"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_eR5eEX9jEeOMPbPw2aYEHg"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_atSu7X9jEeOMPbPw2aYEHg" showTitle="true"/>
@@ -8770,7 +8770,7 @@
           <children xmi:type="notation:DecorationNode" xmi:id="_5C39gn90EeOMPbPw2aYEHg" type="5057"/>
           <children xmi:type="notation:DecorationNode" xmi:id="_5C39g390EeOMPbPw2aYEHg" type="5058"/>
           <children xmi:type="notation:BasicCompartment" xmi:id="_5C39hH90EeOMPbPw2aYEHg" type="7057"/>
-          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#//@components__Repository.6/@serviceEffectSpecifications__BasicComponent.4/@steps_Behaviour.2/@infrastructureCall__Action.0"/>
+          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#_iODRcib7EeW6dfnD1kIEbw"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5C39gX90EeOMPbPw2aYEHg"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_2J0FvH90EeOMPbPw2aYEHg" showTitle="true"/>
@@ -8797,7 +8797,7 @@
           <children xmi:type="notation:DecorationNode" xmi:id="_4KMpEn90EeOMPbPw2aYEHg" type="5057"/>
           <children xmi:type="notation:DecorationNode" xmi:id="_4KMpE390EeOMPbPw2aYEHg" type="5058"/>
           <children xmi:type="notation:BasicCompartment" xmi:id="_4KMpFH90EeOMPbPw2aYEHg" type="7057"/>
-          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#//@components__Repository.6/@serviceEffectSpecifications__BasicComponent.4/@steps_Behaviour.3/@infrastructureCall__Action.0"/>
+          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#_iOD4gSb7EeW6dfnD1kIEbw"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4KMpEX90EeOMPbPw2aYEHg"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_2waLrX90EeOMPbPw2aYEHg" showTitle="true"/>
@@ -9065,7 +9065,7 @@
           <children xmi:type="notation:DecorationNode" xmi:id="_g9VWUoHkEeO-3fNtmr8nQQ" type="5057"/>
           <children xmi:type="notation:DecorationNode" xmi:id="_g9VWU4HkEeO-3fNtmr8nQQ" type="5058"/>
           <children xmi:type="notation:BasicCompartment" xmi:id="_g9VWVIHkEeO-3fNtmr8nQQ" type="7057"/>
-          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#//@components__Repository.5/@serviceEffectSpecifications__BasicComponent.18/@steps_Behaviour.2/@infrastructureCall__Action.0"/>
+          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#_iNkwUSb7EeW6dfnD1kIEbw"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_g9VWUYHkEeO-3fNtmr8nQQ"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_aWN4bYHkEeO-3fNtmr8nQQ" showTitle="true"/>
@@ -9092,7 +9092,7 @@
           <children xmi:type="notation:DecorationNode" xmi:id="_fKNL0oHkEeO-3fNtmr8nQQ" type="5057"/>
           <children xmi:type="notation:DecorationNode" xmi:id="_fKNL04HkEeO-3fNtmr8nQQ" type="5058"/>
           <children xmi:type="notation:BasicCompartment" xmi:id="_fKNL1IHkEeO-3fNtmr8nQQ" type="7057"/>
-          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#//@components__Repository.5/@serviceEffectSpecifications__BasicComponent.18/@steps_Behaviour.3/@infrastructureCall__Action.0"/>
+          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#_iNlXYCb7EeW6dfnD1kIEbw"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fKNL0YHkEeO-3fNtmr8nQQ"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_bGeQrYHkEeO-3fNtmr8nQQ" showTitle="true"/>
@@ -9172,7 +9172,7 @@
           <children xmi:type="notation:DecorationNode" xmi:id="_gPWxcoGhEeOp-6C9_EGJIg" type="5057"/>
           <children xmi:type="notation:DecorationNode" xmi:id="_gPWxc4GhEeOp-6C9_EGJIg" type="5058"/>
           <children xmi:type="notation:BasicCompartment" xmi:id="_gPWxdIGhEeOp-6C9_EGJIg" type="7057"/>
-          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#//@components__Repository.5/@serviceEffectSpecifications__BasicComponent.21/@steps_Behaviour.2/@infrastructureCall__Action.0"/>
+          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#_iNpo0ib7EeW6dfnD1kIEbw"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_gPWxcYGhEeOp-6C9_EGJIg"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_dBypTIGhEeOp-6C9_EGJIg" showTitle="true"/>
@@ -9199,7 +9199,7 @@
           <children xmi:type="notation:DecorationNode" xmi:id="_g-JxIoGhEeOp-6C9_EGJIg" type="5057"/>
           <children xmi:type="notation:DecorationNode" xmi:id="_g-JxI4GhEeOp-6C9_EGJIg" type="5058"/>
           <children xmi:type="notation:BasicCompartment" xmi:id="_g-JxJIGhEeOp-6C9_EGJIg" type="7057"/>
-          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#//@components__Repository.5/@serviceEffectSpecifications__BasicComponent.21/@steps_Behaviour.3/@infrastructureCall__Action.0"/>
+          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#_iNqP4Sb7EeW6dfnD1kIEbw"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_g-JxIYGhEeOp-6C9_EGJIg"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_dqUo7YGhEeOp-6C9_EGJIg" showTitle="true"/>
@@ -9281,7 +9281,7 @@
           <children xmi:type="notation:DecorationNode" xmi:id="_wkwdIoGiEeOp-6C9_EGJIg" type="5057"/>
           <children xmi:type="notation:DecorationNode" xmi:id="_wkwdI4GiEeOp-6C9_EGJIg" type="5058"/>
           <children xmi:type="notation:BasicCompartment" xmi:id="_wkwdJIGiEeOp-6C9_EGJIg" type="7057"/>
-          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#//@components__Repository.5/@serviceEffectSpecifications__BasicComponent.22/@steps_Behaviour.2/@infrastructureCall__Action.0"/>
+          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#_iNreAib7EeW6dfnD1kIEbw"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_wkwdIYGiEeOp-6C9_EGJIg"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_t92FTYGiEeOp-6C9_EGJIg" showTitle="true"/>
@@ -9308,7 +9308,7 @@
           <children xmi:type="notation:DecorationNode" xmi:id="_xewnQoGiEeOp-6C9_EGJIg" type="5057"/>
           <children xmi:type="notation:DecorationNode" xmi:id="_xewnQ4GiEeOp-6C9_EGJIg" type="5058"/>
           <children xmi:type="notation:BasicCompartment" xmi:id="_xewnRIGiEeOp-6C9_EGJIg" type="7057"/>
-          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#//@components__Repository.5/@serviceEffectSpecifications__BasicComponent.22/@steps_Behaviour.3/@infrastructureCall__Action.0"/>
+          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#_iNsFESb7EeW6dfnD1kIEbw"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xewnQYGiEeOp-6C9_EGJIg"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_vB90vYGiEeOp-6C9_EGJIg" showTitle="true"/>
@@ -9439,7 +9439,7 @@
           <children xmi:type="notation:DecorationNode" xmi:id="_l3jzQoGlEeOp-6C9_EGJIg" type="5057"/>
           <children xmi:type="notation:DecorationNode" xmi:id="_l3jzQ4GlEeOp-6C9_EGJIg" type="5058"/>
           <children xmi:type="notation:BasicCompartment" xmi:id="_l3jzRIGlEeOp-6C9_EGJIg" type="7057"/>
-          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#//@components__Repository.5/@serviceEffectSpecifications__BasicComponent.23/@steps_Behaviour.2/@infrastructureCall__Action.0"/>
+          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#_iNtTMSb7EeW6dfnD1kIEbw"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_l3jzQYGlEeOp-6C9_EGJIg"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_i11HpYGlEeOp-6C9_EGJIg" showTitle="true"/>
@@ -9466,7 +9466,7 @@
           <children xmi:type="notation:DecorationNode" xmi:id="_lKtUUoGlEeOp-6C9_EGJIg" type="5057"/>
           <children xmi:type="notation:DecorationNode" xmi:id="_lKtUU4GlEeOp-6C9_EGJIg" type="5058"/>
           <children xmi:type="notation:BasicCompartment" xmi:id="_lKtUVIGlEeOp-6C9_EGJIg" type="7057"/>
-          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#//@components__Repository.5/@serviceEffectSpecifications__BasicComponent.23/@steps_Behaviour.3/@infrastructureCall__Action.0"/>
+          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#_iNt6QCb7EeW6dfnD1kIEbw"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_lKtUUYGlEeOp-6C9_EGJIg"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_jqdpnYGlEeOp-6C9_EGJIg" showTitle="true"/>
@@ -9641,7 +9641,7 @@
           <children xmi:type="notation:DecorationNode" xmi:id="_-ifxEoGnEeOp-6C9_EGJIg" type="5057"/>
           <children xmi:type="notation:DecorationNode" xmi:id="_-ifxE4GnEeOp-6C9_EGJIg" type="5058"/>
           <children xmi:type="notation:BasicCompartment" xmi:id="_-ifxFIGnEeOp-6C9_EGJIg" type="7057"/>
-          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#//@components__Repository.5/@serviceEffectSpecifications__BasicComponent.24/@steps_Behaviour.2/@infrastructureCall__Action.0"/>
+          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#_iNwWgib7EeW6dfnD1kIEbw"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_-ifxEYGnEeOp-6C9_EGJIg"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_5xijjIGnEeOp-6C9_EGJIg" showTitle="true"/>
@@ -9668,7 +9668,7 @@
           <children xmi:type="notation:DecorationNode" xmi:id="_9JfWwoGnEeOp-6C9_EGJIg" type="5057"/>
           <children xmi:type="notation:DecorationNode" xmi:id="_9JfWw4GnEeOp-6C9_EGJIg" type="5058"/>
           <children xmi:type="notation:BasicCompartment" xmi:id="_9JfWxIGnEeOp-6C9_EGJIg" type="7057"/>
-          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#//@components__Repository.5/@serviceEffectSpecifications__BasicComponent.24/@steps_Behaviour.3/@infrastructureCall__Action.0"/>
+          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#_iNw9kSb7EeW6dfnD1kIEbw"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_9JfWwYGnEeOp-6C9_EGJIg"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_7MKHbYGnEeOp-6C9_EGJIg" showTitle="true"/>
@@ -9851,7 +9851,7 @@
           <children xmi:type="notation:DecorationNode" xmi:id="__Z4S8oHREeOp-6C9_EGJIg" type="5057"/>
           <children xmi:type="notation:DecorationNode" xmi:id="__Z4S84HREeOp-6C9_EGJIg" type="5058"/>
           <children xmi:type="notation:BasicCompartment" xmi:id="__Z4S9IHREeOp-6C9_EGJIg" type="7057"/>
-          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#//@components__Repository.5/@serviceEffectSpecifications__BasicComponent.25/@steps_Behaviour.2/@infrastructureCall__Action.0"/>
+          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#_iNyLsib7EeW6dfnD1kIEbw"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="__Z4S8YHREeOp-6C9_EGJIg"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_9H63bIHREeOp-6C9_EGJIg" showTitle="true"/>
@@ -9878,7 +9878,7 @@
           <children xmi:type="notation:DecorationNode" xmi:id="_ARYisoHSEeOp-6C9_EGJIg" type="5057"/>
           <children xmi:type="notation:DecorationNode" xmi:id="_ARYis4HSEeOp-6C9_EGJIg" type="5058"/>
           <children xmi:type="notation:BasicCompartment" xmi:id="_ARYitIHSEeOp-6C9_EGJIg" type="7057"/>
-          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#//@components__Repository.5/@serviceEffectSpecifications__BasicComponent.25/@steps_Behaviour.3/@infrastructureCall__Action.0"/>
+          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#_iNyywSb7EeW6dfnD1kIEbw"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ARYisYHSEeOp-6C9_EGJIg"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_961iHYHREeOp-6C9_EGJIg" showTitle="true"/>
@@ -10033,7 +10033,7 @@
           <children xmi:type="notation:DecorationNode" xmi:id="_c6zn8oHXEeO-3fNtmr8nQQ" type="5057"/>
           <children xmi:type="notation:DecorationNode" xmi:id="_c6zn84HXEeO-3fNtmr8nQQ" type="5058"/>
           <children xmi:type="notation:BasicCompartment" xmi:id="_c6zn9IHXEeO-3fNtmr8nQQ" type="7057"/>
-          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#//@components__Repository.4/@serviceEffectSpecifications__BasicComponent.0/@steps_Behaviour.3/@infrastructureCall__Action.0"/>
+          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#_iNAvoib7EeW6dfnD1kIEbw"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_c6zn8YHXEeO-3fNtmr8nQQ"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_Z4kmDYHXEeO-3fNtmr8nQQ" showTitle="true"/>
@@ -10060,7 +10060,7 @@
           <children xmi:type="notation:DecorationNode" xmi:id="_cTnFEoHXEeO-3fNtmr8nQQ" type="5057"/>
           <children xmi:type="notation:DecorationNode" xmi:id="_cTnFE4HXEeO-3fNtmr8nQQ" type="5058"/>
           <children xmi:type="notation:BasicCompartment" xmi:id="_cTnFFIHXEeO-3fNtmr8nQQ" type="7057"/>
-          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#//@components__Repository.4/@serviceEffectSpecifications__BasicComponent.0/@steps_Behaviour.4/@infrastructureCall__Action.0"/>
+          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#_iNAvpCb7EeW6dfnD1kIEbw"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_cTnFEYHXEeO-3fNtmr8nQQ"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_akURvYHXEeO-3fNtmr8nQQ" showTitle="true"/>
@@ -10127,7 +10127,7 @@
           <children xmi:type="notation:DecorationNode" xmi:id="_hIIkAoHXEeO-3fNtmr8nQQ" type="5057"/>
           <children xmi:type="notation:DecorationNode" xmi:id="_hIIkA4HXEeO-3fNtmr8nQQ" type="5058"/>
           <children xmi:type="notation:BasicCompartment" xmi:id="_hIIkBIHXEeO-3fNtmr8nQQ" type="7057"/>
-          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#//@components__Repository.4/@serviceEffectSpecifications__BasicComponent.1/@steps_Behaviour.2/@infrastructureCall__Action.0"/>
+          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#_iNBWtCb7EeW6dfnD1kIEbw"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hIIkAYHXEeO-3fNtmr8nQQ"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_VKKWLIHXEeO-3fNtmr8nQQ" showTitle="true"/>
@@ -10154,7 +10154,7 @@
           <children xmi:type="notation:DecorationNode" xmi:id="_f0qxAoHXEeO-3fNtmr8nQQ" type="5057"/>
           <children xmi:type="notation:DecorationNode" xmi:id="_f0qxA4HXEeO-3fNtmr8nQQ" type="5058"/>
           <children xmi:type="notation:BasicCompartment" xmi:id="_f0qxBIHXEeO-3fNtmr8nQQ" type="7057"/>
-          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#//@components__Repository.4/@serviceEffectSpecifications__BasicComponent.1/@steps_Behaviour.3/@infrastructureCall__Action.0"/>
+          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#_iNB9wSb7EeW6dfnD1kIEbw"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_f0qxAYHXEeO-3fNtmr8nQQ"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_VxcYnIHXEeO-3fNtmr8nQQ" showTitle="true"/>
@@ -10320,7 +10320,7 @@
           <children xmi:type="notation:DecorationNode" xmi:id="_sNBXUoHjEeO-3fNtmr8nQQ" type="5057"/>
           <children xmi:type="notation:DecorationNode" xmi:id="_sNBXU4HjEeO-3fNtmr8nQQ" type="5058"/>
           <children xmi:type="notation:BasicCompartment" xmi:id="_sNBXVIHjEeO-3fNtmr8nQQ" type="7057"/>
-          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#//@components__Repository.5/@serviceEffectSpecifications__BasicComponent.10/@steps_Behaviour.2/@infrastructureCall__Action.0"/>
+          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#_iNR1ZCb7EeW6dfnD1kIEbw"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_sNBXUYHjEeO-3fNtmr8nQQ"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_lbsNfYHjEeO-3fNtmr8nQQ" showTitle="true"/>
@@ -10347,7 +10347,7 @@
           <children xmi:type="notation:DecorationNode" xmi:id="_vj0UAoHjEeO-3fNtmr8nQQ" type="5057"/>
           <children xmi:type="notation:DecorationNode" xmi:id="_vj0UA4HjEeO-3fNtmr8nQQ" type="5058"/>
           <children xmi:type="notation:BasicCompartment" xmi:id="_vj0UBIHjEeO-3fNtmr8nQQ" type="7057"/>
-          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#//@components__Repository.5/@serviceEffectSpecifications__BasicComponent.10/@steps_Behaviour.3/@infrastructureCall__Action.0"/>
+          <element xmi:type="seff_performance:InfrastructureCall" href="CloudStore.repository#_iNSccSb7EeW6dfnD1kIEbw"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_vj0UAYHjEeO-3fNtmr8nQQ"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_mC4wXIHjEeO-3fNtmr8nQQ" showTitle="true"/>
