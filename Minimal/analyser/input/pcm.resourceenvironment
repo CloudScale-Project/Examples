@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ASCII"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <resourceenvironment:ResourceEnvironment xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:resourceenvironment="http://palladiosimulator.org/PalladioComponentModel/ResourceEnvironment/5.1" entityName="Resource model">
   <resourceContainer_ResourceEnvironment id="CSMGen__1_wGICPhEeW6B8TL0HkbtA_service2resourceContainer" entityName="Service Resource AWS EC2 Infrastructure">
     <activeResourceSpecifications_ResourceContainer id="CSMGen__1_wGICPhEeW6B8TL0HkbtA_createCPU">
