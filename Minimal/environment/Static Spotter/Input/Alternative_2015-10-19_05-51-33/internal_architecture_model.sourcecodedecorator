@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sourcecodedecorator:SourceCodeDecoratorRepository xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:java="http://www.eclipse.org/MoDisco/Java/0.2.incubation/java" xmlns:repository="http://palladiosimulator.org/PalladioComponentModel/Repository/5.1" xmlns:sourcecodedecorator="http://somox.org/SourceCodeDecorator/2.0">
+  <fileLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_JZGjE3Z5EeWeO6o4SP8Onw"/>
+  </fileLevelSourceCodeLink>
+  <fileLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_JZrx4HZ5EeWeO6o4SP8Onw"/>
+    <file href="../../../Extractor/Results/Alternative_2015-10-19_05-50-38/modisco/Minimal-Project_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0"/>
+  </fileLevelSourceCodeLink>
+  <fileLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_JZrx4HZ5EeWeO6o4SP8Onw"/>
+    <file href="../../../Extractor/Results/Alternative_2015-10-19_05-50-38/modisco/Minimal-Project_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.1/@inventoryElement.1"/>
+  </fileLevelSourceCodeLink>
+  <fileLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_JZrx4HZ5EeWeO6o4SP8Onw"/>
+    <file href="../../../Extractor/Results/Alternative_2015-10-19_05-50-38/modisco/Minimal-Project_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.1/@inventoryElement.3"/>
+  </fileLevelSourceCodeLink>
+  <fileLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_JZrx4HZ5EeWeO6o4SP8Onw"/>
+    <file href="../../../Extractor/Results/Alternative_2015-10-19_05-50-38/modisco/Minimal-Project_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.2/@inventoryElement.0"/>
+  </fileLevelSourceCodeLink>
+  <fileLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_JZrx4HZ5EeWeO6o4SP8Onw"/>
+    <file href="../../../Extractor/Results/Alternative_2015-10-19_05-50-38/modisco/Minimal-Project_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.1/@inventoryElement.0"/>
+  </fileLevelSourceCodeLink>
+  <methodLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_JZrx4HZ5EeWeO6o4SP8Onw"/>
+    <file href="../../../Extractor/Results/Alternative_2015-10-19_05-50-38/modisco/Minimal-Project_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0"/>
+    <operation xsi:type="repository:OperationSignature" href="internal_architecture_model.repository#_JW0EEXZ5EeWeO6o4SP8Onw"/>
+    <function xsi:type="java:MethodDeclaration" href="../../../Extractor/Results/Alternative_2015-10-19_05-50-38/modisco/Minimal-Project_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedElements.0/@bodyDeclarations.1"/>
+  </methodLevelSourceCodeLink>
+  <methodLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_JZrx4HZ5EeWeO6o4SP8Onw"/>
+    <file href="../../../Extractor/Results/Alternative_2015-10-19_05-50-38/modisco/Minimal-Project_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0"/>
+    <operation xsi:type="repository:OperationSignature" href="internal_architecture_model.repository#_JW15QXZ5EeWeO6o4SP8Onw"/>
+    <function xsi:type="java:MethodDeclaration" href="../../../Extractor/Results/Alternative_2015-10-19_05-50-38/modisco/Minimal-Project_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedElements.0/@bodyDeclarations.2"/>
+  </methodLevelSourceCodeLink>
+  <methodLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_JZrx4HZ5EeWeO6o4SP8Onw"/>
+    <file href="../../../Extractor/Results/Alternative_2015-10-19_05-50-38/modisco/Minimal-Project_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0"/>
+    <operation xsi:type="repository:OperationSignature" href="internal_architecture_model.repository#_JW3HYHZ5EeWeO6o4SP8Onw"/>
+    <function xsi:type="java:MethodDeclaration" href="../../../Extractor/Results/Alternative_2015-10-19_05-50-38/modisco/Minimal-Project_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedElements.0/@bodyDeclarations.3"/>
+  </methodLevelSourceCodeLink>
+  <methodLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_JZrx4HZ5EeWeO6o4SP8Onw"/>
+    <file href="../../../Extractor/Results/Alternative_2015-10-19_05-50-38/modisco/Minimal-Project_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0"/>
+    <operation xsi:type="repository:OperationSignature" href="internal_architecture_model.repository#_JW3ucHZ5EeWeO6o4SP8Onw"/>
+    <function xsi:type="java:MethodDeclaration" href="../../../Extractor/Results/Alternative_2015-10-19_05-50-38/modisco/Minimal-Project_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedElements.0/@bodyDeclarations.4"/>
+  </methodLevelSourceCodeLink>
+  <methodLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_JZrx4HZ5EeWeO6o4SP8Onw"/>
+    <file href="../../../Extractor/Results/Alternative_2015-10-19_05-50-38/modisco/Minimal-Project_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.1/@inventoryElement.1"/>
+    <operation xsi:type="repository:OperationSignature" href="internal_architecture_model.repository#_JYRcoXZ5EeWeO6o4SP8Onw"/>
+    <function xsi:type="java:MethodDeclaration" href="../../../Extractor/Results/Alternative_2015-10-19_05-50-38/modisco/Minimal-Project_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedElements.2/@bodyDeclarations.3"/>
+  </methodLevelSourceCodeLink>
+  <methodLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_JZrx4HZ5EeWeO6o4SP8Onw"/>
+    <file href="../../../Extractor/Results/Alternative_2015-10-19_05-50-38/modisco/Minimal-Project_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.1/@inventoryElement.1"/>
+    <operation xsi:type="repository:OperationSignature" href="internal_architecture_model.repository#_JYTR03Z5EeWeO6o4SP8Onw"/>
+    <function xsi:type="java:MethodDeclaration" href="../../../Extractor/Results/Alternative_2015-10-19_05-50-38/modisco/Minimal-Project_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedElements.2/@bodyDeclarations.5"/>
+  </methodLevelSourceCodeLink>
+  <methodLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_JZrx4HZ5EeWeO6o4SP8Onw"/>
+    <file href="../../../Extractor/Results/Alternative_2015-10-19_05-50-38/modisco/Minimal-Project_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.1/@inventoryElement.1"/>
+    <operation xsi:type="repository:OperationSignature" href="internal_architecture_model.repository#_JYT44HZ5EeWeO6o4SP8Onw"/>
+    <function xsi:type="java:MethodDeclaration" href="../../../Extractor/Results/Alternative_2015-10-19_05-50-38/modisco/Minimal-Project_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedElements.2/@bodyDeclarations.6"/>
+  </methodLevelSourceCodeLink>
+  <methodLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_JZrx4HZ5EeWeO6o4SP8Onw"/>
+    <file href="../../../Extractor/Results/Alternative_2015-10-19_05-50-38/modisco/Minimal-Project_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.1/@inventoryElement.1"/>
+    <operation xsi:type="repository:OperationSignature" href="internal_architecture_model.repository#_JYUf8HZ5EeWeO6o4SP8Onw"/>
+    <function xsi:type="java:MethodDeclaration" href="../../../Extractor/Results/Alternative_2015-10-19_05-50-38/modisco/Minimal-Project_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedElements.2/@bodyDeclarations.7"/>
+  </methodLevelSourceCodeLink>
+  <methodLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_JZrx4HZ5EeWeO6o4SP8Onw"/>
+    <file href="../../../Extractor/Results/Alternative_2015-10-19_05-50-38/modisco/Minimal-Project_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.1/@inventoryElement.3"/>
+    <operation xsi:type="repository:OperationSignature" href="internal_architecture_model.repository#_JYXjQXZ5EeWeO6o4SP8Onw"/>
+    <function xsi:type="java:MethodDeclaration" href="../../../Extractor/Results/Alternative_2015-10-19_05-50-38/modisco/Minimal-Project_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedElements.3/@bodyDeclarations.14"/>
+  </methodLevelSourceCodeLink>
+  <methodLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_JZrx4HZ5EeWeO6o4SP8Onw"/>
+    <file href="../../../Extractor/Results/Alternative_2015-10-19_05-50-38/modisco/Minimal-Project_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.1/@inventoryElement.3"/>
+    <operation xsi:type="repository:OperationSignature" href="internal_architecture_model.repository#_JYgGIHZ5EeWeO6o4SP8Onw"/>
+    <function xsi:type="java:MethodDeclaration" href="../../../Extractor/Results/Alternative_2015-10-19_05-50-38/modisco/Minimal-Project_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedElements.3/@bodyDeclarations.16"/>
+  </methodLevelSourceCodeLink>
+  <methodLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_JZrx4HZ5EeWeO6o4SP8Onw"/>
+    <file href="../../../Extractor/Results/Alternative_2015-10-19_05-50-38/modisco/Minimal-Project_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.1/@inventoryElement.3"/>
+    <operation xsi:type="repository:OperationSignature" href="internal_architecture_model.repository#_JYhUQHZ5EeWeO6o4SP8Onw"/>
+    <function xsi:type="java:MethodDeclaration" href="../../../Extractor/Results/Alternative_2015-10-19_05-50-38/modisco/Minimal-Project_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedElements.3/@bodyDeclarations.17"/>
+  </methodLevelSourceCodeLink>
+  <methodLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_JZrx4HZ5EeWeO6o4SP8Onw"/>
+    <file href="../../../Extractor/Results/Alternative_2015-10-19_05-50-38/modisco/Minimal-Project_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.1/@inventoryElement.3"/>
+    <operation xsi:type="repository:OperationSignature" href="internal_architecture_model.repository#_JYjJcHZ5EeWeO6o4SP8Onw"/>
+    <function xsi:type="java:MethodDeclaration" href="../../../Extractor/Results/Alternative_2015-10-19_05-50-38/modisco/Minimal-Project_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedElements.3/@bodyDeclarations.18"/>
+  </methodLevelSourceCodeLink>
+  <methodLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_JZrx4HZ5EeWeO6o4SP8Onw"/>
+    <file href="../../../Extractor/Results/Alternative_2015-10-19_05-50-38/modisco/Minimal-Project_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.2/@inventoryElement.0"/>
+    <operation xsi:type="repository:OperationSignature" href="internal_architecture_model.repository#_JYzoIXZ5EeWeO6o4SP8Onw"/>
+    <function xsi:type="java:MethodDeclaration" href="../../../Extractor/Results/Alternative_2015-10-19_05-50-38/modisco/Minimal-Project_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.6"/>
+  </methodLevelSourceCodeLink>
+  <methodLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_JZrx4HZ5EeWeO6o4SP8Onw"/>
+    <file href="../../../Extractor/Results/Alternative_2015-10-19_05-50-38/modisco/Minimal-Project_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.0/@inventoryElement.1/@inventoryElement.0"/>
+    <operation xsi:type="repository:OperationSignature" href="internal_architecture_model.repository#_JZFU8XZ5EeWeO6o4SP8Onw"/>
+    <function xsi:type="java:MethodDeclaration" href="../../../Extractor/Results/Alternative_2015-10-19_05-50-38/modisco/Minimal-Project_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.2/@ownedElements.0/@bodyDeclarations.6"/>
+  </methodLevelSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_JW0EEHZ5EeWeO6o4SP8Onw"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../../../Extractor/Results/Alternative_2015-10-19_05-50-38/modisco/Minimal-Project_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedElements.0"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_JYRcoHZ5EeWeO6o4SP8Onw"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../../../Extractor/Results/Alternative_2015-10-19_05-50-38/modisco/Minimal-Project_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedElements.2"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_JYW8MHZ5EeWeO6o4SP8Onw"/>
+    <gastClass xsi:type="java:InterfaceDeclaration" href="../../../Extractor/Results/Alternative_2015-10-19_05-50-38/modisco/Minimal-Project_java.xmi#//@ownedElements.1/@ownedPackages.2/@ownedPackages.0/@ownedElements.0"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_JYXjQHZ5EeWeO6o4SP8Onw"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../../../Extractor/Results/Alternative_2015-10-19_05-50-38/modisco/Minimal-Project_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedElements.3"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_JYzoIHZ5EeWeO6o4SP8Onw"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../../../Extractor/Results/Alternative_2015-10-19_05-50-38/modisco/Minimal-Project_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.1/@ownedElements.0"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_JZFU8HZ5EeWeO6o4SP8Onw"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../../../Extractor/Results/Alternative_2015-10-19_05-50-38/modisco/Minimal-Project_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.2/@ownedElements.0"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_JZGjFHZ5EeWeO6o4SP8Onw"/>
+    <gastClass xsi:type="java:EnumDeclaration" href="../../../Extractor/Results/Alternative_2015-10-19_05-50-38/modisco/Minimal-Project_java.xmi#//@ownedElements.1/@ownedPackages.2/@ownedPackages.0/@ownedElements.2"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_JYW8MHZ5EeWeO6o4SP8Onw"/>
+    <gastClass xsi:type="java:InterfaceDeclaration" href="../../../Extractor/Results/Alternative_2015-10-19_05-50-38/modisco/Minimal-Project_java.xmi#//@ownedElements.1/@ownedPackages.2/@ownedPackages.0/@ownedElements.0"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_JZGjFHZ5EeWeO6o4SP8Onw"/>
+    <gastClass xsi:type="java:EnumDeclaration" href="../../../Extractor/Results/Alternative_2015-10-19_05-50-38/modisco/Minimal-Project_java.xmi#//@ownedElements.1/@ownedPackages.2/@ownedPackages.0/@ownedElements.2"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_JW0EEHZ5EeWeO6o4SP8Onw"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../../../Extractor/Results/Alternative_2015-10-19_05-50-38/modisco/Minimal-Project_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedElements.0"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_JYRcoHZ5EeWeO6o4SP8Onw"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../../../Extractor/Results/Alternative_2015-10-19_05-50-38/modisco/Minimal-Project_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedElements.2"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_JYXjQHZ5EeWeO6o4SP8Onw"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../../../Extractor/Results/Alternative_2015-10-19_05-50-38/modisco/Minimal-Project_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedElements.3"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_JYzoIHZ5EeWeO6o4SP8Onw"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../../../Extractor/Results/Alternative_2015-10-19_05-50-38/modisco/Minimal-Project_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.1/@ownedElements.0"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_JZFU8HZ5EeWeO6o4SP8Onw"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../../../Extractor/Results/Alternative_2015-10-19_05-50-38/modisco/Minimal-Project_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.2/@ownedElements.0"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_JYRcoHZ5EeWeO6o4SP8Onw"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../../../Extractor/Results/Alternative_2015-10-19_05-50-38/modisco/Minimal-Project_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedElements.2"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_JYXjQHZ5EeWeO6o4SP8Onw"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../../../Extractor/Results/Alternative_2015-10-19_05-50-38/modisco/Minimal-Project_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedElements.3"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_JZGjFHZ5EeWeO6o4SP8Onw"/>
+    <gastClass xsi:type="java:EnumDeclaration" href="../../../Extractor/Results/Alternative_2015-10-19_05-50-38/modisco/Minimal-Project_java.xmi#//@ownedElements.1/@ownedPackages.2/@ownedPackages.0/@ownedElements.2"/>
+  </interfaceSourceCodeLink>
+  <componentImplementingClassesLink providedInterfaces="//@interfaceSourceCodeLink.6" isInitialComponent="true">
+    <component xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_JZGjE3Z5EeWeO6o4SP8Onw"/>
+    <implementingClasses xsi:type="java:EnumDeclaration" href="../../../Extractor/Results/Alternative_2015-10-19_05-50-38/modisco/Minimal-Project_java.xmi#//@ownedElements.1/@ownedPackages.2/@ownedPackages.0/@ownedElements.2"/>
+  </componentImplementingClassesLink>
+  <componentImplementingClassesLink providedInterfaces="//@interfaceSourceCodeLink.9 //@interfaceSourceCodeLink.10 //@interfaceSourceCodeLink.11 //@interfaceSourceCodeLink.12 //@interfaceSourceCodeLink.13" requiredInterfaces="//@interfaceSourceCodeLink.7 //@interfaceSourceCodeLink.8">
+    <component xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_JZrx4HZ5EeWeO6o4SP8Onw"/>
+    <implementingClasses xsi:type="java:ClassDeclaration" href="../../../Extractor/Results/Alternative_2015-10-19_05-50-38/modisco/Minimal-Project_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedElements.0"/>
+    <implementingClasses xsi:type="java:ClassDeclaration" href="../../../Extractor/Results/Alternative_2015-10-19_05-50-38/modisco/Minimal-Project_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedElements.2"/>
+    <implementingClasses xsi:type="java:ClassDeclaration" href="../../../Extractor/Results/Alternative_2015-10-19_05-50-38/modisco/Minimal-Project_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedElements.3"/>
+    <implementingClasses xsi:type="java:ClassDeclaration" href="../../../Extractor/Results/Alternative_2015-10-19_05-50-38/modisco/Minimal-Project_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.1/@ownedElements.0"/>
+    <implementingClasses xsi:type="java:ClassDeclaration" href="../../../Extractor/Results/Alternative_2015-10-19_05-50-38/modisco/Minimal-Project_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.2/@ownedElements.0"/>
+  </componentImplementingClassesLink>
+</sourcecodedecorator:SourceCodeDecoratorRepository>
