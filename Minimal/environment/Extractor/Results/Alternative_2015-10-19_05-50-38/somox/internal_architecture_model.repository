@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ASCII"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <repository:Repository xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:repository="http://palladiosimulator.org/PalladioComponentModel/Repository/5.1" xmlns:seff="http://palladiosimulator.org/PalladioComponentModel/SEFF/5.1" id="_JWmosnZ5EeWeO6o4SP8Onw">
   <components__Repository xsi:type="repository:BasicComponent" id="_JZrx4HZ5EeWeO6o4SP8Onw" entityName=" &lt;PC No. 6 eu.cloudscale.examples.minimal.app.Application eu.cloudscale.examples.minimal.app.problems.OLB eu.cloudscale.examples.minimal.app.problems.Hiccups eu.cloudscale.examples.minimal.load.VUser eu.cloudscale.examples.minimal.main.AppLauncher>">
     <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="_JZ2xAHZ5EeWeO6o4SP8Onw" entityName="Application 6 (prov)" providedInterface__OperationProvidedRole="_JW0EEHZ5EeWeO6o4SP8Onw"/>
@@ -182,7 +182,6 @@
   <components__Repository xsi:type="repository:BasicComponent" id="_JZGjE3Z5EeWeO6o4SP8Onw" entityName=" &lt;PC No. 5 java.util.concurrent.TimeUnit>">
     <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="_JZGjFXZ5EeWeO6o4SP8Onw" entityName="TimeUnit 5 (prov)" providedInterface__OperationProvidedRole="_JZGjFHZ5EeWeO6o4SP8Onw"/>
   </components__Repository>
-  <components__Repository xsi:type="repository:BasicComponent" id="_Jc2aoHZ5EeWeO6o4SP8Onw" entityName="SoMoX System-Level Dummy Component"/>
   <interfaces__Repository xsi:type="repository:OperationInterface" id="_JW0EEHZ5EeWeO6o4SP8Onw" entityName="Iminimal.app.Application">
     <signatures__OperationInterface id="_JW0EEXZ5EeWeO6o4SP8Onw" entityName="testOLB">
       <returnType__OperationSignature xsi:type="repository:PrimitiveDataType" href="pathmap://PCM_MODELS/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>

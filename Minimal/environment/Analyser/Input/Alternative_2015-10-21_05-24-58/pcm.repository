@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="ASCII"?>
+<repository:Repository xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:composition="http://palladiosimulator.org/PalladioComponentModel/Core/Composition/5.1" xmlns:repository="http://palladiosimulator.org/PalladioComponentModel/Repository/5.1" id="CSMGen_" entityName="Repository model">
+  <components__Repository xsi:type="repository:CompositeComponent" id="CSMGen__DapYx3gHEeWl967o3PEhxA_opInterfaceContainer2CompositeComponent" entityName="SoMoX Reverse Engineered System">
+    <assemblyContexts__ComposedStructure id="CSMGen__JczXU3Z5EeWeO6o4SP8Onw_opInterfaceContainer2CompositeComponent" entityName=" &lt;PC No. 6 eu.cloudscale.examples.minimal.app.Application eu.cloudscale.examples.minimal.app.problems.OLB eu.cloudscale.examples.minimal.app.problems.Hiccups eu.cloudscale.examples.minimal.load.VUser eu.cloudscale.examples.minimal.main.AppLauncher>">
+      <encapsulatedComponent__AssemblyContext xsi:type="repository:BasicComponent" href="../../../Extractor/Results/Alternative_2015-10-19_05-50-38/somox/internal_architecture_model.repository#_JZrx4HZ5EeWeO6o4SP8Onw"/>
+    </assemblyContexts__ComposedStructure>
+    <assemblyContexts__ComposedStructure id="CSMGen__JcywQHZ5EeWeO6o4SP8Onw_opInterfaceContainer2CompositeComponent" entityName=" &lt;PC No. 5 java.util.concurrent.TimeUnit>">
+      <encapsulatedComponent__AssemblyContext xsi:type="repository:BasicComponent" href="../../../Extractor/Results/Alternative_2015-10-19_05-50-38/somox/internal_architecture_model.repository#_JZGjE3Z5EeWeO6o4SP8Onw"/>
+    </assemblyContexts__ComposedStructure>
+    <connectors__ComposedStructure xsi:type="composition:AssemblyConnector" id="CSMGen__Jc1zkHZ5EeWeO6o4SP8Onw_assemblyConnector2assemblyConnector" entityName="Assembly Connector from  &lt;PC No. 6 eu.cloudscale.examples.minimal.app.Application eu.cloudscale.examples.minimal.app.problems.OLB eu.cloudscale.examples.minimal.app.problems.Hiccups eu.cloudscale.examples.minimal.load.VUser eu.cloudscale.examples.minimal.main.AppLauncher> to  &lt;PC No. 5 java.util.concurrent.TimeUnit>" requiringAssemblyContext_AssemblyConnector="CSMGen__JczXU3Z5EeWeO6o4SP8Onw_opInterfaceContainer2CompositeComponent" providingAssemblyContext_AssemblyConnector="CSMGen__JcywQHZ5EeWeO6o4SP8Onw_opInterfaceContainer2CompositeComponent">
+      <providedRole_AssemblyConnector href="../../../Extractor/Results/Alternative_2015-10-19_05-50-38/somox/internal_architecture_model.repository#_JZGjFXZ5EeWeO6o4SP8Onw"/>
+      <requiredRole_AssemblyConnector href="../../../Extractor/Results/Alternative_2015-10-19_05-50-38/somox/internal_architecture_model.repository#_JZ0UwXZ5EeWeO6o4SP8Onw"/>
+    </connectors__ComposedStructure>
+    <connectors__ComposedStructure xsi:type="composition:ProvidedDelegationConnector" id="_JczXWnZ5EeWeO6o4SP8Onw" entityName="Iapp.problems.Hiccups" outerProvidedRole_ProvidedDelegationConnector="CSMGen_SystemInner_JYXjQHZ5EeWeO6o4SP8Onw_providedRole2OpInterface_OpIntrface2ProvidedRole" assemblyContext_ProvidedDelegationConnector="CSMGen__JczXU3Z5EeWeO6o4SP8Onw_opInterfaceContainer2CompositeComponent">
+      <innerProvidedRole_ProvidedDelegationConnector href="../../../Extractor/Results/Alternative_2015-10-19_05-50-38/somox/internal_architecture_model.repository#_JZ2xCnZ5EeWeO6o4SP8Onw"/>
+    </connectors__ComposedStructure>
+    <connectors__ComposedStructure xsi:type="composition:ProvidedDelegationConnector" id="_JczXXHZ5EeWeO6o4SP8Onw" entityName="Iminimal.load.VUser" outerProvidedRole_ProvidedDelegationConnector="CSMGen_SystemInner_JYzoIHZ5EeWeO6o4SP8Onw_providedRole2OpInterface_OpIntrface2ProvidedRole" assemblyContext_ProvidedDelegationConnector="CSMGen__JczXU3Z5EeWeO6o4SP8Onw_opInterfaceContainer2CompositeComponent">
+      <innerProvidedRole_ProvidedDelegationConnector href="../../../Extractor/Results/Alternative_2015-10-19_05-50-38/somox/internal_architecture_model.repository#_JZ2xD3Z5EeWeO6o4SP8Onw"/>
+    </connectors__ComposedStructure>
+    <connectors__ComposedStructure xsi:type="composition:ProvidedDelegationConnector" id="_JczXXnZ5EeWeO6o4SP8Onw" entityName="Iminimal.main.AppLauncher" outerProvidedRole_ProvidedDelegationConnector="CSMGen_SystemInner_JZFU8HZ5EeWeO6o4SP8Onw_providedRole2OpInterface_OpIntrface2ProvidedRole" assemblyContext_ProvidedDelegationConnector="CSMGen__JczXU3Z5EeWeO6o4SP8Onw_opInterfaceContainer2CompositeComponent">
+      <innerProvidedRole_ProvidedDelegationConnector href="../../../Extractor/Results/Alternative_2015-10-19_05-50-38/somox/internal_architecture_model.repository#_JZ3YEHZ5EeWeO6o4SP8Onw"/>
+    </connectors__ComposedStructure>
+    <connectors__ComposedStructure xsi:type="composition:ProvidedDelegationConnector" id="_JczXWHZ5EeWeO6o4SP8Onw" entityName="Iapp.problems.OLB" outerProvidedRole_ProvidedDelegationConnector="CSMGen_SystemInner_JYRcoHZ5EeWeO6o4SP8Onw_providedRole2OpInterface_OpIntrface2ProvidedRole" assemblyContext_ProvidedDelegationConnector="CSMGen__JczXU3Z5EeWeO6o4SP8Onw_opInterfaceContainer2CompositeComponent">
+      <innerProvidedRole_ProvidedDelegationConnector href="../../../Extractor/Results/Alternative_2015-10-19_05-50-38/somox/internal_architecture_model.repository#_JZ2xBXZ5EeWeO6o4SP8Onw"/>
+    </connectors__ComposedStructure>
+    <connectors__ComposedStructure xsi:type="composition:ProvidedDelegationConnector" id="_JczXUnZ5EeWeO6o4SP8Onw" entityName="Iutil.concurrent.TimeUnit" outerProvidedRole_ProvidedDelegationConnector="CSMGen_SystemInner_JZGjFHZ5EeWeO6o4SP8Onw_providedRole2OpInterface_OpIntrface2ProvidedRole" assemblyContext_ProvidedDelegationConnector="CSMGen__JcywQHZ5EeWeO6o4SP8Onw_opInterfaceContainer2CompositeComponent">
+      <innerProvidedRole_ProvidedDelegationConnector href="../../../Extractor/Results/Alternative_2015-10-19_05-50-38/somox/internal_architecture_model.repository#_JZGjFXZ5EeWeO6o4SP8Onw"/>
+    </connectors__ComposedStructure>
+    <connectors__ComposedStructure xsi:type="composition:ProvidedDelegationConnector" id="_JczXVnZ5EeWeO6o4SP8Onw" entityName="Iminimal.app.Application" outerProvidedRole_ProvidedDelegationConnector="CSMGen_SystemInner_JW0EEHZ5EeWeO6o4SP8Onw_providedRole2OpInterface_OpIntrface2ProvidedRole" assemblyContext_ProvidedDelegationConnector="CSMGen__JczXU3Z5EeWeO6o4SP8Onw_opInterfaceContainer2CompositeComponent">
+      <innerProvidedRole_ProvidedDelegationConnector href="../../../Extractor/Results/Alternative_2015-10-19_05-50-38/somox/internal_architecture_model.repository#_JZ2xAHZ5EeWeO6o4SP8Onw"/>
+    </connectors__ComposedStructure>
+    <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="CSMGen_SystemInner_JZGjFHZ5EeWeO6o4SP8Onw_providedRole2OpInterface_OpIntrface2ProvidedRole" entityName="I_SoMoX Reverse Engineered System">
+      <providedInterface__OperationProvidedRole href="../../../Extractor/Results/Alternative_2015-10-19_05-50-38/somox/internal_architecture_model.repository#_JZGjFHZ5EeWeO6o4SP8Onw"/>
+    </providedRoles_InterfaceProvidingEntity>
+    <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="CSMGen_SystemInner_JYzoIHZ5EeWeO6o4SP8Onw_providedRole2OpInterface_OpIntrface2ProvidedRole" entityName="I_SoMoX Reverse Engineered System">
+      <providedInterface__OperationProvidedRole href="../../../Extractor/Results/Alternative_2015-10-19_05-50-38/somox/internal_architecture_model.repository#_JYzoIHZ5EeWeO6o4SP8Onw"/>
+    </providedRoles_InterfaceProvidingEntity>
+    <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="CSMGen_SystemInner_JW0EEHZ5EeWeO6o4SP8Onw_providedRole2OpInterface_OpIntrface2ProvidedRole" entityName="I_SoMoX Reverse Engineered System">
+      <providedInterface__OperationProvidedRole href="../../../Extractor/Results/Alternative_2015-10-19_05-50-38/somox/internal_architecture_model.repository#_JW0EEHZ5EeWeO6o4SP8Onw"/>
+    </providedRoles_InterfaceProvidingEntity>
+    <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="CSMGen_SystemInner_JYXjQHZ5EeWeO6o4SP8Onw_providedRole2OpInterface_OpIntrface2ProvidedRole" entityName="I_SoMoX Reverse Engineered System">
+      <providedInterface__OperationProvidedRole href="../../../Extractor/Results/Alternative_2015-10-19_05-50-38/somox/internal_architecture_model.repository#_JYXjQHZ5EeWeO6o4SP8Onw"/>
+    </providedRoles_InterfaceProvidingEntity>
+    <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="CSMGen_SystemInner_JZFU8HZ5EeWeO6o4SP8Onw_providedRole2OpInterface_OpIntrface2ProvidedRole" entityName="I_SoMoX Reverse Engineered System">
+      <providedInterface__OperationProvidedRole href="../../../Extractor/Results/Alternative_2015-10-19_05-50-38/somox/internal_architecture_model.repository#_JZFU8HZ5EeWeO6o4SP8Onw"/>
+    </providedRoles_InterfaceProvidingEntity>
+    <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="CSMGen_SystemInner_JYRcoHZ5EeWeO6o4SP8Onw_providedRole2OpInterface_OpIntrface2ProvidedRole" entityName="I_SoMoX Reverse Engineered System">
+      <providedInterface__OperationProvidedRole href="../../../Extractor/Results/Alternative_2015-10-19_05-50-38/somox/internal_architecture_model.repository#_JYRcoHZ5EeWeO6o4SP8Onw"/>
+    </providedRoles_InterfaceProvidingEntity>
+  </components__Repository>
+  <dataTypes__Repository xsi:type="repository:CompositeDataType" id="_4chB0HgHEeWl967o3PEhxA" entityName="Override"/>
+  <dataTypes__Repository xsi:type="repository:PrimitiveDataType" type="BOOL"/>
+  <dataTypes__Repository xsi:type="repository:CompositeDataType" id="_4ca7MHgHEeWl967o3PEhxA" entityName="Map"/>
+  <dataTypes__Repository xsi:type="repository:CompositeDataType" id="_4ccwYHgHEeWl967o3PEhxA" entityName="java.util.List&lt;eu.cloudscale.examples.minimal.app.problems.GarbageObjectB>">
+    <innerDeclaration_CompositeDataType entityName="List" datatype_InnerDeclaration="_4ca7MXgHEeWl967o3PEhxA"/>
+    <innerDeclaration_CompositeDataType entityName="GarbageObjectB" datatype_InnerDeclaration="_4celkHgHEeWl967o3PEhxA"/>
+  </dataTypes__Repository>
+  <dataTypes__Repository xsi:type="repository:CompositeDataType" id="_4cho4HgHEeWl967o3PEhxA" entityName="Serializable"/>
+  <dataTypes__Repository xsi:type="repository:CompositeDataType" id="_4cRKMHgHEeWl967o3PEhxA" entityName="java.util.HashMap&lt;java.lang.String,java.util.List&lt;java.lang.String>>">
+    <innerDeclaration_CompositeDataType entityName="HashMap" datatype_InnerDeclaration="_4cjeEXgHEeWl967o3PEhxA"/>
+    <innerDeclaration_CompositeDataType entityName="java.util.List&lt;java.lang.String>" datatype_InnerDeclaration="_4clTQXgHEeWl967o3PEhxA"/>
+  </dataTypes__Repository>
+  <dataTypes__Repository xsi:type="repository:CompositeDataType" id="_4cpksHgHEeWl967o3PEhxA" entityName="BlockingQueue">
+    <innerDeclaration_CompositeDataType entityName="TimeUnit" datatype_InnerDeclaration="_4cRxQHgHEeWl967o3PEhxA"/>
+    <innerDeclaration_CompositeDataType entityName="Object" datatype_InnerDeclaration="_4co9oXgHEeWl967o3PEhxA"/>
+    <innerDeclaration_CompositeDataType entityName="Queue" datatype_InnerDeclaration="_4cnIcHgHEeWl967o3PEhxA"/>
+  </dataTypes__Repository>
+  <dataTypes__Repository xsi:type="repository:PrimitiveDataType"/>
+  <dataTypes__Repository xsi:type="repository:CompositeDataType" id="_4celkHgHEeWl967o3PEhxA" entityName="GarbageObjectB">
+    <innerDeclaration_CompositeDataType entityName="List" datatype_InnerDeclaration="_4ca7MXgHEeWl967o3PEhxA"/>
+    <innerDeclaration_CompositeDataType entityName="Object" datatype_InnerDeclaration="_4co9oXgHEeWl967o3PEhxA"/>
+    <innerDeclaration_CompositeDataType entityName="java.util.HashMap&lt;java.lang.String,java.util.List&lt;java.lang.String>>" datatype_InnerDeclaration="_4cRKMHgHEeWl967o3PEhxA"/>
+    <innerDeclaration_CompositeDataType entityName="java.util.List&lt;java.lang.String>" datatype_InnerDeclaration="_4clTQXgHEeWl967o3PEhxA"/>
+    <innerDeclaration_CompositeDataType entityName="UUID" datatype_InnerDeclaration="_4ciP8HgHEeWl967o3PEhxA"/>
+    <innerDeclaration_CompositeDataType entityName="Throwable" datatype_InnerDeclaration="_4cksMHgHEeWl967o3PEhxA"/>
+    <innerDeclaration_CompositeDataType entityName="java.util.Map&lt;java.lang.String,java.util.List&lt;java.lang.String>>" datatype_InnerDeclaration="_4cMRsHgHEeWl967o3PEhxA"/>
+    <innerDeclaration_CompositeDataType entityName="Map" datatype_InnerDeclaration="_4ca7MHgHEeWl967o3PEhxA"/>
+    <innerDeclaration_CompositeDataType entityName="Override" datatype_InnerDeclaration="_4chB0HgHEeWl967o3PEhxA"/>
+    <innerDeclaration_CompositeDataType entityName="java.util.ArrayList&lt;java.lang.String>" datatype_InnerDeclaration="_4coWkHgHEeWl967o3PEhxA"/>
+  </dataTypes__Repository>
+  <dataTypes__Repository xsi:type="repository:CompositeDataType" id="_4cLqoHgHEeWl967o3PEhxA" entityName="java.util.ArrayList&lt;eu.cloudscale.examples.minimal.app.problems.GarbageObjectB>"/>
+  <dataTypes__Repository xsi:type="repository:CollectionDataType" id="_4cdXcHgHEeWl967o3PEhxA" entityName="java.lang.String[]" innerType_CollectionDataType="//@dataTypes__Repository.21"/>
+  <dataTypes__Repository xsi:type="repository:CompositeDataType" id="_4ci3AHgHEeWl967o3PEhxA" entityName="Thread">
+    <innerDeclaration_CompositeDataType entityName="Runnable" datatype_InnerDeclaration="_4cLDkHgHEeWl967o3PEhxA"/>
+  </dataTypes__Repository>
+  <dataTypes__Repository xsi:type="repository:CompositeDataType" id="_4cho4XgHEeWl967o3PEhxA" entityName="java.util.ArrayList&lt;java.lang.Byte>"/>
+  <dataTypes__Repository xsi:type="repository:CompositeDataType" id="_4cOt8HgHEeWl967o3PEhxA" entityName="Random">
+    <innerDeclaration_CompositeDataType entityName="Serializable" datatype_InnerDeclaration="_4cho4HgHEeWl967o3PEhxA"/>
+  </dataTypes__Repository>
+  <dataTypes__Repository xsi:type="repository:CompositeDataType" id="_4cd-gXgHEeWl967o3PEhxA" entityName="InterruptedException"/>
+  <dataTypes__Repository xsi:type="repository:CompositeDataType" id="_4cjeEXgHEeWl967o3PEhxA" entityName="HashMap">
+    <innerDeclaration_CompositeDataType entityName="Cloneable" datatype_InnerDeclaration="_4cd-gngHEeWl967o3PEhxA"/>
+    <innerDeclaration_CompositeDataType entityName="AbstractMap" datatype_InnerDeclaration="_4clTQHgHEeWl967o3PEhxA"/>
+    <innerDeclaration_CompositeDataType entityName="Map" datatype_InnerDeclaration="_4ca7MHgHEeWl967o3PEhxA"/>
+    <innerDeclaration_CompositeDataType entityName="Serializable" datatype_InnerDeclaration="_4cho4HgHEeWl967o3PEhxA"/>
+  </dataTypes__Repository>
+  <dataTypes__Repository xsi:type="repository:CompositeDataType" id="_4cOG4HgHEeWl967o3PEhxA" entityName="RuntimeException">
+    <innerDeclaration_CompositeDataType entityName="Exception" datatype_InnerDeclaration="_4cd-gHgHEeWl967o3PEhxA"/>
+    <innerDeclaration_CompositeDataType entityName="Throwable" datatype_InnerDeclaration="_4cksMHgHEeWl967o3PEhxA"/>
+  </dataTypes__Repository>
+  <dataTypes__Repository xsi:type="repository:CompositeDataType" id="_4cd-gngHEeWl967o3PEhxA" entityName="Cloneable"/>
+  <dataTypes__Repository xsi:type="repository:CompositeDataType" id="_4cnIcXgHEeWl967o3PEhxA" entityName="Comparable"/>
+  <dataTypes__Repository xsi:type="repository:CompositeDataType" id="_4cl6UHgHEeWl967o3PEhxA" entityName="java.util.concurrent.BlockingQueue&lt;eu.cloudscale.examples.minimal.app.problems.GarbageObjectA>">
+    <innerDeclaration_CompositeDataType entityName="BlockingQueue" datatype_InnerDeclaration="_4cpksHgHEeWl967o3PEhxA"/>
+    <innerDeclaration_CompositeDataType entityName="GarbageObjectA" datatype_InnerDeclaration="_4cPVAHgHEeWl967o3PEhxA"/>
+  </dataTypes__Repository>
+  <dataTypes__Repository xsi:type="repository:CompositeDataType" id="_4cLqoXgHEeWl967o3PEhxA" entityName="System"/>
+  <dataTypes__Repository xsi:type="repository:PrimitiveDataType" type="STRING"/>
+  <dataTypes__Repository xsi:type="repository:PrimitiveDataType" type="STRING"/>
+  <dataTypes__Repository xsi:type="repository:PrimitiveDataType" type="DOUBLE"/>
+  <dataTypes__Repository xsi:type="repository:CompositeDataType" id="_4cRxQHgHEeWl967o3PEhxA" entityName="TimeUnit"/>
+  <dataTypes__Repository xsi:type="repository:CompositeDataType" id="_4cnvgHgHEeWl967o3PEhxA" entityName="OLB">
+    <innerDeclaration_CompositeDataType entityName="Thread" datatype_InnerDeclaration="_4ci3AHgHEeWl967o3PEhxA"/>
+    <innerDeclaration_CompositeDataType entityName="RuntimeException" datatype_InnerDeclaration="_4cOG4HgHEeWl967o3PEhxA"/>
+    <innerDeclaration_CompositeDataType entityName="InterruptedException" datatype_InnerDeclaration="_4cd-gXgHEeWl967o3PEhxA"/>
+  </dataTypes__Repository>
+  <dataTypes__Repository xsi:type="repository:CompositeDataType" id="_4cnIcHgHEeWl967o3PEhxA" entityName="Queue"/>
+  <dataTypes__Repository xsi:type="repository:CompositeDataType" id="_4ca7MXgHEeWl967o3PEhxA" entityName="List">
+    <innerDeclaration_CompositeDataType entityName="Object" datatype_InnerDeclaration="_4co9oXgHEeWl967o3PEhxA"/>
+    <innerDeclaration_CompositeDataType entityName="Collection" datatype_InnerDeclaration="_4cjeEHgHEeWl967o3PEhxA"/>
+  </dataTypes__Repository>
+  <dataTypes__Repository xsi:type="repository:PrimitiveDataType"/>
+  <dataTypes__Repository xsi:type="repository:CompositeDataType" id="_4cksMHgHEeWl967o3PEhxA" entityName="Throwable"/>
+  <dataTypes__Repository xsi:type="repository:CompositeDataType" id="_4co9oXgHEeWl967o3PEhxA" entityName="Object"/>
+  <dataTypes__Repository xsi:type="repository:CompositeDataType" id="_4co9oHgHEeWl967o3PEhxA" entityName="java.util.concurrent.LinkedBlockingQueue&lt;eu.cloudscale.examples.minimal.app.problems.GarbageObjectA>"/>
+  <dataTypes__Repository xsi:type="repository:CompositeDataType" id="_4clTQXgHEeWl967o3PEhxA" entityName="java.util.List&lt;java.lang.String>">
+    <innerDeclaration_CompositeDataType entityName="List" datatype_InnerDeclaration="_4ca7MXgHEeWl967o3PEhxA"/>
+  </dataTypes__Repository>
+  <dataTypes__Repository xsi:type="repository:CompositeDataType" id="_4cjeEHgHEeWl967o3PEhxA" entityName="Collection"/>
+  <dataTypes__Repository xsi:type="repository:PrimitiveDataType" type="DOUBLE"/>
+  <dataTypes__Repository xsi:type="repository:CompositeDataType" id="_4clTQHgHEeWl967o3PEhxA" entityName="AbstractMap"/>
+  <dataTypes__Repository xsi:type="repository:CompositeDataType" id="_4cMRsHgHEeWl967o3PEhxA" entityName="java.util.Map&lt;java.lang.String,java.util.List&lt;java.lang.String>>">
+    <innerDeclaration_CompositeDataType entityName="Map" datatype_InnerDeclaration="_4ca7MHgHEeWl967o3PEhxA"/>
+    <innerDeclaration_CompositeDataType entityName="java.util.List&lt;java.lang.String>" datatype_InnerDeclaration="_4clTQXgHEeWl967o3PEhxA"/>
+  </dataTypes__Repository>
+  <dataTypes__Repository xsi:type="repository:CompositeDataType" id="_4ciP8HgHEeWl967o3PEhxA" entityName="UUID">
+    <innerDeclaration_CompositeDataType entityName="Serializable" datatype_InnerDeclaration="_4cho4HgHEeWl967o3PEhxA"/>
+    <innerDeclaration_CompositeDataType entityName="Comparable" datatype_InnerDeclaration="_4cnIcXgHEeWl967o3PEhxA"/>
+  </dataTypes__Repository>
+  <dataTypes__Repository xsi:type="repository:CompositeDataType" id="_4coWkHgHEeWl967o3PEhxA" entityName="java.util.ArrayList&lt;java.lang.String>"/>
+  <dataTypes__Repository xsi:type="repository:CompositeDataType" id="_4cd-gHgHEeWl967o3PEhxA" entityName="Exception"/>
+  <dataTypes__Repository xsi:type="repository:CompositeDataType" id="_4cLDkHgHEeWl967o3PEhxA" entityName="Runnable"/>
+  <dataTypes__Repository xsi:type="repository:CompositeDataType" id="_4cPVAHgHEeWl967o3PEhxA" entityName="GarbageObjectA">
+    <innerDeclaration_CompositeDataType entityName="GarbageObjectB" datatype_InnerDeclaration="_4celkHgHEeWl967o3PEhxA"/>
+    <innerDeclaration_CompositeDataType entityName="Object" datatype_InnerDeclaration="_4co9oXgHEeWl967o3PEhxA"/>
+    <innerDeclaration_CompositeDataType entityName="java.util.List&lt;eu.cloudscale.examples.minimal.app.problems.GarbageObjectB>" datatype_InnerDeclaration="_4ccwYHgHEeWl967o3PEhxA"/>
+    <innerDeclaration_CompositeDataType entityName="Throwable" datatype_InnerDeclaration="_4cksMHgHEeWl967o3PEhxA"/>
+    <innerDeclaration_CompositeDataType entityName="Override" datatype_InnerDeclaration="_4chB0HgHEeWl967o3PEhxA"/>
+    <innerDeclaration_CompositeDataType entityName="List" datatype_InnerDeclaration="_4ca7MXgHEeWl967o3PEhxA"/>
+    <innerDeclaration_CompositeDataType entityName="java.util.ArrayList&lt;eu.cloudscale.examples.minimal.app.problems.GarbageObjectB>" datatype_InnerDeclaration="_4cLqoHgHEeWl967o3PEhxA"/>
+  </dataTypes__Repository>
+  <dataTypes__Repository xsi:type="repository:CompositeDataType" id="_4cSYUHgHEeWl967o3PEhxA" entityName="Hiccups">
+    <innerDeclaration_CompositeDataType entityName="java.util.List&lt;java.lang.String>" datatype_InnerDeclaration="_4clTQXgHEeWl967o3PEhxA"/>
+    <innerDeclaration_CompositeDataType entityName="Override" datatype_InnerDeclaration="_4chB0HgHEeWl967o3PEhxA"/>
+    <innerDeclaration_CompositeDataType entityName="GarbageObjectA" datatype_InnerDeclaration="_4cPVAHgHEeWl967o3PEhxA"/>
+    <innerDeclaration_CompositeDataType entityName="Throwable" datatype_InnerDeclaration="_4cksMHgHEeWl967o3PEhxA"/>
+    <innerDeclaration_CompositeDataType entityName="InterruptedException" datatype_InnerDeclaration="_4cd-gXgHEeWl967o3PEhxA"/>
+    <innerDeclaration_CompositeDataType entityName="Random" datatype_InnerDeclaration="_4cOt8HgHEeWl967o3PEhxA"/>
+    <innerDeclaration_CompositeDataType entityName="List" datatype_InnerDeclaration="_4ca7MXgHEeWl967o3PEhxA"/>
+    <innerDeclaration_CompositeDataType entityName="java.util.concurrent.LinkedBlockingQueue&lt;eu.cloudscale.examples.minimal.app.problems.GarbageObjectA>" datatype_InnerDeclaration="_4co9oHgHEeWl967o3PEhxA"/>
+    <innerDeclaration_CompositeDataType entityName="TimeUnit" datatype_InnerDeclaration="_4cRxQHgHEeWl967o3PEhxA"/>
+    <innerDeclaration_CompositeDataType entityName="BlockingQueue" datatype_InnerDeclaration="_4cpksHgHEeWl967o3PEhxA"/>
+    <innerDeclaration_CompositeDataType entityName="java.util.ArrayList&lt;java.lang.String>" datatype_InnerDeclaration="_4coWkHgHEeWl967o3PEhxA"/>
+    <innerDeclaration_CompositeDataType entityName="Runnable" datatype_InnerDeclaration="_4cLDkHgHEeWl967o3PEhxA"/>
+    <innerDeclaration_CompositeDataType entityName="java.util.List&lt;java.lang.Byte>" datatype_InnerDeclaration="_4cmhYHgHEeWl967o3PEhxA"/>
+    <innerDeclaration_CompositeDataType entityName="RuntimeException" datatype_InnerDeclaration="_4cOG4HgHEeWl967o3PEhxA"/>
+    <innerDeclaration_CompositeDataType entityName="Object" datatype_InnerDeclaration="_4co9oXgHEeWl967o3PEhxA"/>
+    <innerDeclaration_CompositeDataType entityName="System" datatype_InnerDeclaration="_4cLqoXgHEeWl967o3PEhxA"/>
+    <innerDeclaration_CompositeDataType entityName="java.util.ArrayList&lt;java.lang.Byte>" datatype_InnerDeclaration="_4cho4XgHEeWl967o3PEhxA"/>
+    <innerDeclaration_CompositeDataType entityName="java.util.concurrent.BlockingQueue&lt;eu.cloudscale.examples.minimal.app.problems.GarbageObjectA>" datatype_InnerDeclaration="_4cl6UHgHEeWl967o3PEhxA"/>
+    <innerDeclaration_CompositeDataType entityName="Thread" datatype_InnerDeclaration="_4ci3AHgHEeWl967o3PEhxA"/>
+  </dataTypes__Repository>
+  <dataTypes__Repository xsi:type="repository:PrimitiveDataType" type="BOOL"/>
+  <dataTypes__Repository xsi:type="repository:CompositeDataType" id="_4cmhYHgHEeWl967o3PEhxA" entityName="java.util.List&lt;java.lang.Byte>">
+    <innerDeclaration_CompositeDataType entityName="List" datatype_InnerDeclaration="_4ca7MXgHEeWl967o3PEhxA"/>
+  </dataTypes__Repository>
+</repository:Repository>

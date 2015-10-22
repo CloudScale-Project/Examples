@@ -1,13 +1,10 @@
-<?xml version="1.0" encoding="ASCII"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <system:System xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:composition="http://palladiosimulator.org/PalladioComponentModel/Core/Composition/5.1" xmlns:repository="http://palladiosimulator.org/PalladioComponentModel/Repository/5.1" xmlns:system="http://palladiosimulator.org/PalladioComponentModel/System/5.1" id="_JWmosHZ5EeWeO6o4SP8Onw" entityName="SoMoX Reverse Engineered System">
   <assemblyContexts__ComposedStructure id="_JcywQHZ5EeWeO6o4SP8Onw" entityName=" &lt;PC No. 5 java.util.concurrent.TimeUnit>">
     <encapsulatedComponent__AssemblyContext xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_JZGjE3Z5EeWeO6o4SP8Onw"/>
   </assemblyContexts__ComposedStructure>
   <assemblyContexts__ComposedStructure id="_JczXU3Z5EeWeO6o4SP8Onw" entityName=" &lt;PC No. 6 eu.cloudscale.examples.minimal.app.Application eu.cloudscale.examples.minimal.app.problems.OLB eu.cloudscale.examples.minimal.app.problems.Hiccups eu.cloudscale.examples.minimal.load.VUser eu.cloudscale.examples.minimal.main.AppLauncher>">
     <encapsulatedComponent__AssemblyContext xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_JZrx4HZ5EeWeO6o4SP8Onw"/>
-  </assemblyContexts__ComposedStructure>
-  <assemblyContexts__ComposedStructure id="_Jc2aoXZ5EeWeO6o4SP8Onw" entityName="SoMoX Dummy Component Instance">
-    <encapsulatedComponent__AssemblyContext xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_Jc2aoHZ5EeWeO6o4SP8Onw"/>
   </assemblyContexts__ComposedStructure>
   <connectors__ComposedStructure xsi:type="composition:ProvidedDelegationConnector" id="_JczXUnZ5EeWeO6o4SP8Onw" entityName="Iutil.concurrent.TimeUnit" outerProvidedRole_ProvidedDelegationConnector="_JczXUXZ5EeWeO6o4SP8Onw" assemblyContext_ProvidedDelegationConnector="_JcywQHZ5EeWeO6o4SP8Onw">
     <innerProvidedRole_ProvidedDelegationConnector href="internal_architecture_model.repository#_JZGjFXZ5EeWeO6o4SP8Onw"/>

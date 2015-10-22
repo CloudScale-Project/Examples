@@ -1,5 +1,113 @@
-<?xml version="1.0" encoding="ASCII"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" type="CompositeModel" measurementUnit="Pixel">
+  <children xsi:type="notation:Shape" type="2002" fontName="DejaVu Sans">
+    <children xsi:type="notation:DecorationNode" type="5012"/>
+    <children xsi:type="notation:DecorationNode" type="7002">
+      <children xsi:type="notation:Shape" type="3006" fontName="DejaVu Sans">
+        <children xsi:type="notation:DecorationNode" type="5009"/>
+        <element href="internal_architecture_model.system#_JcywQHZ5EeWeO6o4SP8Onw"/>
+        <layoutConstraint xsi:type="notation:Bounds" x="411" y="25"/>
+      </children>
+      <children xsi:type="notation:Shape" type="3006" fontName="DejaVu Sans">
+        <children xsi:type="notation:DecorationNode" type="5009"/>
+        <children xsi:type="notation:Shape" type="3007" fontName="DejaVu Sans">
+          <children xsi:type="notation:DecorationNode" type="5007">
+            <layoutConstraint xsi:type="notation:Location" y="5"/>
+          </children>
+          <element href="internal_architecture_model.repository#_JZ2xAHZ5EeWeO6o4SP8Onw"/>
+          <layoutConstraint xsi:type="notation:Bounds" x="-29" y="208"/>
+        </children>
+        <children xsi:type="notation:Shape" type="3007" fontName="DejaVu Sans">
+          <children xsi:type="notation:DecorationNode" type="5007">
+            <layoutConstraint xsi:type="notation:Location" y="5"/>
+          </children>
+          <element href="internal_architecture_model.repository#_JZ2xBXZ5EeWeO6o4SP8Onw"/>
+          <layoutConstraint xsi:type="notation:Bounds" x="-29" y="78"/>
+        </children>
+        <children xsi:type="notation:Shape" type="3007" fontName="DejaVu Sans">
+          <children xsi:type="notation:DecorationNode" type="5007">
+            <layoutConstraint xsi:type="notation:Location" y="5"/>
+          </children>
+          <element href="internal_architecture_model.repository#_JZ2xCnZ5EeWeO6o4SP8Onw"/>
+          <layoutConstraint xsi:type="notation:Bounds" x="-29" y="39"/>
+        </children>
+        <children xsi:type="notation:Shape" type="3007" fontName="DejaVu Sans">
+          <children xsi:type="notation:DecorationNode" type="5007">
+            <layoutConstraint xsi:type="notation:Location" y="5"/>
+          </children>
+          <element href="internal_architecture_model.repository#_JZ2xD3Z5EeWeO6o4SP8Onw"/>
+          <layoutConstraint xsi:type="notation:Bounds" x="-29" y="39"/>
+        </children>
+        <children xsi:type="notation:Shape" type="3007" fontName="DejaVu Sans">
+          <children xsi:type="notation:DecorationNode" type="5007">
+            <layoutConstraint xsi:type="notation:Location" y="5"/>
+          </children>
+          <element href="internal_architecture_model.repository#_JZ3YEHZ5EeWeO6o4SP8Onw"/>
+          <layoutConstraint xsi:type="notation:Bounds" x="-29" y="155"/>
+        </children>
+        <children xsi:type="notation:Shape" type="3008" fontName="DejaVu Sans">
+          <children xsi:type="notation:DecorationNode" type="5008">
+            <layoutConstraint xsi:type="notation:Location" y="5"/>
+          </children>
+          <element href="internal_architecture_model.repository#_JZ0UwHZ5EeWeO6o4SP8Onw"/>
+          <layoutConstraint xsi:type="notation:Bounds"/>
+        </children>
+        <children xsi:type="notation:Shape" type="3008" fontName="DejaVu Sans">
+          <children xsi:type="notation:DecorationNode" type="5008">
+            <layoutConstraint xsi:type="notation:Location" y="5"/>
+          </children>
+          <element href="internal_architecture_model.repository#_JZ0UwXZ5EeWeO6o4SP8Onw"/>
+          <layoutConstraint xsi:type="notation:Bounds"/>
+        </children>
+        <element href="internal_architecture_model.system#_JczXU3Z5EeWeO6o4SP8Onw"/>
+        <layoutConstraint xsi:type="notation:Bounds" x="229" y="142" height="248"/>
+      </children>
+    </children>
+    <children xsi:type="notation:Shape" type="3011" fontName="DejaVu Sans">
+      <children xsi:type="notation:DecorationNode" type="5013">
+        <layoutConstraint xsi:type="notation:Location" y="5"/>
+      </children>
+      <element href="internal_architecture_model.system#_JczXUXZ5EeWeO6o4SP8Onw"/>
+      <layoutConstraint xsi:type="notation:Bounds" x="-59" y="91"/>
+    </children>
+    <children xsi:type="notation:Shape" type="3011" fontName="DejaVu Sans">
+      <children xsi:type="notation:DecorationNode" type="5013">
+        <layoutConstraint xsi:type="notation:Location" y="5"/>
+      </children>
+      <element href="internal_architecture_model.system#_JczXVXZ5EeWeO6o4SP8Onw"/>
+      <layoutConstraint xsi:type="notation:Bounds" x="-59" y="390"/>
+    </children>
+    <children xsi:type="notation:Shape" type="3011" fontName="DejaVu Sans">
+      <children xsi:type="notation:DecorationNode" type="5013">
+        <layoutConstraint xsi:type="notation:Location" y="5"/>
+      </children>
+      <element href="internal_architecture_model.system#_JczXV3Z5EeWeO6o4SP8Onw"/>
+      <layoutConstraint xsi:type="notation:Bounds" x="-59" y="156"/>
+    </children>
+    <children xsi:type="notation:Shape" type="3011" fontName="DejaVu Sans">
+      <children xsi:type="notation:DecorationNode" type="5013">
+        <layoutConstraint xsi:type="notation:Location" y="5"/>
+      </children>
+      <element href="internal_architecture_model.system#_JczXWXZ5EeWeO6o4SP8Onw"/>
+      <layoutConstraint xsi:type="notation:Bounds" x="-59" y="13"/>
+    </children>
+    <children xsi:type="notation:Shape" type="3011" fontName="DejaVu Sans">
+      <children xsi:type="notation:DecorationNode" type="5013">
+        <layoutConstraint xsi:type="notation:Location" y="5"/>
+      </children>
+      <element href="internal_architecture_model.system#_JczXW3Z5EeWeO6o4SP8Onw"/>
+      <layoutConstraint xsi:type="notation:Bounds" x="-59" y="247"/>
+    </children>
+    <children xsi:type="notation:Shape" type="3011" fontName="DejaVu Sans">
+      <children xsi:type="notation:DecorationNode" type="5013">
+        <layoutConstraint xsi:type="notation:Location" y="5"/>
+      </children>
+      <element href="internal_architecture_model.system#_JczXXXZ5EeWeO6o4SP8Onw"/>
+      <layoutConstraint xsi:type="notation:Bounds" x="-59" y="312"/>
+    </children>
+    <element href="internal_architecture_model.system#_JWmosHZ5EeWeO6o4SP8Onw"/>
+    <layoutConstraint xsi:type="notation:Bounds" width="612" height="482"/>
+  </children>
   <styles xsi:type="notation:DiagramStyle"/>
   <element href="internal_architecture_model.system#_JWmosHZ5EeWeO6o4SP8Onw"/>
 </notation:Diagram>
