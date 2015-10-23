@@ -2,9 +2,11 @@
 <!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
 <properties>
 <comment/>
-<entry key="name">Fibonacci from Overview Capacity [04:10:27]</entry>
-<entry key="modified">1445523027539</entry>
+<entry key="status">error</entry>
+<entry key="name">Fibonacci from Overview Capacity [10:19:43]</entry>
+<entry key="modified">1445588383162</entry>
 <entry key="resourceType">CAPACITY</entry>
 <entry key="config_alternative">../../Configurations/Alternative_2015-10-21_05-49-09</entry>
-<entry key="created">1445523027512</entry>
+<entry key="created">1445588383131</entry>
+<entry key="input_alternative">../../Input/Alternative_2015-10-21_05-24-58</entry>
 </properties>

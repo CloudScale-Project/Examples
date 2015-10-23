@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment/>
+<entry key="status">error</entry>
+<entry key="name">Fibonacci from Overview Scalability [10:19:56]</entry>
+<entry key="modified">1445588396513</entry>
+<entry key="resourceType">SCALABILITY</entry>
+<entry key="config_alternative">../../Configurations/Alternative_2015-10-22_05-45-59</entry>
+<entry key="created">1445588396476</entry>
+<entry key="input_alternative">../../Input/Alternative_2015-10-21_05-24-58</entry>
+</properties>
