@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="ASCII"?>
 <tools.descartes.dlim:Sequence xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tools.descartes.dlim="http://descartes.tools/dlim/0.1" name="Linear trend" terminateAfterLoops="1" firstIterationEnd="30.0" loopDuration="30.0" finalDuration="30.0">
   <sequenceFunctionContainers name="Container" duration="30.0" firstIterationEnd="30.0">
-    <function xsi:type="tools.descartes.dlim:LinearTrend" functionOutputAtEnd="20.0"/>
+    <function xsi:type="tools.descartes.dlim:LinearTrend" functionOutputAtEnd="20.0">
+      <combine>
+        <function xsi:type="tools.descartes.dlim:Sequence"/>
+      </combine>
+    </function>
   </sequenceFunctionContainers>
 </tools.descartes.dlim:Sequence>

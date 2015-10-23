@@ -44,7 +44,7 @@ public final class OLB {
 	/**
 	 * Method leading to a One Lane Bridge.
 	 */
-	public synchronized void olbMethod() {
+	public synchronized void request() {
 		try {
 			Thread.sleep(TIME_TO_SLEEP);
 		} catch (InterruptedException e) {
@@ -55,7 +55,7 @@ public final class OLB {
 	/**
 	 * Method leading to a One Lane Bridge.
 	 */
-	public synchronized void olbMethodFibonacci() {
+	public synchronized void request2() {
 
 		fibonacci(FIB_NUMBER);
 	}

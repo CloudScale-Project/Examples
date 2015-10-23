@@ -15,31 +15,46 @@
  */
 package eu.cloudscale.examples.minimal.app.problems;
 
-import java.util.ArrayList;
-import java.util.List;
-
 /**
- * Garbage.
- * @author Alexander Wert
+ * Represents simple case without any problem.
+ *
+ * @author C5170547
  *
  */
-public class GarbageObjectA {
-
-	private static final int GARBAGE_SIZE = 20;
-	List<GarbageObjectB> list = new ArrayList<>();
+public final class OK {
+	private static final int FIB_NUMBER = 25;
+	private static OK instance;
 
 	/**
-	 * Constructor.
+	 *
+	 * @return singleton instance
 	 */
-	public GarbageObjectA() {
-		for (int i = 0; i < GARBAGE_SIZE; i++) {
-			list.add(new GarbageObjectB());
+	public static OK getInstnace() {
+		if (instance == null) {
+			instance = new OK();
+		}
+		return instance;
+	}
+
+	private OK() {
+
+	}
+
+	public void request() {
+
+		fibonacci(FIB_NUMBER);
+	}
+
+	/**
+	 *
+	 * @param n fib parameter
+	 * @return fib(n)
+	 */
+	private int fibonacci(int n) {
+		if (n <= 1) {
+			return 1;
+		} else {
+			return fibonacci(n - 2) + fibonacci(n - 1);
 		}
 	}
-
-	@Override
-	protected void finalize() throws Throwable {
-		super.finalize();
-	}
-
 }

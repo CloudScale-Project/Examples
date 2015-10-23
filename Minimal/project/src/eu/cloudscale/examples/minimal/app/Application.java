@@ -20,7 +20,7 @@ import javax.ws.rs.Path;
 import javax.ws.rs.Produces;
 import javax.ws.rs.core.MediaType;
 
-import eu.cloudscale.examples.minimal.app.problems.Hiccups;
+import eu.cloudscale.examples.minimal.app.problems.OK;
 import eu.cloudscale.examples.minimal.app.problems.OLB;
 
 /**
@@ -31,9 +31,7 @@ import eu.cloudscale.examples.minimal.app.problems.OLB;
  */
 @Path("demo")
 public class Application {
-
-	private static final int FIB_NUMBER = 4;
-
+	
 	/**
 	 *
 	 * @return hello string
@@ -43,7 +41,7 @@ public class Application {
 	@Produces(MediaType.APPLICATION_JSON)
 	public String testOLB() {
 		System.out.println("OLB called");
-		OLB.getInstnace().olbMethod();
+		OLB.getInstnace().request();
 		return "Hello from OLB Test Method!";
 	}
 
@@ -52,37 +50,10 @@ public class Application {
 	 * @return hello string
 	 */
 	@GET
-	@Path("fibonacci")
+	@Path("testOK")
 	@Produces(MediaType.APPLICATION_JSON)
 	public String testNoProblem() {
-		fibonacci(FIB_NUMBER);
-		return "Hello from Fibonacci Method!";
+		OK.getInstnace().request();
+		return "Hello from OK Test Method!";
 	}
-
-	/**
-	 *
-	 * @return hello string
-	 */
-	@GET
-	@Path("testHiccups")
-	@Produces(MediaType.APPLICATION_JSON)
-	public String testHiccups() {
-		Hiccups.getInstnace().garbageHiccupWithNoise();
-		return "Hello from Hiccup Test Method!";
-
-	}
-
-	/**
-	 *
-	 * @param n fib parameter
-	 * @return fib(n)
-	 */
-	public int fibonacci(int n) {
-		if (n <= 1) {
-			return 1;
-		} else {
-			return fibonacci(n - 2) + fibonacci(n - 1);
-		}
-	}
-
 }

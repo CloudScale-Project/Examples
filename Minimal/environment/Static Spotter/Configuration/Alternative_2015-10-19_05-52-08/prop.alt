@@ -3,10 +3,10 @@
 <properties>
 <comment/>
 <entry key="catalog">catalog.pcs</entry>
-<entry key="last_run">1445269934854</entry>
-<entry key="last_result">../../Results/Alternative_2015-10-19_05-52-14</entry>
+<entry key="last_run">1445417542116</entry>
+<entry key="last_result">../../Results/Alternative_2015-10-21_10-52-22</entry>
 <entry key="name">Basic configuration</entry>
-<entry key="modified">1445269934856</entry>
+<entry key="modified">1445417542119</entry>
 <entry key="created">1445269928491</entry>
 <entry key="engines_ecore">catalog.pcs.ecore</entry>
 <entry key="input_alternative">../../Input/Alternative_2015-10-19_05-51-33</entry>

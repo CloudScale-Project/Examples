@@ -57,7 +57,7 @@ public class VUser implements ISimpleVUser {
 			Thread.sleep(getNextThinkTime());
 
 			// call Fibonacci service
-			webResource.path("demo").path("fibonacci").accept(MediaType.APPLICATION_JSON).get(String.class);
+			webResource.path("demo").path("testOK").accept(MediaType.APPLICATION_JSON).get(String.class);
 			Thread.sleep(getNextThinkTime());
 		} catch (final Throwable e) {
 			// ignoring exception
