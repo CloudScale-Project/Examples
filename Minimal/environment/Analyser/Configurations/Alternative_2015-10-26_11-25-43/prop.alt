@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment/>
+<entry key="name">Basic scalability</entry>
+<entry key="resourceType">SCALABILITY</entry>
+<entry key="input_alternative">../../Input/Alternative_2015-10-26_10-57-20</entry>
+<entry key="created">1445855143862</entry>
+<entry key="eu.cloudscaleproject.env.toolchain.ToolchainUtils.path_pcmmeasuringpoint">analyser.measuringpoint</entry>
+<entry key="eu.cloudscaleproject.env.toolchain.ToolchainUtils.path_pms">analyser.monitorrepository</entry>
+<entry key="modified">1445855148464</entry>
+<entry key="last_result">../../Result/Result_2015-10-26_11-25-47</entry>
+<entry key="eu.cloudscaleproject.env.toolchain.ToolchainUtils.path_experiments">analyser.experiments</entry>
+<entry key="eu.cloudscaleproject.env.toolchain.ToolchainUtils.path_slo">analyser.slo</entry>
+<entry key="last_run">1445855148421</entry>
+</properties>

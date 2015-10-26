@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="ASCII"?>
+<org.palladiosimulator.edp2.models:ExperimentGroup xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:metricspec="http://palladiosimulator.org/MetricSpec/1.0" xmlns:org.palladiosimulator.edp2.models="http://palladiosimulator.org/EDP2/ExperimentData/1.0" xmlns:pcmmeasuringpoint="http://palladiosimulator.org/PCM/MeasuringPoint/1.0" id="_IGGYwXvMEeWGyNybyoAQrQ" purpose="CloudScale experiments model [171c34c9-e9f4-43e2-a75b-d82caa3da9cc]">
+  <experimentSettings id="_IGG_0HvMEeWGyNybyoAQrQ" description="Variation [] [SimuLizar default configuration]" measuringTypes="_IHaAUHvMEeWGyNybyoAQrQ">
+    <experimentRuns id="_IGG_0XvMEeWGyNybyoAQrQ" duration="rO0ABXNyABpqYXZheC5tZWFzdXJlLk1lYXN1cmUkTG9uZwAAAAAAAAABAgACSgAGX3ZhbHVlTAAFX3VuaXR0ABlMamF2YXgvbWVhc3VyZS91bml0L1VuaXQ7eHIAFWphdmF4Lm1lYXN1cmUuTWVhc3VyZRLhH5KGpamaAgAAeHAAAAAAAAABCnNyABtqYXZheC5tZWFzdXJlLnVuaXQuQmFzZVVuaXQAAAAAAAAAAQIAAUwAB19zeW1ib2x0ABJMamF2YS9sYW5nL1N0cmluZzt4cgAXamF2YXgubWVhc3VyZS51bml0LlVuaXTNyN4WeM1SZwIAAHhwdAABcw==" startTime="2015-10-26T11:27:15.149+0100">
+      <measurement id="_IHaAUXvMEeWGyNybyoAQrQ" measuringType="_IHaAUHvMEeWGyNybyoAQrQ">
+        <measurementRanges endTime="rO0ABXNyABpqYXZheC5tZWFzdXJlLk1lYXN1cmUkTG9uZwAAAAAAAAABAgACSgAGX3ZhbHVlTAAFX3VuaXR0ABlMamF2YXgvbWVhc3VyZS91bml0L1VuaXQ7eHIAFWphdmF4Lm1lYXN1cmUuTWVhc3VyZRLhH5KGpamaAgAAeHAAAAFQo7ANV3NyABtqYXZheC5tZWFzdXJlLnVuaXQuQmFzZVVuaXQAAAAAAAAAAQIAAUwAB19zeW1ib2x0ABJMamF2YS9sYW5nL1N0cmluZzt4cgAXamF2YXgubWVhc3VyZS51bml0LlVuaXTNyN4WeM1SZwIAAHhwdAABcw==" startTime="rO0ABXNyABpqYXZheC5tZWFzdXJlLk1lYXN1cmUkTG9uZwAAAAAAAAABAgACSgAGX3ZhbHVlTAAFX3VuaXR0ABlMamF2YXgvbWVhc3VyZS91bml0L1VuaXQ7eHIAFWphdmF4Lm1lYXN1cmUuTWVhc3VyZRLhH5KGpamaAgAAeHAAAAFQo7AMTXNyABtqYXZheC5tZWFzdXJlLnVuaXQuQmFzZVVuaXQAAAAAAAAAAQIAAUwAB19zeW1ib2x0ABJMamF2YS9sYW5nL1N0cmluZzt4cgAXamF2YXgubWVhc3VyZS51bml0LlVuaXTNyN4WeM1SZwIAAHhwdAABcw==">
+          <rawMeasurements id="_IHaAUnvMEeWGyNybyoAQrQ">
+            <dataSeries xsi:type="org.palladiosimulator.edp2.models:DoubleBinaryMeasurements" valuesUuid="_IHaAU3vMEeWGyNybyoAQrQ" storageUnit="ACED00057372001B6A617661782E6D6561737572652E756E69742E42617365556E697400000000000000010200014C00075F73796D626F6C7400124C6A6176612F6C616E672F537472696E673B787200176A617661782E6D6561737572652E756E69742E556E6974CDC8DE1678CD5267020000787074000173"/>
+            <dataSeries xsi:type="org.palladiosimulator.edp2.models:DoubleBinaryMeasurements" valuesUuid="_IHaAVHvMEeWGyNybyoAQrQ" storageUnit="ACED00057372001B6A617661782E6D6561737572652E756E69742E42617365556E697400000000000000010200014C00075F73796D626F6C7400124C6A6176612F6C616E672F537472696E673B787200176A617661782E6D6561737572652E756E69742E556E6974CDC8DE1678CD5267020000787074000173"/>
+          </rawMeasurements>
+        </measurementRanges>
+      </measurement>
+    </experimentRuns>
+  </experimentSettings>
+  <measuringTypes id="_IHaAUHvMEeWGyNybyoAQrQ" experimentSettings="_IGG_0HvMEeWGyNybyoAQrQ" measuringPoint="//@measuringPointRepositories.0/@measuringPoints.0">
+    <metric xsi:type="metricspec:MetricSetDescription" href="pathmap://METRIC_SPEC_MODELS/commonMetrics.metricspec#_mZb3MdoLEeO-WvSDaR6unQ"/>
+  </measuringTypes>
+  <measuringPointRepositories id="_-ieGYHvLEeWGyNybyoAQrQ">
+    <measuringPoints xsi:type="pcmmeasuringpoint:UsageScenarioMeasuringPoint" stringRepresentation="Usage Scenario: DefaultUsageScenario" resourceURIRepresentation="platform:/resource/Minimal-Example/Analyser/Input/Alternative_2015-10-26_10-57-20/pcm.usagemodel#CSMGen__5SuA0HvHEeWJZY0wECJyEAclosedWorkload_csm2usage">
+      <usageScenario href="platform:/resource/Minimal-Example/Analyser/Input/Alternative_2015-10-26_10-57-20/pcm.usagemodel#CSMGen__5SuA0HvHEeWJZY0wECJyEAclosedWorkload_csm2usage"/>
+    </measuringPoints>
+  </measuringPointRepositories>
+</org.palladiosimulator.edp2.models:ExperimentGroup>
