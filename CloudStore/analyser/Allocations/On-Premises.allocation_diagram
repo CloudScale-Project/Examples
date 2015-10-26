@@ -99,6 +99,19 @@
     <element xmi:type="resourceenvironment:ResourceContainer" href="../ResourceEnvironments/On-Premises.resourceenvironment#_oFWbIKD2EeKjDcfkNgs1Gg"/>
     <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5f_GAaD2EeKjDcfkNgs1Gg" x="835" y="395" width="591" height="246"/>
   </children>
+  <children xmi:type="notation:Shape" xmi:id="_GeDZsHvIEeWOqY570KuQYg" type="2003" fontName=".Helvetica Neue DeskInterface">
+    <children xmi:type="notation:DecorationNode" xmi:id="_GeEAwHvIEeWOqY570KuQYg" type="5008"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_GeEAwXvIEeWOqY570KuQYg" type="7003">
+      <children xmi:type="notation:Shape" xmi:id="_K3rsYHvIEeWOqY570KuQYg" type="3002" fontName=".Helvetica Neue DeskInterface">
+        <children xmi:type="notation:DecorationNode" xmi:id="_K3rsYnvIEeWOqY570KuQYg" type="5006"/>
+        <children xmi:type="notation:DecorationNode" xmi:id="_K3rsY3vIEeWOqY570KuQYg" type="5007"/>
+        <element xmi:type="allocation:AllocationContext" href="On-Premises.allocation#_KEBa0HvIEeWOqY570KuQYg"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_K3rsYXvIEeWOqY570KuQYg" x="59" y="60"/>
+      </children>
+    </children>
+    <element xmi:type="resourceenvironment:ResourceContainer" href="../ResourceEnvironments/On-Premises.resourceenvironment#_299I4HvHEeWOqY570KuQYg"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_GeDZsXvIEeWOqY570KuQYg" x="152" y="592" width="581" height="193"/>
+  </children>
   <styles xmi:type="notation:DiagramStyle" xmi:id="_ZOqKIaDqEeKjDcfkNgs1Gg"/>
   <element xmi:type="allocation:Allocation" href="On-Premises.allocation#_ZOoU8KDqEeKjDcfkNgs1Gg"/>
 </notation:Diagram>

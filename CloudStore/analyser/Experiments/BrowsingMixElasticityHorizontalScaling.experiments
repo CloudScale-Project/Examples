@@ -15,8 +15,8 @@
       <allocation href="../Allocations/On-Premises.allocation#_ZOoU8KDqEeKjDcfkNgs1Gg"/>
       <middlewareRepository href="pathmap://PCM_MODELS/Glassfish.repository#_yQk9oIX1EdyWta7nHuXiHQ"/>
       <eventMiddleWareRepository href="pathmap://PCM_MODELS/default_event_middleware.repository#_Onc7cMALEd-LKvNtxXAQbQ"/>
-      <reconfigurationRules href="ReconfigurationRules.experiments#/"/>
-      <monitorRepository href="../UsageScenarios/BrowsingMix.monitorrepository#/"/>
+      <reconfigurationRules href="ReconfigurationRulesHorizontalScaling.experiments#/"/>
+      <monitorRepository href="../UsageScenarios/BrowsingMix.monitorrepository#_cQTG8NYlEeSLYeOEPZiDBw"/>
       <serviceLevelObjectives href="../UsageScenarios/BrowsingMix.slo#/"/>
       <usageEvolution href="../UsageEvolution/BrowsingMixOneYearTrend.usageevolution#_i-2QoHWQEeSn05EdHZE9fg"/>
     </initialModel>

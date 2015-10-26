@@ -54,4 +54,8 @@
     <resourceContainer_AllocationContext href="../ResourceEnvironments/On-Premises.resourceenvironment#_yv9PkKDpEeKjDcfkNgs1Gg"/>
     <assemblyContext_AllocationContext href="../CloudStore.system#_YyTA4GPPEeOoburSBwQF3A"/>
   </allocationContexts_Allocation>
+  <allocationContexts_Allocation id="_KEBa0HvIEeWOqY570KuQYg" entityName="Allocation_Assembly_PaymentGateway &lt;PaymentGateway> &lt;PaymentGateway>">
+    <resourceContainer_AllocationContext href="../ResourceEnvironments/On-Premises.resourceenvironment#_299I4HvHEeWOqY570KuQYg"/>
+    <assemblyContext_AllocationContext href="../CloudStore.system#_am8QAHvHEeWOqY570KuQYg"/>
+  </allocationContexts_Allocation>
 </allocation:Allocation>

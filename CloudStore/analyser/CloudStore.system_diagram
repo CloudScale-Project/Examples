@@ -113,6 +113,13 @@
           <element href="CloudStore.repository#_rxn4UKjoEeKwx82kckLl3w"/>
           <layoutConstraint xsi:type="notation:Bounds" x="11" y="130"/>
         </children>
+        <children xsi:type="notation:Shape" type="3008" fontName=".Helvetica Neue DeskInterface">
+          <children xsi:type="notation:DecorationNode" type="5008">
+            <layoutConstraint xsi:type="notation:Location" y="5"/>
+          </children>
+          <element href="CloudStore.repository#_C-VccHvGEeWOqY570KuQYg"/>
+          <layoutConstraint xsi:type="notation:Bounds"/>
+        </children>
         <element href="CloudStore.system#_iVKO4KDaEeKjDcfkNgs1Gg"/>
         <layoutConstraint xsi:type="notation:Bounds" x="485" y="695" width="351" height="131"/>
       </children>
@@ -390,6 +397,18 @@
         <element href="CloudStore.system#_YyTA4GPPEeOoburSBwQF3A"/>
         <layoutConstraint xsi:type="notation:Bounds" x="1040" y="1145" width="306"/>
       </children>
+      <children xsi:type="notation:Shape" type="3006" fontName=".Helvetica Neue DeskInterface">
+        <children xsi:type="notation:DecorationNode" type="5009"/>
+        <children xsi:type="notation:Shape" type="3007" fontName=".Helvetica Neue DeskInterface">
+          <children xsi:type="notation:DecorationNode" type="5007">
+            <layoutConstraint xsi:type="notation:Location" x="-84" y="-19"/>
+          </children>
+          <element href="CloudStore.repository#_i6GOcHvGEeWOqY570KuQYg"/>
+          <layoutConstraint xsi:type="notation:Bounds"/>
+        </children>
+        <element href="CloudStore.system#_am8QAHvHEeWOqY570KuQYg"/>
+        <layoutConstraint xsi:type="notation:Bounds" x="1057" y="635"/>
+      </children>
     </children>
     <children xsi:type="notation:Shape" type="3011" fontName="Segoe UI">
       <children xsi:type="notation:DecorationNode" type="5013">
@@ -583,5 +602,12 @@
     <bendpoints xsi:type="notation:RelativeBendpoints" points="[-12, 3, 138, -42]$[-152, 41, -2, -4]"/>
     <sourceAnchor xsi:type="notation:IdentityAnchor" id="(1.0,1.0)"/>
     <targetAnchor xsi:type="notation:IdentityAnchor" id="(0.4,0.13333333333333333)"/>
+  </edges>
+  <edges xsi:type="notation:Connector" type="4004" source="//@children.0/@children.1/@children.2/@children.6" target="//@children.0/@children.1/@children.13/@children.1">
+    <styles xsi:type="notation:FontStyle" fontName=".Helvetica Neue DeskInterface"/>
+    <element href="CloudStore.system#_dlUssHvHEeWOqY570KuQYg"/>
+    <bendpoints xsi:type="notation:RelativeBendpoints" points="[7, 0, -174, 73]$[178, -74, -3, -1]"/>
+    <sourceAnchor xsi:type="notation:IdentityAnchor" id="(0.8,0.5)"/>
+    <targetAnchor xsi:type="notation:IdentityAnchor" id="(0.1,0.4666666666666667)"/>
   </edges>
 </notation:Diagram>

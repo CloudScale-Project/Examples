@@ -868,6 +868,7 @@
     <requiredRoles_InterfaceRequiringEntity xsi:type="repository:OperationRequiredRole" id="_kOAaYKArEeKjDcfkNgs1Gg" entityName="Required_IDBShoppingCart_ShoppingCart" requiredInterface__OperationRequiredRole="_rlEOAJ6rEeKjDcfkNgs1Gg"/>
     <requiredRoles_InterfaceRequiringEntity xsi:type="repository:OperationRequiredRole" id="_151i8KArEeKjDcfkNgs1Gg" entityName="Required_IPromotionalProcessing_ShoppingCart" requiredInterface__OperationRequiredRole="_X41fwJ4CEeKjDcfkNgs1Gg"/>
     <requiredRoles_InterfaceRequiringEntity xsi:type="repository:InfrastructureRequiredRole" id="_rxn4UKjoEeKwx82kckLl3w" entityName="Required_IWebServer_ShoppingCartPages" requiredInterface__InfrastructureRequiredRole="_6imrQKjmEeKwx82kckLl3w"/>
+    <requiredRoles_InterfaceRequiringEntity xsi:type="repository:OperationRequiredRole" id="_C-VccHvGEeWOqY570KuQYg" entityName="Required_IPaymentGateway_ShoppingCartPages" requiredInterface__OperationRequiredRole="_6EcDkHvFEeWOqY570KuQYg"/>
     <serviceEffectSpecifications__BasicComponent xsi:type="seff:ResourceDemandingSEFF" id="_hH3v4aArEeKjDcfkNgs1Gg" describedService__SEFF="_h3vVUKAlEeKjDcfkNgs1Gg">
       <steps_Behaviour xsi:type="seff:StartAction" id="_hH3v4qArEeKjDcfkNgs1Gg" entityName="start" successor_AbstractAction="_FTtjQH6UEeOMPbPw2aYEHg"/>
       <steps_Behaviour xsi:type="seff:StopAction" id="_hH3v46ArEeKjDcfkNgs1Gg" entityName="stop" predecessor_AbstractAction="_J4FtYH6UEeOMPbPw2aYEHg"/>
@@ -1451,6 +1452,19 @@
       </steps_Behaviour>
     </serviceEffectSpecifications__BasicComponent>
   </components__Repository>
+  <components__Repository xsi:type="repository:BasicComponent" id="_FTof4HvGEeWOqY570KuQYg" entityName="PaymentGateway">
+    <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="_i6GOcHvGEeWOqY570KuQYg" entityName="Provided_IPaymentGateway_PaymentGateway" providedInterface__OperationProvidedRole="_6EcDkHvFEeWOqY570KuQYg"/>
+    <serviceEffectSpecifications__BasicComponent xsi:type="seff:ResourceDemandingSEFF" id="_i6Kf4HvGEeWOqY570KuQYg" describedService__SEFF="_77tuQHvFEeWOqY570KuQYg">
+      <steps_Behaviour xsi:type="seff:StartAction" id="_i6LG8HvGEeWOqY570KuQYg" entityName="start" successor_AbstractAction="_lkyTEHvGEeWOqY570KuQYg"/>
+      <steps_Behaviour xsi:type="seff:StopAction" id="_i6LG8XvGEeWOqY570KuQYg" entityName="stop" predecessor_AbstractAction="_lkyTEHvGEeWOqY570KuQYg"/>
+      <steps_Behaviour xsi:type="seff:InternalAction" id="_lkyTEHvGEeWOqY570KuQYg" entityName="ResponseDelayOfExternalGateway" predecessor_AbstractAction="_i6LG8HvGEeWOqY570KuQYg" successor_AbstractAction="_i6LG8XvGEeWOqY570KuQYg">
+        <resourceDemand_Action>
+          <specification_ParametericResourceDemand specification="DoublePDF[(0;0.0)(10.0;100.0)(20.0;0.0)]"/>
+          <requiredResource_ParametricResourceDemand href="pathmap://PCM_MODELS/Palladio.resourcetype#_nvHX4KkREdyEA_b89s7q9w"/>
+        </resourceDemand_Action>
+      </steps_Behaviour>
+    </serviceEffectSpecifications__BasicComponent>
+  </components__Repository>
   <interfaces__Repository xsi:type="repository:OperationInterface" id="_X41fwJ4CEeKjDcfkNgs1Gg" entityName="IPromotionalProcessing">
     <signatures__OperationInterface id="_DZTrEJ4DEeKjDcfkNgs1Gg" entityName="displayPromotions">
       <returnType__OperationSignature xsi:type="repository:PrimitiveDataType" href="pathmap://PCM_MODELS/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
@@ -1861,6 +1875,9 @@
   <interfaces__Repository xsi:type="repository:InfrastructureInterface" id="_6imrQKjmEeKwx82kckLl3w" entityName="IWebServer">
     <infrastructureSignatures__InfrastructureInterface id="_4cxxwKjnEeKwx82kckLl3w" entityName="getWorker"/>
     <infrastructureSignatures__InfrastructureInterface id="_9vN7wKjnEeKwx82kckLl3w" entityName="returnWorker"/>
+  </interfaces__Repository>
+  <interfaces__Repository xsi:type="repository:OperationInterface" id="_6EcDkHvFEeWOqY570KuQYg" entityName="IPaymentGateway">
+    <signatures__OperationInterface id="_77tuQHvFEeWOqY570KuQYg" entityName="pay"/>
   </interfaces__Repository>
   <dataTypes__Repository xsi:type="repository:CompositeDataType" id="_qA-6MJ6tEeKjDcfkNgs1Gg" entityName="Cart">
     <innerDeclaration_CompositeDataType entityName="SC_SUB_TOTAL">

@@ -490,14 +490,6 @@
           <element xmi:type="repository:PassiveResource" href="CloudStore.repository#_jYA8cFv6EeOGD-7E6pGktA"/>
           <layoutConstraint xmi:type="notation:Location" xmi:id="_fdQ2V36lEeOMPbPw2aYEHg"/>
         </children>
-        <children xmi:type="notation:Node" xmi:id="_fdQ2WH6lEeOMPbPw2aYEHg" type="3103">
-          <element xmi:type="repository:PassiveResource" href="CloudStore.repository#_TfFMgFwIEeO5v69jsPNXAg"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_fdQ2WX6lEeOMPbPw2aYEHg"/>
-        </children>
-        <children xmi:type="notation:Node" xmi:id="_ZE0REH6mEeOMPbPw2aYEHg" type="3103">
-          <element xmi:type="repository:PassiveResource" href="CloudStore.repository#_ZD3O0H6mEeOMPbPw2aYEHg"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_ZE0REX6mEeOMPbPw2aYEHg"/>
-        </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_OkupBKAkEeKjDcfkNgs1Gg" showTitle="true"/>
         <styles xmi:type="notation:SortingStyle" xmi:id="_OkupBaAkEeKjDcfkNgs1Gg"/>
         <styles xmi:type="notation:FilteringStyle" xmi:id="_OkupBqAkEeKjDcfkNgs1Gg"/>
@@ -932,6 +924,41 @@
       </children>
       <element xmi:type="repository:BasicComponent" href="CloudStore.repository#_MkWMoGC2EeOyBvpwll1J2w"/>
       <layoutConstraint xmi:type="notation:Bounds" xmi:id="_MlA7AWC2EeOyBvpwll1J2w" x="1140" y="575" height="665"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_6HUYcHvFEeWOqY570KuQYg" type="2107" fontName=".Helvetica Neue DeskInterface">
+      <children xmi:type="notation:DecorationNode" xmi:id="_6HU_gHvFEeWOqY570KuQYg" type="5108"/>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_6HVmkHvFEeWOqY570KuQYg" type="7106">
+        <children xmi:type="notation:Node" xmi:id="_77vjcHvFEeWOqY570KuQYg" type="3106">
+          <element xmi:type="repository:OperationSignature" href="CloudStore.repository#_77tuQHvFEeWOqY570KuQYg"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_77vjcXvFEeWOqY570KuQYg"/>
+        </children>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_6HVmkXvFEeWOqY570KuQYg"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_6HVmknvFEeWOqY570KuQYg"/>
+      </children>
+      <element xmi:type="repository:OperationInterface" href="CloudStore.repository#_6EcDkHvFEeWOqY570KuQYg"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_6HUYcXvFEeWOqY570KuQYg" x="24" y="1032"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_FTqVEHvGEeWOqY570KuQYg" type="2102" fontName=".Helvetica Neue DeskInterface">
+      <children xmi:type="notation:DecorationNode" xmi:id="_FTqVEnvGEeWOqY570KuQYg" type="5102"/>
+      <children xmi:type="notation:DecorationNode" xmi:id="_FTqVE3vGEeWOqY570KuQYg" type="7102">
+        <children xmi:type="notation:Node" xmi:id="_i6NjMHvGEeWOqY570KuQYg" type="3102">
+          <styles xmi:type="notation:HintedDiagramLinkStyle" xmi:id="_i6NjMXvGEeWOqY570KuQYg" diagramLink="_kSe9sHvGEeWOqY570KuQYg" hint="PCM SEFF Model"/>
+          <element xmi:type="seff:ResourceDemandingSEFF" href="CloudStore.repository#_i6Kf4HvGEeWOqY570KuQYg"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_i6NjMnvGEeWOqY570KuQYg"/>
+        </children>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_FTqVFHvGEeWOqY570KuQYg"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_FTqVFXvGEeWOqY570KuQYg"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_FTqVFnvGEeWOqY570KuQYg" type="7103">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_FTqVF3vGEeWOqY570KuQYg" showTitle="true"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_FTqVGHvGEeWOqY570KuQYg"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_FTqVGXvGEeWOqY570KuQYg"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_FTqVGnvGEeWOqY570KuQYg" type="7104">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_FTqVG3vGEeWOqY570KuQYg" showTitle="true"/>
+      </children>
+      <element xmi:type="repository:BasicComponent" href="CloudStore.repository#_FTof4HvGEeWOqY570KuQYg"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_FTqVEXvGEeWOqY570KuQYg" x="-280" y="976"/>
     </children>
     <styles xmi:type="notation:DiagramStyle" xmi:id="_NV0e4Z4AEeKjDcfkNgs1Gg"/>
     <element xmi:type="repository:Repository" href="CloudStore.repository#_NVOpAJ4AEeKjDcfkNgs1Gg"/>
@@ -1426,6 +1453,27 @@
       <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_MfhsImC4EeOyBvpwll1J2w" points="[-13, 659, 1, -104]$[-13, 753, 1, -10]"/>
       <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_MfnLsGC4EeOyBvpwll1J2w" id="(0.5283842794759825,0.014947683109118086)"/>
       <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_MfnLsWC4EeOyBvpwll1J2w" id="(0.5130890052356021,0.18181818181818182)"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_C-Zt4HvGEeWOqY570KuQYg" type="4106" source="_e1vVMKArEeKjDcfkNgs1Gg" target="_6HUYcHvFEeWOqY570KuQYg">
+      <children xmi:type="notation:DecorationNode" xmi:id="_C-aU8HvGEeWOqY570KuQYg" type="6106">
+        <styles xmi:type="notation:DescriptionStyle" xmi:id="_C-aU8XvGEeWOqY570KuQYg"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_C-aU8nvGEeWOqY570KuQYg" y="40"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_C-Zt4XvGEeWOqY570KuQYg" fontName=".Helvetica Neue DeskInterface"/>
+      <element xmi:type="repository:OperationRequiredRole" href="CloudStore.repository#_C-VccHvGEeWOqY570KuQYg"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_C-Zt4nvGEeWOqY570KuQYg" points="[-2, 154, 0, -56]$[11, 201, 13, -9]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_C-emYHvGEeWOqY570KuQYg" id="(0.4675324675324675,0.06666666666666667)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_C-emYXvGEeWOqY570KuQYg" id="(0.67,0.225)"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_i6PYYHvGEeWOqY570KuQYg" type="4105" source="_FTqVEHvGEeWOqY570KuQYg" target="_6HUYcHvFEeWOqY570KuQYg">
+      <children xmi:type="notation:DecorationNode" xmi:id="_i6P_cHvGEeWOqY570KuQYg" type="6105">
+        <styles xmi:type="notation:DescriptionStyle" xmi:id="_i6P_cXvGEeWOqY570KuQYg"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_i6P_cnvGEeWOqY570KuQYg" y="40"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_i6PYYXvGEeWOqY570KuQYg" fontName=".Helvetica Neue DeskInterface"/>
+      <element xmi:type="repository:OperationProvidedRole" href="CloudStore.repository#_i6GOcHvGEeWOqY570KuQYg"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_i6PYYnvGEeWOqY570KuQYg" points="[65, 13, -210, -53]$[279, 46, 4, -20]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_i6R0oHvGEeWOqY570KuQYg" id="(0.5486111111111112,0.1282051282051282)"/>
     </edges>
   </notation:Diagram>
   <notation:Diagram xmi:id="_9bptoKHjEeKZIpjBtG_xzA" type="PCM SEFF Model" measurementUnit="Pixel">
@@ -10500,6 +10548,56 @@
       <element xsi:nil="true"/>
       <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_7zBmYoHkEeO-3fNtmr8nQQ" points="[11, 94, -11, -102]$[34, 189, 12, -7]"/>
       <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_7zBmY4HkEeO-3fNtmr8nQQ" id="(0.4302788844621514,0.168141592920354)"/>
+    </edges>
+  </notation:Diagram>
+  <notation:Diagram xmi:id="_kSe9sHvGEeWOqY570KuQYg" type="PCM SEFF Model" measurementUnit="Pixel">
+    <children xmi:type="notation:Node" xmi:id="_kdhJAHvGEeWOqY570KuQYg" type="2001">
+      <styles xmi:type="notation:DescriptionStyle" xmi:id="_kdhJAXvGEeWOqY570KuQYg"/>
+      <styles xmi:type="notation:FontStyle" xmi:id="_kdhJAnvGEeWOqY570KuQYg" fontName=".Helvetica Neue DeskInterface"/>
+      <styles xmi:type="notation:LineStyle" xmi:id="_kdhJA3vGEeWOqY570KuQYg"/>
+      <element xmi:type="seff:StartAction" href="CloudStore.repository#_i6LG8HvGEeWOqY570KuQYg"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_kdhJBHvGEeWOqY570KuQYg" x="5"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_kdiXIHvGEeWOqY570KuQYg" type="2002" fontName=".Helvetica Neue DeskInterface">
+      <element xmi:type="seff:StopAction" href="CloudStore.repository#_i6LG8XvGEeWOqY570KuQYg"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_kdiXIXvGEeWOqY570KuQYg" x="172" y="276"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_lk19cHvGEeWOqY570KuQYg" type="2006" fontName=".Helvetica Neue DeskInterface">
+      <children xmi:type="notation:DecorationNode" xmi:id="_lk2kgHvGEeWOqY570KuQYg" type="5012"/>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_lk2kgXvGEeWOqY570KuQYg" type="7012">
+        <children xmi:type="notation:Node" xmi:id="_WtOzgHvHEeWOqY570KuQYg" type="3051">
+          <element xmi:type="seff_performance:ParametricResourceDemand" href="CloudStore.repository#//@components__Repository.12/@serviceEffectSpecifications__BasicComponent.0/@steps_Behaviour.2/@resourceDemand_Action.0"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_WtOzgXvHEeWOqY570KuQYg"/>
+        </children>
+        <styles xmi:type="notation:TitleStyle" xmi:id="_lk2kgnvGEeWOqY570KuQYg" showTitle="true"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_lk2kg3vGEeWOqY570KuQYg"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_lk2khHvGEeWOqY570KuQYg"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_lk2khXvGEeWOqY570KuQYg" type="7046">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_lk2khnvGEeWOqY570KuQYg" showTitle="true"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_lk2kh3vGEeWOqY570KuQYg"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_lk2kiHvGEeWOqY570KuQYg"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_lk2kiXvGEeWOqY570KuQYg" type="7051">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_lk2kinvGEeWOqY570KuQYg" showTitle="true"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_lk2ki3vGEeWOqY570KuQYg"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_lk2kjHvGEeWOqY570KuQYg"/>
+      </children>
+      <element xmi:type="seff:InternalAction" href="CloudStore.repository#_lkyTEHvGEeWOqY570KuQYg"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_lk19cXvGEeWOqY570KuQYg" x="68" y="100"/>
+    </children>
+    <styles xmi:type="notation:DiagramStyle" xmi:id="_kSe9sXvGEeWOqY570KuQYg"/>
+    <element xmi:type="seff:ResourceDemandingSEFF" href="CloudStore.repository#_i6Kf4HvGEeWOqY570KuQYg"/>
+    <edges xmi:type="notation:Connector" xmi:id="_ptGzUHvGEeWOqY570KuQYg" type="4001" source="_kdhJAHvGEeWOqY570KuQYg" target="_lk19cHvGEeWOqY570KuQYg">
+      <styles xmi:type="notation:FontStyle" xmi:id="_ptGzUXvGEeWOqY570KuQYg" fontName=".Helvetica Neue DeskInterface"/>
+      <element xsi:nil="true"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_ptGzUnvGEeWOqY570KuQYg" points="[6, 6, -133, -126]$[96, 90, -43, -42]"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_qL7dUHvGEeWOqY570KuQYg" type="4001" source="_lk19cHvGEeWOqY570KuQYg" target="_kdiXIHvGEeWOqY570KuQYg">
+      <styles xmi:type="notation:FontStyle" xmi:id="_qL7dUXvGEeWOqY570KuQYg" fontName=".Helvetica Neue DeskInterface"/>
+      <element xsi:nil="true"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_qL7dUnvGEeWOqY570KuQYg" points="[7, 77, -11, -107]$[17, 168, -1, -16]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_qL8rcHvGEeWOqY570KuQYg" id="(0.5838150289017341,0.08333333333333333)"/>
     </edges>
   </notation:Diagram>
 </xmi:XMI>
