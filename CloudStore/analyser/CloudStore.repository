@@ -994,7 +994,7 @@
           <numberOfCalls__InfrastructureCall specification="1"/>
         </infrastructureCall__Action>
       </steps_Behaviour>
-      <steps_Behaviour xsi:type="seff:BranchAction" id="_613lIH90EeOMPbPw2aYEHg" entityName="ShippingDifferentFromCustomerAddress" predecessor_AbstractAction="_2Jt_EH90EeOMPbPw2aYEHg" successor_AbstractAction="_ZnaKQH92EeOMPbPw2aYEHg">
+      <steps_Behaviour xsi:type="seff:BranchAction" id="_613lIH90EeOMPbPw2aYEHg" entityName="ShippingDifferentFromCustomerAddress" predecessor_AbstractAction="_2Jt_EH90EeOMPbPw2aYEHg" successor_AbstractAction="_tjd0QHyfEeWh-fEPy_rtug">
         <branches_Branch xsi:type="seff:GuardedBranchTransition" id="_C7lvEH91EeOMPbPw2aYEHg" entityName="ShippingStreetFieldEmpty">
           <branchBehaviour_BranchTransition id="_C8QdcH91EeOMPbPw2aYEHg">
             <steps_Behaviour xsi:type="seff:StartAction" id="_C8QdcX91EeOMPbPw2aYEHg" successor_AbstractAction="_6b-B8H91EeOMPbPw2aYEHg"/>
@@ -1024,12 +1024,13 @@
           <branchCondition_GuardedBranchTransition specification="STREET_1.VALUE &lt;> &quot; &quot;"/>
         </branches_Branch>
       </steps_Behaviour>
-      <steps_Behaviour xsi:type="seff:InternalAction" id="_ZnaKQH92EeOMPbPw2aYEHg" entityName="postDoBuyConfirm" predecessor_AbstractAction="_613lIH90EeOMPbPw2aYEHg" successor_AbstractAction="_2waLoH90EeOMPbPw2aYEHg">
+      <steps_Behaviour xsi:type="seff:InternalAction" id="_ZnaKQH92EeOMPbPw2aYEHg" entityName="postDoBuyConfirm" predecessor_AbstractAction="_tjd0QHyfEeWh-fEPy_rtug" successor_AbstractAction="_2waLoH90EeOMPbPw2aYEHg">
         <resourceDemand_Action>
           <specification_ParametericResourceDemand specification="2.67E+9*DoublePDF[(8.6852E-5;0.0)(9.39591148325359E-5;0.124518613607189)(9.8877E-5;0.142758014286798)(0.000106478476076555;0.120399880450044)(0.000112507038277512;0.133504492939666)(0.000117282;0.143948770113388)(0.000126215;0.109306390012895)(0.000137372198564593;0.0907756486028572)(0.000151104708133971;0.0693196405648267)(0.000168226954545454;0.0410783055198973)(0.000187660385167464;0.0218228498074454)(0.000209405;0.00256739409499358)]"/>
           <requiredResource_ParametricResourceDemand href="pathmap://PCM_MODELS/Palladio.resourcetype#_oro4gG3fEdy4YaaT-RYrLQ"/>
         </resourceDemand_Action>
       </steps_Behaviour>
+      <steps_Behaviour xsi:type="seff:ExternalCallAction" id="_tjd0QHyfEeWh-fEPy_rtug" predecessor_AbstractAction="_613lIH90EeOMPbPw2aYEHg" successor_AbstractAction="_ZnaKQH92EeOMPbPw2aYEHg" calledService_ExternalService="_77tuQHvFEeWOqY570KuQYg" role_ExternalService="_C-VccHvGEeWOqY570KuQYg"/>
     </serviceEffectSpecifications__BasicComponent>
     <serviceEffectSpecifications__BasicComponent xsi:type="seff:ResourceDemandingSEFF" id="_Byn8wH6BEeOMPbPw2aYEHg" describedService__SEFF="_QZAisKAnEeKjDcfkNgs1Gg">
       <steps_Behaviour xsi:type="seff:StartAction" id="_DLM5QH6BEeOMPbPw2aYEHg" entityName="start" successor_AbstractAction="_HUK5wH6BEeOMPbPw2aYEHg"/>
@@ -1459,7 +1460,7 @@
       <steps_Behaviour xsi:type="seff:StopAction" id="_i6LG8XvGEeWOqY570KuQYg" entityName="stop" predecessor_AbstractAction="_lkyTEHvGEeWOqY570KuQYg"/>
       <steps_Behaviour xsi:type="seff:InternalAction" id="_lkyTEHvGEeWOqY570KuQYg" entityName="ResponseDelayOfExternalGateway" predecessor_AbstractAction="_i6LG8HvGEeWOqY570KuQYg" successor_AbstractAction="_i6LG8XvGEeWOqY570KuQYg">
         <resourceDemand_Action>
-          <specification_ParametericResourceDemand specification="DoublePDF[(0;0.0)(10.0;100.0)(20.0;0.0)]"/>
+          <specification_ParametericResourceDemand specification="Exp(5)+2"/>
           <requiredResource_ParametricResourceDemand href="pathmap://PCM_MODELS/Palladio.resourcetype#_nvHX4KkREdyEA_b89s7q9w"/>
         </resourceDemand_Action>
       </steps_Behaviour>
