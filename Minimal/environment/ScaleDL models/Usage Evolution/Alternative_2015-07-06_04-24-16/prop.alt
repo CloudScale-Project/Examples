@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
-<properties>
-<comment/>
-<entry key="name">Ramp usage</entry>
-<entry key="modified">1436891798201</entry>
-<entry key="eu.cloudscaleproject.env.toolchain.ToolchainUtils.path_limbo_model">limbo.dlim</entry>
-<entry key="created">1436192656267</entry>
-</properties>

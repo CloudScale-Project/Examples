@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ASCII"?>
+<repository:Repository xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:composition="http://palladiosimulator.org/PalladioComponentModel/Core/Composition/5.1" xmlns:repository="http://palladiosimulator.org/PalladioComponentModel/Repository/5.1" id="CSMGen_" entityName="Repository model">
+  <components__Repository xsi:type="repository:CompositeComponent" id="CSMGen__3Fc4B3vHEeWJZY0wECJyEA_opInterfaceContainer2CompositeComponent" entityName="SoMoX Reverse Engineered System">
+    <assemblyContexts__ComposedStructure id="CSMGen__DpMt0HmWEeWgm4QEt2wjnA_opInterfaceContainer2CompositeComponent" entityName=" &lt;PC No. 3 eu.cloudscale.examples.minimal.app.Application eu.cloudscale.examples.minimal.app.problems.OK eu.cloudscale.examples.minimal.app.problems.OLB>">
+      <encapsulatedComponent__AssemblyContext xsi:type="repository:BasicComponent" href="../../../ScaleDL%20models/Overview/Alternative_2015-10-26_10-56-57/external/SoMoX%20Reverse%20Engineered%20System/internal_architecture_model.repository#_Do-EUHmWEeWgm4QEt2wjnA"/>
+    </assemblyContexts__ComposedStructure>
+    <connectors__ComposedStructure xsi:type="composition:ProvidedDelegationConnector" id="_DpMt03mWEeWgm4QEt2wjnA" entityName="Iminimal.app.Application" outerProvidedRole_ProvidedDelegationConnector="CSMGen_SystemInner_DoN2YHmWEeWgm4QEt2wjnA_providedRole2OpInterface_OpIntrface2ProvidedRole" assemblyContext_ProvidedDelegationConnector="CSMGen__DpMt0HmWEeWgm4QEt2wjnA_opInterfaceContainer2CompositeComponent">
+      <innerProvidedRole_ProvidedDelegationConnector href="../../../ScaleDL%20models/Overview/Alternative_2015-10-26_10-56-57/external/SoMoX%20Reverse%20Engineered%20System/internal_architecture_model.repository#_Do_ScHmWEeWgm4QEt2wjnA"/>
+    </connectors__ComposedStructure>
+    <connectors__ComposedStructure xsi:type="composition:ProvidedDelegationConnector" id="_DpMt13mWEeWgm4QEt2wjnA" entityName="Iapp.problems.OLB" outerProvidedRole_ProvidedDelegationConnector="CSMGen_SystemInner_DofjMXmWEeWgm4QEt2wjnA_providedRole2OpInterface_OpIntrface2ProvidedRole" assemblyContext_ProvidedDelegationConnector="CSMGen__DpMt0HmWEeWgm4QEt2wjnA_opInterfaceContainer2CompositeComponent">
+      <innerProvidedRole_ProvidedDelegationConnector href="../../../ScaleDL%20models/Overview/Alternative_2015-10-26_10-56-57/external/SoMoX%20Reverse%20Engineered%20System/internal_architecture_model.repository#_Do_5gHmWEeWgm4QEt2wjnA"/>
+    </connectors__ComposedStructure>
+    <connectors__ComposedStructure xsi:type="composition:ProvidedDelegationConnector" id="_DpMt1XmWEeWgm4QEt2wjnA" entityName="Iapp.problems.OK" outerProvidedRole_ProvidedDelegationConnector="CSMGen_SystemInner_DoduAHmWEeWgm4QEt2wjnA_providedRole2OpInterface_OpIntrface2ProvidedRole" assemblyContext_ProvidedDelegationConnector="CSMGen__DpMt0HmWEeWgm4QEt2wjnA_opInterfaceContainer2CompositeComponent">
+      <innerProvidedRole_ProvidedDelegationConnector href="../../../ScaleDL%20models/Overview/Alternative_2015-10-26_10-56-57/external/SoMoX%20Reverse%20Engineered%20System/internal_architecture_model.repository#_Do_Sc3mWEeWgm4QEt2wjnA"/>
+    </connectors__ComposedStructure>
+    <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="CSMGen_SystemInner_DoN2YHmWEeWgm4QEt2wjnA_providedRole2OpInterface_OpIntrface2ProvidedRole" entityName="I_SoMoX Reverse Engineered System">
+      <providedInterface__OperationProvidedRole href="../../../ScaleDL%20models/Overview/Alternative_2015-10-26_10-56-57/external/SoMoX%20Reverse%20Engineered%20System/internal_architecture_model.repository#_DoN2YHmWEeWgm4QEt2wjnA"/>
+    </providedRoles_InterfaceProvidingEntity>
+    <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="CSMGen_SystemInner_DofjMXmWEeWgm4QEt2wjnA_providedRole2OpInterface_OpIntrface2ProvidedRole" entityName="I_SoMoX Reverse Engineered System">
+      <providedInterface__OperationProvidedRole href="../../../ScaleDL%20models/Overview/Alternative_2015-10-26_10-56-57/external/SoMoX%20Reverse%20Engineered%20System/internal_architecture_model.repository#_DofjMXmWEeWgm4QEt2wjnA"/>
+    </providedRoles_InterfaceProvidingEntity>
+    <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="CSMGen_SystemInner_DoduAHmWEeWgm4QEt2wjnA_providedRole2OpInterface_OpIntrface2ProvidedRole" entityName="I_SoMoX Reverse Engineered System">
+      <providedInterface__OperationProvidedRole href="../../../ScaleDL%20models/Overview/Alternative_2015-10-26_10-56-57/external/SoMoX%20Reverse%20Engineered%20System/internal_architecture_model.repository#_DoduAHmWEeWgm4QEt2wjnA"/>
+    </providedRoles_InterfaceProvidingEntity>
+  </components__Repository>
+  <dataTypes__Repository xsi:type="repository:CompositeDataType" id="_8QkSAHvHEeWJZY0wECJyEA" entityName="Throwable"/>
+  <dataTypes__Repository xsi:type="repository:CompositeDataType" id="_8Qic0HvHEeWJZY0wECJyEA" entityName="Exception"/>
+  <dataTypes__Repository xsi:type="repository:PrimitiveDataType" type="BOOL"/>
+  <dataTypes__Repository xsi:type="repository:PrimitiveDataType" type="DOUBLE"/>
+  <dataTypes__Repository xsi:type="repository:CompositeDataType" id="_8QjD4HvHEeWJZY0wECJyEA" entityName="OLB">
+    <innerDeclaration_CompositeDataType entityName="Thread" datatype_InnerDeclaration="_8Qh1wHvHEeWJZY0wECJyEA"/>
+    <innerDeclaration_CompositeDataType entityName="InterruptedException" datatype_InnerDeclaration="_8Qjq8XvHEeWJZY0wECJyEA"/>
+    <innerDeclaration_CompositeDataType entityName="RuntimeException" datatype_InnerDeclaration="_8Qic0XvHEeWJZY0wECJyEA"/>
+  </dataTypes__Repository>
+  <dataTypes__Repository xsi:type="repository:PrimitiveDataType" type="BOOL"/>
+  <dataTypes__Repository xsi:type="repository:CompositeDataType" id="_8Qjq8nvHEeWJZY0wECJyEA" entityName="OK"/>
+  <dataTypes__Repository xsi:type="repository:CompositeDataType" id="_8Qh1wHvHEeWJZY0wECJyEA" entityName="Thread">
+    <innerDeclaration_CompositeDataType entityName="Runnable" datatype_InnerDeclaration="_8Qjq8HvHEeWJZY0wECJyEA"/>
+  </dataTypes__Repository>
+  <dataTypes__Repository xsi:type="repository:PrimitiveDataType"/>
+  <dataTypes__Repository xsi:type="repository:PrimitiveDataType" type="STRING"/>
+  <dataTypes__Repository xsi:type="repository:CompositeDataType" id="_8Qjq8XvHEeWJZY0wECJyEA" entityName="InterruptedException"/>
+  <dataTypes__Repository xsi:type="repository:PrimitiveDataType" type="DOUBLE"/>
+  <dataTypes__Repository xsi:type="repository:CompositeDataType" id="_8Qic0XvHEeWJZY0wECJyEA" entityName="RuntimeException">
+    <innerDeclaration_CompositeDataType entityName="Exception" datatype_InnerDeclaration="_8Qic0HvHEeWJZY0wECJyEA"/>
+    <innerDeclaration_CompositeDataType entityName="Throwable" datatype_InnerDeclaration="_8QkSAHvHEeWJZY0wECJyEA"/>
+  </dataTypes__Repository>
+  <dataTypes__Repository xsi:type="repository:PrimitiveDataType" type="STRING"/>
+  <dataTypes__Repository xsi:type="repository:CompositeDataType" id="_8Qjq8HvHEeWJZY0wECJyEA" entityName="Runnable"/>
+  <dataTypes__Repository xsi:type="repository:PrimitiveDataType"/>
+</repository:Repository>

@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="ASCII"?>
-<org.somox:SEFF2JavaAST xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.somox="http://www.somox.org/seff2method/1.0" xmlns:seff="http://palladiosimulator.org/PalladioComponentModel/SEFF/5.1">
-  <seff2MethodMappings>
-    <blockstatement href="../../../../%20Extractor/Results/Alternative_2015-07-06_02-35-26/modisco/Minimal-Project_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.2/@body"/>
-    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_e8w6YCPbEeWfF6sEvWaW9w"/>
-  </seff2MethodMappings>
-</org.somox:SEFF2JavaAST>
