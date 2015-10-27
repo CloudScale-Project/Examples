@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="ASCII"?>
+<org.somox:SEFF2JavaAST xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.somox="http://www.somox.org/seff2method/1.0" xmlns:seff="http://palladiosimulator.org/PalladioComponentModel/SEFF/5.1">
+  <seff2MethodMappings>
+    <blockstatement href="../modisco/Minimal-Project_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedElements.0/@bodyDeclarations.0/@body"/>
+    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_2R0kIXyiEeWts944yruXuw"/>
+  </seff2MethodMappings>
+  <seff2MethodMappings>
+    <blockstatement href="../modisco/Minimal-Project_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedElements.0/@bodyDeclarations.1/@body"/>
+    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_2R0kInyiEeWts944yruXuw"/>
+  </seff2MethodMappings>
+  <seff2MethodMappings>
+    <blockstatement href="../modisco/Minimal-Project_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedElements.0/@bodyDeclarations.2/@body"/>
+    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_2R1LMHyiEeWts944yruXuw"/>
+  </seff2MethodMappings>
+  <seff2MethodMappings>
+    <blockstatement href="../modisco/Minimal-Project_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedElements.0/@bodyDeclarations.4/@body"/>
+    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_2R1LMXyiEeWts944yruXuw"/>
+  </seff2MethodMappings>
+  <seff2MethodMappings>
+    <blockstatement href="../modisco/Minimal-Project_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedElements.1/@bodyDeclarations.3/@body"/>
+    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_2R1LM3yiEeWts944yruXuw"/>
+  </seff2MethodMappings>
+  <seff2MethodMappings>
+    <blockstatement href="../modisco/Minimal-Project_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedElements.0/@bodyDeclarations.4/@body"/>
+    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_2R1LNHyiEeWts944yruXuw"/>
+  </seff2MethodMappings>
+  <seff2MethodMappings>
+    <blockstatement href="../modisco/Minimal-Project_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedElements.1/@bodyDeclarations.6/@body"/>
+    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_2R1LNXyiEeWts944yruXuw"/>
+  </seff2MethodMappings>
+  <seff2MethodMappings>
+    <blockstatement href="../modisco/Minimal-Project_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedElements.0/@bodyDeclarations.5/@body"/>
+    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_2R1LNnyiEeWts944yruXuw"/>
+  </seff2MethodMappings>
+  <seff2MethodMappings>
+    <blockstatement href="../modisco/Minimal-Project_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.6/@body"/>
+    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_2R1LOHyiEeWts944yruXuw"/>
+  </seff2MethodMappings>
+  <seff2MethodMappings>
+    <blockstatement href="../modisco/Minimal-Project_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.2/@ownedElements.0/@bodyDeclarations.6/@body"/>
+    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_2R1LOnyiEeWts944yruXuw"/>
+  </seff2MethodMappings>
+</org.somox:SEFF2JavaAST>

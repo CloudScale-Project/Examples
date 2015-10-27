@@ -23,7 +23,7 @@ for f in *; do
     if [[ -d $f ]]; then
     	pushd $f
     	zip_file="$project_name-$f.zip"
-    	zip -r "$zip_file" * .project
+    	zip -r "$zip_file" * .project .classpath
     	mv "$zip_file" ../
     	pandoc -s README.md -o ../README-$project_name-$f.html
     	popd

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment/>
+<entry key="key_output">result.psa</entry>
+<entry key="name">Basic configuration [01:04:38]</entry>
+<entry key="modified">1445947478074</entry>
+<entry key="resourceType"/>
+<entry key="config_alternative">../../Configuration/Alternative_2015-10-27_01-04-29</entry>
+<entry key="created">1445947478065</entry>
+<entry key="input_alternative">../../Input/Alternative_2015-10-27_01-04-29</entry>
+</properties>
