@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="ASCII"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.reclipse.structure.inference="http://org.reclipse.structure.inference.annotations">
+  <org.reclipse.structure.inference:ASGAnnotation annotationRanking="100.0">
+    <annotatedElements key="methods">
+      <value href="../../Input/Alternative_2015-10-27_01-04-29/modisco/Minimal-Project_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedElements.0/@bodyDeclarations.1"/>
+    </annotatedElements>
+    <boundObjects key="methodLevelSourceCodeLink">
+      <value href="../../Input/Alternative_2015-10-27_01-04-29/somox/internal_architecture_model.sourcecodedecorator#//@methodLevelSourceCodeLink.1"/>
+    </boundObjects>
+    <boundObjects key="methodDeclaration">
+      <value href="../../Input/Alternative_2015-10-27_01-04-29/modisco/Minimal-Project_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedElements.0/@bodyDeclarations.1"/>
+    </boundObjects>
+    <pattern href="../../Configuration/Alternative_2015-10-27_01-04-29/catalog.pcs#_cY9jIPbbEeOeYJP9coicjQ"/>
+  </org.reclipse.structure.inference:ASGAnnotation>
+  <org.reclipse.structure.inference:ASGAnnotation annotationRanking="100.0">
+    <annotatedElements key="methods">
+      <value href="../../Input/Alternative_2015-10-27_01-04-29/modisco/Minimal-Project_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedElements.0/@bodyDeclarations.4"/>
+    </annotatedElements>
+    <boundObjects key="methodDeclaration">
+      <value href="../../Input/Alternative_2015-10-27_01-04-29/modisco/Minimal-Project_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedElements.0/@bodyDeclarations.4"/>
+    </boundObjects>
+    <boundObjects key="methodLevelSourceCodeLink">
+      <value href="../../Input/Alternative_2015-10-27_01-04-29/somox/internal_architecture_model.sourcecodedecorator#//@methodLevelSourceCodeLink.3"/>
+    </boundObjects>
+    <pattern href="../../Configuration/Alternative_2015-10-27_01-04-29/catalog.pcs#_cY9jIPbbEeOeYJP9coicjQ"/>
+  </org.reclipse.structure.inference:ASGAnnotation>
+  <org.reclipse.structure.inference:ASGAnnotation consequentAnnos="/11" annotationRanking="100.0">
+    <annotatedElements key="methods">
+      <value href="../../Input/Alternative_2015-10-27_01-04-29/modisco/Minimal-Project_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedElements.1/@bodyDeclarations.5"/>
+    </annotatedElements>
+    <boundObjects key="methodLevelSourceCodeLink">
+      <value href="../../Input/Alternative_2015-10-27_01-04-29/somox/internal_architecture_model.sourcecodedecorator#//@methodLevelSourceCodeLink.5"/>
+    </boundObjects>
+    <boundObjects key="methodDeclaration">
+      <value href="../../Input/Alternative_2015-10-27_01-04-29/modisco/Minimal-Project_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedElements.1/@bodyDeclarations.5"/>
+    </boundObjects>
+    <pattern href="../../Configuration/Alternative_2015-10-27_01-04-29/catalog.pcs#_cY9jIPbbEeOeYJP9coicjQ"/>
+  </org.reclipse.structure.inference:ASGAnnotation>
+  <org.reclipse.structure.inference:ASGAnnotation annotationRanking="100.0">
+    <annotatedElements key="methods">
+      <value href="../../Input/Alternative_2015-10-27_01-04-29/modisco/Minimal-Project_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.2/@ownedElements.0/@bodyDeclarations.6"/>
+    </annotatedElements>
+    <boundObjects key="methodDeclaration">
+      <value href="../../Input/Alternative_2015-10-27_01-04-29/modisco/Minimal-Project_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.2/@ownedElements.0/@bodyDeclarations.6"/>
+    </boundObjects>
+    <boundObjects key="methodLevelSourceCodeLink">
+      <value href="../../Input/Alternative_2015-10-27_01-04-29/somox/internal_architecture_model.sourcecodedecorator#//@methodLevelSourceCodeLink.9"/>
+    </boundObjects>
+    <pattern href="../../Configuration/Alternative_2015-10-27_01-04-29/catalog.pcs#_cY9jIPbbEeOeYJP9coicjQ"/>
+  </org.reclipse.structure.inference:ASGAnnotation>
+  <org.reclipse.structure.inference:ASGAnnotation annotationRanking="100.0">
+    <annotatedElements key="methods">
+      <value href="../../Input/Alternative_2015-10-27_01-04-29/modisco/Minimal-Project_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedElements.0/@bodyDeclarations.0"/>
+    </annotatedElements>
+    <boundObjects key="methodLevelSourceCodeLink">
+      <value href="../../Input/Alternative_2015-10-27_01-04-29/somox/internal_architecture_model.sourcecodedecorator#//@methodLevelSourceCodeLink.0"/>
+    </boundObjects>
+    <boundObjects key="methodDeclaration">
+      <value href="../../Input/Alternative_2015-10-27_01-04-29/modisco/Minimal-Project_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedElements.0/@bodyDeclarations.0"/>
+    </boundObjects>
+    <pattern href="../../Configuration/Alternative_2015-10-27_01-04-29/catalog.pcs#_cY9jIPbbEeOeYJP9coicjQ"/>
+  </org.reclipse.structure.inference:ASGAnnotation>
+  <org.reclipse.structure.inference:ASGAnnotation annotationRanking="100.0">
+    <annotatedElements key="methods">
+      <value href="../../Input/Alternative_2015-10-27_01-04-29/modisco/Minimal-Project_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedElements.1/@bodyDeclarations.3"/>
+    </annotatedElements>
+    <boundObjects key="methodLevelSourceCodeLink">
+      <value href="../../Input/Alternative_2015-10-27_01-04-29/somox/internal_architecture_model.sourcecodedecorator#//@methodLevelSourceCodeLink.4"/>
+    </boundObjects>
+    <boundObjects key="methodDeclaration">
+      <value href="../../Input/Alternative_2015-10-27_01-04-29/modisco/Minimal-Project_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedElements.1/@bodyDeclarations.3"/>
+    </boundObjects>
+    <pattern href="../../Configuration/Alternative_2015-10-27_01-04-29/catalog.pcs#_cY9jIPbbEeOeYJP9coicjQ"/>
+  </org.reclipse.structure.inference:ASGAnnotation>
+  <org.reclipse.structure.inference:ASGAnnotation annotationRanking="100.0">
+    <annotatedElements key="methods">
+      <value href="../../Input/Alternative_2015-10-27_01-04-29/modisco/Minimal-Project_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedElements.1/@bodyDeclarations.7"/>
+    </annotatedElements>
+    <boundObjects key="methodDeclaration">
+      <value href="../../Input/Alternative_2015-10-27_01-04-29/modisco/Minimal-Project_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedElements.1/@bodyDeclarations.7"/>
+    </boundObjects>
+    <boundObjects key="methodLevelSourceCodeLink">
+      <value href="../../Input/Alternative_2015-10-27_01-04-29/somox/internal_architecture_model.sourcecodedecorator#//@methodLevelSourceCodeLink.7"/>
+    </boundObjects>
+    <pattern href="../../Configuration/Alternative_2015-10-27_01-04-29/catalog.pcs#_cY9jIPbbEeOeYJP9coicjQ"/>
+  </org.reclipse.structure.inference:ASGAnnotation>
+  <org.reclipse.structure.inference:ASGAnnotation annotationRanking="100.0">
+    <annotatedElements key="methods">
+      <value href="../../Input/Alternative_2015-10-27_01-04-29/modisco/Minimal-Project_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedElements.0/@bodyDeclarations.2"/>
+    </annotatedElements>
+    <boundObjects key="methodDeclaration">
+      <value href="../../Input/Alternative_2015-10-27_01-04-29/modisco/Minimal-Project_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedElements.0/@bodyDeclarations.2"/>
+    </boundObjects>
+    <boundObjects key="methodLevelSourceCodeLink">
+      <value href="../../Input/Alternative_2015-10-27_01-04-29/somox/internal_architecture_model.sourcecodedecorator#//@methodLevelSourceCodeLink.2"/>
+    </boundObjects>
+    <pattern href="../../Configuration/Alternative_2015-10-27_01-04-29/catalog.pcs#_cY9jIPbbEeOeYJP9coicjQ"/>
+  </org.reclipse.structure.inference:ASGAnnotation>
+  <org.reclipse.structure.inference:ASGAnnotation annotationRanking="100.0">
+    <annotatedElements key="methods">
+      <value href="../../Input/Alternative_2015-10-27_01-04-29/modisco/Minimal-Project_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.6"/>
+    </annotatedElements>
+    <boundObjects key="methodDeclaration">
+      <value href="../../Input/Alternative_2015-10-27_01-04-29/modisco/Minimal-Project_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.1/@ownedElements.0/@bodyDeclarations.6"/>
+    </boundObjects>
+    <boundObjects key="methodLevelSourceCodeLink">
+      <value href="../../Input/Alternative_2015-10-27_01-04-29/somox/internal_architecture_model.sourcecodedecorator#//@methodLevelSourceCodeLink.8"/>
+    </boundObjects>
+    <pattern href="../../Configuration/Alternative_2015-10-27_01-04-29/catalog.pcs#_cY9jIPbbEeOeYJP9coicjQ"/>
+  </org.reclipse.structure.inference:ASGAnnotation>
+  <org.reclipse.structure.inference:ASGAnnotation consequentAnnos="/12" annotationRanking="100.0">
+    <annotatedElements key="methods">
+      <value href="../../Input/Alternative_2015-10-27_01-04-29/modisco/Minimal-Project_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedElements.1/@bodyDeclarations.6"/>
+    </annotatedElements>
+    <boundObjects key="methodLevelSourceCodeLink">
+      <value href="../../Input/Alternative_2015-10-27_01-04-29/somox/internal_architecture_model.sourcecodedecorator#//@methodLevelSourceCodeLink.6"/>
+    </boundObjects>
+    <boundObjects key="methodDeclaration">
+      <value href="../../Input/Alternative_2015-10-27_01-04-29/modisco/Minimal-Project_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedElements.1/@bodyDeclarations.6"/>
+    </boundObjects>
+    <pattern href="../../Configuration/Alternative_2015-10-27_01-04-29/catalog.pcs#_cY9jIPbbEeOeYJP9coicjQ"/>
+  </org.reclipse.structure.inference:ASGAnnotation>
+  <org.reclipse.structure.inference:ASGAnnotation annotationRanking="100.0">
+    <annotatedElements key="primitiveComponent">
+      <value href="../../Input/Alternative_2015-10-27_01-04-29/somox/internal_architecture_model.repository#_2RvEkHyiEeWts944yruXuw"/>
+    </annotatedElements>
+    <boundObjects key="componentImplementingClassesLink">
+      <value href="../../Input/Alternative_2015-10-27_01-04-29/somox/internal_architecture_model.sourcecodedecorator#//@componentImplementingClassesLink.0"/>
+    </boundObjects>
+    <boundObjects key="primitiveComponent">
+      <value href="../../Input/Alternative_2015-10-27_01-04-29/somox/internal_architecture_model.repository#_2RvEkHyiEeWts944yruXuw"/>
+    </boundObjects>
+    <pattern href="../../Configuration/Alternative_2015-10-27_01-04-29/catalog.pcs#_7E0R8PVmEeO8apkjJxxSYA"/>
+  </org.reclipse.structure.inference:ASGAnnotation>
+  <org.reclipse.structure.inference:ASGAnnotation antecedentAnnos="/2" annotationRanking="100.0">
+    <annotatedElements key="synchronizedMethods">
+      <value href="../../Input/Alternative_2015-10-27_01-04-29/modisco/Minimal-Project_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedElements.1/@bodyDeclarations.5"/>
+    </annotatedElements>
+    <boundObjects key="methods" value="/2"/>
+    <boundObjects key="method">
+      <value href="../../Input/Alternative_2015-10-27_01-04-29/modisco/Minimal-Project_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedElements.1/@bodyDeclarations.5"/>
+    </boundObjects>
+    <boundObjects key="modifier">
+      <value href="../../Input/Alternative_2015-10-27_01-04-29/modisco/Minimal-Project_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedElements.1/@bodyDeclarations.5/@modifier"/>
+    </boundObjects>
+    <pattern href="../../Configuration/Alternative_2015-10-27_01-04-29/catalog.pcs#_cpjMkPbKEeOeYJP9coicjQ"/>
+  </org.reclipse.structure.inference:ASGAnnotation>
+  <org.reclipse.structure.inference:ASGAnnotation antecedentAnnos="/9" annotationRanking="100.0">
+    <annotatedElements key="synchronizedMethods">
+      <value href="../../Input/Alternative_2015-10-27_01-04-29/modisco/Minimal-Project_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedElements.1/@bodyDeclarations.6"/>
+    </annotatedElements>
+    <boundObjects key="method">
+      <value href="../../Input/Alternative_2015-10-27_01-04-29/modisco/Minimal-Project_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedElements.1/@bodyDeclarations.6"/>
+    </boundObjects>
+    <boundObjects key="methods" value="/9"/>
+    <boundObjects key="modifier">
+      <value href="../../Input/Alternative_2015-10-27_01-04-29/modisco/Minimal-Project_java.xmi#//@ownedElements.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedPackages.0/@ownedElements.1/@bodyDeclarations.6/@modifier"/>
+    </boundObjects>
+    <pattern href="../../Configuration/Alternative_2015-10-27_01-04-29/catalog.pcs#_cpjMkPbKEeOeYJP9coicjQ"/>
+  </org.reclipse.structure.inference:ASGAnnotation>
+</xmi:XMI>
