@@ -2,9 +2,8 @@
 <!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
 <properties>
 <comment/>
-<entry key="status">error</entry>
 <entry key="name">Fibonacci</entry>
-<entry key="modified">1445948181703</entry>
+<entry key="modified">1446204249705</entry>
 <entry key="environment_config">mEnv.xml</entry>
 <entry key="created">1445948087245</entry>
 </properties>

@@ -1,1 +1,1 @@
-java -javaagent:../lib/instrumentation-agent.jar -jar minimal-app.jar start
+java -javaagent:../lib/instrumentation-agent.jar -Dcom.sun.management.jmxremote -Dcom.sun.management.jmxremote.port=9010 -Dcom.sun.management.jmxremote.local.only=false -Dcom.sun.management.jmxremote.authenticate=false -Dcom.sun.management.jmxremote.ssl=false -jar minimal-app.jar start

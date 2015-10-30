@@ -2,13 +2,13 @@
 <measurementEnvironment xmlns="org.spotter.shared.environment.model">
     <instrumentationController>
         <extensionName>org.spotter.ext.instrumentation.DynamicInstrumentationClient</extensionName>
-        <config key="org.spotter.satellite.port" value="8888"/>
+        <config key="org.spotter.satellite.port" value="9010"/>
         <config key="org.spotter.satellite.adapter.name" value="Default Instrumentation Satellite Adapter"/>
         <config key="org.spotter.satellite.host" value="localhost"/>
     </instrumentationController>
     <measurementController>
         <extensionName>org.spotter.ext.measurement.MeasurementClient</extensionName>
-        <config key="org.spotter.satellite.port" value="8888"/>
+        <config key="org.spotter.satellite.port" value="9010"/>
         <config key="org.spotter.satellite.adapter.name" value="Instrumentation Measurement Satellite Adapter"/>
         <config key="org.spotter.satellite.host" value="localhost"/>
     </measurementController>

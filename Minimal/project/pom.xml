@@ -6,6 +6,13 @@
   <artifactId>eu.cloudscale.examples.minimal</artifactId>
   <version>0.0.1-SNAPSHOT</version>
 
+  <properties>
+  <lpe.common.version>1.0.4-SNAPSHOT</lpe.common.version>
+  <aim.version>1.0.4-SNAPSHOT</aim.version>
+  <spotter.version>1.0.1-SNAPSHOT</spotter.version>
+  <spotter.ext.version>0.0.1-SNAPSHOT</spotter.ext.version>
+</properties>
+
   <dependencies>
     <dependency>
       <groupId>ch.qos.logback</groupId>
@@ -30,11 +37,11 @@
       <artifactId>jersey-server</artifactId>
       <version>1.17.1</version>
     </dependency>
-<!--dependency>
+    <dependency>
       <groupId>org.spotter</groupId>
       <artifactId>org.spotter.core</artifactId>
       <version>${spotter.version}</version>
-    </dependency-->
+    </dependency>
     <dependency>
       <groupId>org.spotter.ext</groupId>
       <artifactId>org.spotter.ext.workload</artifactId>
@@ -87,7 +94,7 @@
               <transformers>
                 <transformer implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
                   <manifestEntries>
-                    <Main-Class>org.spotter.demo.app.DemoAppLauncher</Main-Class>
+                    <Main-Class>eu.cloudscale.examples.minimal.main.AppLauncher</Main-Class>
                     <Build-Number>1</Build-Number>
                   </manifestEntries>
                 </transformer>
@@ -121,7 +128,7 @@
             <phase>install</phase>
             <configuration>
               <target name="copy and rename file">
-                <copy file="${project.build.directory}/classes/org/spotter/demo/load/VUser.class" tofile="${basedir}/dist/VUser.class"/>
+                <copy file="${project.build.directory}/classes/eu/cloudscale/examples/minimal/load/VUser.class" tofile="${basedir}/dist/eu/cloudscale/examples/minimal/load/VUser.class"/>
               </target>
             </configuration>
             <goals>

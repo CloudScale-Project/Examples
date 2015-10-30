@@ -15,6 +15,8 @@
  */
 package eu.cloudscale.examples.minimal.app;
 
+import java.util.Calendar;
+
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;
 import javax.ws.rs.Produces;
@@ -32,6 +34,7 @@ import eu.cloudscale.examples.minimal.app.problems.OLB;
 @Path("demo")
 public class Application {
 	
+	String logFormat = "[%s] %s";
 	/**
 	 *
 	 * @return hello string
@@ -40,7 +43,7 @@ public class Application {
 	@Path("testOLB")
 	@Produces(MediaType.APPLICATION_JSON)
 	public String testOLB() {
-		System.out.println("OLB called");
+		System.out.printf("[%tT] %s", Calendar.getInstance(), "demo/testOLB called\n");
 		OLB.getInstnace().request();
 		return "Hello from OLB Test Method!";
 	}
@@ -53,6 +56,7 @@ public class Application {
 	@Path("testOK")
 	@Produces(MediaType.APPLICATION_JSON)
 	public String testNoProblem() {
+		System.out.printf("[%tT] %s", Calendar.getInstance(), "demo/testOK called\n");
 		OK.getInstnace().request();
 		return "Hello from OK Test Method!";
 	}

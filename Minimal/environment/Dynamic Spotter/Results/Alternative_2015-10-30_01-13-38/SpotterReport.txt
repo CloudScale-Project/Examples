@@ -1,0 +1,14 @@
+PPD analysis took 0 h - 0 min - 46 s - 835 ms
+
+#####################################
+########  PPD Results  ##############
+#####################################
+
+############################################################################################
+### performance problem under investigation: org.spotter.ext.detection.olb.OLBDetectionController
+    # DETECTED ! 
+--------------------------------------------------------------------------------------------
+   # OLB detected in service: eu.cloudscale.examples.minimal.app.Application.testOLB()
+
+
+
