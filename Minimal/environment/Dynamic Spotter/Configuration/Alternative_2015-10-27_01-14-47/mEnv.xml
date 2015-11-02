@@ -16,6 +16,6 @@
         <extensionName>org.spotter.ext.workload.simple.SimpleWorkloadDriver</extensionName>
         <config key="org.spotter.satellite.adapter.name" value="Customized Workload Satellite Adapter"/>
         <config key="org.spotter.workload.simple.userScriptClassName" value="eu.cloudscale.examples.minimal.load.VUser"/>
-        <config key="org.spotter.workload.simple.userScriptPath" value="/home/jure/work/cloudscale/Examples/Minimal/project/dist"/>
+        <config key="org.spotter.workload.simple.userScriptPath" value="${workspace.path}/Minimal-Project/dist"/>
     </workloadAdapter>
 </measurementEnvironment>
