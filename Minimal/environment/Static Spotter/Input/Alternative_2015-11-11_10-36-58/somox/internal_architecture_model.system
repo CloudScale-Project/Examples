@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ASCII"?>
+<system:System xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:composition="http://palladiosimulator.org/PalladioComponentModel/Core/Composition/5.1" xmlns:repository="http://palladiosimulator.org/PalladioComponentModel/Repository/5.1" xmlns:system="http://palladiosimulator.org/PalladioComponentModel/System/5.1" id="_o7PzwIhXEeWwAOg40J6jGA" entityName="SoMoX Reverse Engineered System">
+  <assemblyContexts__ComposedStructure id="_o8ZDQIhXEeWwAOg40J6jGA" entityName=" &lt;PC No. 3 eu.cloudscale.examples.minimal.app.Application eu.cloudscale.examples.minimal.app.problems.OK eu.cloudscale.examples.minimal.app.problems.OLB>">
+    <encapsulatedComponent__AssemblyContext xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_o8PSQIhXEeWwAOg40J6jGA"/>
+  </assemblyContexts__ComposedStructure>
+  <connectors__ComposedStructure xsi:type="composition:ProvidedDelegationConnector" id="_o8ZDQ4hXEeWwAOg40J6jGA" entityName="Iminimal.app.Application" outerProvidedRole_ProvidedDelegationConnector="_o8ZDQohXEeWwAOg40J6jGA" assemblyContext_ProvidedDelegationConnector="_o8ZDQIhXEeWwAOg40J6jGA">
+    <innerProvidedRole_ProvidedDelegationConnector href="internal_architecture_model.repository#_o8QgYIhXEeWwAOg40J6jGA"/>
+  </connectors__ComposedStructure>
+  <connectors__ComposedStructure xsi:type="composition:ProvidedDelegationConnector" id="_o8ZDRYhXEeWwAOg40J6jGA" entityName="Iapp.problems.OK" outerProvidedRole_ProvidedDelegationConnector="_o8ZDRIhXEeWwAOg40J6jGA" assemblyContext_ProvidedDelegationConnector="_o8ZDQIhXEeWwAOg40J6jGA">
+    <innerProvidedRole_ProvidedDelegationConnector href="internal_architecture_model.repository#_o8QgY4hXEeWwAOg40J6jGA"/>
+  </connectors__ComposedStructure>
+  <connectors__ComposedStructure xsi:type="composition:ProvidedDelegationConnector" id="_o8ZqUYhXEeWwAOg40J6jGA" entityName="Iapp.problems.OLB" outerProvidedRole_ProvidedDelegationConnector="_o8ZqUIhXEeWwAOg40J6jGA" assemblyContext_ProvidedDelegationConnector="_o8ZDQIhXEeWwAOg40J6jGA">
+    <innerProvidedRole_ProvidedDelegationConnector href="internal_architecture_model.repository#_o8RHcIhXEeWwAOg40J6jGA"/>
+  </connectors__ComposedStructure>
+  <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="_o8ZDQohXEeWwAOg40J6jGA" entityName="Application 0 (prov)(sys)">
+    <providedInterface__OperationProvidedRole href="internal_architecture_model.repository#_o7jVwIhXEeWwAOg40J6jGA"/>
+  </providedRoles_InterfaceProvidingEntity>
+  <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="_o8ZDRIhXEeWwAOg40J6jGA" entityName="OK 1 (prov)(sys)">
+    <providedInterface__OperationProvidedRole href="internal_architecture_model.repository#_o7z0cIhXEeWwAOg40J6jGA"/>
+  </providedRoles_InterfaceProvidingEntity>
+  <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="_o8ZqUIhXEeWwAOg40J6jGA" entityName="OLB 2 (prov)(sys)">
+    <providedInterface__OperationProvidedRole href="internal_architecture_model.repository#_o71poIhXEeWwAOg40J6jGA"/>
+  </providedRoles_InterfaceProvidingEntity>
+</system:System>
