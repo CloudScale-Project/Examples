@@ -9,7 +9,7 @@
         <services xsi:type="architecture:PlatformRuntimeService" id="_49ZREXvHEeWJZY0wECJyEA" name="Generic Application Server" softwareServices="_3Fc4B3vHEeWJZY0wECJyEA" descriptor="628eb248-95b5-4f20-b217-5d1a653e003c" computingInfrastructureService="_49ZREnvHEeWJZY0wECJyEA"/>
       </platformLayer>
       <softwareLayer>
-        <services id="_3Fc4B3vHEeWJZY0wECJyEA" name="SoMoX Reverse Engineered System" runtimePlatformService="_49ZREXvHEeWJZY0wECJyEA">
+        <services id="_3Fc4B3vHEeWJZY0wECJyEA" name="Minimal Application Service" runtimePlatformService="_49ZREXvHEeWJZY0wECJyEA">
           <aeMap key="PCM_SYSTEM">
             <value href="external/SoMoX%20Reverse%20Engineered%20System/internal_architecture_model.system#_Dn8woHmWEeWgm4QEt2wjnA"/>
           </aeMap>
