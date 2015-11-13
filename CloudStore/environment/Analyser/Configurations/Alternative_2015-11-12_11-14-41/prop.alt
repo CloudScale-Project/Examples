@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment/>
+<entry key="eu.cloudscaleproject.env.toolchain.ToolchainUtils.path_pcmmeasuringpoint">CloudStore.measuringpoint</entry>
+<entry key="name">CloudStore-300Users</entry>
+<entry key="eu.cloudscaleproject.env.toolchain.ToolchainUtils.path_experiments">BrowsingMix300Users.experiments</entry>
+<entry key="modified">1447323831655</entry>
+<entry key="resourceType">NORMAL</entry>
+<entry key="eu.cloudscaleproject.env.toolchain.ToolchainUtils.path_pms">BrowsingMix.monitorrepository</entry>
+<entry key="eu.cloudscaleproject.env.toolchain.ToolchainUtils.path_slo">BrowsingMix.slo</entry>
+<entry key="input_alternative">Analyser/Input/Alternative_2015-11-12_11-14-41</entry>
+</properties>

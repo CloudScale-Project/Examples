@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment/>
+<entry key="name">CloudStore-Capacity [12:04:27]</entry>
+<entry key="modified">1447326267476</entry>
+<entry key="resourceType">CAPACITY</entry>
+<entry key="config_alternative">Analyser/Configurations/Alternative_2015-11-12_11-44-41</entry>
+<entry key="created">1447326267468</entry>
+<entry key="input_alternative">Analyser/Input/Alternative_2015-11-12_11-14-41</entry>
+</properties>

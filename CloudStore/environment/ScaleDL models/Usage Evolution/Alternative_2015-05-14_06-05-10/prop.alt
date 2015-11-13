@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
-<properties>
-<comment/>
-<entry key="name">CloudStore-ue</entry>
-<entry key="modified">1432129504152</entry>
-<entry key="eu.cloudscaleproject.env.toolchain.ToolchainUtils.path_limbo_model">pcm.dlim</entry>
-<entry key="created">1431619510266</entry>
-</properties>
