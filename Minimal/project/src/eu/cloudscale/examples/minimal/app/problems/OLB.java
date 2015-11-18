@@ -23,7 +23,6 @@ package eu.cloudscale.examples.minimal.app.problems;
  */
 public final class OLB {
 	private static final int TIME_TO_SLEEP = 100;
-	private static final int FIB_NUMBER = 25;
 	private static OLB instance;
 
 	/**
@@ -44,32 +43,11 @@ public final class OLB {
 	/**
 	 * Method leading to a One Lane Bridge.
 	 */
-	public synchronized void request() {
+	public synchronized void call() {
 		try {
 			Thread.sleep(TIME_TO_SLEEP);
 		} catch (InterruptedException e) {
 			throw new RuntimeException(e);
-		}
-	}
-
-	/**
-	 * Method leading to a One Lane Bridge.
-	 */
-	public synchronized void request2() {
-
-		fibonacci(FIB_NUMBER);
-	}
-
-	/**
-	 *
-	 * @param n fib parameter
-	 * @return fib(n)
-	 */
-	public int fibonacci(int n) {
-		if (n <= 1) {
-			return 1;
-		} else {
-			return fibonacci(n - 2) + fibonacci(n - 1);
 		}
 	}
 }

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ASCII"?>
+<system:System xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:composition="http://palladiosimulator.org/PalladioComponentModel/Core/Composition/5.1" xmlns:repository="http://palladiosimulator.org/PalladioComponentModel/Repository/5.1" xmlns:system="http://palladiosimulator.org/PalladioComponentModel/System/5.1" id="CSMGen_" entityName="System model">
+  <assemblyContexts__ComposedStructure id="CSMGen__C6vz4I4EEeW7J95CgDMkZw_opInterfaceContainer2assemblyContext" entityName="Ass-SoMoX Reverse Engineered System">
+    <encapsulatedComponent__AssemblyContext xsi:type="repository:CompositeComponent" href="pcm.repository#CSMGen__C6vz4I4EEeW7J95CgDMkZw_opInterfaceContainer2CompositeComponent"/>
+  </assemblyContexts__ComposedStructure>
+  <connectors__ComposedStructure xsi:type="composition:ProvidedDelegationConnector" id="CSMGen__2hszkI4DEeW7J95CgDMkZw_providedRole2OpInterface_OpInterface2systemProvidedDelegationConnector" outerProvidedRole_ProvidedDelegationConnector="CSMGen_System_2hszkI4DEeW7J95CgDMkZw_providedRole2OpInterface_OpIntrface2ProvidedRole" assemblyContext_ProvidedDelegationConnector="CSMGen__C6vz4I4EEeW7J95CgDMkZw_opInterfaceContainer2assemblyContext">
+    <innerProvidedRole_ProvidedDelegationConnector href="pcm.repository#CSMGen_SystemInner_2hszkI4DEeW7J95CgDMkZw_providedRole2OpInterface_OpIntrface2ProvidedRole"/>
+  </connectors__ComposedStructure>
+  <connectors__ComposedStructure xsi:type="composition:ProvidedDelegationConnector" id="CSMGen__2h9SQY4DEeW7J95CgDMkZw_providedRole2OpInterface_OpInterface2systemProvidedDelegationConnector" outerProvidedRole_ProvidedDelegationConnector="CSMGen_System_2h9SQY4DEeW7J95CgDMkZw_providedRole2OpInterface_OpIntrface2ProvidedRole" assemblyContext_ProvidedDelegationConnector="CSMGen__C6vz4I4EEeW7J95CgDMkZw_opInterfaceContainer2assemblyContext">
+    <innerProvidedRole_ProvidedDelegationConnector href="pcm.repository#CSMGen_SystemInner_2h9SQY4DEeW7J95CgDMkZw_providedRole2OpInterface_OpIntrface2ProvidedRole"/>
+  </connectors__ComposedStructure>
+  <connectors__ComposedStructure xsi:type="composition:ProvidedDelegationConnector" id="CSMGen__2h7dEI4DEeW7J95CgDMkZw_providedRole2OpInterface_OpInterface2systemProvidedDelegationConnector" outerProvidedRole_ProvidedDelegationConnector="CSMGen_System_2h7dEI4DEeW7J95CgDMkZw_providedRole2OpInterface_OpIntrface2ProvidedRole" assemblyContext_ProvidedDelegationConnector="CSMGen__C6vz4I4EEeW7J95CgDMkZw_opInterfaceContainer2assemblyContext">
+    <innerProvidedRole_ProvidedDelegationConnector href="pcm.repository#CSMGen_SystemInner_2h7dEI4DEeW7J95CgDMkZw_providedRole2OpInterface_OpIntrface2ProvidedRole"/>
+  </connectors__ComposedStructure>
+  <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="CSMGen_System_2h7dEI4DEeW7J95CgDMkZw_providedRole2OpInterface_OpIntrface2ProvidedRole" entityName="I_SoMoX Reverse Engineered System">
+    <providedInterface__OperationProvidedRole href="../services/SoMoX%2520Reverse%2520Engineered%2520System/internal_architecture_model.repository#_2h7dEI4DEeW7J95CgDMkZw"/>
+  </providedRoles_InterfaceProvidingEntity>
+  <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="CSMGen_System_2h9SQY4DEeW7J95CgDMkZw_providedRole2OpInterface_OpIntrface2ProvidedRole" entityName="I_SoMoX Reverse Engineered System">
+    <providedInterface__OperationProvidedRole href="../services/SoMoX%2520Reverse%2520Engineered%2520System/internal_architecture_model.repository#_2h9SQY4DEeW7J95CgDMkZw"/>
+  </providedRoles_InterfaceProvidingEntity>
+  <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="CSMGen_System_2hszkI4DEeW7J95CgDMkZw_providedRole2OpInterface_OpIntrface2ProvidedRole" entityName="I_SoMoX Reverse Engineered System">
+    <providedInterface__OperationProvidedRole href="../services/SoMoX%2520Reverse%2520Engineered%2520System/internal_architecture_model.repository#_2hszkI4DEeW7J95CgDMkZw"/>
+  </providedRoles_InterfaceProvidingEntity>
+</system:System>

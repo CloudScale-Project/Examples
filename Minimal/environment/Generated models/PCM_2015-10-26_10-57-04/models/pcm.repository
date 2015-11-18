@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ASCII"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <repository:Repository xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:composition="http://palladiosimulator.org/PalladioComponentModel/Core/Composition/5.1" xmlns:repository="http://palladiosimulator.org/PalladioComponentModel/Repository/5.1" id="CSMGen_" entityName="Repository model">
   <components__Repository xsi:type="repository:CompositeComponent" id="CSMGen__3Fc4B3vHEeWJZY0wECJyEA_opInterfaceContainer2CompositeComponent" entityName="SoMoX Reverse Engineered System">
     <assemblyContexts__ComposedStructure id="CSMGen__DpMt0HmWEeWgm4QEt2wjnA_opInterfaceContainer2CompositeComponent" entityName=" &lt;PC No. 3 eu.cloudscale.examples.minimal.app.Application eu.cloudscale.examples.minimal.app.problems.OK eu.cloudscale.examples.minimal.app.problems.OLB>">

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="ASCII"?>
+<allocation:Allocation xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:allocation="http://palladiosimulator.org/PalladioComponentModel/Allocation/5.1" id="CSMGen_" entityName="Allication model">
+  <targetResourceEnvironment_Allocation href="pcm.resourceenvironment#/"/>
+  <system_Allocation href="pcm.system#CSMGen_"/>
+  <allocationContexts_Allocation id="CSMGen__C6vz4I4EEeW7J95CgDMkZw_opInterfaceContainer2allocationContext" entityName="Allocation SoMoX Reverse Engineered System">
+    <resourceContainer_AllocationContext href="pcm.resourceenvironment#CSMGen__EcVico4EEeW7J95CgDMkZw_service2resourceContainer"/>
+    <assemblyContext_AllocationContext href="pcm.system#CSMGen__C6vz4I4EEeW7J95CgDMkZw_opInterfaceContainer2assemblyContext"/>
+  </allocationContexts_Allocation>
+</allocation:Allocation>

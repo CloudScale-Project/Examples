@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="ASCII"?>
+<usagemodel:UsageModel xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:usagemodel="http://palladiosimulator.org/PalladioComponentModel/UsageModel/5.1">
+  <usageScenario_UsageModel id="CSMGen__EmSvsI4EEeW7J95CgDMkZwclosedWorkload_csm2usage" entityName="DefaultUsageScenario">
+    <scenarioBehaviour_UsageScenario id="CSMGen__EmSvsI4EEeW7J95CgDMkZwusageScenario_csm2usage" entityName="DefaultUsageBehaviour">
+      <actions_ScenarioBehaviour xsi:type="usagemodel:Start" id="CSMGen__EmSvsI4EEeW7J95CgDMkZwstart_csm2usage" entityName="Start usage action" successor="CSMGen__EmSvsI4EEeW7J95CgDMkZwsystemCall_csm2usage"/>
+      <actions_ScenarioBehaviour xsi:type="usagemodel:Branch" id="CSMGen__EmSvsI4EEeW7J95CgDMkZwsystemCall_csm2usage" entityName="Default entry level system call" successor="CSMGen__EmSvsI4EEeW7J95CgDMkZwstop_csm2usage" predecessor="CSMGen__EmSvsI4EEeW7J95CgDMkZwstart_csm2usage">
+        <branchTransitions_Branch branchProbability="0.16666666666666666">
+          <branchedBehaviour_BranchTransition id="CSMGen_CSMGen__2hvP0I4DEeW7J95CgDMkZw_operationSignature2operation_operation2branchTransition">
+            <actions_ScenarioBehaviour xsi:type="usagemodel:Start" id="CSMGen_CSMGen__2hvP0I4DEeW7J95CgDMkZw_operationSignature2operationstart_opInterface2branchTransition" entityName="Start usage action" successor="CSMGen_CSMGen__2hvP0I4DEeW7J95CgDMkZw_operationSignature2operation_operation2entryLevelSystemCall"/>
+            <actions_ScenarioBehaviour xsi:type="usagemodel:EntryLevelSystemCall" id="CSMGen_CSMGen__2hvP0I4DEeW7J95CgDMkZw_operationSignature2operation_operation2entryLevelSystemCall" entityName="Default entry level system call" successor="CSMGen_CSMGen__2hvP0I4DEeW7J95CgDMkZw_operationSignature2operationstop_opInterface2branchTransition" predecessor="CSMGen_CSMGen__2hvP0I4DEeW7J95CgDMkZw_operationSignature2operationstart_opInterface2branchTransition">
+              <providedRole_EntryLevelSystemCall href="pcm.system#CSMGen_System_2hszkI4DEeW7J95CgDMkZw_providedRole2OpInterface_OpIntrface2ProvidedRole"/>
+              <operationSignature__EntryLevelSystemCall href="../services/SoMoX%2520Reverse%2520Engineered%2520System/internal_architecture_model.repository#_2hvP0I4DEeW7J95CgDMkZw"/>
+            </actions_ScenarioBehaviour>
+            <actions_ScenarioBehaviour xsi:type="usagemodel:Stop" id="CSMGen_CSMGen__2hvP0I4DEeW7J95CgDMkZw_operationSignature2operationstop_opInterface2branchTransition" entityName="Stop usage action" predecessor="CSMGen_CSMGen__2hvP0I4DEeW7J95CgDMkZw_operationSignature2operation_operation2entryLevelSystemCall"/>
+          </branchedBehaviour_BranchTransition>
+        </branchTransitions_Branch>
+        <branchTransitions_Branch branchProbability="0.16666666666666666">
+          <branchedBehaviour_BranchTransition id="CSMGen_CSMGen__2hszkY4DEeW7J95CgDMkZw_operationSignature2operation_operation2branchTransition">
+            <actions_ScenarioBehaviour xsi:type="usagemodel:Start" id="CSMGen_CSMGen__2hszkY4DEeW7J95CgDMkZw_operationSignature2operationstart_opInterface2branchTransition" entityName="Start usage action" successor="CSMGen_CSMGen__2hszkY4DEeW7J95CgDMkZw_operationSignature2operation_operation2entryLevelSystemCall"/>
+            <actions_ScenarioBehaviour xsi:type="usagemodel:EntryLevelSystemCall" id="CSMGen_CSMGen__2hszkY4DEeW7J95CgDMkZw_operationSignature2operation_operation2entryLevelSystemCall" entityName="Default entry level system call" successor="CSMGen_CSMGen__2hszkY4DEeW7J95CgDMkZw_operationSignature2operationstop_opInterface2branchTransition" predecessor="CSMGen_CSMGen__2hszkY4DEeW7J95CgDMkZw_operationSignature2operationstart_opInterface2branchTransition">
+              <providedRole_EntryLevelSystemCall href="pcm.system#CSMGen_System_2hszkI4DEeW7J95CgDMkZw_providedRole2OpInterface_OpIntrface2ProvidedRole"/>
+              <operationSignature__EntryLevelSystemCall href="../services/SoMoX%2520Reverse%2520Engineered%2520System/internal_architecture_model.repository#_2hszkY4DEeW7J95CgDMkZw"/>
+            </actions_ScenarioBehaviour>
+            <actions_ScenarioBehaviour xsi:type="usagemodel:Stop" id="CSMGen_CSMGen__2hszkY4DEeW7J95CgDMkZw_operationSignature2operationstop_opInterface2branchTransition" entityName="Stop usage action" predecessor="CSMGen_CSMGen__2hszkY4DEeW7J95CgDMkZw_operationSignature2operation_operation2entryLevelSystemCall"/>
+          </branchedBehaviour_BranchTransition>
+        </branchTransitions_Branch>
+        <branchTransitions_Branch branchProbability="0.16666666666666666">
+          <branchedBehaviour_BranchTransition id="CSMGen_CSMGen__2h9SQo4DEeW7J95CgDMkZw_operationSignature2operation_operation2branchTransition">
+            <actions_ScenarioBehaviour xsi:type="usagemodel:Start" id="CSMGen_CSMGen__2h9SQo4DEeW7J95CgDMkZw_operationSignature2operationstart_opInterface2branchTransition" entityName="Start usage action" successor="CSMGen_CSMGen__2h9SQo4DEeW7J95CgDMkZw_operationSignature2operation_operation2entryLevelSystemCall"/>
+            <actions_ScenarioBehaviour xsi:type="usagemodel:EntryLevelSystemCall" id="CSMGen_CSMGen__2h9SQo4DEeW7J95CgDMkZw_operationSignature2operation_operation2entryLevelSystemCall" entityName="Default entry level system call" successor="CSMGen_CSMGen__2h9SQo4DEeW7J95CgDMkZw_operationSignature2operationstop_opInterface2branchTransition" predecessor="CSMGen_CSMGen__2h9SQo4DEeW7J95CgDMkZw_operationSignature2operationstart_opInterface2branchTransition">
+              <providedRole_EntryLevelSystemCall href="pcm.system#CSMGen_System_2h9SQY4DEeW7J95CgDMkZw_providedRole2OpInterface_OpIntrface2ProvidedRole"/>
+              <operationSignature__EntryLevelSystemCall href="../services/SoMoX%2520Reverse%2520Engineered%2520System/internal_architecture_model.repository#_2h9SQo4DEeW7J95CgDMkZw"/>
+            </actions_ScenarioBehaviour>
+            <actions_ScenarioBehaviour xsi:type="usagemodel:Stop" id="CSMGen_CSMGen__2h9SQo4DEeW7J95CgDMkZw_operationSignature2operationstop_opInterface2branchTransition" entityName="Stop usage action" predecessor="CSMGen_CSMGen__2h9SQo4DEeW7J95CgDMkZw_operationSignature2operation_operation2entryLevelSystemCall"/>
+          </branchedBehaviour_BranchTransition>
+        </branchTransitions_Branch>
+        <branchTransitions_Branch branchProbability="0.16666666666666666">
+          <branchedBehaviour_BranchTransition id="CSMGen_CSMGen__2h-gYI4DEeW7J95CgDMkZw_operationSignature2operation_operation2branchTransition">
+            <actions_ScenarioBehaviour xsi:type="usagemodel:Start" id="CSMGen_CSMGen__2h-gYI4DEeW7J95CgDMkZw_operationSignature2operationstart_opInterface2branchTransition" entityName="Start usage action" successor="CSMGen_CSMGen__2h-gYI4DEeW7J95CgDMkZw_operationSignature2operation_operation2entryLevelSystemCall"/>
+            <actions_ScenarioBehaviour xsi:type="usagemodel:EntryLevelSystemCall" id="CSMGen_CSMGen__2h-gYI4DEeW7J95CgDMkZw_operationSignature2operation_operation2entryLevelSystemCall" entityName="Default entry level system call" successor="CSMGen_CSMGen__2h-gYI4DEeW7J95CgDMkZw_operationSignature2operationstop_opInterface2branchTransition" predecessor="CSMGen_CSMGen__2h-gYI4DEeW7J95CgDMkZw_operationSignature2operationstart_opInterface2branchTransition">
+              <providedRole_EntryLevelSystemCall href="pcm.system#CSMGen_System_2h9SQY4DEeW7J95CgDMkZw_providedRole2OpInterface_OpIntrface2ProvidedRole"/>
+              <operationSignature__EntryLevelSystemCall href="../services/SoMoX%2520Reverse%2520Engineered%2520System/internal_architecture_model.repository#_2h-gYI4DEeW7J95CgDMkZw"/>
+            </actions_ScenarioBehaviour>
+            <actions_ScenarioBehaviour xsi:type="usagemodel:Stop" id="CSMGen_CSMGen__2h-gYI4DEeW7J95CgDMkZw_operationSignature2operationstop_opInterface2branchTransition" entityName="Stop usage action" predecessor="CSMGen_CSMGen__2h-gYI4DEeW7J95CgDMkZw_operationSignature2operation_operation2entryLevelSystemCall"/>
+          </branchedBehaviour_BranchTransition>
+        </branchTransitions_Branch>
+        <branchTransitions_Branch branchProbability="0.16666666666666666">
+          <branchedBehaviour_BranchTransition id="CSMGen_CSMGen__2h7dEY4DEeW7J95CgDMkZw_operationSignature2operation_operation2branchTransition">
+            <actions_ScenarioBehaviour xsi:type="usagemodel:Start" id="CSMGen_CSMGen__2h7dEY4DEeW7J95CgDMkZw_operationSignature2operationstart_opInterface2branchTransition" entityName="Start usage action" successor="CSMGen_CSMGen__2h7dEY4DEeW7J95CgDMkZw_operationSignature2operation_operation2entryLevelSystemCall"/>
+            <actions_ScenarioBehaviour xsi:type="usagemodel:EntryLevelSystemCall" id="CSMGen_CSMGen__2h7dEY4DEeW7J95CgDMkZw_operationSignature2operation_operation2entryLevelSystemCall" entityName="Default entry level system call" successor="CSMGen_CSMGen__2h7dEY4DEeW7J95CgDMkZw_operationSignature2operationstop_opInterface2branchTransition" predecessor="CSMGen_CSMGen__2h7dEY4DEeW7J95CgDMkZw_operationSignature2operationstart_opInterface2branchTransition">
+              <providedRole_EntryLevelSystemCall href="pcm.system#CSMGen_System_2h7dEI4DEeW7J95CgDMkZw_providedRole2OpInterface_OpIntrface2ProvidedRole"/>
+              <operationSignature__EntryLevelSystemCall href="../services/SoMoX%2520Reverse%2520Engineered%2520System/internal_architecture_model.repository#_2h7dEY4DEeW7J95CgDMkZw"/>
+            </actions_ScenarioBehaviour>
+            <actions_ScenarioBehaviour xsi:type="usagemodel:Stop" id="CSMGen_CSMGen__2h7dEY4DEeW7J95CgDMkZw_operationSignature2operationstop_opInterface2branchTransition" entityName="Stop usage action" predecessor="CSMGen_CSMGen__2h7dEY4DEeW7J95CgDMkZw_operationSignature2operation_operation2entryLevelSystemCall"/>
+          </branchedBehaviour_BranchTransition>
+        </branchTransitions_Branch>
+        <branchTransitions_Branch branchProbability="0.16666666666666666">
+          <branchedBehaviour_BranchTransition id="CSMGen_CSMGen__2h8rMI4DEeW7J95CgDMkZw_operationSignature2operation_operation2branchTransition">
+            <actions_ScenarioBehaviour xsi:type="usagemodel:Start" id="CSMGen_CSMGen__2h8rMI4DEeW7J95CgDMkZw_operationSignature2operationstart_opInterface2branchTransition" entityName="Start usage action" successor="CSMGen_CSMGen__2h8rMI4DEeW7J95CgDMkZw_operationSignature2operation_operation2entryLevelSystemCall"/>
+            <actions_ScenarioBehaviour xsi:type="usagemodel:EntryLevelSystemCall" id="CSMGen_CSMGen__2h8rMI4DEeW7J95CgDMkZw_operationSignature2operation_operation2entryLevelSystemCall" entityName="Default entry level system call" successor="CSMGen_CSMGen__2h8rMI4DEeW7J95CgDMkZw_operationSignature2operationstop_opInterface2branchTransition" predecessor="CSMGen_CSMGen__2h8rMI4DEeW7J95CgDMkZw_operationSignature2operationstart_opInterface2branchTransition">
+              <providedRole_EntryLevelSystemCall href="pcm.system#CSMGen_System_2h7dEI4DEeW7J95CgDMkZw_providedRole2OpInterface_OpIntrface2ProvidedRole"/>
+              <operationSignature__EntryLevelSystemCall href="../services/SoMoX%2520Reverse%2520Engineered%2520System/internal_architecture_model.repository#_2h8rMI4DEeW7J95CgDMkZw"/>
+            </actions_ScenarioBehaviour>
+            <actions_ScenarioBehaviour xsi:type="usagemodel:Stop" id="CSMGen_CSMGen__2h8rMI4DEeW7J95CgDMkZw_operationSignature2operationstop_opInterface2branchTransition" entityName="Stop usage action" predecessor="CSMGen_CSMGen__2h8rMI4DEeW7J95CgDMkZw_operationSignature2operation_operation2entryLevelSystemCall"/>
+          </branchedBehaviour_BranchTransition>
+        </branchTransitions_Branch>
+      </actions_ScenarioBehaviour>
+      <actions_ScenarioBehaviour xsi:type="usagemodel:Stop" id="CSMGen__EmSvsI4EEeW7J95CgDMkZwstop_csm2usage" entityName="Stop usage action" predecessor="CSMGen__EmSvsI4EEeW7J95CgDMkZwsystemCall_csm2usage"/>
+    </scenarioBehaviour_UsageScenario>
+    <workload_UsageScenario xsi:type="usagemodel:ClosedWorkload" population="100">
+      <thinkTime_ClosedWorkload specification="10"/>
+    </workload_UsageScenario>
+  </usageScenario_UsageModel>
+</usagemodel:UsageModel>

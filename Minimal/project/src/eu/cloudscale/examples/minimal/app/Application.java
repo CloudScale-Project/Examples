@@ -44,7 +44,7 @@ public class Application {
 	@Produces(MediaType.APPLICATION_JSON)
 	public String testOLB() {
 		System.out.printf("[%tT] %s", Calendar.getInstance(), "demo/testOLB called\n");
-		OLB.getInstnace().request();
+		OLB.getInstnace().call();
 		return "Hello from OLB Test Method!";
 	}
 
@@ -57,7 +57,7 @@ public class Application {
 	@Produces(MediaType.APPLICATION_JSON)
 	public String testNoProblem() {
 		System.out.printf("[%tT] %s", Calendar.getInstance(), "demo/testOK called\n");
-		OK.getInstnace().request();
+		OK.getInstnace().call();
 		return "Hello from OK Test Method!";
 	}
 }

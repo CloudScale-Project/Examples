@@ -40,7 +40,7 @@ public final class OK {
 
 	}
 
-	public void request() {
+	public void call() {
 
 		fibonacci(FIB_NUMBER);
 	}

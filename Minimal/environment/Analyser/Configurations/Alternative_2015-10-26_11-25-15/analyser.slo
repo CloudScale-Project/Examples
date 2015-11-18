@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="ASCII"?>
-<slo:ServiceLevelObjectiveRepository xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:slo="http://palladiosimulator.org/ServiceLevelObjective/1.0">
-  <servicelevelobjectives id="_2NZR0HvLEeWGyNybyoAQrQ" name="Usage response time SLO">
-    <upperThreshold xsi:type="slo:HardThreshold" id="_2PC3oHvLEeWGyNybyoAQrQ" thresholdLimit="500 s"/>
-    <measurementSpecification href="analyser.monitorrepository#_2PCQkHvLEeWGyNybyoAQrQ"/>
-  </servicelevelobjectives>
-</slo:ServiceLevelObjectiveRepository>
