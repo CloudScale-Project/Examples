@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment/>
+<entry key="name">CloudStore-Scalability [09:10:31]</entry>
+<entry key="modified">1447834231590</entry>
+<entry key="resourceType">SCALABILITY</entry>
+<entry key="config_alternative">Analyser/Configurations/Alternative_2015-11-12_11-51-09</entry>
+<entry key="created">1447834231585</entry>
+<entry key="input_alternative">Analyser/Input/Alternative_2015-11-12_11-14-41</entry>
+</properties>
