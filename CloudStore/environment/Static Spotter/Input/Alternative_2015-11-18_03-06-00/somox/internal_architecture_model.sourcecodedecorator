@@ -1,0 +1,615 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sourcecodedecorator:SourceCodeDecoratorRepository xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:java="http://www.eclipse.org/MoDisco/Java/0.2.incubation/java" xmlns:repository="http://palladiosimulator.org/PalladioComponentModel/Repository/5.1" xmlns:sourcecodedecorator="http://somox.org/SourceCodeDecorator/2.0">
+  <fileLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_YDKcQI39EeWks8u6nyB56w"/>
+    <file href="../modisco/CloudStore-Project_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.2/@inventoryElement.1/@inventoryElement.22"/>
+  </fileLevelSourceCodeLink>
+  <fileLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_YDKcQI39EeWks8u6nyB56w"/>
+    <file href="../modisco/CloudStore-Project_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.2/@inventoryElement.1/@inventoryElement.7"/>
+  </fileLevelSourceCodeLink>
+  <fileLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_YDKcQI39EeWks8u6nyB56w"/>
+    <file href="../modisco/CloudStore-Project_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.2/@inventoryElement.1/@inventoryElement.9"/>
+  </fileLevelSourceCodeLink>
+  <fileLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_YDKcQI39EeWks8u6nyB56w"/>
+    <file href="../modisco/CloudStore-Project_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.2/@inventoryElement.1/@inventoryElement.13"/>
+  </fileLevelSourceCodeLink>
+  <fileLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_YDKcQI39EeWks8u6nyB56w"/>
+    <file href="../modisco/CloudStore-Project_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.2/@inventoryElement.1/@inventoryElement.0"/>
+  </fileLevelSourceCodeLink>
+  <fileLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_YDKcQI39EeWks8u6nyB56w"/>
+    <file href="../modisco/CloudStore-Project_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.2/@inventoryElement.1/@inventoryElement.17"/>
+  </fileLevelSourceCodeLink>
+  <fileLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_YDKcQI39EeWks8u6nyB56w"/>
+    <file href="../modisco/CloudStore-Project_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.2/@inventoryElement.1/@inventoryElement.25"/>
+  </fileLevelSourceCodeLink>
+  <fileLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_YDKcQI39EeWks8u6nyB56w"/>
+    <file href="../modisco/CloudStore-Project_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.2/@inventoryElement.1/@inventoryElement.19"/>
+  </fileLevelSourceCodeLink>
+  <fileLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_YDKcQI39EeWks8u6nyB56w"/>
+    <file href="../modisco/CloudStore-Project_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.2/@inventoryElement.1/@inventoryElement.6"/>
+  </fileLevelSourceCodeLink>
+  <fileLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_YDKcQI39EeWks8u6nyB56w"/>
+    <file href="../modisco/CloudStore-Project_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.2/@inventoryElement.1/@inventoryElement.4"/>
+  </fileLevelSourceCodeLink>
+  <fileLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_YDKcQI39EeWks8u6nyB56w"/>
+    <file href="../modisco/CloudStore-Project_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.2/@inventoryElement.1/@inventoryElement.26"/>
+  </fileLevelSourceCodeLink>
+  <fileLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_YDKcQI39EeWks8u6nyB56w"/>
+    <file href="../modisco/CloudStore-Project_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.2/@inventoryElement.1/@inventoryElement.10"/>
+  </fileLevelSourceCodeLink>
+  <fileLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_YDKcQI39EeWks8u6nyB56w"/>
+    <file href="../modisco/CloudStore-Project_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.2/@inventoryElement.1/@inventoryElement.16"/>
+  </fileLevelSourceCodeLink>
+  <fileLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_YDKcQI39EeWks8u6nyB56w"/>
+    <file href="../modisco/CloudStore-Project_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.2/@inventoryElement.1/@inventoryElement.3"/>
+  </fileLevelSourceCodeLink>
+  <fileLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_YDKcQI39EeWks8u6nyB56w"/>
+    <file href="../modisco/CloudStore-Project_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.2/@inventoryElement.1/@inventoryElement.21"/>
+  </fileLevelSourceCodeLink>
+  <fileLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_YDKcQI39EeWks8u6nyB56w"/>
+    <file href="../modisco/CloudStore-Project_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.2/@inventoryElement.1/@inventoryElement.24"/>
+  </fileLevelSourceCodeLink>
+  <fileLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_YDKcQI39EeWks8u6nyB56w"/>
+    <file href="../modisco/CloudStore-Project_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.2/@inventoryElement.1/@inventoryElement.12"/>
+  </fileLevelSourceCodeLink>
+  <fileLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_YDKcQI39EeWks8u6nyB56w"/>
+    <file href="../modisco/CloudStore-Project_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.2/@inventoryElement.1/@inventoryElement.1"/>
+  </fileLevelSourceCodeLink>
+  <fileLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_YDKcQI39EeWks8u6nyB56w"/>
+    <file href="../modisco/CloudStore-Project_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.2/@inventoryElement.1/@inventoryElement.2"/>
+  </fileLevelSourceCodeLink>
+  <methodLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_YDKcQI39EeWks8u6nyB56w"/>
+    <file href="../modisco/CloudStore-Project_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.2/@inventoryElement.1/@inventoryElement.22"/>
+    <operation xsi:type="repository:OperationSignature" href="internal_architecture_model.repository#_X9YkYY39EeWks8u6nyB56w"/>
+    <function xsi:type="java:MethodDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.1"/>
+  </methodLevelSourceCodeLink>
+  <methodLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_YDKcQI39EeWks8u6nyB56w"/>
+    <file href="../modisco/CloudStore-Project_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.2/@inventoryElement.1/@inventoryElement.7"/>
+    <operation xsi:type="repository:OperationSignature" href="internal_architecture_model.repository#_X9cOwY39EeWks8u6nyB56w"/>
+    <function xsi:type="java:MethodDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.1"/>
+  </methodLevelSourceCodeLink>
+  <methodLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_YDKcQI39EeWks8u6nyB56w"/>
+    <file href="../modisco/CloudStore-Project_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.2/@inventoryElement.1/@inventoryElement.9"/>
+    <operation xsi:type="repository:OperationSignature" href="internal_architecture_model.repository#_X--f0Y39EeWks8u6nyB56w"/>
+    <function xsi:type="java:MethodDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.3/@bodyDeclarations.12"/>
+  </methodLevelSourceCodeLink>
+  <methodLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_YDKcQI39EeWks8u6nyB56w"/>
+    <file href="../modisco/CloudStore-Project_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.2/@inventoryElement.1/@inventoryElement.9"/>
+    <operation xsi:type="repository:OperationSignature" href="internal_architecture_model.repository#_X-_t8Y39EeWks8u6nyB56w"/>
+    <function xsi:type="java:MethodDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.3/@bodyDeclarations.13"/>
+  </methodLevelSourceCodeLink>
+  <methodLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_YDKcQI39EeWks8u6nyB56w"/>
+    <file href="../modisco/CloudStore-Project_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.2/@inventoryElement.1/@inventoryElement.9"/>
+    <operation xsi:type="repository:OperationSignature" href="internal_architecture_model.repository#_X-_t9o39EeWks8u6nyB56w"/>
+    <function xsi:type="java:MethodDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.3/@bodyDeclarations.14"/>
+  </methodLevelSourceCodeLink>
+  <methodLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_YDKcQI39EeWks8u6nyB56w"/>
+    <file href="../modisco/CloudStore-Project_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.2/@inventoryElement.1/@inventoryElement.9"/>
+    <operation xsi:type="repository:OperationSignature" href="internal_architecture_model.repository#_X_A8EI39EeWks8u6nyB56w"/>
+    <function xsi:type="java:MethodDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.3/@bodyDeclarations.15"/>
+  </methodLevelSourceCodeLink>
+  <methodLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_YDKcQI39EeWks8u6nyB56w"/>
+    <file href="../modisco/CloudStore-Project_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.2/@inventoryElement.1/@inventoryElement.9"/>
+    <operation xsi:type="repository:OperationSignature" href="internal_architecture_model.repository#_X_A8E439EeWks8u6nyB56w"/>
+    <function xsi:type="java:MethodDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.3/@bodyDeclarations.16"/>
+  </methodLevelSourceCodeLink>
+  <methodLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_YDKcQI39EeWks8u6nyB56w"/>
+    <file href="../modisco/CloudStore-Project_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.2/@inventoryElement.1/@inventoryElement.9"/>
+    <operation xsi:type="repository:OperationSignature" href="internal_architecture_model.repository#_X_BjII39EeWks8u6nyB56w"/>
+    <function xsi:type="java:MethodDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.3/@bodyDeclarations.17"/>
+  </methodLevelSourceCodeLink>
+  <methodLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_YDKcQI39EeWks8u6nyB56w"/>
+    <file href="../modisco/CloudStore-Project_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.2/@inventoryElement.1/@inventoryElement.9"/>
+    <operation xsi:type="repository:OperationSignature" href="internal_architecture_model.repository#_X_BjIY39EeWks8u6nyB56w"/>
+    <function xsi:type="java:MethodDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.3/@bodyDeclarations.18"/>
+  </methodLevelSourceCodeLink>
+  <methodLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_YDKcQI39EeWks8u6nyB56w"/>
+    <file href="../modisco/CloudStore-Project_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.2/@inventoryElement.1/@inventoryElement.9"/>
+    <operation xsi:type="repository:OperationSignature" href="internal_architecture_model.repository#_X_CKMo39EeWks8u6nyB56w"/>
+    <function xsi:type="java:MethodDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.3/@bodyDeclarations.19"/>
+  </methodLevelSourceCodeLink>
+  <methodLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_YDKcQI39EeWks8u6nyB56w"/>
+    <file href="../modisco/CloudStore-Project_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.2/@inventoryElement.1/@inventoryElement.9"/>
+    <operation xsi:type="repository:OperationSignature" href="internal_architecture_model.repository#_X_CxQI39EeWks8u6nyB56w"/>
+    <function xsi:type="java:MethodDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.3/@bodyDeclarations.20"/>
+  </methodLevelSourceCodeLink>
+  <methodLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_YDKcQI39EeWks8u6nyB56w"/>
+    <file href="../modisco/CloudStore-Project_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.2/@inventoryElement.1/@inventoryElement.9"/>
+    <operation xsi:type="repository:OperationSignature" href="internal_architecture_model.repository#_X_DYUY39EeWks8u6nyB56w"/>
+    <function xsi:type="java:MethodDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.3/@bodyDeclarations.21"/>
+  </methodLevelSourceCodeLink>
+  <methodLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_YDKcQI39EeWks8u6nyB56w"/>
+    <file href="../modisco/CloudStore-Project_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.2/@inventoryElement.1/@inventoryElement.9"/>
+    <operation xsi:type="repository:OperationSignature" href="internal_architecture_model.repository#_X_DYUo39EeWks8u6nyB56w"/>
+    <function xsi:type="java:MethodDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.3/@bodyDeclarations.22"/>
+  </methodLevelSourceCodeLink>
+  <methodLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_YDKcQI39EeWks8u6nyB56w"/>
+    <file href="../modisco/CloudStore-Project_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.2/@inventoryElement.1/@inventoryElement.9"/>
+    <operation xsi:type="repository:OperationSignature" href="internal_architecture_model.repository#_X_D_YI39EeWks8u6nyB56w"/>
+    <function xsi:type="java:MethodDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.3/@bodyDeclarations.23"/>
+  </methodLevelSourceCodeLink>
+  <methodLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_YDKcQI39EeWks8u6nyB56w"/>
+    <file href="../modisco/CloudStore-Project_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.2/@inventoryElement.1/@inventoryElement.9"/>
+    <operation xsi:type="repository:OperationSignature" href="internal_architecture_model.repository#_X_EmcI39EeWks8u6nyB56w"/>
+    <function xsi:type="java:MethodDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.3/@bodyDeclarations.25"/>
+  </methodLevelSourceCodeLink>
+  <methodLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_YDKcQI39EeWks8u6nyB56w"/>
+    <file href="../modisco/CloudStore-Project_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.2/@inventoryElement.1/@inventoryElement.9"/>
+    <operation xsi:type="repository:OperationSignature" href="internal_architecture_model.repository#_X_F0kI39EeWks8u6nyB56w"/>
+    <function xsi:type="java:MethodDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.3/@bodyDeclarations.26"/>
+  </methodLevelSourceCodeLink>
+  <methodLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_YDKcQI39EeWks8u6nyB56w"/>
+    <file href="../modisco/CloudStore-Project_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.2/@inventoryElement.1/@inventoryElement.9"/>
+    <operation xsi:type="repository:OperationSignature" href="internal_architecture_model.repository#_X_F0kY39EeWks8u6nyB56w"/>
+    <function xsi:type="java:MethodDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.3/@bodyDeclarations.27"/>
+  </methodLevelSourceCodeLink>
+  <methodLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_YDKcQI39EeWks8u6nyB56w"/>
+    <file href="../modisco/CloudStore-Project_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.2/@inventoryElement.1/@inventoryElement.9"/>
+    <operation xsi:type="repository:OperationSignature" href="internal_architecture_model.repository#_X_HCtI39EeWks8u6nyB56w"/>
+    <function xsi:type="java:MethodDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.3/@bodyDeclarations.32"/>
+  </methodLevelSourceCodeLink>
+  <methodLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_YDKcQI39EeWks8u6nyB56w"/>
+    <file href="../modisco/CloudStore-Project_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.2/@inventoryElement.1/@inventoryElement.9"/>
+    <operation xsi:type="repository:OperationSignature" href="internal_architecture_model.repository#_X_HpwI39EeWks8u6nyB56w"/>
+    <function xsi:type="java:MethodDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.3/@bodyDeclarations.34"/>
+  </methodLevelSourceCodeLink>
+  <methodLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_YDKcQI39EeWks8u6nyB56w"/>
+    <file href="../modisco/CloudStore-Project_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.2/@inventoryElement.1/@inventoryElement.9"/>
+    <operation xsi:type="repository:OperationSignature" href="internal_architecture_model.repository#_X_HpwY39EeWks8u6nyB56w"/>
+    <function xsi:type="java:MethodDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.3/@bodyDeclarations.35"/>
+  </methodLevelSourceCodeLink>
+  <methodLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_YDKcQI39EeWks8u6nyB56w"/>
+    <file href="../modisco/CloudStore-Project_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.2/@inventoryElement.1/@inventoryElement.9"/>
+    <operation xsi:type="repository:OperationSignature" href="internal_architecture_model.repository#_X_Hpwo39EeWks8u6nyB56w"/>
+    <function xsi:type="java:MethodDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.3/@bodyDeclarations.36"/>
+  </methodLevelSourceCodeLink>
+  <methodLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_YDKcQI39EeWks8u6nyB56w"/>
+    <file href="../modisco/CloudStore-Project_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.2/@inventoryElement.1/@inventoryElement.9"/>
+    <operation xsi:type="repository:OperationSignature" href="internal_architecture_model.repository#_X_KGAY39EeWks8u6nyB56w"/>
+    <function xsi:type="java:MethodDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.3/@bodyDeclarations.37"/>
+  </methodLevelSourceCodeLink>
+  <methodLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_YDKcQI39EeWks8u6nyB56w"/>
+    <file href="../modisco/CloudStore-Project_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.2/@inventoryElement.1/@inventoryElement.13"/>
+    <operation xsi:type="repository:OperationSignature" href="internal_architecture_model.repository#_X_So4o39EeWks8u6nyB56w"/>
+    <function xsi:type="java:MethodDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.4/@bodyDeclarations.1"/>
+  </methodLevelSourceCodeLink>
+  <methodLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_YDKcQI39EeWks8u6nyB56w"/>
+    <file href="../modisco/CloudStore-Project_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.2/@inventoryElement.1/@inventoryElement.0"/>
+    <operation xsi:type="repository:OperationSignature" href="internal_architecture_model.repository#_X_VFIo39EeWks8u6nyB56w"/>
+    <function xsi:type="java:MethodDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.5/@bodyDeclarations.1"/>
+  </methodLevelSourceCodeLink>
+  <methodLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_YDKcQI39EeWks8u6nyB56w"/>
+    <file href="../modisco/CloudStore-Project_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.2/@inventoryElement.1/@inventoryElement.17"/>
+    <operation xsi:type="repository:OperationSignature" href="internal_architecture_model.repository#_YAFTEY39EeWks8u6nyB56w"/>
+    <function xsi:type="java:MethodDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.8/@bodyDeclarations.1"/>
+  </methodLevelSourceCodeLink>
+  <methodLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_YDKcQI39EeWks8u6nyB56w"/>
+    <file href="../modisco/CloudStore-Project_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.2/@inventoryElement.1/@inventoryElement.25"/>
+    <operation xsi:type="repository:OperationSignature" href="internal_architecture_model.repository#_YAKyoo39EeWks8u6nyB56w"/>
+    <function xsi:type="java:MethodDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.9/@bodyDeclarations.1"/>
+  </methodLevelSourceCodeLink>
+  <methodLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_YDKcQI39EeWks8u6nyB56w"/>
+    <file href="../modisco/CloudStore-Project_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.2/@inventoryElement.1/@inventoryElement.19"/>
+    <operation xsi:type="repository:OperationSignature" href="internal_architecture_model.repository#_YAOdAo39EeWks8u6nyB56w"/>
+    <function xsi:type="java:MethodDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.10/@bodyDeclarations.1"/>
+  </methodLevelSourceCodeLink>
+  <methodLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_YDKcQI39EeWks8u6nyB56w"/>
+    <file href="../modisco/CloudStore-Project_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.2/@inventoryElement.1/@inventoryElement.6"/>
+    <operation xsi:type="repository:OperationSignature" href="internal_architecture_model.repository#_YARgUo39EeWks8u6nyB56w"/>
+    <function xsi:type="java:MethodDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.12/@bodyDeclarations.1"/>
+  </methodLevelSourceCodeLink>
+  <methodLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_YDKcQI39EeWks8u6nyB56w"/>
+    <file href="../modisco/CloudStore-Project_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.2/@inventoryElement.1/@inventoryElement.4"/>
+    <operation xsi:type="repository:OperationSignature" href="internal_architecture_model.repository#_YAW_4Y39EeWks8u6nyB56w"/>
+    <function xsi:type="java:MethodDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.13/@bodyDeclarations.1"/>
+  </methodLevelSourceCodeLink>
+  <methodLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_YDKcQI39EeWks8u6nyB56w"/>
+    <file href="../modisco/CloudStore-Project_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.2/@inventoryElement.1/@inventoryElement.26"/>
+    <operation xsi:type="repository:OperationSignature" href="internal_architecture_model.repository#_YBXFcY39EeWks8u6nyB56w"/>
+    <function xsi:type="java:MethodDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.15/@bodyDeclarations.1"/>
+  </methodLevelSourceCodeLink>
+  <methodLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_YDKcQI39EeWks8u6nyB56w"/>
+    <file href="../modisco/CloudStore-Project_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.2/@inventoryElement.1/@inventoryElement.10"/>
+    <operation xsi:type="repository:OperationSignature" href="internal_architecture_model.repository#_YBY6oY39EeWks8u6nyB56w"/>
+    <function xsi:type="java:MethodDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.16/@bodyDeclarations.1"/>
+  </methodLevelSourceCodeLink>
+  <methodLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_YDKcQI39EeWks8u6nyB56w"/>
+    <file href="../modisco/CloudStore-Project_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.2/@inventoryElement.1/@inventoryElement.10"/>
+    <operation xsi:type="repository:OperationSignature" href="internal_architecture_model.repository#_YBY6oo39EeWks8u6nyB56w"/>
+    <function xsi:type="java:MethodDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.16/@bodyDeclarations.2"/>
+  </methodLevelSourceCodeLink>
+  <methodLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_YDKcQI39EeWks8u6nyB56w"/>
+    <file href="../modisco/CloudStore-Project_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.2/@inventoryElement.1/@inventoryElement.10"/>
+    <operation xsi:type="repository:OperationSignature" href="internal_architecture_model.repository#_YBZhsI39EeWks8u6nyB56w"/>
+    <function xsi:type="java:MethodDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.16/@bodyDeclarations.3"/>
+  </methodLevelSourceCodeLink>
+  <methodLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_YDKcQI39EeWks8u6nyB56w"/>
+    <file href="../modisco/CloudStore-Project_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.2/@inventoryElement.1/@inventoryElement.10"/>
+    <operation xsi:type="repository:OperationSignature" href="internal_architecture_model.repository#_YBZhsY39EeWks8u6nyB56w"/>
+    <function xsi:type="java:MethodDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.16/@bodyDeclarations.5"/>
+  </methodLevelSourceCodeLink>
+  <methodLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_YDKcQI39EeWks8u6nyB56w"/>
+    <file href="../modisco/CloudStore-Project_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.2/@inventoryElement.1/@inventoryElement.16"/>
+    <operation xsi:type="repository:OperationSignature" href="internal_architecture_model.repository#_YBeaMo39EeWks8u6nyB56w"/>
+    <function xsi:type="java:MethodDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.18/@bodyDeclarations.1"/>
+  </methodLevelSourceCodeLink>
+  <methodLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_YDKcQI39EeWks8u6nyB56w"/>
+    <file href="../modisco/CloudStore-Project_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.2/@inventoryElement.1/@inventoryElement.3"/>
+    <operation xsi:type="repository:OperationSignature" href="internal_architecture_model.repository#_YBiEkY39EeWks8u6nyB56w"/>
+    <function xsi:type="java:MethodDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.19/@bodyDeclarations.1"/>
+  </methodLevelSourceCodeLink>
+  <methodLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_YDKcQI39EeWks8u6nyB56w"/>
+    <file href="../modisco/CloudStore-Project_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.2/@inventoryElement.1/@inventoryElement.21"/>
+    <operation xsi:type="repository:OperationSignature" href="internal_architecture_model.repository#_YBjSsY39EeWks8u6nyB56w"/>
+    <function xsi:type="java:MethodDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.20/@bodyDeclarations.1"/>
+  </methodLevelSourceCodeLink>
+  <methodLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_YDKcQI39EeWks8u6nyB56w"/>
+    <file href="../modisco/CloudStore-Project_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.2/@inventoryElement.1/@inventoryElement.24"/>
+    <operation xsi:type="repository:OperationSignature" href="internal_architecture_model.repository#_YBlH4o39EeWks8u6nyB56w"/>
+    <function xsi:type="java:MethodDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.23/@bodyDeclarations.0"/>
+  </methodLevelSourceCodeLink>
+  <methodLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_YDKcQI39EeWks8u6nyB56w"/>
+    <file href="../modisco/CloudStore-Project_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.2/@inventoryElement.1/@inventoryElement.12"/>
+    <operation xsi:type="repository:OperationSignature" href="internal_architecture_model.repository#_YBmWA439EeWks8u6nyB56w"/>
+    <function xsi:type="java:MethodDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.25/@bodyDeclarations.0"/>
+  </methodLevelSourceCodeLink>
+  <methodLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_YDKcQI39EeWks8u6nyB56w"/>
+    <file href="../modisco/CloudStore-Project_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.2/@inventoryElement.1/@inventoryElement.1"/>
+    <operation xsi:type="repository:OperationSignature" href="internal_architecture_model.repository#_YCaOUo39EeWks8u6nyB56w"/>
+    <function xsi:type="java:MethodDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.26/@bodyDeclarations.1"/>
+  </methodLevelSourceCodeLink>
+  <methodLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_YDKcQI39EeWks8u6nyB56w"/>
+    <file href="../modisco/CloudStore-Project_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.2/@inventoryElement.1/@inventoryElement.2"/>
+    <operation xsi:type="repository:OperationSignature" href="internal_architecture_model.repository#_YCdRoY39EeWks8u6nyB56w"/>
+    <function xsi:type="java:MethodDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.27/@bodyDeclarations.7"/>
+  </methodLevelSourceCodeLink>
+  <methodLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_YDKcQI39EeWks8u6nyB56w"/>
+    <file href="../modisco/CloudStore-Project_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.2/@inventoryElement.1/@inventoryElement.2"/>
+    <operation xsi:type="repository:OperationSignature" href="internal_architecture_model.repository#_YCd4sI39EeWks8u6nyB56w"/>
+    <function xsi:type="java:MethodDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.27/@bodyDeclarations.8"/>
+  </methodLevelSourceCodeLink>
+  <methodLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_YDKcQI39EeWks8u6nyB56w"/>
+    <file href="../modisco/CloudStore-Project_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.2/@inventoryElement.1/@inventoryElement.2"/>
+    <operation xsi:type="repository:OperationSignature" href="internal_architecture_model.repository#_YCd4sY39EeWks8u6nyB56w"/>
+    <function xsi:type="java:MethodDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.27/@bodyDeclarations.9"/>
+  </methodLevelSourceCodeLink>
+  <methodLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_YDKcQI39EeWks8u6nyB56w"/>
+    <file href="../modisco/CloudStore-Project_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.2/@inventoryElement.1/@inventoryElement.2"/>
+    <operation xsi:type="repository:OperationSignature" href="internal_architecture_model.repository#_YCd4so39EeWks8u6nyB56w"/>
+    <function xsi:type="java:MethodDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.27/@bodyDeclarations.10"/>
+  </methodLevelSourceCodeLink>
+  <methodLevelSourceCodeLink>
+    <repositoryComponent xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_YDKcQI39EeWks8u6nyB56w"/>
+    <file href="../modisco/CloudStore-Project_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.2/@inventoryElement.1/@inventoryElement.2"/>
+    <operation xsi:type="repository:OperationSignature" href="internal_architecture_model.repository#_YCd4s439EeWks8u6nyB56w"/>
+    <function xsi:type="java:MethodDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.27/@bodyDeclarations.11"/>
+  </methodLevelSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_X9YkYI39EeWks8u6nyB56w"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.1"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_X9cOwI39EeWks8u6nyB56w"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.2"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_X--f0I39EeWks8u6nyB56w"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.3"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_X--f0I39EeWks8u6nyB56w"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.3"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_X_So4Y39EeWks8u6nyB56w"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.4"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_X--f0I39EeWks8u6nyB56w"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.3"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_X_VFIY39EeWks8u6nyB56w"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.5"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_YAFTEI39EeWks8u6nyB56w"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.8"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_X--f0I39EeWks8u6nyB56w"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.3"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_YAKyoY39EeWks8u6nyB56w"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.9"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_X--f0I39EeWks8u6nyB56w"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.3"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_YAOdAY39EeWks8u6nyB56w"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.10"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_X--f0I39EeWks8u6nyB56w"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.3"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_YARgUY39EeWks8u6nyB56w"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.12"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_YAW_4I39EeWks8u6nyB56w"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.13"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_X--f0I39EeWks8u6nyB56w"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.3"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_YBXFcI39EeWks8u6nyB56w"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.15"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_YBY6oI39EeWks8u6nyB56w"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.16"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_X--f0I39EeWks8u6nyB56w"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.3"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_YBeaMY39EeWks8u6nyB56w"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.18"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_X--f0I39EeWks8u6nyB56w"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.3"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_YBiEkI39EeWks8u6nyB56w"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.19"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_YBjSsI39EeWks8u6nyB56w"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.20"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_X--f0I39EeWks8u6nyB56w"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.3"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_YBlH4Y39EeWks8u6nyB56w"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.23"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_YBY6oI39EeWks8u6nyB56w"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.16"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_X--f0I39EeWks8u6nyB56w"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.3"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_YBmWAo39EeWks8u6nyB56w"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.25"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_X--f0I39EeWks8u6nyB56w"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.3"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_YCaOUY39EeWks8u6nyB56w"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.26"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_YCdRoI39EeWks8u6nyB56w"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.27"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_X9YkYI39EeWks8u6nyB56w"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.1"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_X9cOwI39EeWks8u6nyB56w"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.2"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_X--f0I39EeWks8u6nyB56w"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.3"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_X_So4Y39EeWks8u6nyB56w"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.4"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_X_VFIY39EeWks8u6nyB56w"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.5"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_YAFTEI39EeWks8u6nyB56w"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.8"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_YAKyoY39EeWks8u6nyB56w"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.9"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_YAOdAY39EeWks8u6nyB56w"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.10"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_YARgUY39EeWks8u6nyB56w"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.12"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_YAW_4I39EeWks8u6nyB56w"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.13"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_YBXFcI39EeWks8u6nyB56w"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.15"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_YBY6oI39EeWks8u6nyB56w"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.16"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_YBeaMY39EeWks8u6nyB56w"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.18"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_YBiEkI39EeWks8u6nyB56w"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.19"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_YBjSsI39EeWks8u6nyB56w"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.20"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_YBlH4Y39EeWks8u6nyB56w"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.23"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_YBmWAo39EeWks8u6nyB56w"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.25"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_YCaOUY39EeWks8u6nyB56w"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.26"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_YCdRoI39EeWks8u6nyB56w"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.27"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_YBmWAo39EeWks8u6nyB56w"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.25"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_X--f0I39EeWks8u6nyB56w"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.3"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_X--f0I39EeWks8u6nyB56w"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.3"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_YCdRoI39EeWks8u6nyB56w"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.27"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_YBY6oI39EeWks8u6nyB56w"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.16"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_YBmWAo39EeWks8u6nyB56w"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.25"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_YBmWAo39EeWks8u6nyB56w"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.25"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_YBmWAo39EeWks8u6nyB56w"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.25"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_YBlH4Y39EeWks8u6nyB56w"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.23"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_YBmWAo39EeWks8u6nyB56w"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.25"/>
+  </interfaceSourceCodeLink>
+  <interfaceSourceCodeLink>
+    <interface xsi:type="repository:OperationInterface" href="internal_architecture_model.repository#_YBmWAo39EeWks8u6nyB56w"/>
+    <gastClass xsi:type="java:ClassDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.25"/>
+  </interfaceSourceCodeLink>
+  <componentImplementingClassesLink providedInterfaces="//@interfaceSourceCodeLink.31 //@interfaceSourceCodeLink.32 //@interfaceSourceCodeLink.33 //@interfaceSourceCodeLink.34 //@interfaceSourceCodeLink.35 //@interfaceSourceCodeLink.36 //@interfaceSourceCodeLink.37 //@interfaceSourceCodeLink.38 //@interfaceSourceCodeLink.39 //@interfaceSourceCodeLink.40 //@interfaceSourceCodeLink.41 //@interfaceSourceCodeLink.42 //@interfaceSourceCodeLink.43 //@interfaceSourceCodeLink.44 //@interfaceSourceCodeLink.45 //@interfaceSourceCodeLink.46 //@interfaceSourceCodeLink.47 //@interfaceSourceCodeLink.48 //@interfaceSourceCodeLink.49">
+    <component xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_YDKcQI39EeWks8u6nyB56w"/>
+    <implementingClasses xsi:type="java:ClassDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.1"/>
+    <implementingClasses xsi:type="java:ClassDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.2"/>
+    <implementingClasses xsi:type="java:ClassDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.3"/>
+    <implementingClasses xsi:type="java:ClassDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.4"/>
+    <implementingClasses xsi:type="java:ClassDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.5"/>
+    <implementingClasses xsi:type="java:ClassDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.8"/>
+    <implementingClasses xsi:type="java:ClassDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.9"/>
+    <implementingClasses xsi:type="java:ClassDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.10"/>
+    <implementingClasses xsi:type="java:ClassDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.12"/>
+    <implementingClasses xsi:type="java:ClassDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.13"/>
+    <implementingClasses xsi:type="java:ClassDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.15"/>
+    <implementingClasses xsi:type="java:ClassDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.16"/>
+    <implementingClasses xsi:type="java:ClassDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.18"/>
+    <implementingClasses xsi:type="java:ClassDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.19"/>
+    <implementingClasses xsi:type="java:ClassDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.20"/>
+    <implementingClasses xsi:type="java:ClassDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.23"/>
+    <implementingClasses xsi:type="java:ClassDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.25"/>
+    <implementingClasses xsi:type="java:ClassDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.26"/>
+    <implementingClasses xsi:type="java:ClassDeclaration" href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.27"/>
+  </componentImplementingClassesLink>
+</sourcecodedecorator:SourceCodeDecoratorRepository>

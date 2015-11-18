@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment/>
+<entry key="last_run">1447855513673</entry>
+<entry key="last_result">Extractor/Results/Alternative_2015-11-18_03-05-06</entry>
+<entry key="name">Basic configuration</entry>
+<entry key="modified">1447855513676</entry>
+<entry key="created">1447855402728</entry>
+<entry key="input_alternative">Extractor/Input/Alternative_2015-11-18_03-03-22</entry>
+<entry key="org.somox.clusteringThresholdMin.Compose">0.85</entry>
+</properties>

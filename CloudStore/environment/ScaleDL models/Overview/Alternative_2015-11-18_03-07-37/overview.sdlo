@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overview:Overview xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:architecture="http://org.scaledl.overview/ScaleDLOverviewComponentModel/Architecture/1.0" xmlns:deployment="http://org.scaledl.overview/ScaleDLOverviewComponentModel/Deployment/1.0" xmlns:overview="http://org.scaledl.overview/ScaleDLOverviewComponentModel/1.0" xmlns:parametertype="http://org.scaledl.overview/ScaleDLOverviewComponentModel/DataType/1.0" xmlns:specification="http://org.scaledl.overview/ScaleDLOverviewComponentModel/Specification/1.0">
+  <architecture id="_uOB78I39EeWks8u6nyB56w">
+    <cloudEnvironments id="_qY2aJo39EeWks8u6nyB56w" name="Amazon Web Services (AWS)" cloudEnvironmentDescriptor="6d77fccd-32f0-41f5-ac68-b5bff7a66010" availabilityZoneDescriptor="_H6kugYMkEeS3ErMWA7p55Q">
+      <internalConnections id="_6kUjMI39EeWks8u6nyB56w" name="Internal service connection" descriptor="61d2c63f-9c54-43ee-898f-5d2f84df61ef" source="_qY2aJ439EeWks8u6nyB56w" target="_28hWEI39EeWks8u6nyB56w"/>
+      <internalConnections id="_60UHAI39EeWks8u6nyB56w" name="Internal service connection" descriptor="61d2c63f-9c54-43ee-898f-5d2f84df61ef" source="_qY2aJ439EeWks8u6nyB56w" target="_5OOS8I39EeWks8u6nyB56w"/>
+      <infrastructureLayer>
+        <services xsi:type="architecture:ComputingInfrastructureService" id="_t_9qwY39EeWks8u6nyB56w" name="AWS EC2 Infrastructure" deployment="_t_-R1o39EeWks8u6nyB56w" descriptor="421ce8a0-ea58-4c78-8b6d-59e994d74f53" platformServices="_t_9qwI39EeWks8u6nyB56w"/>
+      </infrastructureLayer>
+      <platformLayer>
+        <services xsi:type="architecture:PlatformRuntimeService" id="_t_9qwI39EeWks8u6nyB56w" name="Generic Application Server" softwareServices="_qY2aJ439EeWks8u6nyB56w" descriptor="8c75804f-c582-4a62-8688-a922d630a489" computingInfrastructureService="_t_9qwY39EeWks8u6nyB56w"/>
+        <services xsi:type="architecture:ProvidedPlatformSupportService" id="_28hWEI39EeWks8u6nyB56w" name="Amazon RDS" description="External support platform service: Amazon RDS" descriptor="96395d68-55d4-4eed-98f3-af63feb087c1" deployment="_28h9II39EeWks8u6nyB56w">
+          <providedInterfaces id="_28h9Io39EeWks8u6nyB56w" name="I_Amazon RDS"/>
+        </services>
+        <services xsi:type="architecture:ProvidedPlatformSupportService" id="_5OOS8I39EeWks8u6nyB56w" name="Amazon S3" description="External support platform service: Amazon S3" descriptor="74f0e457-c7c7-47d0-8ffb-89a7af7028c2" deployment="_5OO6AI39EeWks8u6nyB56w">
+          <providedInterfaces id="_5OO6AY39EeWks8u6nyB56w" name="I_Amazon S3"/>
+        </services>
+      </platformLayer>
+      <softwareLayer>
+        <services id="_qY2aJ439EeWks8u6nyB56w" name="CloudStore" runtimePlatformService="_t_9qwI39EeWks8u6nyB56w">
+          <aeMap key="PCM_SYSTEM">
+            <value href="external/SoMoX%20Reverse%20Engineered%20System/internal_architecture_model.system#_X78Z8Y39EeWks8u6nyB56w"/>
+          </aeMap>
+          <aeMap key="PCM_REPOSITORY">
+            <value href="external/SoMoX%20Reverse%20Engineered%20System/internal_architecture_model.repository#_X78Z8439EeWks8u6nyB56w"/>
+          </aeMap>
+          <providedInterfaces id="_X9YkYI39EeWks8u6nyB56w_providedRole2OpInterface" name="Itpcw.TPCW_execute_search">
+            <aeMap key="PCM_INTERFACE">
+              <value href="external/SoMoX%20Reverse%20Engineered%20System/internal_architecture_model.repository#_X9YkYI39EeWks8u6nyB56w"/>
+            </aeMap>
+            <operations id="CSMGen__X9YkYY39EeWks8u6nyB56w_operationSignature2operation" name="doGet">
+              <aeMap key="PCM_OPERATION">
+                <value href="external/SoMoX%20Reverse%20Engineered%20System/internal_architecture_model.repository#_X9YkYY39EeWks8u6nyB56w"/>
+              </aeMap>
+            </operations>
+          </providedInterfaces>
+          <providedInterfaces id="_YBmWAo39EeWks8u6nyB56w_providedRole2OpInterface" name="Itpcw.TPCW_promotional_processing">
+            <aeMap key="PCM_INTERFACE">
+              <value href="external/SoMoX%20Reverse%20Engineered%20System/internal_architecture_model.repository#_YBmWAo39EeWks8u6nyB56w"/>
+            </aeMap>
+            <operations id="CSMGen__YBmWA439EeWks8u6nyB56w_operationSignature2operation" name="DisplayPromotions" parameters="_qY2aIo39EeWks8u6nyB56w">
+              <aeMap key="PCM_OPERATION">
+                <value href="external/SoMoX%20Reverse%20Engineered%20System/internal_architecture_model.repository#_YBmWA439EeWks8u6nyB56w"/>
+              </aeMap>
+            </operations>
+          </providedInterfaces>
+          <providedInterfaces id="_YAFTEI39EeWks8u6nyB56w_providedRole2OpInterface" name="Itpcw.TPCW_search_request_servlet" requiringContainer="_qY2aKI39EeWks8u6nyB56w">
+            <aeMap key="PCM_INTERFACE">
+              <value href="external/SoMoX%20Reverse%20Engineered%20System/internal_architecture_model.repository#_YAFTEI39EeWks8u6nyB56w"/>
+            </aeMap>
+            <operations id="CSMGen__YAFTEY39EeWks8u6nyB56w_operationSignature2operation" name="doGet">
+              <aeMap key="PCM_OPERATION">
+                <value href="external/SoMoX%20Reverse%20Engineered%20System/internal_architecture_model.repository#_YAFTEY39EeWks8u6nyB56w"/>
+              </aeMap>
+            </operations>
+          </providedInterfaces>
+          <providedInterfaces id="_X9cOwI39EeWks8u6nyB56w_providedRole2OpInterface" name="Itpcw.TPCW_admin_request_servlet" requiringContainer="_qY2aKI39EeWks8u6nyB56w">
+            <aeMap key="PCM_INTERFACE">
+              <value href="external/SoMoX%20Reverse%20Engineered%20System/internal_architecture_model.repository#_X9cOwI39EeWks8u6nyB56w"/>
+            </aeMap>
+            <operations id="CSMGen__X9cOwY39EeWks8u6nyB56w_operationSignature2operation" name="doGet">
+              <aeMap key="PCM_OPERATION">
+                <value href="external/SoMoX%20Reverse%20Engineered%20System/internal_architecture_model.repository#_X9cOwY39EeWks8u6nyB56w"/>
+              </aeMap>
+            </operations>
+          </providedInterfaces>
+          <providedInterfaces id="_X_So4Y39EeWks8u6nyB56w_providedRole2OpInterface" name="Itpcw.TPCW_buy_request_servlet" requiringContainer="_qY2aKI39EeWks8u6nyB56w">
+            <aeMap key="PCM_INTERFACE">
+              <value href="external/SoMoX%20Reverse%20Engineered%20System/internal_architecture_model.repository#_X_So4Y39EeWks8u6nyB56w"/>
+            </aeMap>
+            <operations id="CSMGen__X_So4o39EeWks8u6nyB56w_operationSignature2operation" name="doGet">
+              <aeMap key="PCM_OPERATION">
+                <value href="external/SoMoX%20Reverse%20Engineered%20System/internal_architecture_model.repository#_X_So4o39EeWks8u6nyB56w"/>
+              </aeMap>
+            </operations>
+          </providedInterfaces>
+          <providedInterfaces id="_YBiEkI39EeWks8u6nyB56w_providedRole2OpInterface" name="Itpcw.TPCW_shopping_cart_interaction">
+            <aeMap key="PCM_INTERFACE">
+              <value href="external/SoMoX%20Reverse%20Engineered%20System/internal_architecture_model.repository#_YBiEkI39EeWks8u6nyB56w"/>
+            </aeMap>
+            <operations id="CSMGen__YBiEkY39EeWks8u6nyB56w_operationSignature2operation" name="doGet">
+              <aeMap key="PCM_OPERATION">
+                <value href="external/SoMoX%20Reverse%20Engineered%20System/internal_architecture_model.repository#_YBiEkY39EeWks8u6nyB56w"/>
+              </aeMap>
+            </operations>
+          </providedInterfaces>
+          <providedInterfaces id="_YCdRoI39EeWks8u6nyB56w_providedRole2OpInterface" name="Itpcw.DatabaseProperties">
+            <aeMap key="PCM_INTERFACE">
+              <value href="external/SoMoX%20Reverse%20Engineered%20System/internal_architecture_model.repository#_YCdRoI39EeWks8u6nyB56w"/>
+            </aeMap>
+            <operations id="CSMGen__YCd4sY39EeWks8u6nyB56w_operationSignature2operation" name="getDatabaseDriver">
+              <aeMap key="PCM_OPERATION">
+                <value href="external/SoMoX%20Reverse%20Engineered%20System/internal_architecture_model.repository#_YCd4sY39EeWks8u6nyB56w"/>
+              </aeMap>
+            </operations>
+            <operations id="CSMGen__YCd4so39EeWks8u6nyB56w_operationSignature2operation" name="getDatabaseUsername">
+              <aeMap key="PCM_OPERATION">
+                <value href="external/SoMoX%20Reverse%20Engineered%20System/internal_architecture_model.repository#_YCd4so39EeWks8u6nyB56w"/>
+              </aeMap>
+            </operations>
+            <operations id="CSMGen__YCd4s439EeWks8u6nyB56w_operationSignature2operation" name="getDatabasePassword">
+              <aeMap key="PCM_OPERATION">
+                <value href="external/SoMoX%20Reverse%20Engineered%20System/internal_architecture_model.repository#_YCd4s439EeWks8u6nyB56w"/>
+              </aeMap>
+            </operations>
+            <operations id="CSMGen__YCd4sI39EeWks8u6nyB56w_operationSignature2operation" name="getDatabaseURL">
+              <aeMap key="PCM_OPERATION">
+                <value href="external/SoMoX%20Reverse%20Engineered%20System/internal_architecture_model.repository#_YCd4sI39EeWks8u6nyB56w"/>
+              </aeMap>
+            </operations>
+            <operations id="CSMGen__YCdRoY39EeWks8u6nyB56w_operationSignature2operation" name="checkPropertiesFile">
+              <aeMap key="PCM_OPERATION">
+                <value href="external/SoMoX%20Reverse%20Engineered%20System/internal_architecture_model.repository#_YCdRoY39EeWks8u6nyB56w"/>
+              </aeMap>
+            </operations>
+          </providedInterfaces>
+          <providedInterfaces id="_YAKyoY39EeWks8u6nyB56w_providedRole2OpInterface" name="Itpcw.TPCW_best_sellers_servlet" requiringContainer="_qY2aKI39EeWks8u6nyB56w">
+            <aeMap key="PCM_INTERFACE">
+              <value href="external/SoMoX%20Reverse%20Engineered%20System/internal_architecture_model.repository#_YAKyoY39EeWks8u6nyB56w"/>
+            </aeMap>
+            <operations id="CSMGen__YAKyoo39EeWks8u6nyB56w_operationSignature2operation" name="doGet">
+              <aeMap key="PCM_OPERATION">
+                <value href="external/SoMoX%20Reverse%20Engineered%20System/internal_architecture_model.repository#_YAKyoo39EeWks8u6nyB56w"/>
+              </aeMap>
+            </operations>
+          </providedInterfaces>
+          <providedInterfaces id="_YBXFcI39EeWks8u6nyB56w_providedRole2OpInterface" name="Itpcw.TPCW_order_display_servlet" requiringContainer="_qY2aKI39EeWks8u6nyB56w">
+            <aeMap key="PCM_INTERFACE">
+              <value href="external/SoMoX%20Reverse%20Engineered%20System/internal_architecture_model.repository#_YBXFcI39EeWks8u6nyB56w"/>
+            </aeMap>
+            <operations id="CSMGen__YBXFcY39EeWks8u6nyB56w_operationSignature2operation" name="doGet">
+              <aeMap key="PCM_OPERATION">
+                <value href="external/SoMoX%20Reverse%20Engineered%20System/internal_architecture_model.repository#_YBXFcY39EeWks8u6nyB56w"/>
+              </aeMap>
+            </operations>
+          </providedInterfaces>
+          <providedInterfaces id="_YBlH4Y39EeWks8u6nyB56w_providedRole2OpInterface" name="Itpcw.TPCW_say_hello">
+            <aeMap key="PCM_INTERFACE">
+              <value href="external/SoMoX%20Reverse%20Engineered%20System/internal_architecture_model.repository#_YBlH4Y39EeWks8u6nyB56w"/>
+            </aeMap>
+            <operations id="CSMGen__YBlH4o39EeWks8u6nyB56w_operationSignature2operation" name="print_hello">
+              <aeMap key="PCM_OPERATION">
+                <value href="external/SoMoX%20Reverse%20Engineered%20System/internal_architecture_model.repository#_YBlH4o39EeWks8u6nyB56w"/>
+              </aeMap>
+            </operations>
+          </providedInterfaces>
+          <providedInterfaces id="_X--f0I39EeWks8u6nyB56w_providedRole2OpInterface" name="Itpcw.TPCW_Database">
+            <aeMap key="PCM_INTERFACE">
+              <value href="external/SoMoX%20Reverse%20Engineered%20System/internal_architecture_model.repository#_X--f0I39EeWks8u6nyB56w"/>
+            </aeMap>
+            <operations id="CSMGen__X_BjIY39EeWks8u6nyB56w_operationSignature2operation" name="getNewProducts" parameters="_qY2aI439EeWks8u6nyB56w">
+              <aeMap key="PCM_OPERATION">
+                <value href="external/SoMoX%20Reverse%20Engineered%20System/internal_architecture_model.repository#_X_BjIY39EeWks8u6nyB56w"/>
+              </aeMap>
+            </operations>
+            <operations id="CSMGen__X_HpwY39EeWks8u6nyB56w_operationSignature2operation" name="createNewCustomer">
+              <aeMap key="PCM_OPERATION">
+                <value href="external/SoMoX%20Reverse%20Engineered%20System/internal_architecture_model.repository#_X_HpwY39EeWks8u6nyB56w"/>
+              </aeMap>
+            </operations>
+            <operations id="CSMGen__X_DYUo39EeWks8u6nyB56w_operationSignature2operation" name="getUserName" parameters="_qY2aIo39EeWks8u6nyB56w">
+              <aeMap key="PCM_OPERATION">
+                <value href="external/SoMoX%20Reverse%20Engineered%20System/internal_architecture_model.repository#_X_DYUo39EeWks8u6nyB56w"/>
+              </aeMap>
+            </operations>
+            <operations id="CSMGen__X_HpwI39EeWks8u6nyB56w_operationSignature2operation" name="refreshSession" parameters="_qY2aIo39EeWks8u6nyB56w">
+              <aeMap key="PCM_OPERATION">
+                <value href="external/SoMoX%20Reverse%20Engineered%20System/internal_architecture_model.repository#_X_HpwI39EeWks8u6nyB56w"/>
+              </aeMap>
+            </operations>
+            <operations id="CSMGen__X_A8EI39EeWks8u6nyB56w_operationSignature2operation" name="doSubjectSearch" parameters="_qY2aI439EeWks8u6nyB56w">
+              <aeMap key="PCM_OPERATION">
+                <value href="external/SoMoX%20Reverse%20Engineered%20System/internal_architecture_model.repository#_X_A8EI39EeWks8u6nyB56w"/>
+              </aeMap>
+            </operations>
+            <operations id="CSMGen__X_CKMo39EeWks8u6nyB56w_operationSignature2operation" name="getBestSellers" parameters="_qY2aI439EeWks8u6nyB56w">
+              <aeMap key="PCM_OPERATION">
+                <value href="external/SoMoX%20Reverse%20Engineered%20System/internal_architecture_model.repository#_X_CKMo39EeWks8u6nyB56w"/>
+              </aeMap>
+            </operations>
+            <operations id="CSMGen__X_CxQI39EeWks8u6nyB56w_operationSignature2operation" name="getRelated" parameters="_qY2aIo39EeWks8u6nyB56w">
+              <aeMap key="PCM_OPERATION">
+                <value href="external/SoMoX%20Reverse%20Engineered%20System/internal_architecture_model.repository#_X_CxQI39EeWks8u6nyB56w"/>
+              </aeMap>
+            </operations>
+            <operations id="CSMGen__X-_t9o39EeWks8u6nyB56w_operationSignature2operation" name="getCustomer" parameters="_qY2aI439EeWks8u6nyB56w">
+              <aeMap key="PCM_OPERATION">
+                <value href="external/SoMoX%20Reverse%20Engineered%20System/internal_architecture_model.repository#_X-_t9o39EeWks8u6nyB56w"/>
+              </aeMap>
+            </operations>
+            <operations id="CSMGen__X--f0Y39EeWks8u6nyB56w_operationSignature2operation" name="getName" parameters="_qY2aIo39EeWks8u6nyB56w">
+              <aeMap key="PCM_OPERATION">
+                <value href="external/SoMoX%20Reverse%20Engineered%20System/internal_architecture_model.repository#_X--f0Y39EeWks8u6nyB56w"/>
+              </aeMap>
+            </operations>
+            <operations id="CSMGen__X_EmcI39EeWks8u6nyB56w_operationSignature2operation" name="getMostRecentOrder" parameters="_qY2aI439EeWks8u6nyB56w">
+              <aeMap key="PCM_OPERATION">
+                <value href="external/SoMoX%20Reverse%20Engineered%20System/internal_architecture_model.repository#_X_EmcI39EeWks8u6nyB56w"/>
+              </aeMap>
+            </operations>
+            <operations id="CSMGen__X_A8E439EeWks8u6nyB56w_operationSignature2operation" name="doTitleSearch" parameters="_qY2aI439EeWks8u6nyB56w">
+              <aeMap key="PCM_OPERATION">
+                <value href="external/SoMoX%20Reverse%20Engineered%20System/internal_architecture_model.repository#_X_A8E439EeWks8u6nyB56w"/>
+              </aeMap>
+            </operations>
+            <operations id="CSMGen__X_DYUY39EeWks8u6nyB56w_operationSignature2operation" name="adminUpdate" parameters="_qY2aIo39EeWks8u6nyB56w _qY2aJY39EeWks8u6nyB56w _qY2aI439EeWks8u6nyB56w">
+              <aeMap key="PCM_OPERATION">
+                <value href="external/SoMoX%20Reverse%20Engineered%20System/internal_architecture_model.repository#_X_DYUY39EeWks8u6nyB56w"/>
+              </aeMap>
+            </operations>
+            <operations id="CSMGen__X-_t8Y39EeWks8u6nyB56w_operationSignature2operation" name="getBook" parameters="_qY2aIo39EeWks8u6nyB56w">
+              <aeMap key="PCM_OPERATION">
+                <value href="external/SoMoX%20Reverse%20Engineered%20System/internal_architecture_model.repository#_X-_t8Y39EeWks8u6nyB56w"/>
+              </aeMap>
+            </operations>
+            <operations id="CSMGen__X_F0kY39EeWks8u6nyB56w_operationSignature2operation" name="doCart" parameters="_qY2aIo39EeWks8u6nyB56w">
+              <aeMap key="PCM_OPERATION">
+                <value href="external/SoMoX%20Reverse%20Engineered%20System/internal_architecture_model.repository#_X_F0kY39EeWks8u6nyB56w"/>
+              </aeMap>
+            </operations>
+            <operations id="CSMGen__X_D_YI39EeWks8u6nyB56w_operationSignature2operation" name="getPassword" parameters="_qY2aI439EeWks8u6nyB56w">
+              <aeMap key="PCM_OPERATION">
+                <value href="external/SoMoX%20Reverse%20Engineered%20System/internal_architecture_model.repository#_X_D_YI39EeWks8u6nyB56w"/>
+              </aeMap>
+            </operations>
+            <operations id="CSMGen__X_F0kI39EeWks8u6nyB56w_operationSignature2operation" name="createEmptyCart">
+              <aeMap key="PCM_OPERATION">
+                <value href="external/SoMoX%20Reverse%20Engineered%20System/internal_architecture_model.repository#_X_F0kI39EeWks8u6nyB56w"/>
+              </aeMap>
+            </operations>
+            <operations id="CSMGen__X_Hpwo39EeWks8u6nyB56w_operationSignature2operation" name="doBuyConfirm" parameters="_qY2aIo39EeWks8u6nyB56w _qY2aI439EeWks8u6nyB56w">
+              <aeMap key="PCM_OPERATION">
+                <value href="external/SoMoX%20Reverse%20Engineered%20System/internal_architecture_model.repository#_X_Hpwo39EeWks8u6nyB56w"/>
+              </aeMap>
+            </operations>
+            <operations id="CSMGen__X_HCtI39EeWks8u6nyB56w_operationSignature2operation" name="getCart" parameters="_qY2aIo39EeWks8u6nyB56w _qY2aJY39EeWks8u6nyB56w">
+              <aeMap key="PCM_OPERATION">
+                <value href="external/SoMoX%20Reverse%20Engineered%20System/internal_architecture_model.repository#_X_HCtI39EeWks8u6nyB56w"/>
+              </aeMap>
+            </operations>
+            <operations id="CSMGen__X_BjII39EeWks8u6nyB56w_operationSignature2operation" name="doAuthorSearch" parameters="_qY2aI439EeWks8u6nyB56w">
+              <aeMap key="PCM_OPERATION">
+                <value href="external/SoMoX%20Reverse%20Engineered%20System/internal_architecture_model.repository#_X_BjII39EeWks8u6nyB56w"/>
+              </aeMap>
+            </operations>
+            <operations id="CSMGen__X_KGAY39EeWks8u6nyB56w_operationSignature2operation" name="doBuyConfirm_1" parameters="_qY2aIo39EeWks8u6nyB56w _qY2aI439EeWks8u6nyB56w">
+              <aeMap key="PCM_OPERATION">
+                <value href="external/SoMoX%20Reverse%20Engineered%20System/internal_architecture_model.repository#_X_KGAY39EeWks8u6nyB56w"/>
+              </aeMap>
+            </operations>
+          </providedInterfaces>
+          <providedInterfaces id="_YBY6oI39EeWks8u6nyB56w_providedRole2OpInterface" name="Itpcw.TPCW_Util">
+            <aeMap key="PCM_INTERFACE">
+              <value href="external/SoMoX%20Reverse%20Engineered%20System/internal_architecture_model.repository#_YBY6oI39EeWks8u6nyB56w"/>
+            </aeMap>
+            <operations id="CSMGen__YBZhsY39EeWks8u6nyB56w_operationSignature2operation" name="DigSyl" parameters="_qY2aIo39EeWks8u6nyB56w">
+              <aeMap key="PCM_OPERATION">
+                <value href="external/SoMoX%20Reverse%20Engineered%20System/internal_architecture_model.repository#_YBZhsY39EeWks8u6nyB56w"/>
+              </aeMap>
+            </operations>
+            <operations id="CSMGen__YBY6oY39EeWks8u6nyB56w_operationSignature2operation" name="getRandomI_ID">
+              <aeMap key="PCM_OPERATION">
+                <value href="external/SoMoX%20Reverse%20Engineered%20System/internal_architecture_model.repository#_YBY6oY39EeWks8u6nyB56w"/>
+              </aeMap>
+            </operations>
+            <operations id="CSMGen__YBZhsI39EeWks8u6nyB56w_operationSignature2operation" name="getRandomString" parameters="_qY2aIo39EeWks8u6nyB56w">
+              <aeMap key="PCM_OPERATION">
+                <value href="external/SoMoX%20Reverse%20Engineered%20System/internal_architecture_model.repository#_YBZhsI39EeWks8u6nyB56w"/>
+              </aeMap>
+            </operations>
+            <operations id="CSMGen__YBY6oo39EeWks8u6nyB56w_operationSignature2operation" name="getRandom" parameters="_qY2aIo39EeWks8u6nyB56w">
+              <aeMap key="PCM_OPERATION">
+                <value href="external/SoMoX%20Reverse%20Engineered%20System/internal_architecture_model.repository#_YBY6oo39EeWks8u6nyB56w"/>
+              </aeMap>
+            </operations>
+          </providedInterfaces>
+          <providedInterfaces id="_X_VFIY39EeWks8u6nyB56w_providedRole2OpInterface" name="Itpcw.TPCW_product_detail_servlet" requiringContainer="_qY2aKI39EeWks8u6nyB56w">
+            <aeMap key="PCM_INTERFACE">
+              <value href="external/SoMoX%20Reverse%20Engineered%20System/internal_architecture_model.repository#_X_VFIY39EeWks8u6nyB56w"/>
+            </aeMap>
+            <operations id="CSMGen__X_VFIo39EeWks8u6nyB56w_operationSignature2operation" name="doGet">
+              <aeMap key="PCM_OPERATION">
+                <value href="external/SoMoX%20Reverse%20Engineered%20System/internal_architecture_model.repository#_X_VFIo39EeWks8u6nyB56w"/>
+              </aeMap>
+            </operations>
+          </providedInterfaces>
+          <providedInterfaces id="_YBjSsI39EeWks8u6nyB56w_providedRole2OpInterface" name="Itpcw.TPCW_order_inquiry_servlet" requiringContainer="_qY2aKI39EeWks8u6nyB56w">
+            <aeMap key="PCM_INTERFACE">
+              <value href="external/SoMoX%20Reverse%20Engineered%20System/internal_architecture_model.repository#_YBjSsI39EeWks8u6nyB56w"/>
+            </aeMap>
+            <operations id="CSMGen__YBjSsY39EeWks8u6nyB56w_operationSignature2operation" name="doGet">
+              <aeMap key="PCM_OPERATION">
+                <value href="external/SoMoX%20Reverse%20Engineered%20System/internal_architecture_model.repository#_YBjSsY39EeWks8u6nyB56w"/>
+              </aeMap>
+            </operations>
+          </providedInterfaces>
+          <providedInterfaces id="_YCaOUY39EeWks8u6nyB56w_providedRole2OpInterface" name="Itpcw.TPCW_customer_registration_servlet" requiringContainer="_qY2aKI39EeWks8u6nyB56w">
+            <aeMap key="PCM_INTERFACE">
+              <value href="external/SoMoX%20Reverse%20Engineered%20System/internal_architecture_model.repository#_YCaOUY39EeWks8u6nyB56w"/>
+            </aeMap>
+            <operations id="CSMGen__YCaOUo39EeWks8u6nyB56w_operationSignature2operation" name="doGet">
+              <aeMap key="PCM_OPERATION">
+                <value href="external/SoMoX%20Reverse%20Engineered%20System/internal_architecture_model.repository#_YCaOUo39EeWks8u6nyB56w"/>
+              </aeMap>
+            </operations>
+          </providedInterfaces>
+          <providedInterfaces id="_YARgUY39EeWks8u6nyB56w_providedRole2OpInterface" name="Itpcw.TPCW_admin_response_servlet" requiringContainer="_qY2aKI39EeWks8u6nyB56w">
+            <aeMap key="PCM_INTERFACE">
+              <value href="external/SoMoX%20Reverse%20Engineered%20System/internal_architecture_model.repository#_YARgUY39EeWks8u6nyB56w"/>
+            </aeMap>
+            <operations id="CSMGen__YARgUo39EeWks8u6nyB56w_operationSignature2operation" name="doGet">
+              <aeMap key="PCM_OPERATION">
+                <value href="external/SoMoX%20Reverse%20Engineered%20System/internal_architecture_model.repository#_YARgUo39EeWks8u6nyB56w"/>
+              </aeMap>
+            </operations>
+          </providedInterfaces>
+          <providedInterfaces id="_YAOdAY39EeWks8u6nyB56w_providedRole2OpInterface" name="Itpcw.TPCW_new_products_servlet" requiringContainer="_qY2aKI39EeWks8u6nyB56w">
+            <aeMap key="PCM_INTERFACE">
+              <value href="external/SoMoX%20Reverse%20Engineered%20System/internal_architecture_model.repository#_YAOdAY39EeWks8u6nyB56w"/>
+            </aeMap>
+            <operations id="CSMGen__YAOdAo39EeWks8u6nyB56w_operationSignature2operation" name="doGet">
+              <aeMap key="PCM_OPERATION">
+                <value href="external/SoMoX%20Reverse%20Engineered%20System/internal_architecture_model.repository#_YAOdAo39EeWks8u6nyB56w"/>
+              </aeMap>
+            </operations>
+          </providedInterfaces>
+          <providedInterfaces id="_YAW_4I39EeWks8u6nyB56w_providedRole2OpInterface" name="Itpcw.TPCW_home_interaction">
+            <aeMap key="PCM_INTERFACE">
+              <value href="external/SoMoX%20Reverse%20Engineered%20System/internal_architecture_model.repository#_YAW_4I39EeWks8u6nyB56w"/>
+            </aeMap>
+            <operations id="CSMGen__YAW_4Y39EeWks8u6nyB56w_operationSignature2operation" name="doGet">
+              <aeMap key="PCM_OPERATION">
+                <value href="external/SoMoX%20Reverse%20Engineered%20System/internal_architecture_model.repository#_YAW_4Y39EeWks8u6nyB56w"/>
+              </aeMap>
+            </operations>
+          </providedInterfaces>
+          <providedInterfaces id="_YBeaMY39EeWks8u6nyB56w_providedRole2OpInterface" name="Itpcw.TPCW_buy_confirm_servlet" requiringContainer="_qY2aKI39EeWks8u6nyB56w">
+            <aeMap key="PCM_INTERFACE">
+              <value href="external/SoMoX%20Reverse%20Engineered%20System/internal_architecture_model.repository#_YBeaMY39EeWks8u6nyB56w"/>
+            </aeMap>
+            <operations id="CSMGen__YBeaMo39EeWks8u6nyB56w_operationSignature2operation" name="doGet">
+              <aeMap key="PCM_OPERATION">
+                <value href="external/SoMoX%20Reverse%20Engineered%20System/internal_architecture_model.repository#_YBeaMo39EeWks8u6nyB56w"/>
+              </aeMap>
+            </operations>
+          </providedInterfaces>
+        </services>
+      </softwareLayer>
+    </cloudEnvironments>
+    <proxies xsi:type="architecture:UsageProxy" id="_qY2aKI39EeWks8u6nyB56w" requiredInterfaces="_YAFTEI39EeWks8u6nyB56w_providedRole2OpInterface _X9cOwI39EeWks8u6nyB56w_providedRole2OpInterface _X_So4Y39EeWks8u6nyB56w_providedRole2OpInterface _YAKyoY39EeWks8u6nyB56w_providedRole2OpInterface _YBXFcI39EeWks8u6nyB56w_providedRole2OpInterface _X_VFIY39EeWks8u6nyB56w_providedRole2OpInterface _YBjSsI39EeWks8u6nyB56w_providedRole2OpInterface _YCaOUY39EeWks8u6nyB56w_providedRole2OpInterface _YARgUY39EeWks8u6nyB56w_providedRole2OpInterface _YAOdAY39EeWks8u6nyB56w_providedRole2OpInterface _YBeaMY39EeWks8u6nyB56w_providedRole2OpInterface"/>
+    <proxies xsi:type="architecture:ServiceProxy" id="_1cYZAI39EeWks8u6nyB56w" name="Payment" description="External service proxy">
+      <softwareService xsi:type="architecture:ExternalSoftwareService" id="_1cZAEI39EeWks8u6nyB56w" name="External software service" description="External software service : through Service Proxy"/>
+    </proxies>
+    <usageConnections id="_qY2aKY39EeWks8u6nyB56w" source="_qY2aKI39EeWks8u6nyB56w" target="_qY2aJ439EeWks8u6nyB56w"/>
+  </architecture>
+  <deployment id="_uOB78Y39EeWks8u6nyB56w">
+    <serviceDeployments xsi:type="deployment:RuntimeDeployment" id="_t_-R1o39EeWks8u6nyB56w">
+      <computingEnvironment id="_tjiNcI39EeWks8u6nyB56w" instanceDescriptor="3b1e4d65-d91a-4155-8a81-56fdd2199f12"/>
+    </serviceDeployments>
+    <serviceDeployments xsi:type="deployment:RuntimeDeployment" id="_28h9II39EeWks8u6nyB56w">
+      <computingEnvironment id="_28h9IY39EeWks8u6nyB56w" name="Single instance computing environment" instanceDescriptor="_H6kuiIMkE1S3EnMWA7p55Q"/>
+    </serviceDeployments>
+    <serviceDeployments xsi:type="deployment:GenericDeployment" id="_5OO6AI39EeWks8u6nyB56w"/>
+  </deployment>
+  <definition>
+    <descriptors xsi:type="specification:CloudEnvironmentDescriptor" id="6d77fccd-32f0-41f5-ac68-b5bff7a66010" name="Amazon Web Services (AWS)" description="Amazon Web Services (AWS) cloud environment... " providerID="aws">
+      <availabilityZones id="_H6kugYMkEeS3ErMWA7p55Q" name="Amazon Web Services (AWS Zone)" providerID="aws" networkInfrastructureServiceDescriptor="61d2c63f-9c54-43ee-898f-5d2f84df61ef"/>
+    </descriptors>
+    <descriptors xsi:type="specification:NetworkInfrastructureServiceDescriptor" id="61d2c63f-9c54-43ee-898f-5d2f84df61ef" name="Internal connection" bandwidth="1000" latency="50"/>
+    <descriptors xsi:type="specification:PlatformRuntimeServiceDescriptor" id="8c75804f-c582-4a62-8688-a922d630a489" name="Generic Application Server"/>
+    <descriptors xsi:type="specification:ComputingInfrastructureServiceDescriptor" id="421ce8a0-ea58-4c78-8b6d-59e994d74f53" name="AWS EC2 Infrastructure" providerID="aws" generalPurpose="true">
+      <computingResourceDescriptors id="_H6kuhIMkEaS3ErMWA7p55Q" name="m1.small" description="M1 Small Instance" providerID="aws" memory="1024" cpu="1200" cpuUnits="1" storage="160"/>
+      <computingResourceDescriptors id="_H6kuhYMkEbS3ErMWA7p55Q" name="m1.medium" description="M1 Medium Instance" providerID="aws" memory="3750" cpu="1200" cpuUnits="2" storage="375"/>
+      <computingResourceDescriptors id="_H6kuhoMkEcS3ErMWA7p55Q" name="m1.large" description="M1 Large Instance" providerID="aws" memory="7500" cpu="1200" cpuUnits="4" storage="850"/>
+      <computingResourceDescriptors id="_LpNjcIMkEdS3ErMWA7p55Q" name="t2.micro" providerID="aws" memory="1024" cpu="2500" cpuUnits="1" storage="100"/>
+      <computingResourceDescriptors id="_LpNjcIMkEeS3ErMWA7p55Q" name="t2.small" providerID="aws" memory="2048" cpu="2500" cpuUnits="1" storage="100"/>
+      <computingResourceDescriptors id="_LpNjcIMkEfS3ErMWA7p55Q" name="t2.medium" providerID="aws" memory="4096" cpu="2500" cpuUnits="2" storage="100"/>
+      <computingResourceDescriptors id="_LpNjcIMkEgS3ErMWA7p55Q" name="m3.medium" providerID="aws" memory="3750" cpu="2500" cpuUnits="1" storage="100"/>
+      <computingResourceDescriptors id="_LpNjcIMkEhS3ErMWA7p55Q" name="m3.large" providerID="aws" memory="7500" cpu="2500" cpuUnits="2" storage="100"/>
+      <computingResourceDescriptors id="_LpNjcIMkEiS3ErMWA7p55Q" name="m3.xlarge" providerID="aws" memory="15000" cpu="2500" cpuUnits="4" storage="100"/>
+      <computingResourceDescriptors id="_LpNjcIMkEjS3ErMWA7p55Q" name="c3.large" providerID="aws" memory="7500" cpu="2500" cpuUnits="2" storage="100"/>
+      <computingResourceDescriptors id="_LpNjcIMkEkS3ErMWA7p55Q" name="c3.xlarge" providerID="aws" memory="15000" cpu="2500" cpuUnits="4" storage="100"/>
+      <computingResourceDescriptors id="_LpNjcIMkElS3ErMWA7p55Q" name="c3.2xlarge" providerID="aws" memory="15000" cpu="2500" cpuUnits="4" storage="100"/>
+      <computingResourceDescriptors id="_LpNjcIMkEmS3ErMWA7p55Q" name="c3.4xlarge" providerID="aws" memory="30000" cpu="2500" cpuUnits="16" storage="100"/>
+    </descriptors>
+    <descriptors xsi:type="specification:ComputingResourceDescriptor" id="3b1e4d65-d91a-4155-8a81-56fdd2199f12" name="m1.small" description="M1 Small Instance" providerID="aws" memory="1024" cpu="1200" cpuUnits="1" storage="160"/>
+    <descriptors xsi:type="specification:ProvidedPlatformSupportServiceDescriptor" id="96395d68-55d4-4eed-98f3-af63feb087c1" name="Amazon RDS" providerID="aws" infrastructureServiceDescriptor="686bb64b-4274-4e20-a3ce-7d3454fafd4d"/>
+    <descriptors xsi:type="specification:ComputingInfrastructureServiceDescriptor" id="686bb64b-4274-4e20-a3ce-7d3454fafd4d" name="AWS DB Infrastructure" providerID="aws">
+      <computingResourceDescriptors id="_H6kuiIMkE1S3EnMWA7p55Q" name="db.t1.micro" providerID="aws" memory="615" cpu="1200" cpuUnits="1" storage="160"/>
+      <computingResourceDescriptors id="_H6kuiYMkE2S3EoMWA7p55Q" name="db.m1.small" providerID="aws" memory="1700" cpu="1200" cpuUnits="1" storage="160"/>
+      <computingResourceDescriptors id="_H6kuiYMkE3S3EpMWA7p55Q" name="db.m3.medium" providerID="aws" memory="3750" cpu="1200" cpuUnits="1" storage="160"/>
+      <computingResourceDescriptors id="_H6kuiYMkE4S3EsMWA7p55Q" name="db.m3.large" providerID="aws" memory="7500" cpu="1200" cpuUnits="2" storage="160"/>
+      <computingResourceDescriptors id="_H6kuiYMkE5S3EtMWA7p55Q" name="db.m3.xlarge" providerID="aws" memory="15000" cpu="1200" cpuUnits="4" storage="160"/>
+      <computingResourceDescriptors id="_H6kuiYMkE6S3EuMWA7p55Q" name="db.m3.2xlarge" providerID="aws" memory="30000" cpu="1200" cpuUnits="8" storage="160"/>
+    </descriptors>
+    <descriptors xsi:type="specification:ProvidedPlatformSupportServiceDescriptor" id="74f0e457-c7c7-47d0-8ffb-89a7af7028c2" name="Amazon S3" providerID="aws"/>
+  </definition>
+  <dataTypes>
+    <types xsi:type="parametertype:PrimitiveParameter" id="_uOB78o39EeWks8u6nyB56w" name="INT" description="Default primitive data type"/>
+    <types xsi:type="parametertype:PrimitiveParameter" id="_uOB78439EeWks8u6nyB56w" name="STRING" description="Default primitive data type" type="STRING"/>
+    <types xsi:type="parametertype:PrimitiveParameter" id="_uOB79I39EeWks8u6nyB56w" name="BOOL" description="Default primitive data type" type="BOOL"/>
+    <types xsi:type="parametertype:PrimitiveParameter" id="_uOB79Y39EeWks8u6nyB56w" name="DOUBLE" description="Default primitive data type" type="DOUBLE"/>
+    <types xsi:type="parametertype:PrimitiveParameter" id="_qY2aIo39EeWks8u6nyB56w" name="INT" description="Default primitive data type"/>
+    <types xsi:type="parametertype:PrimitiveParameter" id="_qY2aI439EeWks8u6nyB56w" name="STRING" description="Default primitive data type" type="STRING"/>
+    <types xsi:type="parametertype:PrimitiveParameter" id="_qY2aJI39EeWks8u6nyB56w" name="BOOL" description="Default primitive data type" type="BOOL"/>
+    <types xsi:type="parametertype:PrimitiveParameter" id="_qY2aJY39EeWks8u6nyB56w" name="DOUBLE" description="Default primitive data type" type="DOUBLE"/>
+    <types xsi:type="parametertype:CompositeParameter" id="_qcye8Y39EeWks8u6nyB56w" name="Vector&lt;Integer>" parameters="_qcwCsY39EeWks8u6nyB56w"/>
+    <types xsi:type="parametertype:CompositeParameter" id="_qczGAI39EeWks8u6nyB56w" name="Vector&lt;ShortBook>" parameters="_qcwCsY39EeWks8u6nyB56w _qczGAY39EeWks8u6nyB56w"/>
+    <types xsi:type="parametertype:CompositeParameter" id="_qcye8I39EeWks8u6nyB56w" name="ResultSet"/>
+    <types xsi:type="parametertype:CompositeParameter" id="_qcx34Y39EeWks8u6nyB56w" name="SQLException"/>
+    <types xsi:type="parametertype:CompositeParameter" id="_qcxQ0Y39EeWks8u6nyB56w" name="Exception"/>
+    <types xsi:type="parametertype:CompositeParameter" id="_qcrKMI39EeWks8u6nyB56w" name="PrintWriter"/>
+    <types xsi:type="parametertype:CollectionParameter" id="_qcu0kI39EeWks8u6nyB56w" name="String[]"/>
+    <types xsi:type="parametertype:CompositeParameter" id="_qcwpwY39EeWks8u6nyB56w" name="HttpSession"/>
+    <types xsi:type="parametertype:CompositeParameter" id="_qcs_YI39EeWks8u6nyB56w" name="Date"/>
+    <types xsi:type="parametertype:CompositeParameter" id="_qcx34I39EeWks8u6nyB56w" name="OrderLine" parameters="_qcye8I39EeWks8u6nyB56w _qcxQ0Y39EeWks8u6nyB56w"/>
+    <types xsi:type="parametertype:CompositeParameter" id="_qczGAY39EeWks8u6nyB56w" name="ShortBook" parameters="_qcye8I39EeWks8u6nyB56w _qcxQ0Y39EeWks8u6nyB56w"/>
+    <types xsi:type="parametertype:CompositeParameter" id="_qcwpwI39EeWks8u6nyB56w" name="Customer" parameters="_qcs_YI39EeWks8u6nyB56w _qcye8I39EeWks8u6nyB56w _qcxQ0Y39EeWks8u6nyB56w"/>
+    <types xsi:type="parametertype:CompositeParameter" id="_qcwCsY39EeWks8u6nyB56w" name="Vector"/>
+    <types xsi:type="parametertype:CompositeParameter" id="_qcwpwo39EeWks8u6nyB56w" name="Vector&lt;CartLine>" parameters="_qcwCsY39EeWks8u6nyB56w _qcrxQI39EeWks8u6nyB56w"/>
+    <types xsi:type="parametertype:CompositeParameter" id="_qcsYUI39EeWks8u6nyB56w" name="Vector&lt;String>" parameters="_qcwCsY39EeWks8u6nyB56w"/>
+    <types xsi:type="parametertype:CompositeParameter" id="_qcx34o39EeWks8u6nyB56w" name="Vector&lt;Book>" parameters="_qcwCsI39EeWks8u6nyB56w _qcwCsY39EeWks8u6nyB56w"/>
+    <types xsi:type="parametertype:CompositeParameter" id="_qcxQ0I39EeWks8u6nyB56w" name="HttpServletResponse"/>
+    <types xsi:type="parametertype:CompositeParameter" id="_qcsYUY39EeWks8u6nyB56w" name="HttpServletRequest"/>
+    <types xsi:type="parametertype:CompositeParameter" id="_qctmcI39EeWks8u6nyB56w" name="Cart" parameters="_qcx34Y39EeWks8u6nyB56w _qcwpwo39EeWks8u6nyB56w _qcrxQI39EeWks8u6nyB56w _qcye8I39EeWks8u6nyB56w"/>
+    <types xsi:type="parametertype:CompositeParameter" id="_qcinUI39EeWks8u6nyB56w" name="Vector&lt;OrderLine>" parameters="_qcwCsY39EeWks8u6nyB56w _qcx34I39EeWks8u6nyB56w"/>
+    <types xsi:type="parametertype:CompositeParameter" id="_qcrxQI39EeWks8u6nyB56w" name="CartLine"/>
+    <types xsi:type="parametertype:CompositeParameter" id="_qcvboI39EeWks8u6nyB56w" name="BuyConfirmResult" parameters="_qctmcI39EeWks8u6nyB56w"/>
+    <types xsi:type="parametertype:CompositeParameter" id="_qcwCsI39EeWks8u6nyB56w" name="Book" parameters="_qcs_YI39EeWks8u6nyB56w _qcye8I39EeWks8u6nyB56w _qcxQ0Y39EeWks8u6nyB56w"/>
+    <types xsi:type="parametertype:CompositeParameter" id="_qcoG4I39EeWks8u6nyB56w" name="Order" parameters="_qcs_YI39EeWks8u6nyB56w _qcye8I39EeWks8u6nyB56w _qcxQ0Y39EeWks8u6nyB56w"/>
+  </dataTypes>
+</overview:Overview>

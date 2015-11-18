@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="ASCII"?>
+<org.somox:SEFF2JavaAST xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.somox="http://www.somox.org/seff2method/1.0" xmlns:seff="http://palladiosimulator.org/PalladioComponentModel/SEFF/5.1">
+  <seff2MethodMappings>
+    <blockstatement href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.1/@body"/>
+    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_YIwt8Y39EeWks8u6nyB56w"/>
+  </seff2MethodMappings>
+  <seff2MethodMappings>
+    <blockstatement href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.1/@body"/>
+    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_YIwt8439EeWks8u6nyB56w"/>
+  </seff2MethodMappings>
+  <seff2MethodMappings>
+    <blockstatement href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.3/@bodyDeclarations.12/@body"/>
+    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_YIwt9Y39EeWks8u6nyB56w"/>
+  </seff2MethodMappings>
+  <seff2MethodMappings>
+    <blockstatement href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.3/@bodyDeclarations.13/@body"/>
+    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_YIwt9o39EeWks8u6nyB56w"/>
+  </seff2MethodMappings>
+  <seff2MethodMappings>
+    <blockstatement href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.3/@bodyDeclarations.14/@body"/>
+    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_YIwt9439EeWks8u6nyB56w"/>
+  </seff2MethodMappings>
+  <seff2MethodMappings>
+    <blockstatement href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.3/@bodyDeclarations.15/@body"/>
+    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_YIwt-I39EeWks8u6nyB56w"/>
+  </seff2MethodMappings>
+  <seff2MethodMappings>
+    <blockstatement href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.3/@bodyDeclarations.16/@body"/>
+    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_YIwt-Y39EeWks8u6nyB56w"/>
+  </seff2MethodMappings>
+  <seff2MethodMappings>
+    <blockstatement href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.3/@bodyDeclarations.17/@body"/>
+    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_YIwt-o39EeWks8u6nyB56w"/>
+  </seff2MethodMappings>
+  <seff2MethodMappings>
+    <blockstatement href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.3/@bodyDeclarations.18/@body"/>
+    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_YIwt-439EeWks8u6nyB56w"/>
+  </seff2MethodMappings>
+  <seff2MethodMappings>
+    <blockstatement href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.3/@bodyDeclarations.19/@body"/>
+    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_YIwt_I39EeWks8u6nyB56w"/>
+  </seff2MethodMappings>
+  <seff2MethodMappings>
+    <blockstatement href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.3/@bodyDeclarations.20/@body"/>
+    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_YIwt_Y39EeWks8u6nyB56w"/>
+  </seff2MethodMappings>
+  <seff2MethodMappings>
+    <blockstatement href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.3/@bodyDeclarations.21/@body"/>
+    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_YIwt_o39EeWks8u6nyB56w"/>
+  </seff2MethodMappings>
+  <seff2MethodMappings>
+    <blockstatement href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.3/@bodyDeclarations.22/@body"/>
+    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_YIwt_439EeWks8u6nyB56w"/>
+  </seff2MethodMappings>
+  <seff2MethodMappings>
+    <blockstatement href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.3/@bodyDeclarations.23/@body"/>
+    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_YIwuAI39EeWks8u6nyB56w"/>
+  </seff2MethodMappings>
+  <seff2MethodMappings>
+    <blockstatement href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.3/@bodyDeclarations.25/@body"/>
+    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_YIwuAY39EeWks8u6nyB56w"/>
+  </seff2MethodMappings>
+  <seff2MethodMappings>
+    <blockstatement href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.3/@bodyDeclarations.26/@body"/>
+    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_YIwuAo39EeWks8u6nyB56w"/>
+  </seff2MethodMappings>
+  <seff2MethodMappings>
+    <blockstatement href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.3/@bodyDeclarations.27/@body"/>
+    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_YIwuA439EeWks8u6nyB56w"/>
+  </seff2MethodMappings>
+  <seff2MethodMappings>
+    <blockstatement href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.3/@bodyDeclarations.32/@body"/>
+    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_YIwuBI39EeWks8u6nyB56w"/>
+  </seff2MethodMappings>
+  <seff2MethodMappings>
+    <blockstatement href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.3/@bodyDeclarations.34/@body"/>
+    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_YIwuBY39EeWks8u6nyB56w"/>
+  </seff2MethodMappings>
+  <seff2MethodMappings>
+    <blockstatement href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.3/@bodyDeclarations.35/@body"/>
+    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_YIwuBo39EeWks8u6nyB56w"/>
+  </seff2MethodMappings>
+  <seff2MethodMappings>
+    <blockstatement href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.3/@bodyDeclarations.36/@body"/>
+    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_YIxVAI39EeWks8u6nyB56w"/>
+  </seff2MethodMappings>
+  <seff2MethodMappings>
+    <blockstatement href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.3/@bodyDeclarations.37/@body"/>
+    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_YIxVAY39EeWks8u6nyB56w"/>
+  </seff2MethodMappings>
+  <seff2MethodMappings>
+    <blockstatement href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.1/@body"/>
+    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_YIxVA439EeWks8u6nyB56w"/>
+  </seff2MethodMappings>
+  <seff2MethodMappings>
+    <blockstatement href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.1/@body"/>
+    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_YIxVBY39EeWks8u6nyB56w"/>
+  </seff2MethodMappings>
+  <seff2MethodMappings>
+    <blockstatement href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.1/@body"/>
+    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_YIxVB439EeWks8u6nyB56w"/>
+  </seff2MethodMappings>
+  <seff2MethodMappings>
+    <blockstatement href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.1/@body"/>
+    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_YIxVCY39EeWks8u6nyB56w"/>
+  </seff2MethodMappings>
+  <seff2MethodMappings>
+    <blockstatement href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.1/@body"/>
+    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_YIxVC439EeWks8u6nyB56w"/>
+  </seff2MethodMappings>
+  <seff2MethodMappings>
+    <blockstatement href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.1/@body"/>
+    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_YIxVDY39EeWks8u6nyB56w"/>
+  </seff2MethodMappings>
+  <seff2MethodMappings>
+    <blockstatement href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.1/@body"/>
+    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_YIxVD439EeWks8u6nyB56w"/>
+  </seff2MethodMappings>
+  <seff2MethodMappings>
+    <blockstatement href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.1/@body"/>
+    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_YIxVEY39EeWks8u6nyB56w"/>
+  </seff2MethodMappings>
+  <seff2MethodMappings>
+    <blockstatement href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.16/@bodyDeclarations.1/@body"/>
+    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_YIxVE439EeWks8u6nyB56w"/>
+  </seff2MethodMappings>
+  <seff2MethodMappings>
+    <blockstatement href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.16/@bodyDeclarations.2/@body"/>
+    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_YIxVFI39EeWks8u6nyB56w"/>
+  </seff2MethodMappings>
+  <seff2MethodMappings>
+    <blockstatement href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.16/@bodyDeclarations.3/@body"/>
+    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_YIxVFY39EeWks8u6nyB56w"/>
+  </seff2MethodMappings>
+  <seff2MethodMappings>
+    <blockstatement href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.16/@bodyDeclarations.5/@body"/>
+    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_YIxVFo39EeWks8u6nyB56w"/>
+  </seff2MethodMappings>
+  <seff2MethodMappings>
+    <blockstatement href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.1/@body"/>
+    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_YIxVGI39EeWks8u6nyB56w"/>
+  </seff2MethodMappings>
+  <seff2MethodMappings>
+    <blockstatement href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.1/@body"/>
+    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_YIxVGo39EeWks8u6nyB56w"/>
+  </seff2MethodMappings>
+  <seff2MethodMappings>
+    <blockstatement href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.1/@body"/>
+    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_YIxVHI39EeWks8u6nyB56w"/>
+  </seff2MethodMappings>
+  <seff2MethodMappings>
+    <blockstatement href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.23/@bodyDeclarations.0/@body"/>
+    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_YIx8EI39EeWks8u6nyB56w"/>
+  </seff2MethodMappings>
+  <seff2MethodMappings>
+    <blockstatement href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.25/@bodyDeclarations.0/@body"/>
+    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_YIx8Eo39EeWks8u6nyB56w"/>
+  </seff2MethodMappings>
+  <seff2MethodMappings>
+    <blockstatement href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.1/@body"/>
+    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_YIx8FI39EeWks8u6nyB56w"/>
+  </seff2MethodMappings>
+  <seff2MethodMappings>
+    <blockstatement href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.27/@bodyDeclarations.7/@body"/>
+    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_YIx8Fo39EeWks8u6nyB56w"/>
+  </seff2MethodMappings>
+  <seff2MethodMappings>
+    <blockstatement href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.27/@bodyDeclarations.8/@body"/>
+    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_YIx8F439EeWks8u6nyB56w"/>
+  </seff2MethodMappings>
+  <seff2MethodMappings>
+    <blockstatement href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.27/@bodyDeclarations.9/@body"/>
+    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_YIx8GI39EeWks8u6nyB56w"/>
+  </seff2MethodMappings>
+  <seff2MethodMappings>
+    <blockstatement href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.27/@bodyDeclarations.10/@body"/>
+    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_YIx8GY39EeWks8u6nyB56w"/>
+  </seff2MethodMappings>
+  <seff2MethodMappings>
+    <blockstatement href="../modisco/CloudStore-Project_java.xmi#//@ownedElements.0/@ownedElements.27/@bodyDeclarations.11/@body"/>
+    <seff xsi:type="seff:ResourceDemandingSEFF" href="internal_architecture_model.repository#_YIx8Go39EeWks8u6nyB56w"/>
+  </seff2MethodMappings>
+</org.somox:SEFF2JavaAST>

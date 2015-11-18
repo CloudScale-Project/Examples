@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment/>
+<entry key="name">Basic configuration [03:05:06]</entry>
+<entry key="input_alternative">Extractor/Input/Alternative_2015-11-18_03-03-22</entry>
+<entry key="config_alternative">Extractor/Configuration/Alternative_2015-11-18_03-03-22</entry>
+<entry key="created">1447855506919</entry>
+<entry key="eu.cloudscaleproject.env.toolchain.ToolchainUtils.folder_somox">somox</entry>
+<entry key="eu.cloudscaleproject.env.toolchain.ToolchainUtils.file_modisco_kdm">modisco/CloudStore-Project_kdm.xmi</entry>
+<entry key="eu.cloudscaleproject.env.toolchain.ToolchainUtils.file_system_diagram">somox/internal_architecture_model.system_diagram</entry>
+<entry key="eu.cloudscaleproject.env.toolchain.ToolchainUtils.file_modisco_java2kdm">modisco/CloudStore-Project_java2kdm.xmi</entry>
+<entry key="path_sourcedecorator">somox/internal_architecture_model.sourcecodedecorator</entry>
+<entry key="eu.cloudscaleproject.env.toolchain.ToolchainUtils.folder_modisco">modisco</entry>
+<entry key="eu.cloudscaleproject.env.toolchain.ToolchainUtils.file_modisco_java">modisco/CloudStore-Project_java.xmi</entry>
+<entry key="eu.cloudscaleproject.env.toolchain.ToolchainUtils.path_repository">somox/internal_architecture_model.repository</entry>
+<entry key="eu.cloudscaleproject.env.toolchain.ToolchainUtils.path_system">somox/internal_architecture_model.system</entry>
+<entry key="modified">1447855512819</entry>
+<entry key="eu.cloudscaleproject.env.toolchain.ToolchainUtils.file_repositroy_diagram">somox/internal_architecture_model.repository_diagram</entry>
+</properties>

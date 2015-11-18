@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="ASCII"?>
+<javaapplication:Java2Directory xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:javaapplication="http://www.eclipse.org/MoDisco/Java/Composition/0.1.incubation/javaApplication">
+  <javaPackage href="../CloudStore-Project_java.xmi#//@ownedElements.0"/>
+  <directory href="../CloudStore-Project_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.2/@inventoryElement.1"/>
+  <parent href="../CloudStore-Project_java2kdm.xmi#/"/>
+  <java2FileChildren href="tpcw_java2kdm.xmi#/0"/>
+  <java2FileChildren href="tpcw_java2kdm.xmi#/1"/>
+  <java2FileChildren href="tpcw_java2kdm.xmi#/2"/>
+  <java2FileChildren href="tpcw_java2kdm.xmi#/3"/>
+  <java2FileChildren href="tpcw_java2kdm.xmi#/4"/>
+  <java2FileChildren href="tpcw_java2kdm.xmi#/5"/>
+  <java2FileChildren href="tpcw_java2kdm.xmi#/6"/>
+  <java2FileChildren href="tpcw_java2kdm.xmi#/7"/>
+  <java2FileChildren href="tpcw_java2kdm.xmi#/8"/>
+  <java2FileChildren href="tpcw_java2kdm.xmi#/9"/>
+  <java2FileChildren href="tpcw_java2kdm.xmi#/10"/>
+  <java2FileChildren href="tpcw_java2kdm.xmi#/11"/>
+  <java2FileChildren href="tpcw_java2kdm.xmi#/12"/>
+  <java2FileChildren href="tpcw_java2kdm.xmi#/13"/>
+  <java2FileChildren href="tpcw_java2kdm.xmi#/14"/>
+  <java2FileChildren href="tpcw_java2kdm.xmi#/15"/>
+  <java2FileChildren href="tpcw_java2kdm.xmi#/16"/>
+  <java2FileChildren href="tpcw_java2kdm.xmi#/17"/>
+  <java2FileChildren href="tpcw_java2kdm.xmi#/18"/>
+  <java2FileChildren href="tpcw_java2kdm.xmi#/19"/>
+  <java2FileChildren href="tpcw_java2kdm.xmi#/20"/>
+  <java2FileChildren href="tpcw_java2kdm.xmi#/21"/>
+  <java2FileChildren href="tpcw_java2kdm.xmi#/22"/>
+  <java2FileChildren href="tpcw_java2kdm.xmi#/23"/>
+  <java2FileChildren href="tpcw_java2kdm.xmi#/24"/>
+  <java2FileChildren href="tpcw_java2kdm.xmi#/25"/>
+  <java2FileChildren href="tpcw_java2kdm.xmi#/26"/>
+  <java2FileChildren href="tpcw_java2kdm.xmi#/27"/>
+</javaapplication:Java2Directory>
