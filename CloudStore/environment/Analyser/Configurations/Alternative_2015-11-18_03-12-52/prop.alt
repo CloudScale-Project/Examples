@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment/>
+<entry key="name">CloudStore-HorizontalScaling</entry>
+<entry key="resourceType">NORMAL</entry>
+<entry key="input_alternative">Analyser/Input/Alternative_2015-11-18_03-12-52</entry>
+<entry key="eu.cloudscaleproject.env.toolchain.ToolchainUtils.path_pcmmeasuringpoint">CloudStore.measuringpoint</entry>
+<entry key="eu.cloudscaleproject.env.toolchain.ToolchainUtils.path_pms">BrowsingMix.monitorrepository</entry>
+<entry key="modified">1447858795869</entry>
+<entry key="last_result">Analyser/Result/Result_2015-11-18_03-45-29</entry>
+<entry key="eu.cloudscaleproject.env.toolchain.ToolchainUtils.path_experiments">BrowsingMixElasticityHorizontalScaling.experiments,ReconfigurationRulesHorizontalScaling.experiments</entry>
+<entry key="eu.cloudscaleproject.env.toolchain.ToolchainUtils.path_slo">BrowsingMix.slo</entry>
+<entry key="last_run">1447858795859</entry>
+</properties>

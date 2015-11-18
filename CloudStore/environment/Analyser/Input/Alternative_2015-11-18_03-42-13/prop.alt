@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment/>
+<entry key="name">CloudStore-VerticalScaling</entry>
+<entry key="eu.cloudscaleproject.env.toolchain.ToolchainUtils.path_usage">HomeInteraction.usagemodel,BrowsingMix.usagemodel,OrderingMix.usagemodel,ShoppingMix.usagemodel</entry>
+<entry key="created">1447857733888</entry>
+<entry key="eu.cloudscaleproject.env.toolchain.ToolchainUtils.path_usageevolution">BrowsingMixOneYearTrend.usageevolution</entry>
+<entry key="eu.cloudscaleproject.env.toolchain.ToolchainUtils.path_allocation">On-Premises.allocation</entry>
+<entry key="eu.cloudscaleproject.env.toolchain.ToolchainUtils.path_system">CloudStore.system</entry>
+<entry key="eu.cloudscaleproject.env.toolchain.ToolchainUtils.path_repository">CloudStore.repository</entry>
+<entry key="modified">1447857769755</entry>
+<entry key="eu.cloudscaleproject.env.toolchain.ToolchainUtils.path_resourceenvironment">On-Premises.resourceenvironment</entry>
+</properties>
