@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <pi:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:al="http://eclipse.org/graphiti/mm/algorithms" xmlns:pi="http://eclipse.org/graphiti/mm/pictograms" visible="true" gridUnit="10" diagramTypeId="CSMDiagram" name="overview.sdlo_diagram" snapToGrid="true" pictogramLinks="//@children.0/@link //@children.0/@children.1/@link //@children.0/@children.1/@children.1/@children.0/@link //@children.1/@link //@connections.0/@link" version="0.12.0">
-  <graphicsAlgorithm xsi:type="al:Rectangle" background="//@colors.1" foreground="//@colors.0" lineWidth="1" transparency="0.0" width="351" height="301"/>
+  <graphicsAlgorithm xsi:type="al:Rectangle" background="//@colors.1" foreground="//@colors.0" lineWidth="1" transparency="0.0" width="311" height="281"/>
   <link>
     <businessObjects href="overview.sdlo#/"/>
   </link>
   <children xsi:type="pi:ContainerShape" visible="true" active="true">
-    <graphicsAlgorithm xsi:type="al:RoundedRectangle" background="//@colors.2" lineWidth="1" transparency="0.0" width="351" height="301" x="170" y="140" cornerHeight="5" cornerWidth="5"/>
+    <graphicsAlgorithm xsi:type="al:RoundedRectangle" background="//@colors.2" lineWidth="1" transparency="0.0" width="311" height="281" x="170" y="140" cornerHeight="5" cornerWidth="5"/>
     <link>
       <businessObjects href="overview.sdlo#_C6vM1o4EEeW7J95CgDMkZw"/>
     </link>
     <anchors xsi:type="pi:ChopboxAnchor"/>
     <children visible="true">
-      <graphicsAlgorithm xsi:type="al:Text" foreground="//@colors.3" lineWidth="1" filled="false" transparency="0.0" width="351" height="20" x="5" y="5" value="Amazon Web Services (AWS)"/>
+      <graphicsAlgorithm xsi:type="al:Text" foreground="//@colors.3" lineWidth="1" filled="false" transparency="0.0" width="311" height="20" x="5" y="5" value="Amazon Web Services (AWS)"/>
     </children>
     <children xsi:type="pi:ContainerShape" visible="true" active="true">
-      <graphicsAlgorithm xsi:type="al:RoundedRectangle" background="//@colors.4" lineWidth="1" transparency="0.0" width="231" height="171" x="40" y="60" cornerHeight="5" cornerWidth="5"/>
+      <graphicsAlgorithm xsi:type="al:RoundedRectangle" background="//@colors.4" lineWidth="1" transparency="0.0" width="201" height="141" x="50" y="60" cornerHeight="5" cornerWidth="5"/>
       <link>
         <businessObjects href="overview.sdlo#_EcVicY4EEeW7J95CgDMkZw"/>
       </link>
       <anchors xsi:type="pi:ChopboxAnchor"/>
       <children visible="true">
-        <graphicsAlgorithm xsi:type="al:Text" foreground="//@colors.1" lineWidth="1" filled="false" transparency="0.0" width="211" height="20" x="10" y="10" value="Generic Application Server"/>
+        <graphicsAlgorithm xsi:type="al:Text" foreground="//@colors.1" lineWidth="1" filled="false" transparency="0.0" width="181" height="20" x="10" y="10" value="Generic Application Server"/>
       </children>
       <children xsi:type="pi:ContainerShape" visible="true">
-        <graphicsAlgorithm xsi:type="al:Rectangle" background="//@colors.5" lineWidth="1" transparency="0.0" width="211" height="121" x="10" y="40"/>
+        <graphicsAlgorithm xsi:type="al:Rectangle" background="//@colors.5" lineWidth="1" transparency="0.0" width="181" height="91" x="10" y="40"/>
         <children visible="true" active="true">
-          <graphicsAlgorithm xsi:type="al:Text" background="//@colors.1" foreground="//@colors.6" lineWidth="1" filled="true" lineVisible="true" transparency="0.1" width="191" height="60" x="20" y="50" horizontalAlignment="ALIGNMENT_CENTER" value="Minimal application"/>
+          <graphicsAlgorithm xsi:type="al:Text" background="//@colors.1" foreground="//@colors.6" lineWidth="1" filled="true" lineVisible="true" transparency="0.1" width="161" height="60" x="20" y="50" horizontalAlignment="ALIGNMENT_CENTER" value="Minimal application"/>
           <link>
             <businessObjects href="overview.sdlo#_C6vz4I4EEeW7J95CgDMkZw"/>
           </link>

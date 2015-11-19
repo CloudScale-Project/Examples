@@ -7,9 +7,9 @@
     </variations>
     <modifications xsi:type="ExperimentAutomation.Experiments:SchedulingPolicy2DelayModification"/>
     <toolConfiguration xsi:type="simulizartooladapter:SimuLizarConfiguration" name="SimuLizar default configuration">
-      <stopConditions xsi:type="ExperimentAutomation.Experiments.AbstractSimulation:MeasurementCountStopCondition" measurementCount="10"/>
-      <stopConditions xsi:type="ExperimentAutomation.Experiments.AbstractSimulation:SimTimeStopCondition" simulationTime="10"/>
-      <datasource xsi:type="ExperimentAutomation.Experiments.AbstractSimulation:MemoryDatasource" id="0436324f-3489-4c1b-9208-2ee2548c1319"/>
+      <stopConditions xsi:type="ExperimentAutomation.Experiments.AbstractSimulation:MeasurementCountStopCondition" measurementCount="100"/>
+      <stopConditions xsi:type="ExperimentAutomation.Experiments.AbstractSimulation:SimTimeStopCondition" simulationTime="-1"/>
+      <datasource xsi:type="ExperimentAutomation.Experiments.AbstractSimulation:FileDatasource" location="/home/jure/work/cloudscale/Examples/Minimal/environment/Analyser/Result/Result_2015-11-19_09-18-58"/>
     </toolConfiguration>
     <stopConditions xsi:type="ExperimentAutomation.Experiments.AbstractSimulation:MeasurementCountStopCondition" measurementCount="100"/>
     <stopConditions xsi:type="ExperimentAutomation.Experiments.AbstractSimulation:SimTimeStopCondition" simulationTime="-1"/>

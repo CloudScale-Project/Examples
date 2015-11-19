@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ASCII"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <repository:Repository xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:repository="http://palladiosimulator.org/PalladioComponentModel/Repository/5.1" xmlns:seff="http://palladiosimulator.org/PalladioComponentModel/SEFF/5.1" id="_2hZRkY4DEeW7J95CgDMkZw">
   <components__Repository xsi:type="repository:BasicComponent" id="_2iZXII4DEeW7J95CgDMkZw" entityName=" &lt;PC No. 3 eu.cloudscale.examples.minimal.app.Application eu.cloudscale.examples.minimal.app.problems.OK eu.cloudscale.examples.minimal.app.problems.OLB>">
     <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="_2ialQI4DEeW7J95CgDMkZw" entityName="Application 3 (prov)" providedInterface__OperationProvidedRole="_2hszkI4DEeW7J95CgDMkZw"/>
@@ -14,7 +14,7 @@
       </steps_Behaviour>
       <steps_Behaviour xsi:type="seff:InternalAction" id="_2irrAI4DEeW7J95CgDMkZw" entityName="IA position: eu.cloudscale.examples.minimal.app.problems.OLB.call() from 47 to 51" predecessor_AbstractAction="_2irD8I4DEeW7J95CgDMkZw" successor_AbstractAction="_2ionsY4DEeW7J95CgDMkZw">
         <resourceDemand_Action>
-          <specification_ParametericResourceDemand specification="0"/>
+          <specification_ParametericResourceDemand specification="1200"/>
           <requiredResource_ParametricResourceDemand href="pathmap://PCM_MODELS/Palladio.resourcetype#_oro4gG3fEdy4YaaT-RYrLQ"/>
         </resourceDemand_Action>
       </steps_Behaviour>
@@ -24,7 +24,7 @@
       <steps_Behaviour xsi:type="seff:StartAction" id="_2isSEI4DEeW7J95CgDMkZw" successor_AbstractAction="_2isSEo4DEeW7J95CgDMkZw"/>
       <steps_Behaviour xsi:type="seff:InternalAction" id="_2isSEo4DEeW7J95CgDMkZw" entityName="IA position: eu.cloudscale.examples.minimal.app.Application.testNoProblem() from 59 to 59" predecessor_AbstractAction="_2isSEI4DEeW7J95CgDMkZw" successor_AbstractAction="_2isSEY4DEeW7J95CgDMkZw">
         <resourceDemand_Action>
-          <specification_ParametericResourceDemand specification="0"/>
+          <specification_ParametericResourceDemand specification="10"/>
           <requiredResource_ParametricResourceDemand href="pathmap://PCM_MODELS/Palladio.resourcetype#_oro4gG3fEdy4YaaT-RYrLQ"/>
         </resourceDemand_Action>
       </steps_Behaviour>
@@ -44,7 +44,7 @@
       <steps_Behaviour xsi:type="seff:StartAction" id="_2i008Y4DEeW7J95CgDMkZw" successor_AbstractAction="_2i00844DEeW7J95CgDMkZw"/>
       <steps_Behaviour xsi:type="seff:InternalAction" id="_2i00844DEeW7J95CgDMkZw" entityName="IA position: eu.cloudscale.examples.minimal.app.problems.OK.fibonacci() from 54 to 58" predecessor_AbstractAction="_2i008Y4DEeW7J95CgDMkZw" successor_AbstractAction="_2i008o4DEeW7J95CgDMkZw">
         <resourceDemand_Action>
-          <specification_ParametericResourceDemand specification="0"/>
+          <specification_ParametericResourceDemand specification="10"/>
           <requiredResource_ParametricResourceDemand href="pathmap://PCM_MODELS/Palladio.resourcetype#_oro4gG3fEdy4YaaT-RYrLQ"/>
         </resourceDemand_Action>
       </steps_Behaviour>
