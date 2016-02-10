@@ -29,7 +29,7 @@ public final class OLB {
 	 *
 	 * @return singleton instance
 	 */
-	public static OLB getInstnace() {
+	public static OLB getInstance() {
 		if (instance == null) {
 			instance = new OLB();
 		}

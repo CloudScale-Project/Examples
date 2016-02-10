@@ -21,40 +21,26 @@ package eu.cloudscale.examples.minimal.app.problems;
  * @author C5170547
  *
  */
-public final class OK {
-	private static final int FIB_NUMBER = 25;
-	private static OK instance;
-
+public enum EMA {
+	INSTANCE;
+	
 	/**
 	 *
 	 * @return singleton instance
 	 */
-	public static OK getInstance() {
-		if (instance == null) {
-			instance = new OK();
-		}
-		return instance;
-	}
-
-	private OK() {
-
+	public static EMA getInstance() {
+		return INSTANCE;
 	}
 
 	public void call() {
+        for (int i=0; i < 1000; i++) {
+            final byte[] largeArray = new byte[10000];
+            OK.getInstance().call();
+            doSomething(largeArray);
+        }
+    }
 
-		fibonacci(FIB_NUMBER);
-	}
+    private void doSomething(final byte[] data) {
+    }
 
-	/**
-	 *
-	 * @param n fib parameter
-	 * @return fib(n)
-	 */
-	private int fibonacci(int n) {
-		if (n <= 1) {
-			return 1;
-		} else {
-			return fibonacci(n - 2) + fibonacci(n - 1);
-		}
-	}
 }

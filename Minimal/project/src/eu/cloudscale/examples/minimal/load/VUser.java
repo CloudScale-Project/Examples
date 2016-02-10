@@ -46,7 +46,7 @@ public class VUser implements ISimpleVUser {
 		final Client client = LpeHTTPUtils.getWebClient();
 		client.setConnectTimeout(TIMEOUT);
 		client.setReadTimeout(TIMEOUT);
-		webResource = client.resource("http://localhost:8081/");
+		webResource = client.resource("http://localhost:8080/");
 	}
 
 	@Override
@@ -56,6 +56,10 @@ public class VUser implements ISimpleVUser {
 			webResource.path("demo").path("testOLB").accept(MediaType.APPLICATION_JSON).get(String.class);
 			Thread.sleep(getNextThinkTime());
 
+			// call EMA service
+			webResource.path("demo").path("testEMA").accept(MediaType.APPLICATION_JSON).get(String.class);
+			Thread.sleep(getNextThinkTime());
+			
 			// call Fibonacci service
 			webResource.path("demo").path("testOK").accept(MediaType.APPLICATION_JSON).get(String.class);
 			Thread.sleep(getNextThinkTime());
