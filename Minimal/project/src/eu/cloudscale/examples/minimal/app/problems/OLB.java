@@ -21,23 +21,17 @@ package eu.cloudscale.examples.minimal.app.problems;
  * @author C5170547
  *
  */
-public final class OLB {
+public enum OLB {
+	INSTANCE;
+	
 	private static final int TIME_TO_SLEEP = 100;
-	private static OLB instance;
 
 	/**
 	 *
 	 * @return singleton instance
 	 */
 	public static OLB getInstance() {
-		if (instance == null) {
-			instance = new OLB();
-		}
-		return instance;
-	}
-
-	private OLB() {
-
+		return INSTANCE;
 	}
 
 	/**
@@ -46,7 +40,7 @@ public final class OLB {
 	public synchronized void call() {
 		try {
 			Thread.sleep(TIME_TO_SLEEP);
-		} catch (InterruptedException e) {
+		} catch (final InterruptedException e) {
 			throw new RuntimeException(e);
 		}
 	}
