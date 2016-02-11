@@ -46,7 +46,7 @@ public class VUser implements ISimpleVUser {
 		final Client client = LpeHTTPUtils.getWebClient();
 		client.setConnectTimeout(TIMEOUT);
 		client.setReadTimeout(TIMEOUT);
-		webResource = client.resource("http://localhost:8080/");
+		webResource = client.resource("http://localhost:8081/");
 	}
 
 	@Override
