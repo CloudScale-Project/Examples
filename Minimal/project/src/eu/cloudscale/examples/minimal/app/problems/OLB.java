@@ -21,17 +21,20 @@ package eu.cloudscale.examples.minimal.app.problems;
  * @author C5170547
  *
  */
-public enum OLB {
-	INSTANCE;
-	
+public final class OLB {
 	private static final int TIME_TO_SLEEP = 100;
+	private static OLB instance = new OLB();
 
 	/**
 	 *
 	 * @return singleton instance
 	 */
 	public static OLB getInstance() {
-		return INSTANCE;
+		return instance;
+	}
+
+	private OLB() {
+
 	}
 
 	/**
