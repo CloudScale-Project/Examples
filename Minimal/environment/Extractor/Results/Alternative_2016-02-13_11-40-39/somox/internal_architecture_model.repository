@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="ASCII"?>
+<repository:Repository xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:repository="http://palladiosimulator.org/PalladioComponentModel/Repository/5.1" xmlns:seff="http://palladiosimulator.org/PalladioComponentModel/SEFF/5.1" id="_0Ah74dKiEeWj5bUKOweuzA">
+  <components__Repository xsi:type="repository:BasicComponent" id="_0COlANKiEeWj5bUKOweuzA" entityName="&lt;PC#5 eu.cloudscale.examples.minimal.app.Application eu.cloudscale.examples.minimal.app.problems.EMA eu.cloudscale.examples.minimal.app.problems.OK eu.cloudscale.examples.minimal.app.problems.OLB>">
+    <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="_0CPzINKiEeWj5bUKOweuzA" entityName="Application (prov)" providedInterface__OperationProvidedRole="_0BBrINKiEeWj5bUKOweuzA"/>
+    <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="_0CQaM9KiEeWj5bUKOweuzA" entityName="EMA (prov)" providedInterface__OperationProvidedRole="_0BSJ0NKiEeWj5bUKOweuzA"/>
+    <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="_0CQaNtKiEeWj5bUKOweuzA" entityName="OK (prov)" providedInterface__OperationProvidedRole="_0BTX8dKiEeWj5bUKOweuzA"/>
+    <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="_0CQaOdKiEeWj5bUKOweuzA" entityName="OLB (prov)" providedInterface__OperationProvidedRole="_0BUmENKiEeWj5bUKOweuzA"/>
+    <serviceEffectSpecifications__BasicComponent xsi:type="seff:ResourceDemandingSEFF" id="_0CQaMNKiEeWj5bUKOweuzA" describedService__SEFF="_0BBrIdKiEeWj5bUKOweuzA">
+      <steps_Behaviour xsi:type="seff:StartAction" id="_0CoNoNKiEeWj5bUKOweuzA" successor_AbstractAction="_0CsfENKiEeWj5bUKOweuzA"/>
+      <steps_Behaviour xsi:type="seff:InternalAction" id="_0CsfENKiEeWj5bUKOweuzA" entityName="IA position: eu.cloudscale.examples.minimal.app.Application.testOLB() starting at line 47" predecessor_AbstractAction="_0CoNoNKiEeWj5bUKOweuzA" successor_AbstractAction="_0CoNodKiEeWj5bUKOweuzA">
+        <resourceDemand_Action>
+          <specification_ParametericResourceDemand specification="0"/>
+          <requiredResource_ParametricResourceDemand href="pathmap://PCM_MODELS/Palladio.resourcetype#_oro4gG3fEdy4YaaT-RYrLQ"/>
+        </resourceDemand_Action>
+      </steps_Behaviour>
+      <steps_Behaviour xsi:type="seff:StopAction" id="_0CoNodKiEeWj5bUKOweuzA" predecessor_AbstractAction="_0CsfENKiEeWj5bUKOweuzA"/>
+    </serviceEffectSpecifications__BasicComponent>
+    <serviceEffectSpecifications__BasicComponent xsi:type="seff:ResourceDemandingSEFF" id="_0CQaMdKiEeWj5bUKOweuzA" describedService__SEFF="_0BEucNKiEeWj5bUKOweuzA">
+      <steps_Behaviour xsi:type="seff:StartAction" id="_0CsfEdKiEeWj5bUKOweuzA" successor_AbstractAction="_0CtGINKiEeWj5bUKOweuzA"/>
+      <steps_Behaviour xsi:type="seff:InternalAction" id="_0CtGINKiEeWj5bUKOweuzA" entityName="IA position: eu.cloudscale.examples.minimal.app.Application.testEMA() starting at line 60" predecessor_AbstractAction="_0CsfEdKiEeWj5bUKOweuzA" successor_AbstractAction="_0CsfEtKiEeWj5bUKOweuzA">
+        <resourceDemand_Action>
+          <specification_ParametericResourceDemand specification="0"/>
+          <requiredResource_ParametricResourceDemand href="pathmap://PCM_MODELS/Palladio.resourcetype#_oro4gG3fEdy4YaaT-RYrLQ"/>
+        </resourceDemand_Action>
+      </steps_Behaviour>
+      <steps_Behaviour xsi:type="seff:StopAction" id="_0CsfEtKiEeWj5bUKOweuzA" predecessor_AbstractAction="_0CtGINKiEeWj5bUKOweuzA"/>
+    </serviceEffectSpecifications__BasicComponent>
+    <serviceEffectSpecifications__BasicComponent xsi:type="seff:ResourceDemandingSEFF" id="_0CQaMtKiEeWj5bUKOweuzA" describedService__SEFF="_0BEucdKiEeWj5bUKOweuzA">
+      <steps_Behaviour xsi:type="seff:StartAction" id="_0CtGIdKiEeWj5bUKOweuzA" successor_AbstractAction="_0CtGI9KiEeWj5bUKOweuzA"/>
+      <steps_Behaviour xsi:type="seff:InternalAction" id="_0CtGI9KiEeWj5bUKOweuzA" entityName="IA position: eu.cloudscale.examples.minimal.app.Application.testNoProblem() starting at line 73" predecessor_AbstractAction="_0CtGIdKiEeWj5bUKOweuzA" successor_AbstractAction="_0CtGItKiEeWj5bUKOweuzA">
+        <resourceDemand_Action>
+          <specification_ParametericResourceDemand specification="0"/>
+          <requiredResource_ParametricResourceDemand href="pathmap://PCM_MODELS/Palladio.resourcetype#_oro4gG3fEdy4YaaT-RYrLQ"/>
+        </resourceDemand_Action>
+      </steps_Behaviour>
+      <steps_Behaviour xsi:type="seff:StopAction" id="_0CtGItKiEeWj5bUKOweuzA" predecessor_AbstractAction="_0CtGI9KiEeWj5bUKOweuzA"/>
+    </serviceEffectSpecifications__BasicComponent>
+    <serviceEffectSpecifications__BasicComponent xsi:type="seff:ResourceDemandingSEFF" id="_0CQaNNKiEeWj5bUKOweuzA" describedService__SEFF="_0BSJ0dKiEeWj5bUKOweuzA">
+      <steps_Behaviour xsi:type="seff:StartAction" id="_0CttMNKiEeWj5bUKOweuzA" successor_AbstractAction="_0CttMtKiEeWj5bUKOweuzA"/>
+      <steps_Behaviour xsi:type="seff:InternalAction" id="_0CttMtKiEeWj5bUKOweuzA" entityName="IA position: eu.cloudscale.examples.minimal.app.problems.EMA.getInstance() starting at line 32" predecessor_AbstractAction="_0CttMNKiEeWj5bUKOweuzA" successor_AbstractAction="_0CttMdKiEeWj5bUKOweuzA">
+        <resourceDemand_Action>
+          <specification_ParametericResourceDemand specification="0"/>
+          <requiredResource_ParametricResourceDemand href="pathmap://PCM_MODELS/Palladio.resourcetype#_oro4gG3fEdy4YaaT-RYrLQ"/>
+        </resourceDemand_Action>
+      </steps_Behaviour>
+      <steps_Behaviour xsi:type="seff:StopAction" id="_0CttMdKiEeWj5bUKOweuzA" predecessor_AbstractAction="_0CttMtKiEeWj5bUKOweuzA"/>
+    </serviceEffectSpecifications__BasicComponent>
+    <serviceEffectSpecifications__BasicComponent xsi:type="seff:ResourceDemandingSEFF" id="_0CQaNdKiEeWj5bUKOweuzA" describedService__SEFF="_0BSw4dKiEeWj5bUKOweuzA">
+      <steps_Behaviour xsi:type="seff:StartAction" id="_0CttM9KiEeWj5bUKOweuzA" successor_AbstractAction="_0CttNdKiEeWj5bUKOweuzA"/>
+      <steps_Behaviour xsi:type="seff:InternalAction" id="_0CttNdKiEeWj5bUKOweuzA" entityName="IA position: eu.cloudscale.examples.minimal.app.problems.EMA.call() starting at line 36" predecessor_AbstractAction="_0CttM9KiEeWj5bUKOweuzA" successor_AbstractAction="_0CttNNKiEeWj5bUKOweuzA">
+        <resourceDemand_Action>
+          <specification_ParametericResourceDemand specification="0"/>
+          <requiredResource_ParametricResourceDemand href="pathmap://PCM_MODELS/Palladio.resourcetype#_oro4gG3fEdy4YaaT-RYrLQ"/>
+        </resourceDemand_Action>
+      </steps_Behaviour>
+      <steps_Behaviour xsi:type="seff:StopAction" id="_0CttNNKiEeWj5bUKOweuzA" predecessor_AbstractAction="_0CttNdKiEeWj5bUKOweuzA"/>
+    </serviceEffectSpecifications__BasicComponent>
+    <serviceEffectSpecifications__BasicComponent xsi:type="seff:ResourceDemandingSEFF" id="_0CQaN9KiEeWj5bUKOweuzA" describedService__SEFF="_0BTX8tKiEeWj5bUKOweuzA">
+      <steps_Behaviour xsi:type="seff:StartAction" id="_0CttNtKiEeWj5bUKOweuzA" successor_AbstractAction="_0CttONKiEeWj5bUKOweuzA"/>
+      <steps_Behaviour xsi:type="seff:InternalAction" id="_0CttONKiEeWj5bUKOweuzA" entityName="IA position: eu.cloudscale.examples.minimal.app.problems.OK.getInstance() starting at line 33" predecessor_AbstractAction="_0CttNtKiEeWj5bUKOweuzA" successor_AbstractAction="_0CttN9KiEeWj5bUKOweuzA">
+        <resourceDemand_Action>
+          <specification_ParametericResourceDemand specification="0"/>
+          <requiredResource_ParametricResourceDemand href="pathmap://PCM_MODELS/Palladio.resourcetype#_oro4gG3fEdy4YaaT-RYrLQ"/>
+        </resourceDemand_Action>
+      </steps_Behaviour>
+      <steps_Behaviour xsi:type="seff:StopAction" id="_0CttN9KiEeWj5bUKOweuzA" predecessor_AbstractAction="_0CttONKiEeWj5bUKOweuzA"/>
+    </serviceEffectSpecifications__BasicComponent>
+    <serviceEffectSpecifications__BasicComponent xsi:type="seff:ResourceDemandingSEFF" id="_0CQaONKiEeWj5bUKOweuzA" describedService__SEFF="_0BT_ANKiEeWj5bUKOweuzA">
+      <steps_Behaviour xsi:type="seff:StartAction" id="_0CttOdKiEeWj5bUKOweuzA" successor_AbstractAction="_0CuUQNKiEeWj5bUKOweuzA"/>
+      <steps_Behaviour xsi:type="seff:InternalAction" id="_0CuUQNKiEeWj5bUKOweuzA" entityName="IA position: eu.cloudscale.examples.minimal.app.problems.EMA.call() starting at line 36" predecessor_AbstractAction="_0CttOdKiEeWj5bUKOweuzA" successor_AbstractAction="_0CttOtKiEeWj5bUKOweuzA">
+        <resourceDemand_Action>
+          <specification_ParametericResourceDemand specification="0"/>
+          <requiredResource_ParametricResourceDemand href="pathmap://PCM_MODELS/Palladio.resourcetype#_oro4gG3fEdy4YaaT-RYrLQ"/>
+        </resourceDemand_Action>
+      </steps_Behaviour>
+      <steps_Behaviour xsi:type="seff:StopAction" id="_0CttOtKiEeWj5bUKOweuzA" predecessor_AbstractAction="_0CuUQNKiEeWj5bUKOweuzA"/>
+    </serviceEffectSpecifications__BasicComponent>
+    <serviceEffectSpecifications__BasicComponent xsi:type="seff:ResourceDemandingSEFF" id="_0CQaOtKiEeWj5bUKOweuzA" describedService__SEFF="_0BUmEdKiEeWj5bUKOweuzA">
+      <steps_Behaviour xsi:type="seff:StartAction" id="_0CuUQdKiEeWj5bUKOweuzA" successor_AbstractAction="_0CuUQ9KiEeWj5bUKOweuzA"/>
+      <steps_Behaviour xsi:type="seff:InternalAction" id="_0CuUQ9KiEeWj5bUKOweuzA" entityName="IA position: eu.cloudscale.examples.minimal.app.problems.OLB.getInstance() starting at line 33" predecessor_AbstractAction="_0CuUQdKiEeWj5bUKOweuzA" successor_AbstractAction="_0CuUQtKiEeWj5bUKOweuzA">
+        <resourceDemand_Action>
+          <specification_ParametericResourceDemand specification="0"/>
+          <requiredResource_ParametricResourceDemand href="pathmap://PCM_MODELS/Palladio.resourcetype#_oro4gG3fEdy4YaaT-RYrLQ"/>
+        </resourceDemand_Action>
+      </steps_Behaviour>
+      <steps_Behaviour xsi:type="seff:StopAction" id="_0CuUQtKiEeWj5bUKOweuzA" predecessor_AbstractAction="_0CuUQ9KiEeWj5bUKOweuzA"/>
+    </serviceEffectSpecifications__BasicComponent>
+    <serviceEffectSpecifications__BasicComponent xsi:type="seff:ResourceDemandingSEFF" id="_0CQaO9KiEeWj5bUKOweuzA" describedService__SEFF="_0BVNJ9KiEeWj5bUKOweuzA">
+      <steps_Behaviour xsi:type="seff:StartAction" id="_0CuURNKiEeWj5bUKOweuzA" successor_AbstractAction="_0CuURtKiEeWj5bUKOweuzA"/>
+      <steps_Behaviour xsi:type="seff:InternalAction" id="_0CuURtKiEeWj5bUKOweuzA" entityName="IA position: eu.cloudscale.examples.minimal.app.problems.EMA.call() starting at line 36" predecessor_AbstractAction="_0CuURNKiEeWj5bUKOweuzA" successor_AbstractAction="_0CuURdKiEeWj5bUKOweuzA">
+        <resourceDemand_Action>
+          <specification_ParametericResourceDemand specification="0"/>
+          <requiredResource_ParametricResourceDemand href="pathmap://PCM_MODELS/Palladio.resourcetype#_oro4gG3fEdy4YaaT-RYrLQ"/>
+        </resourceDemand_Action>
+      </steps_Behaviour>
+      <steps_Behaviour xsi:type="seff:StopAction" id="_0CuURdKiEeWj5bUKOweuzA" predecessor_AbstractAction="_0CuURtKiEeWj5bUKOweuzA"/>
+    </serviceEffectSpecifications__BasicComponent>
+  </components__Repository>
+  <interfaces__Repository xsi:type="repository:OperationInterface" id="_0BBrINKiEeWj5bUKOweuzA" entityName="Iminimal.app.Application">
+    <signatures__OperationInterface id="_0BBrIdKiEeWj5bUKOweuzA" entityName="testOLB">
+      <returnType__OperationSignature xsi:type="repository:PrimitiveDataType" href="pathmap://PCM_MODELS/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
+    </signatures__OperationInterface>
+    <signatures__OperationInterface id="_0BEucNKiEeWj5bUKOweuzA" entityName="testEMA">
+      <returnType__OperationSignature xsi:type="repository:PrimitiveDataType" href="pathmap://PCM_MODELS/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
+    </signatures__OperationInterface>
+    <signatures__OperationInterface id="_0BEucdKiEeWj5bUKOweuzA" entityName="testNoProblem">
+      <returnType__OperationSignature xsi:type="repository:PrimitiveDataType" href="pathmap://PCM_MODELS/PrimitiveTypes.repository#//@dataTypes__Repository.1"/>
+    </signatures__OperationInterface>
+  </interfaces__Repository>
+  <interfaces__Repository xsi:type="repository:OperationInterface" id="_0BSJ0NKiEeWj5bUKOweuzA" entityName="Iapp.problems.EMA">
+    <signatures__OperationInterface id="_0BSJ0dKiEeWj5bUKOweuzA" entityName="getInstance" returnType__OperationSignature="_0BSJ0tKiEeWj5bUKOweuzA"/>
+    <signatures__OperationInterface id="_0BSw4dKiEeWj5bUKOweuzA" entityName="call"/>
+  </interfaces__Repository>
+  <interfaces__Repository xsi:type="repository:OperationInterface" id="_0BTX8dKiEeWj5bUKOweuzA" entityName="Iapp.problems.OK">
+    <signatures__OperationInterface id="_0BTX8tKiEeWj5bUKOweuzA" entityName="getInstance" returnType__OperationSignature="_0BSw4NKiEeWj5bUKOweuzA"/>
+    <signatures__OperationInterface id="_0BT_ANKiEeWj5bUKOweuzA" entityName="call"/>
+  </interfaces__Repository>
+  <interfaces__Repository xsi:type="repository:OperationInterface" id="_0BUmENKiEeWj5bUKOweuzA" entityName="Iapp.problems.OLB">
+    <signatures__OperationInterface id="_0BUmEdKiEeWj5bUKOweuzA" entityName="getInstance" returnType__OperationSignature="_0BUmEtKiEeWj5bUKOweuzA"/>
+    <signatures__OperationInterface id="_0BVNJ9KiEeWj5bUKOweuzA" entityName="call"/>
+  </interfaces__Repository>
+  <dataTypes__Repository xsi:type="repository:CompositeDataType" id="_0BSJ0tKiEeWj5bUKOweuzA" entityName="EMA">
+    <innerDeclaration_CompositeDataType entityName="byte[]" datatype_InnerDeclaration="_0BSJ09KiEeWj5bUKOweuzA"/>
+    <innerDeclaration_CompositeDataType entityName="OK" datatype_InnerDeclaration="_0BSw4NKiEeWj5bUKOweuzA"/>
+    <innerDeclaration_CompositeDataType entityName="int">
+      <datatype_InnerDeclaration xsi:type="repository:PrimitiveDataType" href="pathmap://PCM_MODELS/PrimitiveTypes.repository#//@dataTypes__Repository.0"/>
+    </innerDeclaration_CompositeDataType>
+  </dataTypes__Repository>
+  <dataTypes__Repository xsi:type="repository:CollectionDataType" id="_0BSJ09KiEeWj5bUKOweuzA" entityName="byte[]">
+    <innerType_CollectionDataType xsi:type="repository:PrimitiveDataType" href="pathmap://PCM_MODELS/PrimitiveTypes.repository#//@dataTypes__Repository.5"/>
+  </dataTypes__Repository>
+  <dataTypes__Repository xsi:type="repository:CompositeDataType" id="_0BSw4NKiEeWj5bUKOweuzA" entityName="OK">
+    <innerDeclaration_CompositeDataType entityName="int">
+      <datatype_InnerDeclaration xsi:type="repository:PrimitiveDataType" href="pathmap://PCM_MODELS/PrimitiveTypes.repository#//@dataTypes__Repository.0"/>
+    </innerDeclaration_CompositeDataType>
+  </dataTypes__Repository>
+  <dataTypes__Repository xsi:type="repository:CompositeDataType" id="_0BUmEtKiEeWj5bUKOweuzA" entityName="OLB">
+    <innerDeclaration_CompositeDataType entityName="InterruptedException" datatype_InnerDeclaration="_0BVNINKiEeWj5bUKOweuzA"/>
+    <innerDeclaration_CompositeDataType entityName="RuntimeException" datatype_InnerDeclaration="_0BVNJNKiEeWj5bUKOweuzA"/>
+    <innerDeclaration_CompositeDataType entityName="int">
+      <datatype_InnerDeclaration xsi:type="repository:PrimitiveDataType" href="pathmap://PCM_MODELS/PrimitiveTypes.repository#//@dataTypes__Repository.0"/>
+    </innerDeclaration_CompositeDataType>
+    <innerDeclaration_CompositeDataType entityName="Thread" datatype_InnerDeclaration="_0BVNJdKiEeWj5bUKOweuzA"/>
+  </dataTypes__Repository>
+  <dataTypes__Repository xsi:type="repository:CompositeDataType" id="_0BVNINKiEeWj5bUKOweuzA" entityName="InterruptedException">
+    <innerDeclaration_CompositeDataType entityName="Exception" datatype_InnerDeclaration="_0BVNIdKiEeWj5bUKOweuzA"/>
+  </dataTypes__Repository>
+  <dataTypes__Repository xsi:type="repository:CompositeDataType" id="_0BVNIdKiEeWj5bUKOweuzA" entityName="Exception">
+    <innerDeclaration_CompositeDataType entityName="Throwable" datatype_InnerDeclaration="_0BVNItKiEeWj5bUKOweuzA"/>
+  </dataTypes__Repository>
+  <dataTypes__Repository xsi:type="repository:CompositeDataType" id="_0BVNItKiEeWj5bUKOweuzA" entityName="Throwable">
+    <innerDeclaration_CompositeDataType entityName="Serializable" datatype_InnerDeclaration="_0BVNI9KiEeWj5bUKOweuzA"/>
+  </dataTypes__Repository>
+  <dataTypes__Repository xsi:type="repository:CompositeDataType" id="_0BVNI9KiEeWj5bUKOweuzA" entityName="Serializable"/>
+  <dataTypes__Repository xsi:type="repository:CompositeDataType" id="_0BVNJNKiEeWj5bUKOweuzA" entityName="RuntimeException">
+    <innerDeclaration_CompositeDataType entityName="Exception" datatype_InnerDeclaration="_0BVNIdKiEeWj5bUKOweuzA"/>
+    <innerDeclaration_CompositeDataType entityName="Throwable" datatype_InnerDeclaration="_0BVNItKiEeWj5bUKOweuzA"/>
+  </dataTypes__Repository>
+  <dataTypes__Repository xsi:type="repository:CompositeDataType" id="_0BVNJdKiEeWj5bUKOweuzA" entityName="Thread">
+    <innerDeclaration_CompositeDataType entityName="Runnable" datatype_InnerDeclaration="_0BVNJtKiEeWj5bUKOweuzA"/>
+    <innerDeclaration_CompositeDataType entityName="long">
+      <datatype_InnerDeclaration xsi:type="repository:PrimitiveDataType" href="pathmap://PCM_MODELS/PrimitiveTypes.repository#//@dataTypes__Repository.0"/>
+    </innerDeclaration_CompositeDataType>
+  </dataTypes__Repository>
+  <dataTypes__Repository xsi:type="repository:CompositeDataType" id="_0BVNJtKiEeWj5bUKOweuzA" entityName="Runnable"/>
+</repository:Repository>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment/>
+<entry key="eu.cloudscaleproject.env.toolchain.ToolchainUtils.file_antipatterns_psa">result.psa</entry>
+<entry key="modified">1455403545872</entry>
+<entry key="name">Basic configuration [11:45:45]</entry>
+<entry key="config_alternative">../../Configuration/Alternative_2016-02-13_11-45-36</entry>
+<entry key="resourceType"/>
+<entry key="input_alternative">../../Input/Alternative_2016-02-13_11-45-36</entry>
+<entry key="created">1455403545813</entry>
+</properties>
