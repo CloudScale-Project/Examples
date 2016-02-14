@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="ASCII"?>
+<system:System xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:composition="http://palladiosimulator.org/PalladioComponentModel/Core/Composition/5.1" xmlns:repository="http://palladiosimulator.org/PalladioComponentModel/Repository/5.1" xmlns:system="http://palladiosimulator.org/PalladioComponentModel/System/5.1" id="_yewBqtMGEeWd5r_sEVECCw" entityName="SoMoX Reverse Engineered System">
+  <assemblyContexts__ComposedStructure id="_yfYTwNMGEeWd5r_sEVECCw" entityName="&lt;PC#1 eu.cloudscale.examples.minimal.app.Application>">
+    <encapsulatedComponent__AssemblyContext xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_yewos9MGEeWd5r_sEVECCw"/>
+  </assemblyContexts__ComposedStructure>
+  <assemblyContexts__ComposedStructure id="_yfYTxNMGEeWd5r_sEVECCw" entityName="&lt;PC#2 eu.cloudscale.examples.minimal.app.problems.EMA>">
+    <encapsulatedComponent__AssemblyContext xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_ye1hM9MGEeWd5r_sEVECCw"/>
+  </assemblyContexts__ComposedStructure>
+  <assemblyContexts__ComposedStructure id="_yfYTyNMGEeWd5r_sEVECCw" entityName="&lt;PC#3 eu.cloudscale.examples.minimal.app.problems.OK>">
+    <encapsulatedComponent__AssemblyContext xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_ye7n1NMGEeWd5r_sEVECCw"/>
+  </assemblyContexts__ComposedStructure>
+  <assemblyContexts__ComposedStructure id="_yfYTzNMGEeWd5r_sEVECCw" entityName="&lt;PC#4 eu.cloudscale.examples.minimal.app.problems.OLB>">
+    <encapsulatedComponent__AssemblyContext xsi:type="repository:BasicComponent" href="internal_architecture_model.repository#_ye818dMGEeWd5r_sEVECCw"/>
+  </assemblyContexts__ComposedStructure>
+  <connectors__ComposedStructure xsi:type="composition:ProvidedDelegationConnector" id="_yfYTw9MGEeWd5r_sEVECCw" entityName="Iminimal.app.Application" outerProvidedRole_ProvidedDelegationConnector="_yfYTwtMGEeWd5r_sEVECCw" assemblyContext_ProvidedDelegationConnector="_yfYTwNMGEeWd5r_sEVECCw">
+    <innerProvidedRole_ProvidedDelegationConnector href="internal_architecture_model.repository#_ye06ItMGEeWd5r_sEVECCw"/>
+  </connectors__ComposedStructure>
+  <connectors__ComposedStructure xsi:type="composition:ProvidedDelegationConnector" id="_yfYTx9MGEeWd5r_sEVECCw" entityName="Iapp.problems.EMA" outerProvidedRole_ProvidedDelegationConnector="_yfYTxtMGEeWd5r_sEVECCw" assemblyContext_ProvidedDelegationConnector="_yfYTxNMGEeWd5r_sEVECCw">
+    <innerProvidedRole_ProvidedDelegationConnector href="internal_architecture_model.repository#_ye7n0dMGEeWd5r_sEVECCw"/>
+  </connectors__ComposedStructure>
+  <connectors__ComposedStructure xsi:type="composition:ProvidedDelegationConnector" id="_yfYTy9MGEeWd5r_sEVECCw" entityName="Iapp.problems.OK" outerProvidedRole_ProvidedDelegationConnector="_yfYTytMGEeWd5r_sEVECCw" assemblyContext_ProvidedDelegationConnector="_yfYTyNMGEeWd5r_sEVECCw">
+    <innerProvidedRole_ProvidedDelegationConnector href="internal_architecture_model.repository#_ye8O4dMGEeWd5r_sEVECCw"/>
+  </connectors__ComposedStructure>
+  <connectors__ComposedStructure xsi:type="composition:ProvidedDelegationConnector" id="_yfYTz9MGEeWd5r_sEVECCw" entityName="Iapp.problems.OLB" outerProvidedRole_ProvidedDelegationConnector="_yfYTztMGEeWd5r_sEVECCw" assemblyContext_ProvidedDelegationConnector="_yfYTzNMGEeWd5r_sEVECCw">
+    <innerProvidedRole_ProvidedDelegationConnector href="internal_architecture_model.repository#_ye-rI9MGEeWd5r_sEVECCw"/>
+  </connectors__ComposedStructure>
+  <connectors__ComposedStructure xsi:type="composition:AssemblyConnector" id="_yfYT0NMGEeWd5r_sEVECCw" entityName="Assembly Connector from &lt;PC#1 eu.cloudscale.examples.minimal.app.Application> to &lt;PC#4 eu.cloudscale.examples.minimal.app.problems.OLB>" requiringAssemblyContext_AssemblyConnector="_yfYTwNMGEeWd5r_sEVECCw" providingAssemblyContext_AssemblyConnector="_yfYTzNMGEeWd5r_sEVECCw">
+    <providedRole_AssemblyConnector href="internal_architecture_model.repository#_ye-rI9MGEeWd5r_sEVECCw"/>
+    <requiredRole_AssemblyConnector href="internal_architecture_model.repository#_yfQ_ANMGEeWd5r_sEVECCw"/>
+  </connectors__ComposedStructure>
+  <connectors__ComposedStructure xsi:type="composition:AssemblyConnector" id="_yfYT0dMGEeWd5r_sEVECCw" entityName="Assembly Connector from &lt;PC#1 eu.cloudscale.examples.minimal.app.Application> to &lt;PC#2 eu.cloudscale.examples.minimal.app.problems.EMA>" requiringAssemblyContext_AssemblyConnector="_yfYTwNMGEeWd5r_sEVECCw" providingAssemblyContext_AssemblyConnector="_yfYTxNMGEeWd5r_sEVECCw">
+    <providedRole_AssemblyConnector href="internal_architecture_model.repository#_ye7n0dMGEeWd5r_sEVECCw"/>
+    <requiredRole_AssemblyConnector href="internal_architecture_model.repository#_yfQ_AdMGEeWd5r_sEVECCw"/>
+  </connectors__ComposedStructure>
+  <connectors__ComposedStructure xsi:type="composition:AssemblyConnector" id="_yfYT0tMGEeWd5r_sEVECCw" entityName="Assembly Connector from &lt;PC#1 eu.cloudscale.examples.minimal.app.Application> to &lt;PC#3 eu.cloudscale.examples.minimal.app.problems.OK>" requiringAssemblyContext_AssemblyConnector="_yfYTwNMGEeWd5r_sEVECCw" providingAssemblyContext_AssemblyConnector="_yfYTyNMGEeWd5r_sEVECCw">
+    <providedRole_AssemblyConnector href="internal_architecture_model.repository#_ye8O4dMGEeWd5r_sEVECCw"/>
+    <requiredRole_AssemblyConnector href="internal_architecture_model.repository#_yfQ_AtMGEeWd5r_sEVECCw"/>
+  </connectors__ComposedStructure>
+  <connectors__ComposedStructure xsi:type="composition:AssemblyConnector" id="_yfYT09MGEeWd5r_sEVECCw" entityName="Assembly Connector from &lt;PC#2 eu.cloudscale.examples.minimal.app.problems.EMA> to &lt;PC#3 eu.cloudscale.examples.minimal.app.problems.OK>" requiringAssemblyContext_AssemblyConnector="_yfYTxNMGEeWd5r_sEVECCw" providingAssemblyContext_AssemblyConnector="_yfYTyNMGEeWd5r_sEVECCw">
+    <providedRole_AssemblyConnector href="internal_architecture_model.repository#_ye8O4dMGEeWd5r_sEVECCw"/>
+    <requiredRole_AssemblyConnector href="internal_architecture_model.repository#_yfRmENMGEeWd5r_sEVECCw"/>
+  </connectors__ComposedStructure>
+  <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="_yfYTwtMGEeWd5r_sEVECCw" entityName="Application (prov)(sys)">
+    <providedInterface__OperationProvidedRole href="internal_architecture_model.repository#_ye0TENMGEeWd5r_sEVECCw"/>
+  </providedRoles_InterfaceProvidingEntity>
+  <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="_yfYTxtMGEeWd5r_sEVECCw" entityName="EMA (prov)(sys)">
+    <providedInterface__OperationProvidedRole href="internal_architecture_model.repository#_ye7AwNMGEeWd5r_sEVECCw"/>
+  </providedRoles_InterfaceProvidingEntity>
+  <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="_yfYTytMGEeWd5r_sEVECCw" entityName="OK (prov)(sys)">
+    <providedInterface__OperationProvidedRole href="internal_architecture_model.repository#_ye7n1dMGEeWd5r_sEVECCw"/>
+  </providedRoles_InterfaceProvidingEntity>
+  <providedRoles_InterfaceProvidingEntity xsi:type="repository:OperationProvidedRole" id="_yfYTztMGEeWd5r_sEVECCw" entityName="OLB (prov)(sys)">
+    <providedInterface__OperationProvidedRole href="internal_architecture_model.repository#_ye9dANMGEeWd5r_sEVECCw"/>
+  </providedRoles_InterfaceProvidingEntity>
+</system:System>

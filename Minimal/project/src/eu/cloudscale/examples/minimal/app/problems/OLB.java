@@ -40,13 +40,11 @@ public final class OLB {
 	/**
 	 * Method leading to a One Lane Bridge.
 	 */
-	public void call() {
-		synchronized(this) {
-			try {
-				Thread.sleep(TIME_TO_SLEEP);
-			} catch (final InterruptedException e) {
-				throw new RuntimeException(e);
-			}
+	public synchronized void call() {
+		try {
+			Thread.sleep(TIME_TO_SLEEP);
+		} catch (final InterruptedException e) {
+			throw new RuntimeException(e);
 		}
 	}
 }

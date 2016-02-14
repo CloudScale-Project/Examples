@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment/>
+<entry key="last_result">../../Results/Alternative_2016-02-14_11-36-58</entry>
+<entry key="last_run">1455446218335</entry>
+<entry key="catalog">catalog.psc</entry>
+<entry key="modified">1455446218338</entry>
+<entry key="name">Basic configuration</entry>
+<entry key="input_alternative">../../Input/Alternative_2016-02-14_11-36-50</entry>
+<entry key="engines_ecore">catalog.psc.ecore</entry>
+<entry key="created">1455446210703</entry>
+</properties>
