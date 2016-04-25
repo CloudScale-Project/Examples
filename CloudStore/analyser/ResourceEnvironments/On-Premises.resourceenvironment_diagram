@@ -157,7 +157,7 @@
     <layoutConstraint xmi:type="notation:Bounds" xmi:id="_29_lIXvHEeWOqY570KuQYg" x="812" y="356"/>
   </children>
   <styles xmi:type="notation:DiagramStyle" xmi:id="_u3yrMaDpEeKjDcfkNgs1Gg"/>
-  <element xmi:type="resourceenvironment:ResourceEnvironment" href="On-Premises.resourceenvironment#/"/>
+  <element xmi:type="resourceenvironment:ResourceEnvironment" href="On-Premises.resourceenvironment#/0"/>
   <edges xmi:type="notation:Connector" xmi:id="_7L_nwKDpEeKjDcfkNgs1Gg" type="4003" source="_6BC3kKDpEeKjDcfkNgs1Gg" target="_1gv8MKDpEeKjDcfkNgs1Gg">
     <styles xmi:type="notation:FontStyle" xmi:id="_7L_nwaDpEeKjDcfkNgs1Gg" fontName="Segoe UI"/>
     <element xsi:nil="true"/>
