@@ -40,7 +40,7 @@
     <dependency>
       <groupId>org.spotter</groupId>
       <artifactId>org.spotter.core</artifactId>
-      <version>${spotter.version}</version>
+      <version>1.0.1-SNAPSHOT</version>
     </dependency>
     <dependency>
       <groupId>org.spotter.ext</groupId>

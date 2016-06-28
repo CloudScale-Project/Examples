@@ -24,6 +24,7 @@ import javax.ws.rs.core.MediaType;
 
 import eu.cloudscale.examples.minimal.app.problems.OK;
 import eu.cloudscale.examples.minimal.app.problems.OLB;
+import eu.cloudscale.examples.minimal.app.problems.EMA;
 
 /**
  * Dummy Application.
@@ -44,8 +45,21 @@ public class Application {
 	@Produces(MediaType.APPLICATION_JSON)
 	public String testOLB() {
 		System.out.printf("[%tT] %s", Calendar.getInstance(), "demo/testOLB called\n");
-		OLB.getInstnace().call();
+		OLB.getInstance().call();
 		return "Hello from OLB Test Method!";
+	}
+
+	/**
+	 *
+	 * @return hello string
+	 */
+	@GET
+	@Path("testEMA")
+	@Produces(MediaType.APPLICATION_JSON)
+	public String testEMA() {
+		System.out.printf("[%tT] %s", Calendar.getInstance(), "demo/testEMA called\n");
+		EMA.getInstance().call();
+		return "Hello from EMA Test Method!";
 	}
 
 	/**
@@ -57,7 +71,7 @@ public class Application {
 	@Produces(MediaType.APPLICATION_JSON)
 	public String testNoProblem() {
 		System.out.printf("[%tT] %s", Calendar.getInstance(), "demo/testOK called\n");
-		OK.getInstnace().call();
+		OK.getInstance().call();
 		return "Hello from OK Test Method!";
 	}
 }

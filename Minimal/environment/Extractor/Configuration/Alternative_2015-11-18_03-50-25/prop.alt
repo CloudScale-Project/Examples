@@ -2,10 +2,12 @@
 <!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
 <properties>
 <comment/>
-<entry key="last_run">1447858290244</entry>
-<entry key="last_result">Extractor/Results/Alternative_2015-11-18_03-51-29</entry>
+<entry key="last_run">1455446181760</entry>
+<entry key="last_result">../../Results/Alternative_2016-02-14_11-36-21</entry>
 <entry key="name">Basic configuration</entry>
-<entry key="modified">1447858290264</entry>
+<entry key="modified">1455446181777</entry>
+<entry key="org.somox.clusteringThresholdMin.Merge">0.8</entry>
+<entry key="org.somox.clusteringThresholdMin.Compose">0.99</entry>
 <entry key="created">1447858225073</entry>
 <entry key="input_alternative">Extractor/Input/Alternative_2015-11-18_03-50-25</entry>
 </properties>

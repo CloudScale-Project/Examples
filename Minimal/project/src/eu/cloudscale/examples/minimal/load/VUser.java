@@ -56,6 +56,10 @@ public class VUser implements ISimpleVUser {
 			webResource.path("demo").path("testOLB").accept(MediaType.APPLICATION_JSON).get(String.class);
 			Thread.sleep(getNextThinkTime());
 
+			// call EMA service
+			webResource.path("demo").path("testEMA").accept(MediaType.APPLICATION_JSON).get(String.class);
+			Thread.sleep(getNextThinkTime());
+			
 			// call Fibonacci service
 			webResource.path("demo").path("testOK").accept(MediaType.APPLICATION_JSON).get(String.class);
 			Thread.sleep(getNextThinkTime());

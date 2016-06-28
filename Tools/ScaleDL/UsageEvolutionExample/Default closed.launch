@@ -2,6 +2,7 @@
 <launchConfiguration type="de.upb.pcm.interpreter.SimuLizarLaunching">
 <stringAttribute key="EDP2RepositoryID" value="_u8ynkPP7EeSKEJfHAsBIUA"/>
 <stringAttribute key="accuracyQualityAnnotationFile" value=""/>
+<stringAttribute key="actionModelFile" value="platform:/plugin/org.palladiosimulator.simulizar.action.repository/model/repository.actions"/>
 <stringAttribute key="allocationFile" value="platform:/resource/UsageEvolutionExample/default.allocation"/>
 <booleanAttribute key="clear" value="true"/>
 <stringAttribute key="confidenceBatchSize" value="200"/>
@@ -30,11 +31,13 @@
 <stringAttribute key="persistenceFramework" value="Experiment Data Persistency &amp; Presentation (EDP2)"/>
 <stringAttribute key="pmsFile" value="platform:/resource/UsageEvolutionExample/closedwl_default.pms"/>
 <stringAttribute key="reconfigurationRulesFolder" value=""/>
+<booleanAttribute key="reliability.simulateFailures" value="true"/>
 <stringAttribute key="serviceLevelObjectiveRepositoryFile" value=""/>
 <stringAttribute key="simTime" value="10000"/>
 <booleanAttribute key="simulateAccuracy" value="false"/>
 <booleanAttribute key="simulateFailures" value="false"/>
 <booleanAttribute key="simulateLinkingResources" value="false"/>
+<booleanAttribute key="simulateThroughputOfLinkingResources" value="true"/>
 <stringAttribute key="simulatorId" value="de.uka.ipd.sdq.codegen.simucontroller.simucom"/>
 <stringAttribute key="stepwidth" value=""/>
 <stringAttribute key="usageEvolutionFile" value="platform:/resource/UsageEvolutionExample/default_closed.usageevolution"/>

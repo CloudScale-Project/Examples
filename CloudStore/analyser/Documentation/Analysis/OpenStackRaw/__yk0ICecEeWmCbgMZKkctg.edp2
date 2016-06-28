@@ -502,244 +502,244 @@
   </measuringTypes>
   <measuringTypes id="_OdanUCsTEeWyaY13uo2tMg" experimentSettings="__yn3cCecEeWmCbgMZKkctg">
     <metric xsi:type="metricspec:MetricSetDescription" href="pathmap://METRIC_SPEC_MODELS/commonMetrics.metricspec#_1dsBAeJEEeO6l86uYUhhyw"/>
-    <measuringPoint xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" href="platform:/resource/CloudStore-Analyser/CloudStore.measuringpoint#//@measuringPoints.28"/>
+    <measuringPoint xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" href="../../../CloudStore.measuringpoint#//@measuringPoints.28"/>
   </measuringTypes>
   <measuringTypes id="_OdccgCsTEeWyaY13uo2tMg" experimentSettings="__yn3cCecEeWmCbgMZKkctg">
     <metric xsi:type="metricspec:MetricSetDescription" href="pathmap://METRIC_SPEC_MODELS/commonMetrics.metricspec#_1dsBAeJEEeO6l86uYUhhyw"/>
-    <measuringPoint xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" href="platform:/resource/CloudStore-Analyser/CloudStore.measuringpoint#//@measuringPoints.30"/>
+    <measuringPoint xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" href="../../../CloudStore.measuringpoint#//@measuringPoints.30"/>
   </measuringTypes>
   <measuringTypes id="_OdeRsCsTEeWyaY13uo2tMg" experimentSettings="__yn3cCecEeWmCbgMZKkctg">
     <metric xsi:type="metricspec:MetricSetDescription" href="pathmap://METRIC_SPEC_MODELS/commonMetrics.metricspec#_1dsBAeJEEeO6l86uYUhhyw"/>
-    <measuringPoint xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" href="platform:/resource/CloudStore-Analyser/CloudStore.measuringpoint#//@measuringPoints.32"/>
+    <measuringPoint xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" href="../../../CloudStore.measuringpoint#//@measuringPoints.32"/>
   </measuringTypes>
   <measuringTypes id="_OdgG4CsTEeWyaY13uo2tMg" experimentSettings="__yn3cCecEeWmCbgMZKkctg">
     <metric xsi:type="metricspec:MetricSetDescription" href="pathmap://METRIC_SPEC_MODELS/commonMetrics.metricspec#_mZb3MdoLEeO-WvSDaR6unQ"/>
-    <measuringPoint xsi:type="pcmmeasuringpoint:UsageScenarioMeasuringPoint" href="platform:/resource/CloudStore-Analyser/CloudStore.measuringpoint#//@measuringPoints.0"/>
+    <measuringPoint xsi:type="pcmmeasuringpoint:UsageScenarioMeasuringPoint" href="../../../CloudStore.measuringpoint#//@measuringPoints.0"/>
   </measuringTypes>
   <measuringTypes id="_Odh8ECsTEeWyaY13uo2tMg" experimentSettings="__yn3cCecEeWmCbgMZKkctg">
     <metric xsi:type="metricspec:MetricSetDescription" href="pathmap://METRIC_SPEC_MODELS/commonMetrics.metricspec#_mZb3MdoLEeO-WvSDaR6unQ"/>
-    <measuringPoint xsi:type="pcmmeasuringpoint:SystemOperationMeasuringPoint" href="platform:/resource/CloudStore-Analyser/CloudStore.measuringpoint#//@measuringPoints.4"/>
+    <measuringPoint xsi:type="pcmmeasuringpoint:SystemOperationMeasuringPoint" href="../../../CloudStore.measuringpoint#//@measuringPoints.4"/>
   </measuringTypes>
   <measuringTypes id="_OdjKMCsTEeWyaY13uo2tMg" experimentSettings="__yn3cCecEeWmCbgMZKkctg">
     <metric xsi:type="metricspec:MetricSetDescription" href="pathmap://METRIC_SPEC_MODELS/commonMetrics.metricspec#_mZb3MdoLEeO-WvSDaR6unQ"/>
-    <measuringPoint xsi:type="pcmmeasuringpoint:SystemOperationMeasuringPoint" href="platform:/resource/CloudStore-Analyser/CloudStore.measuringpoint#//@measuringPoints.11"/>
+    <measuringPoint xsi:type="pcmmeasuringpoint:SystemOperationMeasuringPoint" href="../../../CloudStore.measuringpoint#//@measuringPoints.11"/>
   </measuringTypes>
   <measuringTypes id="_Odk_YCsTEeWyaY13uo2tMg" experimentSettings="__yn3cCecEeWmCbgMZKkctg">
     <metric xsi:type="metricspec:MetricSetDescription" href="pathmap://METRIC_SPEC_MODELS/commonMetrics.metricspec#_mZb3MdoLEeO-WvSDaR6unQ"/>
-    <measuringPoint xsi:type="pcmmeasuringpoint:SystemOperationMeasuringPoint" href="platform:/resource/CloudStore-Analyser/CloudStore.measuringpoint#//@measuringPoints.5"/>
+    <measuringPoint xsi:type="pcmmeasuringpoint:SystemOperationMeasuringPoint" href="../../../CloudStore.measuringpoint#//@measuringPoints.5"/>
   </measuringTypes>
   <measuringTypes id="_Odm0kCsTEeWyaY13uo2tMg" experimentSettings="__yn3cCecEeWmCbgMZKkctg">
     <metric xsi:type="metricspec:MetricSetDescription" href="pathmap://METRIC_SPEC_MODELS/commonMetrics.metricspec#_mZb3MdoLEeO-WvSDaR6unQ"/>
-    <measuringPoint xsi:type="pcmmeasuringpoint:SystemOperationMeasuringPoint" href="platform:/resource/CloudStore-Analyser/CloudStore.measuringpoint#//@measuringPoints.10"/>
+    <measuringPoint xsi:type="pcmmeasuringpoint:SystemOperationMeasuringPoint" href="../../../CloudStore.measuringpoint#//@measuringPoints.10"/>
   </measuringTypes>
   <measuringTypes id="_OdoCsCsTEeWyaY13uo2tMg" experimentSettings="__yn3cCecEeWmCbgMZKkctg">
     <metric xsi:type="metricspec:MetricSetDescription" href="pathmap://METRIC_SPEC_MODELS/commonMetrics.metricspec#_mZb3MdoLEeO-WvSDaR6unQ"/>
-    <measuringPoint xsi:type="pcmmeasuringpoint:SystemOperationMeasuringPoint" href="platform:/resource/CloudStore-Analyser/CloudStore.measuringpoint#//@measuringPoints.9"/>
+    <measuringPoint xsi:type="pcmmeasuringpoint:SystemOperationMeasuringPoint" href="../../../CloudStore.measuringpoint#//@measuringPoints.9"/>
   </measuringTypes>
   <measuringTypes id="_Odqe8CsTEeWyaY13uo2tMg" experimentSettings="__yn3cCecEeWmCbgMZKkctg">
     <metric xsi:type="metricspec:MetricSetDescription" href="pathmap://METRIC_SPEC_MODELS/commonMetrics.metricspec#_mZb3MdoLEeO-WvSDaR6unQ"/>
-    <measuringPoint xsi:type="pcmmeasuringpoint:SystemOperationMeasuringPoint" href="platform:/resource/CloudStore-Analyser/CloudStore.measuringpoint#//@measuringPoints.6"/>
+    <measuringPoint xsi:type="pcmmeasuringpoint:SystemOperationMeasuringPoint" href="../../../CloudStore.measuringpoint#//@measuringPoints.6"/>
   </measuringTypes>
   <measuringTypes id="_OdrtECsTEeWyaY13uo2tMg" experimentSettings="__yn3cCecEeWmCbgMZKkctg">
     <metric xsi:type="metricspec:MetricSetDescription" href="pathmap://METRIC_SPEC_MODELS/commonMetrics.metricspec#_mZb3MdoLEeO-WvSDaR6unQ"/>
-    <measuringPoint xsi:type="pcmmeasuringpoint:SystemOperationMeasuringPoint" href="platform:/resource/CloudStore-Analyser/CloudStore.measuringpoint#//@measuringPoints.8"/>
+    <measuringPoint xsi:type="pcmmeasuringpoint:SystemOperationMeasuringPoint" href="../../../CloudStore.measuringpoint#//@measuringPoints.8"/>
   </measuringTypes>
   <measuringTypes id="_OdtiQCsTEeWyaY13uo2tMg" experimentSettings="__yn3cCecEeWmCbgMZKkctg">
     <metric xsi:type="metricspec:MetricSetDescription" href="pathmap://METRIC_SPEC_MODELS/commonMetrics.metricspec#_mZb3MdoLEeO-WvSDaR6unQ"/>
-    <measuringPoint xsi:type="pcmmeasuringpoint:SystemOperationMeasuringPoint" href="platform:/resource/CloudStore-Analyser/CloudStore.measuringpoint#//@measuringPoints.7"/>
+    <measuringPoint xsi:type="pcmmeasuringpoint:SystemOperationMeasuringPoint" href="../../../CloudStore.measuringpoint#//@measuringPoints.7"/>
   </measuringTypes>
   <measuringTypes id="_OduwYCsTEeWyaY13uo2tMg" experimentSettings="__yn3cCecEeWmCbgMZKkctg">
     <metric xsi:type="metricspec:MetricSetDescription" href="pathmap://METRIC_SPEC_MODELS/commonMetrics.metricspec#_mZb3MdoLEeO-WvSDaR6unQ"/>
-    <measuringPoint xsi:type="pcmmeasuringpoint:SystemOperationMeasuringPoint" href="platform:/resource/CloudStore-Analyser/CloudStore.measuringpoint#//@measuringPoints.19"/>
+    <measuringPoint xsi:type="pcmmeasuringpoint:SystemOperationMeasuringPoint" href="../../../CloudStore.measuringpoint#//@measuringPoints.19"/>
   </measuringTypes>
   <measuringTypes id="_OdwlkCsTEeWyaY13uo2tMg" experimentSettings="__yn3cCecEeWmCbgMZKkctg">
     <metric xsi:type="metricspec:MetricSetDescription" href="pathmap://METRIC_SPEC_MODELS/commonMetrics.metricspec#_mZb3MdoLEeO-WvSDaR6unQ"/>
-    <measuringPoint xsi:type="pcmmeasuringpoint:SystemOperationMeasuringPoint" href="platform:/resource/CloudStore-Analyser/CloudStore.measuringpoint#//@measuringPoints.18"/>
+    <measuringPoint xsi:type="pcmmeasuringpoint:SystemOperationMeasuringPoint" href="../../../CloudStore.measuringpoint#//@measuringPoints.18"/>
   </measuringTypes>
   <measuringTypes id="_OdxzsCsTEeWyaY13uo2tMg" experimentSettings="__yn3cCecEeWmCbgMZKkctg">
     <metric xsi:type="metricspec:MetricSetDescription" href="pathmap://METRIC_SPEC_MODELS/commonMetrics.metricspec#_mZb3MdoLEeO-WvSDaR6unQ"/>
-    <measuringPoint xsi:type="pcmmeasuringpoint:SystemOperationMeasuringPoint" href="platform:/resource/CloudStore-Analyser/CloudStore.measuringpoint#//@measuringPoints.16"/>
+    <measuringPoint xsi:type="pcmmeasuringpoint:SystemOperationMeasuringPoint" href="../../../CloudStore.measuringpoint#//@measuringPoints.16"/>
   </measuringTypes>
   <measuringTypes id="_Odzo4CsTEeWyaY13uo2tMg" experimentSettings="__yn3cCecEeWmCbgMZKkctg">
     <metric xsi:type="metricspec:MetricSetDescription" href="pathmap://METRIC_SPEC_MODELS/commonMetrics.metricspec#_mZb3MdoLEeO-WvSDaR6unQ"/>
-    <measuringPoint xsi:type="pcmmeasuringpoint:SystemOperationMeasuringPoint" href="platform:/resource/CloudStore-Analyser/CloudStore.measuringpoint#//@measuringPoints.13"/>
+    <measuringPoint xsi:type="pcmmeasuringpoint:SystemOperationMeasuringPoint" href="../../../CloudStore.measuringpoint#//@measuringPoints.13"/>
   </measuringTypes>
   <measuringTypes id="_Od1eECsTEeWyaY13uo2tMg" experimentSettings="__yn3cCecEeWmCbgMZKkctg">
     <metric xsi:type="metricspec:MetricSetDescription" href="pathmap://METRIC_SPEC_MODELS/commonMetrics.metricspec#_mZb3MdoLEeO-WvSDaR6unQ"/>
-    <measuringPoint xsi:type="pcmmeasuringpoint:SystemOperationMeasuringPoint" href="platform:/resource/CloudStore-Analyser/CloudStore.measuringpoint#//@measuringPoints.15"/>
+    <measuringPoint xsi:type="pcmmeasuringpoint:SystemOperationMeasuringPoint" href="../../../CloudStore.measuringpoint#//@measuringPoints.15"/>
   </measuringTypes>
   <measuringTypes id="_Od3TQCsTEeWyaY13uo2tMg" experimentSettings="__yn3cCecEeWmCbgMZKkctg">
     <metric xsi:type="metricspec:MetricSetDescription" href="pathmap://METRIC_SPEC_MODELS/commonMetrics.metricspec#_mZb3MdoLEeO-WvSDaR6unQ"/>
-    <measuringPoint xsi:type="pcmmeasuringpoint:SystemOperationMeasuringPoint" href="platform:/resource/CloudStore-Analyser/CloudStore.measuringpoint#//@measuringPoints.14"/>
+    <measuringPoint xsi:type="pcmmeasuringpoint:SystemOperationMeasuringPoint" href="../../../CloudStore.measuringpoint#//@measuringPoints.14"/>
   </measuringTypes>
   <measuringTypes id="_Od5IcCsTEeWyaY13uo2tMg" experimentSettings="__yn3cCecEeWmCbgMZKkctg">
     <metric xsi:type="metricspec:MetricSetDescription" href="pathmap://METRIC_SPEC_MODELS/commonMetrics.metricspec#_mZb3MdoLEeO-WvSDaR6unQ"/>
-    <measuringPoint xsi:type="pcmmeasuringpoint:SystemOperationMeasuringPoint" href="platform:/resource/CloudStore-Analyser/CloudStore.measuringpoint#//@measuringPoints.17"/>
+    <measuringPoint xsi:type="pcmmeasuringpoint:SystemOperationMeasuringPoint" href="../../../CloudStore.measuringpoint#//@measuringPoints.17"/>
   </measuringTypes>
   <measuringTypes id="_Od6WkCsTEeWyaY13uo2tMg" experimentSettings="__yn3cCecEeWmCbgMZKkctg">
     <metric xsi:type="metricspec:MetricSetDescription" href="pathmap://METRIC_SPEC_MODELS/commonMetrics.metricspec#_mZb3MdoLEeO-WvSDaR6unQ"/>
-    <measuringPoint xsi:type="pcmmeasuringpoint:SystemOperationMeasuringPoint" href="platform:/resource/CloudStore-Analyser/CloudStore.measuringpoint#//@measuringPoints.12"/>
+    <measuringPoint xsi:type="pcmmeasuringpoint:SystemOperationMeasuringPoint" href="../../../CloudStore.measuringpoint#//@measuringPoints.12"/>
   </measuringTypes>
   <measuringTypes id="_Od8LwCsTEeWyaY13uo2tMg" experimentSettings="__yn3cCecEeWmCbgMZKkctg">
     <metric xsi:type="metricspec:MetricSetDescription" href="pathmap://METRIC_SPEC_MODELS/commonMetrics.metricspec#_mZb3MdoLEeO-WvSDaR6unQ"/>
-    <measuringPoint xsi:type="pcmmeasuringpoint:ExternalCallActionMeasuringPoint" href="platform:/resource/CloudStore-Analyser/CloudStore.measuringpoint#//@measuringPoints.20"/>
+    <measuringPoint xsi:type="pcmmeasuringpoint:ExternalCallActionMeasuringPoint" href="../../../CloudStore.measuringpoint#//@measuringPoints.20"/>
   </measuringTypes>
   <measuringTypes id="_Od9Z4CsTEeWyaY13uo2tMg" experimentSettings="__yn3cCecEeWmCbgMZKkctg">
     <metric xsi:type="metricspec:MetricSetDescription" href="pathmap://METRIC_SPEC_MODELS/commonMetrics.metricspec#_mZb3MdoLEeO-WvSDaR6unQ"/>
-    <measuringPoint xsi:type="pcmmeasuringpoint:ExternalCallActionMeasuringPoint" href="platform:/resource/CloudStore-Analyser/CloudStore.measuringpoint#//@measuringPoints.21"/>
+    <measuringPoint xsi:type="pcmmeasuringpoint:ExternalCallActionMeasuringPoint" href="../../../CloudStore.measuringpoint#//@measuringPoints.21"/>
   </measuringTypes>
   <measuringTypes id="_Od_PECsTEeWyaY13uo2tMg" experimentSettings="__yn3cCecEeWmCbgMZKkctg">
     <metric xsi:type="metricspec:MetricSetDescription" href="pathmap://METRIC_SPEC_MODELS/commonMetrics.metricspec#_mZb3MdoLEeO-WvSDaR6unQ"/>
-    <measuringPoint xsi:type="pcmmeasuringpoint:ExternalCallActionMeasuringPoint" href="platform:/resource/CloudStore-Analyser/CloudStore.measuringpoint#//@measuringPoints.22"/>
+    <measuringPoint xsi:type="pcmmeasuringpoint:ExternalCallActionMeasuringPoint" href="../../../CloudStore.measuringpoint#//@measuringPoints.22"/>
   </measuringTypes>
   <measuringTypes id="_OeF8wCsTEeWyaY13uo2tMg" experimentSettings="__yn3cCecEeWmCbgMZKkctg">
     <metric xsi:type="metricspec:MetricSetDescription" href="pathmap://METRIC_SPEC_MODELS/commonMetrics.metricspec#_mZb3MdoLEeO-WvSDaR6unQ"/>
-    <measuringPoint xsi:type="pcmmeasuringpoint:ExternalCallActionMeasuringPoint" href="platform:/resource/CloudStore-Analyser/CloudStore.measuringpoint#//@measuringPoints.23"/>
+    <measuringPoint xsi:type="pcmmeasuringpoint:ExternalCallActionMeasuringPoint" href="../../../CloudStore.measuringpoint#//@measuringPoints.23"/>
   </measuringTypes>
   <measuringTypes id="_OeHx8CsTEeWyaY13uo2tMg" experimentSettings="__yn3cCecEeWmCbgMZKkctg">
     <metric xsi:type="metricspec:MetricSetDescription" href="pathmap://METRIC_SPEC_MODELS/commonMetrics.metricspec#_mZb3MdoLEeO-WvSDaR6unQ"/>
-    <measuringPoint xsi:type="pcmmeasuringpoint:ExternalCallActionMeasuringPoint" href="platform:/resource/CloudStore-Analyser/CloudStore.measuringpoint#//@measuringPoints.24"/>
+    <measuringPoint xsi:type="pcmmeasuringpoint:ExternalCallActionMeasuringPoint" href="../../../CloudStore.measuringpoint#//@measuringPoints.24"/>
   </measuringTypes>
   <measuringTypes id="_OeJnICsTEeWyaY13uo2tMg" experimentSettings="__yn3cCecEeWmCbgMZKkctg">
     <metric xsi:type="metricspec:MetricSetDescription" href="pathmap://METRIC_SPEC_MODELS/commonMetrics.metricspec#_mZb3MdoLEeO-WvSDaR6unQ"/>
-    <measuringPoint xsi:type="pcmmeasuringpoint:ExternalCallActionMeasuringPoint" href="platform:/resource/CloudStore-Analyser/CloudStore.measuringpoint#//@measuringPoints.25"/>
+    <measuringPoint xsi:type="pcmmeasuringpoint:ExternalCallActionMeasuringPoint" href="../../../CloudStore.measuringpoint#//@measuringPoints.25"/>
   </measuringTypes>
   <measuringPointRepositories id="_brmT4NYkEeSLYeOEPZiDBw">
     <measuringPoints xsi:type="pcmmeasuringpoint:UsageScenarioMeasuringPoint" stringRepresentation="Usage Scenario: BrowsingMix" resourceURIRepresentation="platform:/resource/CloudStore-Analyser/UsageScenarios/BrowsingMix.usagemodel#_ieXlgKDrEeKjDcfkNgs1Gg">
-      <usageScenario href="platform:/resource/CloudStore-Analyser/UsageScenarios/BrowsingMix.usagemodel#_ieXlgKDrEeKjDcfkNgs1Gg"/>
+      <usageScenario href="../../../UsageScenarios/BrowsingMix.usagemodel#_ieXlgKDrEeKjDcfkNgs1Gg"/>
     </measuringPoints>
     <measuringPoints xsi:type="pcmmeasuringpoint:UsageScenarioMeasuringPoint" stringRepresentation="Usage Scenario: HomeInteraction" resourceURIRepresentation="platform:/resource/CloudStore-Analyser/UsageScenarios/HomeInteraction.usagemodel#_urp1sMRhEeKhtIcOUnTHaw">
-      <usageScenario href="platform:/resource/CloudStore-Analyser/UsageScenarios/HomeInteraction.usagemodel#_urp1sMRhEeKhtIcOUnTHaw"/>
+      <usageScenario href="../../../UsageScenarios/HomeInteraction.usagemodel#_urp1sMRhEeKhtIcOUnTHaw"/>
     </measuringPoints>
     <measuringPoints xsi:type="pcmmeasuringpoint:UsageScenarioMeasuringPoint" stringRepresentation="Usage Scenario: OrderingMix" resourceURIRepresentation="platform:/resource/CloudStore-Analyser/UsageScenarios/OrderingMix.usagemodel#_ieXlgKDrEeKjDcfkNgs1Gg">
-      <usageScenario href="platform:/resource/CloudStore-Analyser/UsageScenarios/OrderingMix.usagemodel#_ieXlgKDrEeKjDcfkNgs1Gg"/>
+      <usageScenario href="../../../UsageScenarios/OrderingMix.usagemodel#_ieXlgKDrEeKjDcfkNgs1Gg"/>
     </measuringPoints>
     <measuringPoints xsi:type="pcmmeasuringpoint:UsageScenarioMeasuringPoint" stringRepresentation="Usage Scenario: ShoppingMix" resourceURIRepresentation="platform:/resource/CloudStore-Analyser/UsageScenarios/ShoppingMix.usagemodel#_ieXlgKDrEeKjDcfkNgs1Gg">
-      <usageScenario href="platform:/resource/CloudStore-Analyser/UsageScenarios/ShoppingMix.usagemodel#_ieXlgKDrEeKjDcfkNgs1Gg"/>
+      <usageScenario href="../../../UsageScenarios/ShoppingMix.usagemodel#_ieXlgKDrEeKjDcfkNgs1Gg"/>
     </measuringPoints>
     <measuringPoints xsi:type="pcmmeasuringpoint:SystemOperationMeasuringPoint" stringRepresentation="CloudStore System.Provided_IHomePage.getHome" resourceURIRepresentation="platform:/resource/CloudStore-Analyser/CloudStore.repository#_XUIKcKAWEeKjDcfkNgs1Gg">
-      <role xsi:type="repository:OperationProvidedRole" href="platform:/resource/CloudStore-Analyser/CloudStore.system#_UDLXAKDaEeKjDcfkNgs1Gg"/>
-      <operationSignature href="platform:/resource/CloudStore-Analyser/CloudStore.repository#_XUIKcKAWEeKjDcfkNgs1Gg"/>
-      <system href="platform:/resource/CloudStore-Analyser/CloudStore.system#_JxtuQKDaEeKjDcfkNgs1Gg"/>
+      <role xsi:type="repository:OperationProvidedRole" href="../../../CloudStore.system#_UDLXAKDaEeKjDcfkNgs1Gg"/>
+      <operationSignature href="../../../CloudStore.repository#_XUIKcKAWEeKjDcfkNgs1Gg"/>
+      <system href="../../../CloudStore.system#_JxtuQKDaEeKjDcfkNgs1Gg"/>
     </measuringPoints>
     <measuringPoints xsi:type="pcmmeasuringpoint:SystemOperationMeasuringPoint" stringRepresentation="CloudStore System.Provided_IBookPages.getDetails" resourceURIRepresentation="platform:/resource/CloudStore-Analyser/CloudStore.repository#_ZB9mQKALEeKjDcfkNgs1Gg">
-      <role xsi:type="repository:OperationProvidedRole" href="platform:/resource/CloudStore-Analyser/CloudStore.system#_VVLxcKDaEeKjDcfkNgs1Gg"/>
-      <operationSignature href="platform:/resource/CloudStore-Analyser/CloudStore.repository#_ZB9mQKALEeKjDcfkNgs1Gg"/>
-      <system href="platform:/resource/CloudStore-Analyser/CloudStore.system#_JxtuQKDaEeKjDcfkNgs1Gg"/>
+      <role xsi:type="repository:OperationProvidedRole" href="../../../CloudStore.system#_VVLxcKDaEeKjDcfkNgs1Gg"/>
+      <operationSignature href="../../../CloudStore.repository#_ZB9mQKALEeKjDcfkNgs1Gg"/>
+      <system href="../../../CloudStore.system#_JxtuQKDaEeKjDcfkNgs1Gg"/>
     </measuringPoints>
     <measuringPoints xsi:type="pcmmeasuringpoint:SystemOperationMeasuringPoint" stringRepresentation="CloudStore System.Provided_IBookPages.getUpdatePage" resourceURIRepresentation="platform:/resource/CloudStore-Analyser/CloudStore.repository#_fVW28KALEeKjDcfkNgs1Gg">
-      <role xsi:type="repository:OperationProvidedRole" href="platform:/resource/CloudStore-Analyser/CloudStore.system#_VVLxcKDaEeKjDcfkNgs1Gg"/>
-      <operationSignature href="platform:/resource/CloudStore-Analyser/CloudStore.repository#_fVW28KALEeKjDcfkNgs1Gg"/>
-      <system href="platform:/resource/CloudStore-Analyser/CloudStore.system#_JxtuQKDaEeKjDcfkNgs1Gg"/>
+      <role xsi:type="repository:OperationProvidedRole" href="../../../CloudStore.system#_VVLxcKDaEeKjDcfkNgs1Gg"/>
+      <operationSignature href="../../../CloudStore.repository#_fVW28KALEeKjDcfkNgs1Gg"/>
+      <system href="../../../CloudStore.system#_JxtuQKDaEeKjDcfkNgs1Gg"/>
     </measuringPoints>
     <measuringPoints xsi:type="pcmmeasuringpoint:SystemOperationMeasuringPoint" stringRepresentation="CloudStore System.Provided_IBookPages.update" resourceURIRepresentation="platform:/resource/CloudStore-Analyser/CloudStore.repository#_k8uIEKALEeKjDcfkNgs1Gg">
-      <role xsi:type="repository:OperationProvidedRole" href="platform:/resource/CloudStore-Analyser/CloudStore.system#_VVLxcKDaEeKjDcfkNgs1Gg"/>
-      <operationSignature href="platform:/resource/CloudStore-Analyser/CloudStore.repository#_k8uIEKALEeKjDcfkNgs1Gg"/>
-      <system href="platform:/resource/CloudStore-Analyser/CloudStore.system#_JxtuQKDaEeKjDcfkNgs1Gg"/>
+      <role xsi:type="repository:OperationProvidedRole" href="../../../CloudStore.system#_VVLxcKDaEeKjDcfkNgs1Gg"/>
+      <operationSignature href="../../../CloudStore.repository#_k8uIEKALEeKjDcfkNgs1Gg"/>
+      <system href="../../../CloudStore.system#_JxtuQKDaEeKjDcfkNgs1Gg"/>
     </measuringPoints>
     <measuringPoints xsi:type="pcmmeasuringpoint:SystemOperationMeasuringPoint" stringRepresentation="CloudStore System.Provided_IBookPages.search" resourceURIRepresentation="platform:/resource/CloudStore-Analyser/CloudStore.repository#_EjR0MKAOEeKjDcfkNgs1Gg">
-      <role xsi:type="repository:OperationProvidedRole" href="platform:/resource/CloudStore-Analyser/CloudStore.system#_VVLxcKDaEeKjDcfkNgs1Gg"/>
-      <operationSignature href="platform:/resource/CloudStore-Analyser/CloudStore.repository#_EjR0MKAOEeKjDcfkNgs1Gg"/>
-      <system href="platform:/resource/CloudStore-Analyser/CloudStore.system#_JxtuQKDaEeKjDcfkNgs1Gg"/>
+      <role xsi:type="repository:OperationProvidedRole" href="../../../CloudStore.system#_VVLxcKDaEeKjDcfkNgs1Gg"/>
+      <operationSignature href="../../../CloudStore.repository#_EjR0MKAOEeKjDcfkNgs1Gg"/>
+      <system href="../../../CloudStore.system#_JxtuQKDaEeKjDcfkNgs1Gg"/>
     </measuringPoints>
     <measuringPoints xsi:type="pcmmeasuringpoint:SystemOperationMeasuringPoint" stringRepresentation="CloudStore System.Provided_IBookPages.getSearchPage" resourceURIRepresentation="platform:/resource/CloudStore-Analyser/CloudStore.repository#_Q8Fj8KAOEeKjDcfkNgs1Gg">
-      <role xsi:type="repository:OperationProvidedRole" href="platform:/resource/CloudStore-Analyser/CloudStore.system#_VVLxcKDaEeKjDcfkNgs1Gg"/>
-      <operationSignature href="platform:/resource/CloudStore-Analyser/CloudStore.repository#_Q8Fj8KAOEeKjDcfkNgs1Gg"/>
-      <system href="platform:/resource/CloudStore-Analyser/CloudStore.system#_JxtuQKDaEeKjDcfkNgs1Gg"/>
+      <role xsi:type="repository:OperationProvidedRole" href="../../../CloudStore.system#_VVLxcKDaEeKjDcfkNgs1Gg"/>
+      <operationSignature href="../../../CloudStore.repository#_Q8Fj8KAOEeKjDcfkNgs1Gg"/>
+      <system href="../../../CloudStore.system#_JxtuQKDaEeKjDcfkNgs1Gg"/>
     </measuringPoints>
     <measuringPoints xsi:type="pcmmeasuringpoint:SystemOperationMeasuringPoint" stringRepresentation="CloudStore System.Provided_IBookPages.getNewProducts" resourceURIRepresentation="platform:/resource/CloudStore-Analyser/CloudStore.repository#_vAVzAKAUEeKjDcfkNgs1Gg">
-      <role xsi:type="repository:OperationProvidedRole" href="platform:/resource/CloudStore-Analyser/CloudStore.system#_VVLxcKDaEeKjDcfkNgs1Gg"/>
-      <operationSignature href="platform:/resource/CloudStore-Analyser/CloudStore.repository#_vAVzAKAUEeKjDcfkNgs1Gg"/>
-      <system href="platform:/resource/CloudStore-Analyser/CloudStore.system#_JxtuQKDaEeKjDcfkNgs1Gg"/>
+      <role xsi:type="repository:OperationProvidedRole" href="../../../CloudStore.system#_VVLxcKDaEeKjDcfkNgs1Gg"/>
+      <operationSignature href="../../../CloudStore.repository#_vAVzAKAUEeKjDcfkNgs1Gg"/>
+      <system href="../../../CloudStore.system#_JxtuQKDaEeKjDcfkNgs1Gg"/>
     </measuringPoints>
     <measuringPoints xsi:type="pcmmeasuringpoint:SystemOperationMeasuringPoint" stringRepresentation="CloudStore System.Provided_IBookPages.getBestSellers" resourceURIRepresentation="platform:/resource/CloudStore-Analyser/CloudStore.repository#_CoeQMKAVEeKjDcfkNgs1Gg">
-      <role xsi:type="repository:OperationProvidedRole" href="platform:/resource/CloudStore-Analyser/CloudStore.system#_VVLxcKDaEeKjDcfkNgs1Gg"/>
-      <operationSignature href="platform:/resource/CloudStore-Analyser/CloudStore.repository#_CoeQMKAVEeKjDcfkNgs1Gg"/>
-      <system href="platform:/resource/CloudStore-Analyser/CloudStore.system#_JxtuQKDaEeKjDcfkNgs1Gg"/>
+      <role xsi:type="repository:OperationProvidedRole" href="../../../CloudStore.system#_VVLxcKDaEeKjDcfkNgs1Gg"/>
+      <operationSignature href="../../../CloudStore.repository#_CoeQMKAVEeKjDcfkNgs1Gg"/>
+      <system href="../../../CloudStore.system#_JxtuQKDaEeKjDcfkNgs1Gg"/>
     </measuringPoints>
     <measuringPoints xsi:type="pcmmeasuringpoint:SystemOperationMeasuringPoint" stringRepresentation="CloudStore System.Provided_IShoppingCartPages.getShoppingCartAddItem" resourceURIRepresentation="platform:/resource/CloudStore-Analyser/CloudStore.repository#_h3vVUKAlEeKjDcfkNgs1Gg">
-      <role xsi:type="repository:OperationProvidedRole" href="platform:/resource/CloudStore-Analyser/CloudStore.system#_WV95AKDaEeKjDcfkNgs1Gg"/>
-      <operationSignature href="platform:/resource/CloudStore-Analyser/CloudStore.repository#_h3vVUKAlEeKjDcfkNgs1Gg"/>
-      <system href="platform:/resource/CloudStore-Analyser/CloudStore.system#_JxtuQKDaEeKjDcfkNgs1Gg"/>
+      <role xsi:type="repository:OperationProvidedRole" href="../../../CloudStore.system#_WV95AKDaEeKjDcfkNgs1Gg"/>
+      <operationSignature href="../../../CloudStore.repository#_h3vVUKAlEeKjDcfkNgs1Gg"/>
+      <system href="../../../CloudStore.system#_JxtuQKDaEeKjDcfkNgs1Gg"/>
     </measuringPoints>
     <measuringPoints xsi:type="pcmmeasuringpoint:SystemOperationMeasuringPoint" stringRepresentation="CloudStore System.Provided_IShoppingCartPages.checkout" resourceURIRepresentation="platform:/resource/CloudStore-Analyser/CloudStore.repository#_U_NHMKAmEeKjDcfkNgs1Gg">
-      <role xsi:type="repository:OperationProvidedRole" href="platform:/resource/CloudStore-Analyser/CloudStore.system#_WV95AKDaEeKjDcfkNgs1Gg"/>
-      <operationSignature href="platform:/resource/CloudStore-Analyser/CloudStore.repository#_U_NHMKAmEeKjDcfkNgs1Gg"/>
-      <system href="platform:/resource/CloudStore-Analyser/CloudStore.system#_JxtuQKDaEeKjDcfkNgs1Gg"/>
+      <role xsi:type="repository:OperationProvidedRole" href="../../../CloudStore.system#_WV95AKDaEeKjDcfkNgs1Gg"/>
+      <operationSignature href="../../../CloudStore.repository#_U_NHMKAmEeKjDcfkNgs1Gg"/>
+      <system href="../../../CloudStore.system#_JxtuQKDaEeKjDcfkNgs1Gg"/>
     </measuringPoints>
     <measuringPoints xsi:type="pcmmeasuringpoint:SystemOperationMeasuringPoint" stringRepresentation="CloudStore System.Provided_IShoppingCartPages.checkoutReturningUser" resourceURIRepresentation="platform:/resource/CloudStore-Analyser/CloudStore.repository#_VAJF4KAnEeKjDcfkNgs1Gg">
-      <role xsi:type="repository:OperationProvidedRole" href="platform:/resource/CloudStore-Analyser/CloudStore.system#_WV95AKDaEeKjDcfkNgs1Gg"/>
-      <operationSignature href="platform:/resource/CloudStore-Analyser/CloudStore.repository#_VAJF4KAnEeKjDcfkNgs1Gg"/>
-      <system href="platform:/resource/CloudStore-Analyser/CloudStore.system#_JxtuQKDaEeKjDcfkNgs1Gg"/>
+      <role xsi:type="repository:OperationProvidedRole" href="../../../CloudStore.system#_WV95AKDaEeKjDcfkNgs1Gg"/>
+      <operationSignature href="../../../CloudStore.repository#_VAJF4KAnEeKjDcfkNgs1Gg"/>
+      <system href="../../../CloudStore.system#_JxtuQKDaEeKjDcfkNgs1Gg"/>
     </measuringPoints>
     <measuringPoints xsi:type="pcmmeasuringpoint:SystemOperationMeasuringPoint" stringRepresentation="CloudStore System.Provided_IShoppingCartPages.checkoutNewUser" resourceURIRepresentation="platform:/resource/CloudStore-Analyser/CloudStore.repository#_nTuyAKAnEeKjDcfkNgs1Gg">
-      <role xsi:type="repository:OperationProvidedRole" href="platform:/resource/CloudStore-Analyser/CloudStore.system#_WV95AKDaEeKjDcfkNgs1Gg"/>
-      <operationSignature href="platform:/resource/CloudStore-Analyser/CloudStore.repository#_nTuyAKAnEeKjDcfkNgs1Gg"/>
-      <system href="platform:/resource/CloudStore-Analyser/CloudStore.system#_JxtuQKDaEeKjDcfkNgs1Gg"/>
+      <role xsi:type="repository:OperationProvidedRole" href="../../../CloudStore.system#_WV95AKDaEeKjDcfkNgs1Gg"/>
+      <operationSignature href="../../../CloudStore.repository#_nTuyAKAnEeKjDcfkNgs1Gg"/>
+      <system href="../../../CloudStore.system#_JxtuQKDaEeKjDcfkNgs1Gg"/>
     </measuringPoints>
     <measuringPoints xsi:type="pcmmeasuringpoint:SystemOperationMeasuringPoint" stringRepresentation="CloudStore System.Provided_IShoppingCartPages.buyConfirmation" resourceURIRepresentation="platform:/resource/CloudStore-Analyser/CloudStore.repository#_kXsXUKAqEeKjDcfkNgs1Gg">
-      <role xsi:type="repository:OperationProvidedRole" href="platform:/resource/CloudStore-Analyser/CloudStore.system#_WV95AKDaEeKjDcfkNgs1Gg"/>
-      <operationSignature href="platform:/resource/CloudStore-Analyser/CloudStore.repository#_kXsXUKAqEeKjDcfkNgs1Gg"/>
-      <system href="platform:/resource/CloudStore-Analyser/CloudStore.system#_JxtuQKDaEeKjDcfkNgs1Gg"/>
+      <role xsi:type="repository:OperationProvidedRole" href="../../../CloudStore.system#_WV95AKDaEeKjDcfkNgs1Gg"/>
+      <operationSignature href="../../../CloudStore.repository#_kXsXUKAqEeKjDcfkNgs1Gg"/>
+      <system href="../../../CloudStore.system#_JxtuQKDaEeKjDcfkNgs1Gg"/>
     </measuringPoints>
     <measuringPoints xsi:type="pcmmeasuringpoint:SystemOperationMeasuringPoint" stringRepresentation="CloudStore System.Provided_IShoppingCartPages.getShoppingCart" resourceURIRepresentation="platform:/resource/CloudStore-Analyser/CloudStore.repository#_QZAisKAnEeKjDcfkNgs1Gg">
-      <role xsi:type="repository:OperationProvidedRole" href="platform:/resource/CloudStore-Analyser/CloudStore.system#_WV95AKDaEeKjDcfkNgs1Gg"/>
-      <operationSignature href="platform:/resource/CloudStore-Analyser/CloudStore.repository#_QZAisKAnEeKjDcfkNgs1Gg"/>
-      <system href="platform:/resource/CloudStore-Analyser/CloudStore.system#_JxtuQKDaEeKjDcfkNgs1Gg"/>
+      <role xsi:type="repository:OperationProvidedRole" href="../../../CloudStore.system#_WV95AKDaEeKjDcfkNgs1Gg"/>
+      <operationSignature href="../../../CloudStore.repository#_QZAisKAnEeKjDcfkNgs1Gg"/>
+      <system href="../../../CloudStore.system#_JxtuQKDaEeKjDcfkNgs1Gg"/>
     </measuringPoints>
     <measuringPoints xsi:type="pcmmeasuringpoint:SystemOperationMeasuringPoint" stringRepresentation="CloudStore System.Provided_IOrderPages.getOrderLoginPage" resourceURIRepresentation="platform:/resource/CloudStore-Analyser/CloudStore.repository#_p8L0QKAiEeKjDcfkNgs1Gg">
-      <role xsi:type="repository:OperationProvidedRole" href="platform:/resource/CloudStore-Analyser/CloudStore.system#_YKJzcKDaEeKjDcfkNgs1Gg"/>
-      <operationSignature href="platform:/resource/CloudStore-Analyser/CloudStore.repository#_p8L0QKAiEeKjDcfkNgs1Gg"/>
-      <system href="platform:/resource/CloudStore-Analyser/CloudStore.system#_JxtuQKDaEeKjDcfkNgs1Gg"/>
+      <role xsi:type="repository:OperationProvidedRole" href="../../../CloudStore.system#_YKJzcKDaEeKjDcfkNgs1Gg"/>
+      <operationSignature href="../../../CloudStore.repository#_p8L0QKAiEeKjDcfkNgs1Gg"/>
+      <system href="../../../CloudStore.system#_JxtuQKDaEeKjDcfkNgs1Gg"/>
     </measuringPoints>
     <measuringPoints xsi:type="pcmmeasuringpoint:SystemOperationMeasuringPoint" stringRepresentation="CloudStore System.Provided_IOrderPages.getOrder" resourceURIRepresentation="platform:/resource/CloudStore-Analyser/CloudStore.repository#_JHbvUKAjEeKjDcfkNgs1Gg">
-      <role xsi:type="repository:OperationProvidedRole" href="platform:/resource/CloudStore-Analyser/CloudStore.system#_YKJzcKDaEeKjDcfkNgs1Gg"/>
-      <operationSignature href="platform:/resource/CloudStore-Analyser/CloudStore.repository#_JHbvUKAjEeKjDcfkNgs1Gg"/>
-      <system href="platform:/resource/CloudStore-Analyser/CloudStore.system#_JxtuQKDaEeKjDcfkNgs1Gg"/>
+      <role xsi:type="repository:OperationProvidedRole" href="../../../CloudStore.system#_YKJzcKDaEeKjDcfkNgs1Gg"/>
+      <operationSignature href="../../../CloudStore.repository#_JHbvUKAjEeKjDcfkNgs1Gg"/>
+      <system href="../../../CloudStore.system#_JxtuQKDaEeKjDcfkNgs1Gg"/>
     </measuringPoints>
     <measuringPoints xsi:type="pcmmeasuringpoint:ExternalCallActionMeasuringPoint" stringRepresentation="ExternalCall aName from ShoppingCartPages to Required_IDBShoppingCart_ShoppingCart->createEmptyCart [_VtnEgH6BEeOMPbPw2aYEHg]" resourceURIRepresentation="platform:/resource/CloudStore-Analyser/CloudStore.repository#_VtnEgH6BEeOMPbPw2aYEHg">
-      <externalCall href="platform:/resource/CloudStore-Analyser/CloudStore.repository#_VtnEgH6BEeOMPbPw2aYEHg"/>
+      <externalCall href="../../../CloudStore.repository#_VtnEgH6BEeOMPbPw2aYEHg"/>
     </measuringPoints>
     <measuringPoints xsi:type="pcmmeasuringpoint:ExternalCallActionMeasuringPoint" stringRepresentation="ExternalCall aName from ShoppingCartPages to Required_IDBShoppingCart_ShoppingCart->doCart [_aRHE4H6BEeOMPbPw2aYEHg]" resourceURIRepresentation="platform:/resource/CloudStore-Analyser/CloudStore.repository#_aRHE4H6BEeOMPbPw2aYEHg">
-      <externalCall href="platform:/resource/CloudStore-Analyser/CloudStore.repository#_aRHE4H6BEeOMPbPw2aYEHg"/>
+      <externalCall href="../../../CloudStore.repository#_aRHE4H6BEeOMPbPw2aYEHg"/>
     </measuringPoints>
     <measuringPoints xsi:type="pcmmeasuringpoint:ExternalCallActionMeasuringPoint" stringRepresentation="ExternalCall aName from ShoppingCartPages to Required_IPromotionalProcessing_ShoppingCart->displayPromotions [_RW5i8H6BEeOMPbPw2aYEHg]" resourceURIRepresentation="platform:/resource/CloudStore-Analyser/CloudStore.repository#_RW5i8H6BEeOMPbPw2aYEHg">
-      <externalCall href="platform:/resource/CloudStore-Analyser/CloudStore.repository#_RW5i8H6BEeOMPbPw2aYEHg"/>
+      <externalCall href="../../../CloudStore.repository#_RW5i8H6BEeOMPbPw2aYEHg"/>
     </measuringPoints>
     <measuringPoints xsi:type="pcmmeasuringpoint:ExternalCallActionMeasuringPoint" stringRepresentation="ExternalCall aName from ShoppingCartPages to Required_IPromotionalProcessing_ShoppingCart->loadPromotionalImages [_Oyj98H6BEeOMPbPw2aYEHg]" resourceURIRepresentation="platform:/resource/CloudStore-Analyser/CloudStore.repository#_Oyj98H6BEeOMPbPw2aYEHg">
-      <externalCall href="platform:/resource/CloudStore-Analyser/CloudStore.repository#_Oyj98H6BEeOMPbPw2aYEHg"/>
+      <externalCall href="../../../CloudStore.repository#_Oyj98H6BEeOMPbPw2aYEHg"/>
     </measuringPoints>
     <measuringPoints xsi:type="pcmmeasuringpoint:ExternalCallActionMeasuringPoint" stringRepresentation="ExternalCall aName from Database_Access to Required_IDBCustomer_Database_Access->getShoppingCartCount [_4X0dIH6qEeOMPbPw2aYEHg]" resourceURIRepresentation="platform:/resource/CloudStore-Analyser/CloudStore.repository#_4X0dIH6qEeOMPbPw2aYEHg">
-      <externalCall href="platform:/resource/CloudStore-Analyser/CloudStore.repository#_4X0dIH6qEeOMPbPw2aYEHg"/>
+      <externalCall href="../../../CloudStore.repository#_4X0dIH6qEeOMPbPw2aYEHg"/>
     </measuringPoints>
     <measuringPoints xsi:type="pcmmeasuringpoint:ExternalCallActionMeasuringPoint" stringRepresentation="ExternalCall aName from Database_Access to Required_IDBShoppingCart_Database_Access->createEmptyCart [_ELHsEH6rEeOMPbPw2aYEHg]" resourceURIRepresentation="platform:/resource/CloudStore-Analyser/CloudStore.repository#_ELHsEH6rEeOMPbPw2aYEHg">
-      <externalCall href="platform:/resource/CloudStore-Analyser/CloudStore.repository#_ELHsEH6rEeOMPbPw2aYEHg"/>
+      <externalCall href="../../../CloudStore.repository#_ELHsEH6rEeOMPbPw2aYEHg"/>
     </measuringPoints>
     <measuringPoints xsi:type="pcmmeasuringpoint:AssemblyPassiveResourceMeasuringPoint" stringRepresentation="Passive Resource: Assembly_Database_Access &lt;Database_Access>.synchronizedCart" resourceURIRepresentation="platform:/resource/CloudStore-Analyser/CloudStore.repository#_ZD3O0H6mEeOMPbPw2aYEHg">
-      <assembly href="platform:/resource/CloudStore-Analyser/CloudStore.system#_-c7K0KDaEeKjDcfkNgs1Gg"/>
-      <passiveResource href="platform:/resource/CloudStore-Analyser/CloudStore.repository#_ZD3O0H6mEeOMPbPw2aYEHg"/>
+      <assembly href="../../../CloudStore.system#_-c7K0KDaEeKjDcfkNgs1Gg"/>
+      <passiveResource href="../../../CloudStore.repository#_ZD3O0H6mEeOMPbPw2aYEHg"/>
     </measuringPoints>
     <measuringPoints xsi:type="pcmmeasuringpoint:AssemblyPassiveResourceMeasuringPoint" stringRepresentation="Passive Resource: Assembly_MySQL_Connector_Java_v5_1_24 &lt;MySQL_Connector_Java_v5_1_24>.ConnPool" resourceURIRepresentation="platform:/resource/CloudStore-Analyser/CloudStore.repository#_kTYRsKBvEeKjDcfkNgs1Gg">
-      <assembly href="platform:/resource/CloudStore-Analyser/CloudStore.system#_YyTA4GPPEeOoburSBwQF3A"/>
-      <passiveResource href="platform:/resource/CloudStore-Analyser/CloudStore.repository#_kTYRsKBvEeKjDcfkNgs1Gg"/>
+      <assembly href="../../../CloudStore.system#_YyTA4GPPEeOoburSBwQF3A"/>
+      <passiveResource href="../../../CloudStore.repository#_kTYRsKBvEeKjDcfkNgs1Gg"/>
     </measuringPoints>
     <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="CPU [0] in Application Server" resourceURIRepresentation="platform:/resource/CloudStore-Analyser/ResourceEnvironments/On-Premises.resourceenvironment#_CSl3AKDqEeKjDcfkNgs1Gg">
-      <activeResource href="platform:/resource/CloudStore-Analyser/ResourceEnvironments/On-Premises.resourceenvironment#_CSl3AKDqEeKjDcfkNgs1Gg"/>
+      <activeResource href="../../../ResourceEnvironments/On-Premises.resourceenvironment#_CSl3AKDqEeKjDcfkNgs1Gg"/>
     </measuringPoints>
     <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="CPU [1] in Application Server" resourceURIRepresentation="platform:/resource/CloudStore-Analyser/ResourceEnvironments/On-Premises.resourceenvironment#_CSl3AKDqEeKjDcfkNgs1Gg" replicaID="1">
-      <activeResource href="platform:/resource/CloudStore-Analyser/ResourceEnvironments/On-Premises.resourceenvironment#_CSl3AKDqEeKjDcfkNgs1Gg"/>
+      <activeResource href="../../../ResourceEnvironments/On-Premises.resourceenvironment#_CSl3AKDqEeKjDcfkNgs1Gg"/>
     </measuringPoints>
     <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="CPU [0] in Database Server" resourceURIRepresentation="platform:/resource/CloudStore-Analyser/ResourceEnvironments/On-Premises.resourceenvironment#_-OfvcKDpEeKjDcfkNgs1Gg">
-      <activeResource href="platform:/resource/CloudStore-Analyser/ResourceEnvironments/On-Premises.resourceenvironment#_-OfvcKDpEeKjDcfkNgs1Gg"/>
+      <activeResource href="../../../ResourceEnvironments/On-Premises.resourceenvironment#_-OfvcKDpEeKjDcfkNgs1Gg"/>
     </measuringPoints>
     <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="CPU [1] in Database Server" resourceURIRepresentation="platform:/resource/CloudStore-Analyser/ResourceEnvironments/On-Premises.resourceenvironment#_-OfvcKDpEeKjDcfkNgs1Gg" replicaID="1">
-      <activeResource href="platform:/resource/CloudStore-Analyser/ResourceEnvironments/On-Premises.resourceenvironment#_-OfvcKDpEeKjDcfkNgs1Gg"/>
+      <activeResource href="../../../ResourceEnvironments/On-Premises.resourceenvironment#_-OfvcKDpEeKjDcfkNgs1Gg"/>
     </measuringPoints>
     <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="CPU [0] in Image Server" resourceURIRepresentation="platform:/resource/CloudStore-Analyser/ResourceEnvironments/On-Premises.resourceenvironment#_rieCQKD2EeKjDcfkNgs1Gg">
-      <activeResource href="platform:/resource/CloudStore-Analyser/ResourceEnvironments/On-Premises.resourceenvironment#_rieCQKD2EeKjDcfkNgs1Gg"/>
+      <activeResource href="../../../ResourceEnvironments/On-Premises.resourceenvironment#_rieCQKD2EeKjDcfkNgs1Gg"/>
     </measuringPoints>
     <measuringPoints xsi:type="pcmmeasuringpoint:ActiveResourceMeasuringPoint" stringRepresentation="CPU [1] in Image Server" resourceURIRepresentation="platform:/resource/CloudStore-Analyser/ResourceEnvironments/On-Premises.resourceenvironment#_rieCQKD2EeKjDcfkNgs1Gg" replicaID="1">
-      <activeResource href="platform:/resource/CloudStore-Analyser/ResourceEnvironments/On-Premises.resourceenvironment#_rieCQKD2EeKjDcfkNgs1Gg"/>
+      <activeResource href="../../../ResourceEnvironments/On-Premises.resourceenvironment#_rieCQKD2EeKjDcfkNgs1Gg"/>
     </measuringPoints>
   </measuringPointRepositories>
 </org.palladiosimulator.edp2.models:ExperimentGroup>

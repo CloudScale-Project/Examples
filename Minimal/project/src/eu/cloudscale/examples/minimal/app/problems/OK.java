@@ -29,7 +29,7 @@ public final class OK {
 	 *
 	 * @return singleton instance
 	 */
-	public static OK getInstnace() {
+	public static OK getInstance() {
 		if (instance == null) {
 			instance = new OK();
 		}

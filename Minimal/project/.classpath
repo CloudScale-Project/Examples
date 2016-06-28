@@ -1,43 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-  <classpathentry kind="src" path="src" including="**/*.java"/>
-  <classpathentry kind="output" path="target/classes"/>
-  <classpathentry kind="var" path="M2_REPO/javax/activation/activation/1.1/activation-1.1.jar"/>
-  <classpathentry kind="var" path="M2_REPO/javax/xml/bind/jaxb-api/2.2.2/jaxb-api-2.2.2.jar"/>
-  <classpathentry kind="var" path="M2_REPO/javax/ws/rs/jsr311-api/1.1.1/jsr311-api-1.1.1.jar"/>
-  <classpathentry kind="var" path="M2_REPO/javax/xml/stream/stax-api/1.0-2/stax-api-1.0-2.jar"/>
-  <classpathentry kind="var" path="M2_REPO/asm/asm/3.1/asm-3.1.jar"/>
-  <classpathentry kind="var" path="M2_REPO/commons-io/commons-io/2.4/commons-io-2.4.jar"/>
-  <classpathentry kind="var" path="M2_REPO/org/glassfish/gmbal/gmbal/3.2.0-b003/gmbal-3.2.0-b003.jar"/>
-  <classpathentry kind="var" path="M2_REPO/org/glassfish/gmbal/gmbal-api-only/3.2.0-b003/gmbal-api-only-3.2.0-b003.jar"/>
-  <classpathentry kind="var" path="M2_REPO/org/glassfish/grizzly/grizzly-framework/2.3.7/grizzly-framework-2.3.7.jar"/>
-  <classpathentry kind="var" path="M2_REPO/org/glassfish/grizzly/grizzly-framework-monitoring/2.3.7/grizzly-framework-monitoring-2.3.7.jar"/>
-  <classpathentry kind="var" path="M2_REPO/org/glassfish/grizzly/grizzly-http/2.3.7/grizzly-http-2.3.7.jar"/>
-  <classpathentry kind="var" path="M2_REPO/org/glassfish/grizzly/grizzly-http-monitoring/2.3.7/grizzly-http-monitoring-2.3.7.jar"/>
-  <classpathentry kind="var" path="M2_REPO/org/glassfish/grizzly/grizzly-http-server/2.3.7/grizzly-http-server-2.3.7.jar"/>
-  <classpathentry kind="var" path="M2_REPO/org/glassfish/grizzly/grizzly-http-server-monitoring/2.3.7/grizzly-http-server-monitoring-2.3.7.jar"/>
-  <classpathentry kind="var" path="M2_REPO/org/glassfish/grizzly/grizzly-http-servlet/2.3.7/grizzly-http-servlet-2.3.7.jar"/>
-  <classpathentry kind="var" path="M2_REPO/org/codehaus/jackson/jackson-core-asl/1.9.13/jackson-core-asl-1.9.13.jar"/>
-  <classpathentry kind="var" path="M2_REPO/org/codehaus/jackson/jackson-jaxrs/1.9.13/jackson-jaxrs-1.9.13.jar"/>
-  <classpathentry kind="var" path="M2_REPO/org/codehaus/jackson/jackson-mapper-asl/1.9.13/jackson-mapper-asl-1.9.13.jar"/>
-  <classpathentry kind="var" path="M2_REPO/com/sun/xml/bind/jaxb-impl/2.2.3-1/jaxb-impl-2.2.3-1.jar"/>
-  <classpathentry kind="var" path="M2_REPO/com/sun/jersey/jersey-bundle/1.17.1/jersey-bundle-1.17.1.jar"/>
-  <classpathentry kind="var" path="M2_REPO/com/sun/jersey/jersey-client/1.17.1/jersey-client-1.17.1.jar"/>
-  <classpathentry kind="var" path="M2_REPO/com/sun/jersey/jersey-core/1.17.1/jersey-core-1.17.1.jar"/>
-  <classpathentry kind="var" path="M2_REPO/com/sun/jersey/jersey-grizzly2/1.17.1/jersey-grizzly2-1.17.1.jar"/>
-  <classpathentry kind="var" path="M2_REPO/com/sun/jersey/jersey-json/1.17.1/jersey-json-1.17.1.jar"/>
-  <classpathentry kind="var" path="M2_REPO/com/sun/jersey/jersey-server/1.17.1/jersey-server-1.17.1.jar"/>
-  <classpathentry kind="var" path="M2_REPO/org/codehaus/jettison/jettison/1.1/jettison-1.1.jar"/>
-  <classpathentry kind="var" path="M2_REPO/ch/qos/logback/logback-classic/0.9.28/logback-classic-0.9.28.jar"/>
-  <classpathentry kind="var" path="M2_REPO/ch/qos/logback/logback-core/0.9.28/logback-core-0.9.28.jar"/>
-  <classpathentry kind="var" path="M2_REPO/org/glassfish/external/management-api/3.0.0-b012/management-api-3.0.0-b012.jar"/>
-  <classpathentry kind="var" path="M2_REPO/org/lpe/common/org.lpe.common.utils/1.0.4-SNAPSHOT/org.lpe.common.utils-1.0.4-SNAPSHOT.jar" sourcepath="M2_REPO/org/lpe/common/org.lpe.common.utils/1.0.4-SNAPSHOT/org.lpe.common.utils-1.0.4-SNAPSHOT-sources.jar"/>
-  <classpathentry kind="var" path="M2_REPO/org/lpe/common/org.lpe.common.utils.web/1.0.4-SNAPSHOT/org.lpe.common.utils.web-1.0.4-SNAPSHOT.jar" sourcepath="M2_REPO/org/lpe/common/org.lpe.common.utils.web/1.0.4-SNAPSHOT/org.lpe.common.utils.web-1.0.4-SNAPSHOT-sources.jar"/>
-  <classpathentry kind="var" path="M2_REPO/org/spotter/ext/org.spotter.ext.workload/0.0.1-SNAPSHOT/org.spotter.ext.workload-0.0.1-SNAPSHOT.jar" sourcepath="M2_REPO/org/spotter/ext/org.spotter.ext.workload/0.0.1-SNAPSHOT/org.spotter.ext.workload-0.0.1-SNAPSHOT-sources.jar"/>
-  <classpathentry kind="var" path="M2_REPO/org/glassfish/pfl/pfl-asm/1.0.0-b001/pfl-asm-1.0.0-b001.jar"/>
-  <classpathentry kind="var" path="M2_REPO/org/glassfish/pfl/pfl-basic/1.0.0-b001/pfl-basic-1.0.0-b001.jar"/>
-  <classpathentry kind="var" path="M2_REPO/org/glassfish/pfl/pfl-basic-tools/1.0.0-b001/pfl-basic-tools-1.0.0-b001.jar"/>
-  <classpathentry kind="var" path="M2_REPO/org/glassfish/pfl/pfl-tf/1.0.0-b001/pfl-tf-1.0.0-b001.jar"/>
-  <classpathentry kind="var" path="M2_REPO/org/glassfish/pfl/pfl-tf-tools/1.0.0-b001/pfl-tf-tools-1.0.0-b001.jar"/>
-  <classpathentry kind="var" path="M2_REPO/org/slf4j/slf4j-api/1.7.12/slf4j-api-1.7.12.jar"/>
-  <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" output="target/classes" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="var" path="M2_REPO/javax/activation/activation/1.1/activation-1.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/javax/xml/bind/jaxb-api/2.2.2/jaxb-api-2.2.2.jar"/>
+	<classpathentry kind="var" path="M2_REPO/javax/ws/rs/jsr311-api/1.1.1/jsr311-api-1.1.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/javax/xml/stream/stax-api/1.0-2/stax-api-1.0-2.jar"/>
+	<classpathentry kind="var" path="M2_REPO/asm/asm/3.1/asm-3.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/commons-io/commons-io/2.4/commons-io-2.4.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/glassfish/gmbal/gmbal/3.2.0-b003/gmbal-3.2.0-b003.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/glassfish/gmbal/gmbal-api-only/3.2.0-b003/gmbal-api-only-3.2.0-b003.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/glassfish/grizzly/grizzly-framework/2.3.7/grizzly-framework-2.3.7.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/glassfish/grizzly/grizzly-framework-monitoring/2.3.7/grizzly-framework-monitoring-2.3.7.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/glassfish/grizzly/grizzly-http/2.3.7/grizzly-http-2.3.7.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/glassfish/grizzly/grizzly-http-monitoring/2.3.7/grizzly-http-monitoring-2.3.7.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/glassfish/grizzly/grizzly-http-server/2.3.7/grizzly-http-server-2.3.7.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/glassfish/grizzly/grizzly-http-server-monitoring/2.3.7/grizzly-http-server-monitoring-2.3.7.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/glassfish/grizzly/grizzly-http-servlet/2.3.7/grizzly-http-servlet-2.3.7.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/codehaus/jackson/jackson-core-asl/1.9.13/jackson-core-asl-1.9.13.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/codehaus/jackson/jackson-jaxrs/1.9.13/jackson-jaxrs-1.9.13.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/codehaus/jackson/jackson-mapper-asl/1.9.13/jackson-mapper-asl-1.9.13.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/sun/xml/bind/jaxb-impl/2.2.3-1/jaxb-impl-2.2.3-1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/sun/jersey/jersey-bundle/1.17.1/jersey-bundle-1.17.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/sun/jersey/jersey-client/1.17.1/jersey-client-1.17.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/sun/jersey/jersey-core/1.17.1/jersey-core-1.17.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/sun/jersey/jersey-grizzly2/1.17.1/jersey-grizzly2-1.17.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/sun/jersey/jersey-json/1.17.1/jersey-json-1.17.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/sun/jersey/jersey-server/1.17.1/jersey-server-1.17.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/codehaus/jettison/jettison/1.1/jettison-1.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/ch/qos/logback/logback-classic/0.9.28/logback-classic-0.9.28.jar"/>
+	<classpathentry kind="var" path="M2_REPO/ch/qos/logback/logback-core/0.9.28/logback-core-0.9.28.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/glassfish/external/management-api/3.0.0-b012/management-api-3.0.0-b012.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/lpe/common/org.lpe.common.utils/1.0.4-SNAPSHOT/org.lpe.common.utils-1.0.4-SNAPSHOT.jar" sourcepath="M2_REPO/org/lpe/common/org.lpe.common.utils/1.0.4-SNAPSHOT/org.lpe.common.utils-1.0.4-SNAPSHOT-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/lpe/common/org.lpe.common.utils.web/1.0.4-SNAPSHOT/org.lpe.common.utils.web-1.0.4-SNAPSHOT.jar" sourcepath="M2_REPO/org/lpe/common/org.lpe.common.utils.web/1.0.4-SNAPSHOT/org.lpe.common.utils.web-1.0.4-SNAPSHOT-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/spotter/ext/org.spotter.ext.workload/0.0.1-SNAPSHOT/org.spotter.ext.workload-0.0.1-SNAPSHOT.jar" sourcepath="M2_REPO/org/spotter/ext/org.spotter.ext.workload/0.0.1-SNAPSHOT/org.spotter.ext.workload-0.0.1-SNAPSHOT-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/glassfish/pfl/pfl-asm/1.0.0-b001/pfl-asm-1.0.0-b001.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/glassfish/pfl/pfl-basic/1.0.0-b001/pfl-basic-1.0.0-b001.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/glassfish/pfl/pfl-basic-tools/1.0.0-b001/pfl-basic-tools-1.0.0-b001.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/glassfish/pfl/pfl-tf/1.0.0-b001/pfl-tf-1.0.0-b001.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/glassfish/pfl/pfl-tf-tools/1.0.0-b001/pfl-tf-tools-1.0.0-b001.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/slf4j/slf4j-api/1.7.12/slf4j-api-1.7.12.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="var" path="M2_REPO"/>
+	<classpathentry kind="src" output="target/test-classes" path="test">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
 </classpath>
