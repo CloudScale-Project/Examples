@@ -53,7 +53,7 @@
     </resourceContainer_ResourceEnvironment>
   </resourceenvironment:ResourceEnvironment>
   <emfprofileapplication:ProfileApplication>
-    <stereotypeApplications xsi:type="org.palladiosimulator.architecturaltemplates.catalog.profiles:ReplicableResourceContainer" appliedTo="_yv9PkKDpEeKjDcfkNgs1Gg" scaleInThreshold="0.6" scaleOutThreshold="0.8">
+    <stereotypeApplications xsi:type="org.palladiosimulator.architecturaltemplates.catalog.profiles:ReplicableResourceContainer" appliedTo="_yv9PkKDpEeKjDcfkNgs1Gg" scaleInThreshold="0.6" scaleOutThreshold="0.8" measurementSpecificationID="_Ic6DwNfMEeSoWbWDy3AT2Q">
       <extension href="../../../plugin/org.palladiosimulator.architecturaltemplates.catalog/profiles/DynamicHorizontalScalingResourceContainer.emfprofile_diagram#_7MhWQH47EeSqFvs4kqVd7Q"/>
     </stereotypeApplications>
     <importedProfiles nsURI="org.palladiosimulator.architecturaltemplates.catalog.profiles.dynamichorizontalscalingresourcecontainer" location="platform:/plugin/org.palladiosimulator.architecturaltemplates.catalog/profiles/DynamicHorizontalScalingResourceContainer.emfprofile_diagram"/>
